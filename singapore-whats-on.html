@@ -167,6 +167,12 @@ To request for What’s On adhoc request, click <a class="btn primary" href="htt
 </div>
 
 <section id="timingsWrap" class="table-wrap" style="display:none" aria-label="Daily event opening timings">
+<div style="padding:12px 14px 0">
+<label style="display:flex;align-items:center;gap:10px;min-height:44px;width:fit-content;cursor:pointer"><input id="timingActiveOnly" type="checkbox" onchange="setTimingActiveOnly(this.checked)" style="width:20px;height:20px"> <b>Active events only (exclude upcoming)</b></label>
+<p style="margin:4px 0 8px;color:var(--muted);font-size:.9rem">Uses event dates in Singapore; opening hours are shown separately. Entries with unconfirmed start dates are hidden when this filter is on.</p>
+<p id="timingResultCount" role="status" aria-live="polite" style="margin:0 0 8px;color:var(--muted)"></p>
+<p id="timingEmpty" class="hidden" style="margin:0 0 12px">No events match these filters.</p>
+</div>
 <p style="padding:12px">Published opening hours and session times for all current events. Hours may vary by day; check the official site before visiting. Click a column heading to reverse the order: opening/session time, event start date, venue, date added, or free admission for Singaporeans. Date added starts with newest first; Free starts with Y first. Click again to reverse. Y = free general admission for Singapore citizens; N = payment required, including refundable fees. Blank = admission not confirmed or date not recorded. Blank values stay at the bottom.</p>
 <table><thead><tr><th>Event</th><th scope="col" data-timing-sort="time" aria-sort="none"><button type="button" class="timing-sort" onclick="sortTimings('time')">Daily opening hours / sessions <span class="sort-arrow" aria-hidden="true">↕</span></button></th><th scope="col" data-timing-sort="period" aria-sort="none"><button type="button" class="timing-sort" onclick="sortTimings('period')">Event dates <span class="sort-arrow" aria-hidden="true">↕</span></button></th><th scope="col" data-timing-sort="venue" aria-sort="none"><button type="button" class="timing-sort" onclick="sortTimings('venue')">Venue <span class="sort-arrow" aria-hidden="true">↕</span></button></th><th scope="col" data-timing-sort="date_added" aria-sort="none"><button type="button" class="timing-sort" onclick="sortTimings('date_added')">Date added <span class="sort-arrow" aria-hidden="true">↕</span></button></th><th scope="col" data-timing-sort="free" aria-sort="none"><button type="button" class="timing-sort" onclick="sortTimings('free')">Free (Singaporeans) <span class="sort-arrow" aria-hidden="true">↕</span></button></th><th>More</th></tr></thead>
 <tbody id="timingsBody"></tbody></table></section>
@@ -354,6 +360,7 @@ function timingRow(e){
 }
 /* ---------- DAILY TIMINGS SORT ---------- */
 let timingSort={key:null,direction:1};
+let timingActiveOnly=false;
 function openingMinutes(text){
  const source=String(text||'').split(/last\s+(?:entry|admission)/i)[0];
  const tokens=[...source.matchAll(/\b(\d{1,2})(?:[:.](\d{2}))?\s*(am|pm)?\b/gi)];
@@ -388,6 +395,18 @@ function eventStartKey(e){
  const month=MONTHS[m.slice(0,3).toLowerCase()];
  return y+'-'+pad(month)+'-'+pad(Number(d));
 }
+function timingEventIsActive(e){
+ if(isExpired(e))return false;
+ const start=eventStartKey(e);
+ if(start)return start<=todaySGT();
+ if(/upcoming|not yet|opening soon/i.test(String(e.status||""))||(e.tags||[]).includes("upcoming"))return false;
+ return /\b(permanent|ongoing|daily|every day|open-ended)\b/i.test(String(e.period||""));
+}
+function setTimingActiveOnly(value){
+ timingActiveOnly=Boolean(value);
+ renderTimings(currentEvents());
+ applyFilters();
+}
 function sortedTimingEvents(list){
  if(!timingSort.key)return list;
  const key=timingSort.key,dir=timingSort.direction;
@@ -405,7 +424,7 @@ function sortedTimingEvents(list){
  }).map(x=>x.event);
 }
 function renderTimings(list){
- document.getElementById('timingsBody').innerHTML=sortedTimingEvents(list).map(timingRow).join('');
+ document.getElementById('timingsBody').innerHTML=sortedTimingEvents(list.filter(e=>!timingActiveOnly||timingEventIsActive(e))).map(timingRow).join('');
  document.querySelectorAll('[data-timing-sort]').forEach(th=>{
   const active=th.dataset.timingSort===timingSort.key;
   th.setAttribute('aria-sort',active?(timingSort.direction===1?'ascending':'descending'):'none');
@@ -445,6 +464,10 @@ function applyFilters(){
   const okS=!q||el.dataset.search.includes(q);
   el.classList.toggle("hidden",!(okF&&okS));
  });
+ const timingRows=[...document.querySelectorAll("#timingsBody tr.event")];
+ const timingVisible=timingRows.filter(row=>!row.classList.contains("hidden")).length;
+ document.getElementById("timingResultCount").textContent=timingVisible+" event"+(timingVisible===1?"":"s")+" shown";
+ document.getElementById("timingEmpty").classList.toggle("hidden",timingVisible>0);
 }
 function setView(v){
  if(v!=="timings"&&activeFilter==="timings"){
