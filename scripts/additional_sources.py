@@ -171,6 +171,16 @@ def parse_free_cards(soup, key, today, cfg, clean_event):
                 seen_nodes.add(id(parent))
     # Prefer small cards so page containers do not combine unrelated event details.
     candidates.sort(key=lambda node: len(node.get_text(" ", strip=True)))
+    diagnostic = []
+    for node in candidates:
+        text = re.sub(r"\s+", " ", node.get_text(" ", strip=True)).strip()
+        if "free" in text.casefold() or key == "onepa" and "event" in text.casefold():
+            heading = node.find(["h1", "h2", "h3", "h4", "h5"])
+            links = [a.get("href", "") for a in node.find_all("a", href=True)[:2]]
+            diagnostic.append({"tag": node.name, "class": node.get("class"), "heading": heading.get_text(" ", strip=True) if heading else "", "links": links, "text": text[:420]})
+            if len(diagnostic) >= 12:
+                break
+    print(f"Directory {key} card sample: {json.dumps(diagnostic, ensure_ascii=False)}", flush=True)
     results, seen = [], set()
     for card in candidates:
         if card.name in {"html", "body", "script", "style", "nav", "footer"} or card.find_parent(["nav", "footer"]):
