@@ -208,7 +208,7 @@ def parse_free_cards(soup, key, today, cfg, clean_event):
             "free", "free event", "free admission", "admission: free",
             "price: free", "fee: free", "ticket: free", "tickets: free",
             "free of charge", "free to attend"
-        } for label in labels) or bool(re.search(r"(?:\||[·•])\s*free\s*$", text, re.I))
+        } for label in labels) or any(re.search(r"(?:\||[·•])\s*free\s*$", label, re.I) for label in labels)
         if not explicit_free or re.search(r"(?:S?\$|\bSGD\s*)[1-9]\d*(?:\.\d{1,2})?\b|\bpaid admission\b", text, re.I):
             continue
         if title_node:
@@ -223,9 +223,10 @@ def parse_free_cards(soup, key, today, cfg, clean_event):
             if trace: print("PARSER TRACE link rejected", flush=True)
             continue
         clean_text = re.sub(r"\b(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+", "", text, flags=re.I)
-        until = re.search(r"\buntil\s+(\d{1,2}\s+[A-Za-z]{3,9}(?:\s+\d{4})?)", clean_text, re.I)
+        month = r"(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)"
+        until = re.search(r"\buntil\s+(\d{1,2}\s+" + month + r"(?:\s+\d{4})?)", clean_text, re.I)
         iso_dates = re.findall(r"\b\d{4}-\d{2}-\d{2}\b", clean_text)
-        human_dates = re.findall(r"\b\d{1,2}\s+[A-Za-z]{3,9}(?:\s+\d{4})?\b|\b[A-Za-z]{3,9}\s+\d{1,2},?(?:\s+\d{4})?\b", clean_text)
+        human_dates = re.findall(r"\b\d{1,2}\s+" + month + r"(?:\s+\d{4})?\b|\b" + month + r"\s+\d{1,2},?(?:\s+\d{4})?\b", clean_text, re.I)
         raw_dates = [until.group(1)] if until else (iso_dates or human_dates)
         dates = []
         for raw in raw_dates:
