@@ -711,7 +711,13 @@ def render_source(url):
 # Public official alternatives only. A challenge page is never a successful read.
 OFFICIAL_LISTING_ALTERNATIVES = {
     "artscience": ["https://www.marinabaysands.com/museum.html"],
-    "nparks": ["https://juronglakegardens.nparks.gov.sg/things-to-do/upcoming-events/", "https://sbg.nparks.gov.sg/events/"],
+    "onepa": [
+        "https://www.onepa.gov.sg/events/kopi-talks-and-dialogues",
+        "https://www.onepa.gov.sg/events/exhibition-and-fair",
+        "https://www.onepa.gov.sg/events/arts-and-culture",
+        "https://www.onepa.gov.sg/events/active-ageing",
+        "https://www.onepa.gov.sg/events/neighbourhood-parties",
+    ],
 }
 BROWSER_SOURCES = {"gardens", "artscience", "visit_singapore", "catch_sg", "national_museum", "eventbrite", "allevents", "nlb_calendar", "onepa", "nparks"}
 

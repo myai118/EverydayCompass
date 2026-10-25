@@ -97,3 +97,14 @@ def test_onepa_and_nparks_accept_only_explicit_free_active_cards():
         </main>"""
         found = reader.parse(html, key, TODAY, cfg, clean)
         assert [event["title"] for event in found] == ["Free Walk"]
+
+
+def test_government_free_event_cards_allow_explicit_suffix_and_dates_without_year():
+    cfg = {"url": "https://www.nparks.gov.sg/visit/events", "host": "nparks.gov.sg", "name": "NParks"}
+    html = """<a class="event-card" href="/visit/events/sample">
+      <div class="event-card-top">EXHIBITIONS | LIMITED PERIOD Free</div>
+      <div><h3>Pressing Plant Matters</h3><p>Until 15 Nov</p></div></a>"""
+    found = reader.parse(html, "nparks", TODAY, cfg, clean)
+    assert len(found) == 1
+    assert found[0]["title"] == "Pressing Plant Matters"
+    assert found[0]["end_date"] == "2026-11-15"
