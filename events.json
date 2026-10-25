@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T05:50:16+08:00",
+  "updated_at": "2026-10-25T09:58:38+08:00",
   "events": [
     {
       "title": "\"A-Z: The State of Youth\" Roving Exhibition | Our Living Library Collective",
@@ -114,32 +114,6 @@
       "adult": "Check official information",
       "category": "Event / Programme",
       "link": "https://nlb.libcal.com/event/5973586",
-      "tags": [
-        "ending",
-        "ongoing"
-      ],
-      "source_key": "nlb_calendar",
-      "source": "NLB GoLibrary — All Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "A Singaporean Story - Heartwarming Artwork Inspired by Ordinary Jurong Life",
-      "overview": "A Singaporean Story is the hilarious but true story of an ordinary, middle-aged Singaporean who one day noticed the tree at his neighbourhood park and decided to sketch it, for no...",
-      "period": "2026-10-04 to 2026-11-04",
-      "start_date": "2026-10-04",
-      "end_date": "2026-11-04",
-      "time": "10:00am – 9:00pm",
-      "venue": "Jurong Library",
-      "adult": "Check official information",
-      "category": "Event / Programme",
-      "link": "https://nlb.libcal.com/event/5976647",
       "tags": [
         "ending",
         "ongoing"
@@ -460,6 +434,32 @@
       "adult": "Check official information",
       "category": "Event / Programme",
       "link": "https://nlb.libcal.com/event/5975963",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "source_key": "nlb_calendar",
+      "source": "NLB GoLibrary — All Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "date_added": "2026-10-25"
+    },
+    {
+      "title": "Can aI Help You? Discover GenAI with Good Help Mart @ Woodlands Library",
+      "overview": "Welcome to Good Help Mart, where shelves are stocked with playful, hands-on experiences with AI tools. Browse at your own pace; discover how AI can add a little spark to everyday...",
+      "period": "2026-10-01 to 2026-10-31",
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-31",
+      "time": "9:00am – 9:00pm",
+      "venue": "Woodlands Library",
+      "adult": "Check official information",
+      "category": "Event / Programme",
+      "link": "https://nlb.libcal.com/event/5975961",
       "tags": [
         "ending",
         "ongoing"
@@ -1183,30 +1183,6 @@
         "ongoing"
       ],
       "date_added": null
-    },
-    {
-      "title": "Love Can Happen Anywhere",
-      "overview": "Whitestone Gallery Singapore is pleased to present Peter Draw’s First solo exhibition, Love Can Happen Anywhere, opening on 24 October 2026. This family-friendly exhibition centres on his iconic characters Ai and Aiko and emerges from POST, POST, an art movement founded by Peter Draw. It engages a world defined by constant filtering and appropriation, redirecting these conditions toward a sustained exploration of love. Spanning four series, each corresponding to a season and a tone in Hanyu Pinyin: Love (Spring), Can (Winter), Happen (Autumn), Anywhere (Summer), the exhibition reflects Draw’s twenty-five-year practice, rooted in drawing and human exploration. Central to his work is the idea",
-      "period": "24 Oct 2026 - 29 Dec 2026",
-      "category": "Event / Exhibition",
-      "link": "https://www.catch.sg/Event/Love-Can-Happen-Anywhere-20261009024715",
-      "source_key": "catch_sg",
-      "source": "Catch.sg — Free Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "time": "Check official information",
-      "venue": "Catch.sg — Free Events",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Ongoing",
-      "statusClass": "",
-      "tags": [
-        "free",
-        "ongoing"
-      ],
-      "date_added": "2026-10-24"
     },
     {
       "title": "Make Inclusive Tech Sunday @ Punggol Library | MakeIT",
@@ -2625,6 +2601,32 @@
       "date_added": null
     },
     {
+      "title": "BeautyFresh Christmas Beauty Bazaar - Up to 80% OFF 120+ Beauty Brands ( 29 Oct - 1 Nov)",
+      "overview": "Get your wishlists ready! The countdown to our final and biggest event of the year has officially begun, and we are pulling out all the stops to make this our most spectacular sale yet ✨Mark your calendars and clear your schedules. You will not want to miss this!🛍️ Up to 80% OFF 120+ beauty brands🎟️",
+      "period": "2026-10-29 to 2026-11-01",
+      "start_date": "2026-10-29",
+      "end_date": "2026-11-01",
+      "time": "10:00am – 7:00pm",
+      "venue": "BeautyFresh WareHouse",
+      "adult": "Free",
+      "category": "Event / Programme",
+      "link": "https://allevents.in/singapore/beautyfresh-christmas-beauty-bazaar-up-to-80-off-120-beauty-brands-29-oct-1-nov-tickets/80008096100144",
+      "tags": [
+        "free",
+        "upcoming"
+      ],
+      "source_key": "allevents",
+      "source": "AllEvents Singapore — Free Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "date_added": "2026-10-25"
+    },
+    {
       "title": "BTO Nov '26 Workshop",
       "overview": "Choose wise, live better! Join our workshop that's exclusive for the launch in Nov 2026 as you prepare yourself for a dream home!",
       "period": "2026-11-08 to 2026-11-08",
@@ -2947,6 +2949,53 @@
       "date_added": null
     },
     {
+      "title": "Kidpreneurs Kollektive™: Trick or Trade!",
+      "overview": "TRICK OR TRADE! is happening this October, & it’s gonna be a fun one! This isn’t your usual market. The kids are the ones running it! Come by and discover: 🎨 Arts & crafts created by young entrepreneurs 🧁 Handmade creations and products 🎪 Carnival games run by the kids 🧑‍🎨 Mini workshops for little hands 🎁 Plenty of fun and unique finds to take home 🎨 Held alongside Fandom Art Fiesta (FAF), an ACG (Anime, Comics & Games) art market featuring lively crowds of anime, comic and gaming fans, artists and cosplayers. So you can visit 2 markets at 1 place! 🔄 Featuring TRICK OR TRADE BIN! Kids can also swap their pre-loved toys and books in good condition for something new-to-them! 📅 Sat, 31 Oct & S",
+      "period": "31 Oct 2026 - 01 Nov 2026",
+      "category": "Event / Exhibition",
+      "link": "https://www.catch.sg/Event/Kidpreneurs-Kollektive-Trick-or-Trade-20260919044314",
+      "source_key": "catch_sg",
+      "source": "Catch.sg — Free Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "time": "Check official information",
+      "venue": "Catch.sg — Free Events",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "free",
+        "upcoming"
+      ],
+      "date_added": "2026-10-25"
+    },
+    {
+      "title": "LANY: soft world tour",
+      "category": "Event / Exhibition",
+      "overview": "04 NOV ’26 LANY: soft world tour Late-night drives, heartbreak playlists, and songs you know by heart. LANY returns with the soft world tour, bringing fan favourites like “ILYSB”, “Thru These Tears”, “Super Far”, and more to life on stage.",
+      "period": "04 NOV 2026",
+      "time": "Check official information",
+      "venue": "Visit Singapore",
+      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
+      "source_key": "visit_singapore",
+      "source": "Visit Singapore",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "upcoming"
+      ],
+      "date_added": "2026-10-25"
+    },
+    {
       "title": "Les Liaisons Dangereuses ​(Screening)",
       "category": "Event",
       "overview": "★★★★ ‘Lesley Manville is characteristically brilliant. ’ – Independent",
@@ -3163,6 +3212,29 @@
         "upcoming"
       ],
       "date_added": null
+    },
+    {
+      "title": "Pán《盤》",
+      "category": "Event / Exhibition",
+      "overview": "06 - 07 NOV ’26 Pán《盤》 What are we shaped by? Pán《盤》by T.H.E Dance Company explores cultural roots and human connection. Inspired by the myth of Pangu, this award-winning work returns for its Singapore live premiere.",
+      "period": "06 - 07 NOV 2026",
+      "time": "Check official information",
+      "venue": "Visit Singapore",
+      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
+      "source_key": "visit_singapore",
+      "source": "Visit Singapore",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "upcoming"
+      ],
+      "date_added": "2026-10-25"
     },
     {
       "title": "Rafta Rafta",
@@ -3626,32 +3698,6 @@
       "date_added": null
     },
     {
-      "title": "The Christmas Atelier",
-      "overview": "TICKETS ARE NOT SOLD HERE. To purchase official tickets, visit Trip.com.THE CHRISTMAS ATELIER RETURNS FOR ITS 8TH EDITION!Step into Singapore's favourite holiday market - The Christmas Atelier, curated by The Atelier & Co. This highly anticipated annual event brings together over 130 artisanal brand",
-      "period": "2026-11-12 to 2026-11-14",
-      "start_date": "2026-11-12",
-      "end_date": "2026-11-14",
-      "time": "12:00am – 11:00am",
-      "venue": "Marina Bay Sands Expo & Convention",
-      "adult": "Free",
-      "category": "Event / Programme",
-      "link": "https://allevents.in/singapore/the-christmas-atelier-tickets/80008188260754",
-      "tags": [
-        "free",
-        "upcoming"
-      ],
-      "source_key": "allevents",
-      "source": "AllEvents Singapore — Free Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "date_added": "2026-10-25"
-    },
-    {
       "title": "The Soup of Reincarnation",
       "category": "Event / Exhibition",
       "overview": "Nov 13, 2026 - Nov 15, 2026 Goodman Arts Centre BlackBox The Soup of Reincarnation Step into a mysterious world where love, fate, memory and rebirth collide. At the River… Dance/Theatre",
@@ -3874,12 +3920,11 @@
     },
     "visit_singapore": {
       "status": "fresh",
-      "count": 10
+      "count": 12
     },
     "catch_sg": {
-      "status": "fallback",
-      "count": 3,
-      "error": "https://www.catch.sg/Event?EventCategory=Free%20Events: Official browser page returned HTTP 403; preserving previous source records"
+      "status": "fresh",
+      "count": 3
     },
     "allevents": {
       "status": "fresh",
@@ -3888,6 +3933,16 @@
     "nlb_calendar": {
       "status": "fresh",
       "count": 46
+    },
+    "onepa": {
+      "status": "fallback",
+      "count": 0,
+      "error": "https://www.onepa.gov.sg/events: zero usable events; preserving previous source records"
+    },
+    "nparks": {
+      "status": "fallback",
+      "count": 0,
+      "error": "https://www.nparks.gov.sg/visit/events: zero usable events; preserving previous source records"
     }
   },
   "sources": [
@@ -3897,7 +3952,7 @@
       "url": "https://singaporeccc.org.sg/events/",
       "status": "ok",
       "count": 26,
-      "last_success": "2026-10-25T05:48:55+08:00",
+      "last_success": "2026-10-25T09:56:47+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3907,7 +3962,7 @@
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
       "status": "ok",
       "count": 11,
-      "last_success": "2026-10-25T05:48:55+08:00",
+      "last_success": "2026-10-25T09:56:47+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3917,7 +3972,7 @@
       "url": "https://www.esplanade.com/whats-on",
       "status": "ok",
       "count": 30,
-      "last_success": "2026-10-25T05:48:55+08:00",
+      "last_success": "2026-10-25T09:56:47+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3927,7 +3982,7 @@
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-10-25T05:48:55+08:00",
+      "last_success": "2026-10-25T09:56:47+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3937,7 +3992,7 @@
       "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-10-25T05:48:55+08:00",
+      "last_success": "2026-10-25T09:56:47+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3947,7 +4002,7 @@
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-10-25T05:48:55+08:00",
+      "last_success": "2026-10-25T09:56:47+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3957,7 +4012,7 @@
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
       "status": "ok",
       "count": 5,
-      "last_success": "2026-10-25T05:48:55+08:00",
+      "last_success": "2026-10-25T09:56:47+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3966,8 +4021,8 @@
       "name": "Visit Singapore",
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
       "status": "ok",
-      "count": 10,
-      "last_success": "2026-10-25T05:48:55+08:00",
+      "count": 12,
+      "last_success": "2026-10-25T09:56:47+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3975,10 +4030,10 @@
       "id": "catch_sg",
       "name": "Catch.sg — Free Events",
       "url": "https://www.catch.sg/Event?EventCategory=Free%20Events",
-      "status": "fallback",
+      "status": "ok",
       "count": 3,
-      "last_success": "2026-10-24T23:47:53+08:00",
-      "error": "https://www.catch.sg/Event?EventCategory=Free%20Events: Official browser page returned HTTP 403; preserving previous source records",
+      "last_success": "2026-10-25T09:56:47+08:00",
+      "error": "",
       "needs_reader_review": false
     },
     {
@@ -3987,7 +4042,7 @@
       "url": "https://allevents.in/singapore/free-events",
       "status": "ok",
       "count": 14,
-      "last_success": "2026-10-25T05:48:55+08:00",
+      "last_success": "2026-10-25T09:56:47+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3997,9 +4052,29 @@
       "url": "https://nlb.libcal.com/calendar/public",
       "status": "ok",
       "count": 46,
-      "last_success": "2026-10-25T05:48:55+08:00",
+      "last_success": "2026-10-25T09:56:47+08:00",
       "error": "",
       "needs_reader_review": false
+    },
+    {
+      "id": "onepa",
+      "name": "onePA — Free Community Events",
+      "url": "https://www.onepa.gov.sg/events",
+      "status": "fallback",
+      "count": 0,
+      "last_success": null,
+      "error": "https://www.onepa.gov.sg/events: zero usable events; preserving previous source records",
+      "needs_reader_review": true
+    },
+    {
+      "id": "nparks",
+      "name": "NParks — Free Events",
+      "url": "https://www.nparks.gov.sg/visit/events",
+      "status": "fallback",
+      "count": 0,
+      "last_success": null,
+      "error": "https://www.nparks.gov.sg/visit/events: zero usable events; preserving previous source records",
+      "needs_reader_review": true
     }
   ],
   "all_sources_failed": false
