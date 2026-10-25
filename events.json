@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T10:17:03+08:00",
+  "updated_at": "2026-10-25T10:20:25+08:00",
   "events": [
     {
       "title": "\"A-Z: The State of Youth\" Roving Exhibition | Our Living Library Collective",
@@ -917,6 +917,58 @@
       "date_added": null
     },
     {
+      "title": "Fort Canning Centre: A Century of Transformation",
+      "overview": "EXHIBITIONS | ONE-OFF Free Fort Canning Centre: A Century of Transformation Sat, 05 Sep 2026 - Wed, 31 Mar 2027 10:00AM - 06:00PM Atrium and Studio@L3, Fort Canning Centre",
+      "period": "2026-09-05 to 2027-03-31",
+      "start_date": "2026-09-05",
+      "end_date": "2027-03-31",
+      "time": "Check official information",
+      "venue": "NParks — Free Events",
+      "category": "Parks Event",
+      "adult": "Free",
+      "tags": [
+        "free",
+        "ongoing"
+      ],
+      "link": "https://www.nparks.gov.sg/visit/events/event-detail/FCP_FCC/4176_Fort-Canning-Centre-A-Century-of-Transformation",
+      "source_key": "nparks",
+      "source": "NParks — Free Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ongoing",
+      "statusClass": "",
+      "date_added": "2026-10-25"
+    },
+    {
+      "title": "Funtastical World of Fungi",
+      "overview": "EXHIBITIONS | LIMITED PERIOD Free Funtastical World of Fungi Sat, 05 Sep 2026 - Sun, 10 Jan 2027 09:00AM - 06:00PM CDL Green Gallery",
+      "period": "2026-09-05 to 2027-01-10",
+      "start_date": "2026-09-05",
+      "end_date": "2027-01-10",
+      "time": "Check official information",
+      "venue": "NParks — Free Events",
+      "category": "Parks Event",
+      "adult": "Free",
+      "tags": [
+        "free",
+        "ongoing"
+      ],
+      "link": "https://www.nparks.gov.sg/visit/events/event-detail/EEEXCDL2/4157_Funtastical-World-of-Fungi",
+      "source_key": "nparks",
+      "source": "NParks — Free Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ongoing",
+      "statusClass": "",
+      "date_added": "2026-10-25"
+    },
+    {
       "title": "Future Smart: Navigating AI & Digital Safety with Confidence | My Digital Life",
       "overview": "About the Event AI is changing how we learn, work and interact online. But as these tools become more powerful, knowing how to use them safely and responsibly is just as important...",
       "period": "2026-10-25 to 2026-10-25",
@@ -1468,6 +1520,58 @@
       "date_added": "2026-10-25"
     },
     {
+      "title": "Pressed in Pixels - Digitalising the Singapore Herbarium",
+      "overview": "EXHIBITIONS | LIMITED PERIOD Free Pressed in Pixels - Digitalising the Singapore Herbarium Wed, 29 Oct 2025 - Thu, 31 Dec 2026 09:00AM - 05:00PM Botany Centre, Level 1, Viewing gallery at the Singapore Herbarium, Singapore Botanic Gardens",
+      "period": "2025-10-29 to 2026-12-31",
+      "start_date": "2025-10-29",
+      "end_date": "2026-12-31",
+      "time": "Check official information",
+      "venue": "NParks — Free Events",
+      "category": "Parks Event",
+      "adult": "Free",
+      "tags": [
+        "free",
+        "ongoing"
+      ],
+      "link": "https://www.nparks.gov.sg/visit/events/event-detail/SBGBR_01/1735_Pressed-in-Pixels-Digitalising-the-Singapore-Herbarium",
+      "source_key": "nparks",
+      "source": "NParks — Free Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ongoing",
+      "statusClass": "",
+      "date_added": "2026-10-25"
+    },
+    {
+      "title": "Pressing Plant Matters: 150 Years of the Singapore Herbarium",
+      "overview": "EXHIBITIONS | LIMITED PERIOD Free Pressing Plant Matters: 150 Years of the Singapore Herbarium Fri, 28 Nov 2025 - Sun, 15 Nov 2026 09:00AM - 06:00PM Level 1, Botanical Art Gallery (Gallop Extension)",
+      "period": "2025-11-28 to 2026-11-15",
+      "start_date": "2025-11-28",
+      "end_date": "2026-11-15",
+      "time": "Check official information",
+      "venue": "NParks — Free Events",
+      "category": "Parks Event",
+      "adult": "Free",
+      "tags": [
+        "free",
+        "ongoing"
+      ],
+      "link": "https://www.nparks.gov.sg/visit/events/event-detail/EExPPM/1809_Pressing-Plant-Matters-150-Years-of-the-Singapore-Herbarium",
+      "source_key": "nparks",
+      "source": "NParks — Free Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ongoing",
+      "statusClass": "",
+      "date_added": "2026-10-25"
+    },
+    {
       "title": "Pro Series: What's Your Soundtrack?",
       "overview": "About the Event A collage workshop where participants create a visual “soundtrack” of their lives using found images, text, and personal photos—housed within a CD jewel case. Movin...",
       "period": "2026-10-25 to 2026-10-25",
@@ -1592,8 +1696,8 @@
     {
       "title": "Roots of Knowledge: Celebrating 150 Years of the Singapore Botanic Gardens Library",
       "overview": "EXHIBITIONS | LIMITED PERIOD Free Roots of Knowledge: Celebrating 150 Years of the Singapore Botanic Gardens Library Sat, 19 Jul 2025 - Sun, 15 Nov 2026 09:00AM - 06:00PM Botanical Art Gallery",
-      "period": "2026-07-19 to 2026-11-15",
-      "start_date": "2026-07-19",
+      "period": "2025-07-19 to 2026-11-15",
+      "start_date": "2025-07-19",
       "end_date": "2026-11-15",
       "time": "Check official information",
       "venue": "NParks — Free Events",
@@ -1639,32 +1743,6 @@
       "child": "Check official information",
       "status": "Ongoing",
       "statusClass": "",
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Sewing Starter Session @ Jurong Library | MakeIT",
-      "overview": "About the Event Learn how to use MakeIT’s sewing machines by making your own tote bag! In the process of doing so, we will be covering the fundamental practices and operation of...",
-      "period": "2026-10-25 to 2026-10-25",
-      "start_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "time": "3:00pm – 5:30pm",
-      "venue": "Jurong Library - MakeIT (Level 2)",
-      "adult": "Check official information",
-      "category": "Event / Programme",
-      "link": "https://nlb.libcal.com/event/5974875",
-      "tags": [
-        "ending",
-        "ongoing"
-      ],
-      "source_key": "nlb_calendar",
-      "source": "NLB GoLibrary — All Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Ending Soon",
-      "statusClass": "ending",
       "date_added": "2026-10-25"
     },
     {
@@ -2297,6 +2375,32 @@
         "ongoing"
       ],
       "link": "https://www.nparks.gov.sg/visit/events/event-detail/EEEXTCF/1812_Trees-Create-Forests-Forest-Discovery-Centre",
+      "source_key": "nparks",
+      "source": "NParks — Free Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ongoing",
+      "statusClass": "",
+      "date_added": "2026-10-25"
+    },
+    {
+      "title": "Tropical Treats and Sweets: The Plants in Singapore's Desserts",
+      "overview": "EXHIBITIONS | LIMITED PERIOD Free Tropical Treats and Sweets: The Plants in Singapore's Desserts Sat, 06 Dec 2025 - Fri, 31 Dec 2027 09:00AM - 06:00PM Level 2, Centre for Ethnobotany (Ethnobotany Garden)",
+      "period": "2025-12-06 to 2027-12-31",
+      "start_date": "2025-12-06",
+      "end_date": "2027-12-31",
+      "time": "Check official information",
+      "venue": "NParks — Free Events",
+      "category": "Parks Event",
+      "adult": "Free",
+      "tags": [
+        "free",
+        "ongoing"
+      ],
+      "link": "https://www.nparks.gov.sg/visit/events/event-detail/EEEXTTS/1810_Tropical-Treats-and-Sweets-The-Plants-in-Singapore-s-Desserts",
       "source_key": "nparks",
       "source": "NParks — Free Events",
       "why": "See the official organiser page for the latest visitor information.",
@@ -3347,58 +3451,6 @@
       "date_added": "2026-10-24"
     },
     {
-      "title": "Pressed in Pixels - Digitalising the Singapore Herbarium",
-      "overview": "EXHIBITIONS | LIMITED PERIOD Free Pressed in Pixels - Digitalising the Singapore Herbarium Wed, 29 Oct 2025 - Thu, 31 Dec 2026 09:00AM - 05:00PM Botany Centre, Level 1, Viewing gallery at the Singapore Herbarium, Singapore Botanic Gardens",
-      "period": "2026-10-29 to 2026-12-31",
-      "start_date": "2026-10-29",
-      "end_date": "2026-12-31",
-      "time": "Check official information",
-      "venue": "NParks — Free Events",
-      "category": "Parks Event",
-      "adult": "Free",
-      "tags": [
-        "free",
-        "upcoming"
-      ],
-      "link": "https://www.nparks.gov.sg/visit/events/event-detail/SBGBR_01/1735_Pressed-in-Pixels-Digitalising-the-Singapore-Herbarium",
-      "source_key": "nparks",
-      "source": "NParks — Free Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "Pressing Plant Matters: 150 Years of the Singapore Herbarium",
-      "overview": "EXHIBITIONS | LIMITED PERIOD Free Pressing Plant Matters: 150 Years of the Singapore Herbarium Fri, 28 Nov 2025 - Sun, 15 Nov 2026 09:00AM - 06:00PM Level 1, Botanical Art Gallery (Gallop Extension)",
-      "period": "2026-11-28 to 2026-11-15",
-      "start_date": "2026-11-28",
-      "end_date": "2026-11-15",
-      "time": "Check official information",
-      "venue": "NParks — Free Events",
-      "category": "Parks Event",
-      "adult": "Free",
-      "tags": [
-        "free",
-        "upcoming"
-      ],
-      "link": "https://www.nparks.gov.sg/visit/events/event-detail/EExPPM/1809_Pressing-Plant-Matters-150-Years-of-the-Singapore-Herbarium",
-      "source_key": "nparks",
-      "source": "NParks — Free Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "date_added": "2026-10-25"
-    },
-    {
       "title": "Pán",
       "category": "Event / Exhibition",
       "overview": "Nov 06, 2026 - Nov 07, 2026 Singapore Chinese Cultural Centre Auditorium, Level 9 Pán What are we shaped by? Pán《盤》is an evocative two-part work by T.H.E Dance Company’s founding… Dance/Theatre",
@@ -4001,58 +4053,6 @@
       "date_added": "2026-10-24"
     },
     {
-      "title": "Tropical Treats and Sweets: The Plants in Singapore's Desserts",
-      "overview": "EXHIBITIONS | LIMITED PERIOD Free Tropical Treats and Sweets: The Plants in Singapore's Desserts Sat, 06 Dec 2025 - Fri, 31 Dec 2027 09:00AM - 06:00PM Level 2, Centre for Ethnobotany (Ethnobotany Garden)",
-      "period": "2026-12-06 to 2026-12-31",
-      "start_date": "2026-12-06",
-      "end_date": "2026-12-31",
-      "time": "Check official information",
-      "venue": "NParks — Free Events",
-      "category": "Parks Event",
-      "adult": "Free",
-      "tags": [
-        "free",
-        "upcoming"
-      ],
-      "link": "https://www.nparks.gov.sg/visit/events/event-detail/EEEXTTS/1810_Tropical-Treats-and-Sweets-The-Plants-in-Singapore-s-Desserts",
-      "source_key": "nparks",
-      "source": "NParks — Free Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "date_added": "2026-10-25"
-    },
-    {
-      "title": "TURN UP THE VOLUME THIS 11:11: JBL CAPS OFF 80 YEARS OF SOUND WITH A SERIES OF POP-UPS ISLANDWIDE",
-      "overview": "This 11.11, JBL turns up the energy and wraps up its three-month 80th anniversary celebrations, bringing its latest releases and extensive audio lineup to life at JBL 80: House of Sound, where you can get hands-on with the products before shopping its online-exclusive 11.11 promotions on the JBL Onl",
-      "period": "2026-11-02 to 2026-11-08",
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-08",
-      "time": "11:00am – 10:00pm",
-      "venue": "Plaza Singapura",
-      "adult": "Free",
-      "category": "Event / Programme",
-      "link": "https://allevents.in/singapore/turn-up-the-volume-this-11-11-jbl-caps-off-80-years-of-sound-with-a-series-of-pop-ups-islandwide-tic/80001981250486",
-      "tags": [
-        "free",
-        "upcoming"
-      ],
-      "source_key": "allevents",
-      "source": "AllEvents Singapore — Free Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "date_added": "2026-10-25"
-    },
-    {
       "title": "Visible Differences: Why Are…",
       "category": "Event / Exhibition",
       "overview": "Oct 31, 2026 - Oct 31, 2026 Singapore Chinese Cultural Centre Recital Studio, Level 6 Visible Differences: Why Are… Stand in front of Thian Hock Keng, Wak Hai Cheng Bio and the former Thong… Lectures/Talks/Conference Free",
@@ -4188,11 +4188,11 @@
     },
     "allevents": {
       "status": "fresh",
-      "count": 15
+      "count": 14
     },
     "nlb_calendar": {
       "status": "fresh",
-      "count": 48
+      "count": 47
     },
     "onepa": {
       "status": "fallback",
@@ -4201,7 +4201,7 @@
     },
     "nparks": {
       "status": "fresh",
-      "count": 7
+      "count": 9
     }
   },
   "sources": [
@@ -4211,7 +4211,7 @@
       "url": "https://singaporeccc.org.sg/events/",
       "status": "ok",
       "count": 26,
-      "last_success": "2026-10-25T10:14:59+08:00",
+      "last_success": "2026-10-25T10:18:41+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4221,7 +4221,7 @@
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
       "status": "ok",
       "count": 11,
-      "last_success": "2026-10-25T10:14:59+08:00",
+      "last_success": "2026-10-25T10:18:41+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4231,7 +4231,7 @@
       "url": "https://www.esplanade.com/whats-on",
       "status": "ok",
       "count": 30,
-      "last_success": "2026-10-25T10:14:59+08:00",
+      "last_success": "2026-10-25T10:18:41+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4241,7 +4241,7 @@
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-10-25T10:14:59+08:00",
+      "last_success": "2026-10-25T10:18:41+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4251,7 +4251,7 @@
       "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-10-25T10:14:59+08:00",
+      "last_success": "2026-10-25T10:18:41+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4261,7 +4261,7 @@
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-10-25T10:14:59+08:00",
+      "last_success": "2026-10-25T10:18:41+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4271,7 +4271,7 @@
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
       "status": "ok",
       "count": 5,
-      "last_success": "2026-10-25T10:14:59+08:00",
+      "last_success": "2026-10-25T10:18:41+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4281,7 +4281,7 @@
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-10-25T10:14:59+08:00",
+      "last_success": "2026-10-25T10:18:41+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4291,7 +4291,7 @@
       "url": "https://www.catch.sg/Event?EventCategory=Free%20Events",
       "status": "ok",
       "count": 3,
-      "last_success": "2026-10-25T10:14:59+08:00",
+      "last_success": "2026-10-25T10:18:41+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4300,8 +4300,8 @@
       "name": "AllEvents Singapore — Free Events",
       "url": "https://allevents.in/singapore/free-events",
       "status": "ok",
-      "count": 15,
-      "last_success": "2026-10-25T10:14:59+08:00",
+      "count": 14,
+      "last_success": "2026-10-25T10:18:41+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4310,8 +4310,8 @@
       "name": "NLB GoLibrary — All Events",
       "url": "https://nlb.libcal.com/calendar/public",
       "status": "ok",
-      "count": 48,
-      "last_success": "2026-10-25T10:14:59+08:00",
+      "count": 47,
+      "last_success": "2026-10-25T10:18:41+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4330,8 +4330,8 @@
       "name": "NParks — Free Events",
       "url": "https://www.nparks.gov.sg/visit/events",
       "status": "ok",
-      "count": 7,
-      "last_success": "2026-10-25T10:14:59+08:00",
+      "count": 9,
+      "last_success": "2026-10-25T10:18:41+08:00",
       "error": "",
       "needs_reader_review": false
     }
