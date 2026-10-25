@@ -171,16 +171,6 @@ def parse_free_cards(soup, key, today, cfg, clean_event):
                 seen_nodes.add(id(parent))
     # Prefer small cards so page containers do not combine unrelated event details.
     candidates.sort(key=lambda node: len(node.get_text(" ", strip=True)))
-    diagnostic = []
-    for node in candidates:
-        text = re.sub(r"\s+", " ", node.get_text(" ", strip=True)).strip()
-        if "free" in text.casefold() or key == "onepa" and "event" in text.casefold():
-            heading = node.find(["h1", "h2", "h3", "h4", "h5"])
-            links = [a.get("href", "") for a in node.find_all("a", href=True)[:2]]
-            diagnostic.append({"tag": node.name, "class": node.get("class"), "heading": heading.get_text(" ", strip=True) if heading else "", "links": links, "text": text[:420]})
-            if len(diagnostic) >= 12:
-                break
-    print(f"Directory {key} card sample: {json.dumps(diagnostic, ensure_ascii=False)}", flush=True)
     results, seen = [], set()
     for card in candidates:
         if card.name in {"html", "body", "script", "style", "nav", "footer"} or card.find_parent(["nav", "footer"]):
@@ -195,10 +185,7 @@ def parse_free_cards(soup, key, today, cfg, clean_event):
         title = BeautifulSoup(title_node.get_text(" ", strip=True) if title_node else link_node.get_text(" ", strip=True), "html.parser").get_text(" ", strip=True)
         if not title_node:
             title = re.sub(r"\s+(?:EXHIBITIONS|WORKSHOP|GUIDED TOURS|PERFORMANCES|LECTURES/TALKS)\s*[|•·].*$", "", title, flags=re.I)
-        trace = (key == "onepa" and "Free Walk" in text) or (key == "nparks" and "Pressing Plant Matters" in text)
-        if trace: print("PARSER TRACE title", repr(title), "text", repr(text), flush=True)
         if not title or len(title) > 180 or len(text) > 1800:
-            if trace: print("PARSER TRACE title/length rejected", flush=True)
             continue
         # Require a standalone free price/entry label; reject free gifts and paid tiers.
         labels = {re.sub(r"\s+", " ", item.get_text(" ", strip=True)).strip().casefold()
@@ -218,9 +205,7 @@ def parse_free_cards(soup, key, today, cfg, clean_event):
         if not link_node:
             continue
         link = urljoin(cfg["url"], link_node["href"])
-        if trace: print("PARSER TRACE link", link, "allowed", allowed(link, key, cfg), "base", cfg["url"], flush=True)
         if not allowed(link, key, cfg) or link.rstrip("/") == cfg["url"].rstrip("/"):
-            if trace: print("PARSER TRACE link rejected", flush=True)
             continue
         clean_text = re.sub(r"\b(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+", "", text, flags=re.I)
         month = r"(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)"
@@ -234,15 +219,16 @@ def parse_free_cards(soup, key, today, cfg, clean_event):
             if not value:
                 for fmt in ("%d %b %Y", "%d %B %Y", "%b %d, %Y", "%B %d, %Y", "%d %b", "%d %B", "%b %d", "%B %d"):
                     try:
-                        value = datetime.strptime(raw, fmt).replace(year=today.year, tzinfo=SGT)
+                        parsed = datetime.strptime(raw, fmt)
+                        if "%Y" not in fmt:
+                            parsed = parsed.replace(year=today.year)
+                        value = parsed.replace(tzinfo=SGT)
                         break
                     except ValueError:
                         pass
             if value and value.date() not in dates:
                 dates.append(value.date())
-        if trace: print("PARSER TRACE dates", dates, "until", bool(until), flush=True)
         if not dates:
-            if trace: print("PARSER TRACE no date", repr(raw_dates), flush=True)
             continue
         start, end = dates[0], dates[1] if len(dates) > 1 else dates[0]
         if until:

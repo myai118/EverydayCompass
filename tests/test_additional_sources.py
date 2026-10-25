@@ -108,3 +108,6 @@ def test_government_free_event_cards_allow_explicit_suffix_and_dates_without_yea
     assert len(found) == 1
     assert found[0]["title"] == "Pressing Plant Matters"
     assert found[0]["end_date"] == "2026-11-15"
+    older = html.replace("Until 15 Nov", "Fri, 28 Nov 2025 - Sun, 15 Nov 2026")
+    history = reader.parse(older, "nparks", TODAY, cfg, clean)
+    assert next(x for x in history if x["title"] == "Pressing Plant Matters")["period"] == "2025-11-28 to 2026-11-15"

@@ -667,10 +667,6 @@ def render_source(url):
         browser = p.chromium.launch(headless=True, args=args)
         try:
             page = browser.new_page(locale="en-SG")
-            if any(name in (urlparse(url).hostname or "") for name in ("onepa.gov.sg", "nparks.gov.sg")):
-                page.on("response", lambda response: print(
-                    f"Browser resource {response.status}: {response.url[:260]}",
-                    flush=True) if any(word in response.url.lower() for word in ("api", "event", "search", "graphql")) else None)
             # Optional resources must not prevent reading an already loaded document.
             response = page.goto(url, wait_until="commit", timeout=45000)
             page.locator("body").wait_for(state="attached", timeout=20000)
