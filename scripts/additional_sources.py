@@ -208,9 +208,10 @@ def parse_free_cards(soup, key, today, cfg, clean_event):
         } for label in labels) or bool(re.search(r"(?:\||[·•])\s*free\s*$", text, re.I))
         if not explicit_free or re.search(r"(?:S?\$|\bSGD\s*)[1-9]\d*(?:\.\d{1,2})?\b|\bpaid admission\b", text, re.I):
             continue
-        link_node = title_node if title_node.name == "a" and title_node.get("href") else title_node.find("a", href=True)
-        if not link_node:
-            link_node = title_node.find_parent("a", href=True)
+        if title_node:
+            link_node = title_node if title_node.name == "a" and title_node.get("href") else title_node.find("a", href=True)
+            if not link_node:
+                link_node = title_node.find_parent("a", href=True)
         if not link_node:
             continue
         link = urljoin(cfg["url"], link_node["href"])
