@@ -195,7 +195,10 @@ def parse_free_cards(soup, key, today, cfg, clean_event):
         title = BeautifulSoup(title_node.get_text(" ", strip=True) if title_node else link_node.get_text(" ", strip=True), "html.parser").get_text(" ", strip=True)
         if not title_node:
             title = re.sub(r"\s+(?:EXHIBITIONS|WORKSHOP|GUIDED TOURS|PERFORMANCES|LECTURES/TALKS)\s*[|•·].*$", "", title, flags=re.I)
+        trace = (key == "onepa" and "Free Walk" in text) or (key == "nparks" and "Pressing Plant Matters" in text)
+        if trace: print("PARSER TRACE title", repr(title), "text", repr(text), flush=True)
         if not title or len(title) > 180 or len(text) > 1800:
+            if trace: print("PARSER TRACE title/length rejected", flush=True)
             continue
         # Require a standalone free price/entry label; reject free gifts and paid tiers.
         labels = {re.sub(r"\s+", " ", item.get_text(" ", strip=True)).strip().casefold()
@@ -215,7 +218,9 @@ def parse_free_cards(soup, key, today, cfg, clean_event):
         if not link_node:
             continue
         link = urljoin(cfg["url"], link_node["href"])
+        if trace: print("PARSER TRACE link", link, "allowed", allowed(link, key, cfg), "base", cfg["url"], flush=True)
         if not allowed(link, key, cfg) or link.rstrip("/") == cfg["url"].rstrip("/"):
+            if trace: print("PARSER TRACE link rejected", flush=True)
             continue
         clean_text = re.sub(r"\b(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+", "", text, flags=re.I)
         until = re.search(r"\buntil\s+(\d{1,2}\s+[A-Za-z]{3,9}(?:\s+\d{4})?)", clean_text, re.I)
@@ -234,7 +239,9 @@ def parse_free_cards(soup, key, today, cfg, clean_event):
                         pass
             if value and value.date() not in dates:
                 dates.append(value.date())
+        if trace: print("PARSER TRACE dates", dates, "until", bool(until), flush=True)
         if not dates:
+            if trace: print("PARSER TRACE no date", repr(raw_dates), flush=True)
             continue
         start, end = dates[0], dates[1] if len(dates) > 1 else dates[0]
         if until:
