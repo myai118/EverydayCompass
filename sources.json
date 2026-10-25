@@ -73,7 +73,8 @@
       "id": "onepa",
       "name": "onePA — Free Community Events",
       "url": "https://www.onepa.gov.sg/events",
-      "enabled": true
+      "enabled": true,
+      "listing_url": "https://www.onepa.gov.sg/events/neighbourhood-events"
     },
     {
       "id": "nparks",

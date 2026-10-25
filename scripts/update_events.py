@@ -667,6 +667,10 @@ def render_source(url):
         browser = p.chromium.launch(headless=True, args=args)
         try:
             page = browser.new_page(locale="en-SG")
+            if any(name in (urlparse(url).hostname or "") for name in ("onepa.gov.sg", "nparks.gov.sg")):
+                page.on("response", lambda response: print(
+                    f"Browser resource {response.status}: {response.url[:260]}",
+                    flush=True) if any(word in response.url.lower() for word in ("api", "event", "search", "graphql")) else None)
             # Optional resources must not prevent reading an already loaded document.
             response = page.goto(url, wait_until="commit", timeout=45000)
             page.locator("body").wait_for(state="attached", timeout=20000)
@@ -681,6 +685,11 @@ def render_source(url):
             try:
                 if "catch.sg" in url and "/Event/" in urlparse(url).path:
                     page.wait_for_function("() => document.body.innerText.includes('Event Details')", timeout=20000)
+                elif (urlparse(url).hostname or "").endswith("onepa.gov.sg"):
+                    page.wait_for_function("""() => [...document.querySelectorAll('a[href]')].filter(a =>
+                        /\/events\/(?!search|neighbourhood-events$|arts-and-culture$|active-ageing$)/i.test(a.getAttribute('href') || '')).length > 2""", timeout=25000)
+                elif (urlparse(url).hostname or "").endswith("nparks.gov.sg"):
+                    page.wait_for_function("""() => document.querySelectorAll('article, [class*="event"], [class*="card"], [class*="listing"]').length > 20""", timeout=25000)
                 elif any(host in (urlparse(url).hostname or "") for host in ("eventbrite", "allevents", "libcal")):
                     page.wait_for_function("""() => [...document.querySelectorAll('a[href]')].some(a =>
                         /\\/e\\/|\\/singapore\\/[^/]+\\/|\\/event\\/\\d+/.test(a.getAttribute('href') || ''))""", timeout=25000)
@@ -702,8 +711,9 @@ def render_source(url):
 # Public official alternatives only. A challenge page is never a successful read.
 OFFICIAL_LISTING_ALTERNATIVES = {
     "artscience": ["https://www.marinabaysands.com/museum.html"],
+    "nparks": ["https://juronglakegardens.nparks.gov.sg/things-to-do/upcoming-events/", "https://sbg.nparks.gov.sg/events/"],
 }
-BROWSER_SOURCES = {"gardens", "artscience", "visit_singapore", "catch_sg", "national_museum", "eventbrite", "allevents", "nlb_calendar"}
+BROWSER_SOURCES = {"gardens", "artscience", "visit_singapore", "catch_sg", "national_museum", "eventbrite", "allevents", "nlb_calendar", "onepa", "nparks"}
 
 
 def read_source_events(cfg, key, today, fetcher):
