@@ -1,7 +1,14 @@
 {
   "singapore": [
     {
-      "title": "Indonesia gas supply cut unlikely to have much impact on Singapore electricity prices in short term: Tan See Leng",
+      "title": "Singapore’s Shannon Tan finishes third at Hero Women’s Indian Open",
+      "url": "https://www.channelnewsasia.com/sport/singapores-shannon-tan-finishes-third-hero-womens-indian-open-6490431",
+      "summary": "Tan was the defending champion in the event.",
+      "source": "CNA",
+      "published": "Sun, 25 Oct 2026 19:43:00 +0800"
+    },
+    {
+      "title": "‘Keep calm and carry on’: Indonesia gas cut unlikely to hit Singapore electricity prices, says Tan See Leng",
       "url": "https://www.channelnewsasia.com/singapore/electricity-prices-indonesia-gas-supply-cut-tan-see-leng-6490121",
       "summary": "Global gas prices are a bigger factor in costs, says Minister for Energy, Trade and Industry (Energy and Industry) Tan See Leng.",
       "source": "CNA",
@@ -29,9 +36,9 @@
       "published": "Sun, 25 Oct 2026 10:44:00 +0800"
     },
     {
-      "title": "Singapore haze: Air quality remains unhealthy in most regions; PM2.5 readings normal across country",
-      "url": "https://www.channelnewsasia.com/singapore/singapore-haze-air-quality-remains-unhealthy-in-most-regions-pm25-readings-normal-across-country-6489876",
-      "summary": "At noon, the 24-hour PSI readings ranged from 97 to 126, while the hourly PM2.5 readings ranged from 16 to 42.",
+      "title": "Singapore haze: Air quality improves as 24-hour PSI readings in three regions drop out of unhealthy band",
+      "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-air-quality-oct-25-6489876",
+      "summary": "Though the hotspot and smoke haze situation may improve in areas experiencing showers, it may continue to stay elevated in areas experiencing prolonged periods of dry weather, \"with a continued risk of transboundary haze occurrence\", NEA said on Sunday.",
       "source": "CNA",
       "published": "Sun, 25 Oct 2026 06:59:00 +0800"
     },
@@ -97,16 +104,23 @@
       "summary": "The revamped academy will also bring together existing training by LTA, SMRT and SBS Transit under a consolidated curriculum.",
       "source": "CNA",
       "published": "Sat, 24 Oct 2026 18:00:00 +0800"
-    },
-    {
-      "title": "Indonesia reduces gas exports to Singapore in order to 'safeguard reliability' of domestic supplies",
-      "url": "https://www.channelnewsasia.com/singapore/indonesia-gas-singapore-supply-diversion-6488391",
-      "summary": "Indonesia's diversion of exports to meet domestic needs involves 31 million standard cubic feet of natural gas a day from Natuna and Sumatra, Indonesia’s upstream oil and gas regulator told CNA.",
-      "source": "CNA",
-      "published": "Sat, 24 Oct 2026 17:49:00 +0800"
     }
   ],
   "world": [
+    {
+      "title": "Police made 1,314 arrests in France's protests",
+      "url": "https://www.channelnewsasia.com/world/france-protest-police-arrests-government-6490381",
+      "summary": "This weekend's protests mark the second consecutive weekend of unrest in France, which is heading to presidential elections in April and May to choose a successor to President Emmanuel Macron.",
+      "source": "CNA",
+      "published": "Sun, 25 Oct 2026 19:02:00 +0800"
+    },
+    {
+      "title": "Yemen's Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
+      "url": "https://www.channelnewsasia.com/world/saudi-riyadh-airport-houthis-attacks-6490191",
+      "summary": "Riyadh's international airport had said it would reopen on Sunday after a two-week closure following repeated attacks by Yemen's Houthis.",
+      "source": "CNA",
+      "published": "Sun, 25 Oct 2026 14:48:00 +0800"
+    },
     {
       "title": "Philippines investigates laptop found at Thomas Markle's former home",
       "url": "https://www.channelnewsasia.com/asia/philippines-investigate-laptop-thomas-markle-home-6490021",
@@ -197,22 +211,8 @@
       "summary": "Anger over living costs and strained public services has drawn students, workers and unions onto the streets in recent weeks.",
       "source": "CNA",
       "published": "Sat, 24 Oct 2026 07:16:47 +0800"
-    },
-    {
-      "title": "Commentary: PHP vulnerabilities - why the good guys have notched a victory in AI-cybersecurity age",
-      "url": "https://www.channelnewsasia.com/commentary/php-cybersecurity-flaw-ai-victory-good-guys-6485776",
-      "summary": "The discovery and fixing of critical flaws in PHP, a major programming language, should be considered a boon for the cybersecurity industry, says Dave Lee for Bloomberg Opinion.",
-      "source": "CNA",
-      "published": "Sat, 24 Oct 2026 06:00:00 +0800"
-    },
-    {
-      "title": "Gunmen kill 7 at Jordan church, king vows retaliation",
-      "url": "https://www.channelnewsasia.com/world/gunmen-jordan-shooting-king-retaliation-seven-killed-6488111",
-      "summary": "The attack happened during a funeral procession in Karak, and police launched a search for the gunmen.",
-      "source": "CNA",
-      "published": "Sat, 24 Oct 2026 05:54:48 +0800"
     }
   ],
-  "generated_at": "2026-10-25T13:21:54+08:00",
+  "generated_at": "2026-10-25T20:01:16+08:00",
   "test_mode": false
 }
