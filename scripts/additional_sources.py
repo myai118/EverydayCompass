@@ -208,7 +208,7 @@ def parse_free_cards(soup, key, today, cfg, clean_event):
             "free", "free event", "free admission", "admission: free",
             "price: free", "fee: free", "ticket: free", "tickets: free",
             "free of charge", "free to attend"
-        } for label in labels) or any(re.search(r"(?:\||[·•])\s*free\s*$", label, re.I) for label in labels)
+        } for label in labels) or any(re.search(r"\bfree\s*$", label, re.I) for label in labels)
         if not explicit_free or re.search(r"(?:S?\$|\bSGD\s*)[1-9]\d*(?:\.\d{1,2})?\b|\bpaid admission\b", text, re.I):
             continue
         if title_node:
