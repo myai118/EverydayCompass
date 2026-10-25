@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - sources.json
+      - scripts/additional_sources.py
       - scripts/update_events.py
       - scripts/run_whats_on.py
       - tests/**

@@ -68,6 +68,18 @@
       "name": "NLB GoLibrary — All Events",
       "url": "https://nlb.libcal.com/calendar/public",
       "enabled": true
+    },
+    {
+      "id": "onepa",
+      "name": "onePA — Free Community Events",
+      "url": "https://www.onepa.gov.sg/events",
+      "enabled": true
+    },
+    {
+      "id": "nparks",
+      "name": "NParks — Free Events",
+      "url": "https://www.nparks.gov.sg/visit/events",
+      "enabled": true
     }
   ]
 }

@@ -6,7 +6,7 @@ from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 
 SGT = timezone(timedelta(hours=8))
-KEYS = {"eventbrite", "allevents", "nlb_calendar"}
+KEYS = {"eventbrite", "allevents", "nlb_calendar", "onepa", "nparks"}
 
 def walk(value):
     if isinstance(value, list):
@@ -95,7 +95,7 @@ def parse(html, key, today, cfg, clean_event, base_url=None):
             continue
         if country and str(country).lower() not in ("sg", "singapore"):
             continue
-        if key != "nlb_calendar" and not country and "singapore" not in location_text.lower():
+        if key in {"eventbrite", "allevents"} and not country and "singapore" not in location_text.lower():
             continue
         free = free_status(node)
         if free is False or key != "nlb_calendar" and free is not True:
@@ -120,6 +120,8 @@ def parse(html, key, today, cfg, clean_event, base_url=None):
         event = parse_libcal_detail(soup, base_url, today, clean_event)
         if event:
             results.append(event)
+    if key in {"onepa", "nparks"} and not results:
+        results.extend(parse_free_cards(soup, key, today, cfg, clean_event))
     print(f"Directory {key}: {len(nodes)} structured objects; {len(results)} verified active in-person records", flush=True)
     return results
 
@@ -155,3 +157,82 @@ def parse_libcal_detail(soup, url, today, clean_event):
         "time": fields.get("time", ""), "venue": venue, "category": "Library Programme",
         "adult": "Free" if free else "Check official information", "link": url,
         "tags": ["free"] if free else []}, "nlb_calendar", today)
+
+
+
+def parse_free_cards(soup, key, today, cfg, clean_event):
+    """Read only clearly free, dated, in-person cards from official SG government listings."""
+    candidates = list(soup.select("article, [class*='event'], [class*='card'], [class*='listing'], li"))
+    seen_nodes = {id(node) for node in candidates}
+    for heading in soup.select("h2, h3, h4, h5"):
+        for parent in list(heading.parents)[:4]:
+            if id(parent) not in seen_nodes:
+                candidates.append(parent)
+                seen_nodes.add(id(parent))
+    # Prefer small cards so page containers do not combine unrelated event details.
+    candidates.sort(key=lambda node: len(node.get_text(" ", strip=True)))
+    results, seen = [], set()
+    for card in candidates:
+        if card.name in {"html", "body", "script", "style", "nav", "footer"} or card.find_parent(["nav", "footer"]):
+            continue
+        title_node = card.find(["h1", "h2", "h3", "h4", "h5"])
+        if not title_node or len(card.find_all(["h1", "h2", "h3", "h4", "h5"])) > 1:
+            continue
+        title = BeautifulSoup(title_node.get_text(" ", strip=True), "html.parser").get_text(" ", strip=True)
+        text = card.get_text(" ", strip=True)
+        if not title or len(title) > 180 or len(text) > 1800:
+            continue
+        # Require a standalone free price/entry label; reject free gifts and paid tiers.
+        labels = {re.sub(r"\s+", " ", item.get_text(" ", strip=True)).strip().casefold()
+                  for item in card.find_all(True)}
+        labels.add(re.sub(r"\s+", " ", text).strip().casefold())
+        explicit_free = any(label in {
+            "free", "free event", "free admission", "admission: free",
+            "price: free", "fee: free", "ticket: free", "tickets: free",
+            "free of charge", "free to attend"
+        } for label in labels)
+        if not explicit_free or re.search(r"(?:S?\$|\bSGD\s*)[1-9]\d*(?:\.\d{1,2})?\b|\bpaid admission\b", text, re.I):
+            continue
+        link_node = title_node if title_node.name == "a" and title_node.get("href") else title_node.find("a", href=True)
+        if not link_node:
+            link_node = title_node.find_parent("a", href=True)
+        if not link_node:
+            continue
+        link = urljoin(cfg["url"], link_node["href"])
+        if not allowed(link, key, cfg) or link.rstrip("/") == cfg["url"].rstrip("/"):
+            continue
+        clean_text = re.sub(r"\b(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+", "", text, flags=re.I)
+        iso_dates = re.findall(r"\b\d{4}-\d{2}-\d{2}\b", clean_text)
+        human_dates = re.findall(r"\b\d{1,2}\s+[A-Za-z]{3,9}\s+\d{4}\b|\b[A-Za-z]{3,9}\s+\d{1,2},?\s+\d{4}\b", clean_text)
+        raw_dates = iso_dates or human_dates
+        dates = []
+        for raw in raw_dates:
+            value = stamp(raw)
+            if not value:
+                for fmt in ("%d %b %Y", "%d %B %Y", "%b %d, %Y", "%B %d, %Y"):
+                    try:
+                        value = datetime.strptime(raw, fmt).replace(tzinfo=SGT)
+                        break
+                    except ValueError:
+                        pass
+            if value and value.date() not in dates:
+                dates.append(value.date())
+        if not dates:
+            continue
+        start, end = dates[0], dates[1] if len(dates) > 1 else dates[0]
+        if end < today:
+            continue
+        period = start.isoformat() if start == end else f"{start.isoformat()} to {end.isoformat()}"
+        ident = (title.casefold(), link)
+        if ident in seen:
+            continue
+        seen.add(ident)
+        results.append(clean_event({
+            "title": title, "overview": re.sub(r"\s+", " ", text)[:700],
+            "period": period, "start_date": start.isoformat(), "end_date": end.isoformat(),
+            "time": "Check official information", "venue": cfg["name"],
+            "category": "Community Event" if key == "onepa" else "Parks Event",
+            "adult": "Free", "tags": ["free"], "link": link
+        }, key, today))
+    print(f"Directory {key}: {len(results)} verified free active card records", flush=True)
+    return results

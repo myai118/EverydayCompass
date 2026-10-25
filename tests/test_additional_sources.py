@@ -82,3 +82,18 @@ def test_iso_dates_and_multilingual_event_identity():
     assert core.status_for("2026-11-03 to 2026-11-03", TODAY)[0] == "Upcoming"
     got = core.dedupe([{"title": "中文故事会", "venue": "图书馆"}, {"title": "华文读书会", "venue": "图书馆"}])
     assert len(got) == 2
+
+
+def test_onepa_and_nparks_accept_only_explicit_free_active_cards():
+    for key, host in (("onepa", "www.onepa.gov.sg"), ("nparks", "www.nparks.gov.sg")):
+        cfg = {"url": f"https://{host}/events", "host": host, "name": key}
+        html = f"""<main>
+          <article><h3><a href="/events/free-walk">Free Walk</a></h3>
+            <p>Saturday 31 October 2026</p><span>Free</span></article>
+          <article><h3><a href="/events/paid-walk">Paid Walk</a></h3>
+            <p>Saturday 31 October 2026</p><span>$12</span></article>
+          <article><h3><a href="/events/old-walk">Old Walk</a></h3>
+            <p>Saturday 1 August 2026</p><span>Free</span></article>
+        </main>"""
+        found = reader.parse(html, key, TODAY, cfg, clean)
+        assert [event["title"] for event in found] == ["Free Walk"]
