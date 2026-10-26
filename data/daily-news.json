@@ -1,6 +1,27 @@
 {
   "singapore": [
     {
+      "title": "Air quality remains in good-to-moderate range; NEA says low likelihood of haze today",
+      "url": "https://www.channelnewsasia.com/singapore/haze-singapore-pm25-psi-oct-27-nea-6494531",
+      "summary": "In its advisory on Monday evening, the National Environment Agency said that prevailing winds and showers are expected over Singapore on Tuesday.",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 07:25:47 +0800"
+    },
+    {
+      "title": "Singapore must keep minority safeguards like GRC system, as 'racial undercurrents' persist: Jayakumar",
+      "url": "https://www.channelnewsasia.com/singapore/grc-race-religion-minority-jayakumar-6485786",
+      "summary": "Recent online vitriol against the Indian community shows that Singapore must stay realistic despite decades of progress, says the former senior minister.",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 06:00:00 +0800"
+    },
+    {
+      "title": "Commentary: Singapore is doing more heritage studies – but does it have enough experts?",
+      "url": "https://www.channelnewsasia.com/commentary/heritage-study-housing-development-are-there-enough-experts-6466361",
+      "summary": "Capacity in architectural conservation and engineering is stretched, and that can impact the quality of heritage studies, say Kevin Tan and Yeo Kang Shua from the International Council on Monuments and Sites Singapore.",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 06:00:00 +0800"
+    },
+    {
       "title": "German Chancellor Friedrich Merz to make first official visit to Singapore from Oct 27 to 28",
       "url": "https://www.channelnewsasia.com/singapore/german-chancellor-friedrich-merz-visit-singapore-6492861",
       "summary": "The chancellor will meet Prime Minister Lawrence Wong and President Tharman Shanmugaratnam, and deliver the 49th Singapore Lecture.",
@@ -83,36 +104,92 @@
       "summary": "“It’s quite a pity, it’s like I failed. But I gave it my best shot,” said the hawker, who opened Kokoyo to honour his Peranakan grandmother’s recipes.",
       "source": "CNA",
       "published": "Mon, 26 Oct 2026 10:54:00 +0800"
-    },
-    {
-      "title": "Singapore to develop local expertise in nuclear energy through three new schemes",
-      "url": "https://www.channelnewsasia.com/singapore/nuclear-energy-manpower-schemes-siew-6490606",
-      "summary": "The schemes will help build the capabilities to assess whether advanced nuclear energy technologies are suitable for power generation in Singapore.",
-      "source": "CNA",
-      "published": "Mon, 26 Oct 2026 09:58:00 +0800"
-    },
-    {
-      "title": "Singapore launches five-year energy infrastructure plan to meet growing demand, sets new solar target",
-      "url": "https://www.channelnewsasia.com/singapore/energy-infrastructure-plan-electricity-demand-tan-see-leng-siew-6490666",
-      "summary": "Five new natural gas-fired power plants, an expanded power grid and increased energy storage capacity are among the key areas of development.",
-      "source": "CNA",
-      "published": "Mon, 26 Oct 2026 09:53:00 +0800"
-    },
-    {
-      "title": "Singapore haze: Likelihood of haze affecting Singapore low on Tuesday",
-      "url": "https://www.channelnewsasia.com/singapore/haze-singapore-pm25-psi-oct-26-nea-6491766",
-      "summary": "In its advisory on Monday evening, the National Environment Agency said that prevailing winds and showers are expected over Singapore on Tuesday.",
-      "source": "CNA",
-      "published": "Mon, 26 Oct 2026 08:35:00 +0800"
     }
   ],
   "world": [
+    {
+      "title": "England and Bayern forward Harry Kane wins men's Ballon d'Or",
+      "url": "https://www.channelnewsasia.com/sport/england-harry-kane-ballon-dor-win-bayern-munich-6494586",
+      "summary": "Kane is the first Englishman in 25 years to win Ballon d'Or, with the last being Michael Owen in 2001.",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 07:19:00 +0800"
+    },
+    {
+      "title": "Commentary: Middle powers need the US – when it comes to China exports",
+      "url": "https://www.channelnewsasia.com/commentary/trump-china-tariffs-partners-action-overcapacity-6490791",
+      "summary": "A recent joint statement about overcapacity suggests a shift in how US and its trade partners are looking to respond to China Shock 2.0, says US politics observer Steven Okun.",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 05:59:00 +0800"
+    },
+    {
+      "title": "Commentary: Ukraine’s drone strikes on Russian data centres may change how we see disinformation",
+      "url": "https://www.channelnewsasia.com/commentary/ukraine-drone-strikes-russia-data-centres-disinformation-6492666",
+      "summary": "Data centres are an unconventional military target but that may be changing as their importance grows, says an academic.",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 05:58:00 +0800"
+    },
+    {
+      "title": "Iran holds 'very good' talks with Mecca pact nations on region's security",
+      "url": "https://www.channelnewsasia.com/world/mecca-iran-talks-middle-east-6494456",
+      "summary": "Iran’s security chief Mohsen Rezaei said security in the region “should be achieved by the countries themselves, and that we must prevent any kind of foreign intervention”.",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 05:43:00 +0800"
+    },
+    {
+      "title": "US judge says firing of daughter of former FBI director unlawful",
+      "url": "https://www.channelnewsasia.com/world/maurene-comey-james-fbi-director-fbi-director-6494416",
+      "summary": "Former federal prosecutor Maurene Comey sued the US Department of Justice, alleging she was fired because of her father, James Comey’s, criticism of US President Donald Trump or because of her perceived political beliefs.",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 05:15:00 +0800"
+    },
+    {
+      "title": "UN-commissioned experts say Gaza ceasefire has not stopped Israel from committing genocide",
+      "url": "https://www.channelnewsasia.com/world/un-expert-gaza-israel-alleged-genocide-6494281",
+      "summary": "The United Nations commissioned team said in a report that Israel was “continuing to commit genocidal acts with the genocidal intent to destroy, in whole or in part, the Palestinians in Gaza”.",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 04:29:00 +0800"
+    },
+    {
+      "title": "Machado ready to meet Venezuela leader after shock return",
+      "url": "https://www.channelnewsasia.com/world/machado-rodriguez-venezuela-return-exile-talks-eu-6494226",
+      "summary": "\"We trust that the Venezuelan authorities and all political actors will seize this opportunity to advance an inclusive, Venezuelan-led dialogue towards free and fair elections,\" EU foreign affairs spokesman Anouar El Anouni said.",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 02:58:00 +0800"
+    },
+    {
+      "title": "Egypt parliament authorises military support to Saudi Arabia",
+      "url": "https://www.channelnewsasia.com/world/saudi-arabia-egypt-military-defence-support-yemen-6493911",
+      "summary": "\"We are talking about defending the land and borders of the kingdom,” Egyptian President Abdel Fattah al-Sisi said.",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 02:25:00 +0800"
+    },
+    {
+      "title": "US singer Chris Brown avoids jail over London nightclub brawl",
+      "url": "https://www.channelnewsasia.com/world/chris-brown-london-nightclub-court-us-singer-6493891",
+      "summary": "Brown was handed an eight-month suspended sentence for admitting to taking part in a 2023 nightclub brawl in London, allowing him to avoid jail unless he commits another offence within the next year.",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 01:18:00 +0800"
+    },
+    {
+      "title": "Equities end higher as Anthropic's IPO filing buoys AI stocks",
+      "url": "https://www.channelnewsasia.com/business/wall-street-anthropic-ipo-ai-trade-stocks-6493796",
+      "summary": "",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 00:43:00 +0800"
+    },
+    {
+      "title": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran",
+      "url": "https://www.channelnewsasia.com/world/netanyahu-touts-trump-endorsement-eve-vote-suggests-they-may-restart-war-iran-6493331",
+      "summary": "",
+      "source": "CNA",
+      "published": "Mon, 26 Oct 2026 22:48:18 +0800"
+    },
     {
       "title": "CNA Explains: Why are the Houthis targeting Saudi airports?",
       "url": "https://www.channelnewsasia.com/world/cna-explains-houthis-targeting-saudi-arabia-airports-6492256",
       "summary": "Saudi Arabia's main international airport in Riyadh has been a repeated target of attacks by Yemen's Houthi rebels. CNA looks at why the Houthis are repeatedly targeting Saudi civilian infrastructure, and what this means for travel in the Middle East.",
       "source": "CNA",
-      "published": "Mon, 26 Oct 2026 19:43:41 +0800"
+      "published": "Mon, 26 Oct 2026 19:43:00 +0800"
     },
     {
       "title": "Officials from Mecca pact countries to meet Iranian officials in Tehran",
@@ -134,85 +211,8 @@
       "summary": "Authorities sent text messages to residents warning them of a \"hostile aerial threat\" targeting the city.",
       "source": "CNA",
       "published": "Mon, 26 Oct 2026 13:40:00 +0800"
-    },
-    {
-      "title": "First international flight takes off from new Sydney airport",
-      "url": "https://www.channelnewsasia.com/world/first-international-flight-new-western-sydney-airport-6492126",
-      "summary": "Western Sydney International Airport offers the first alternative to the city's main airport, which has been operating for more than a century.",
-      "source": "CNA",
-      "published": "Mon, 26 Oct 2026 12:22:00 +0800"
-    },
-    {
-      "title": "Singapore leaders condemn deadly church attack in Jordan, convey condolences to victims' families",
-      "url": "https://www.channelnewsasia.com/singapore/singapore-leaders-condemn-jordan-church-attack-6492041",
-      "summary": "Gunmen killed at least nine people and injured about 40 others on Friday when they opened fire during a funeral procession at St George’s Greek Orthodox Church in Jordan.",
-      "source": "CNA",
-      "published": "Mon, 26 Oct 2026 11:58:46 +0800"
-    },
-    {
-      "title": "Japan indicts US Marine on murder charge in Okinawa",
-      "url": "https://www.channelnewsasia.com/east-asia/japan-indicts-us-marine-murder-charge-okinawa-6491881",
-      "summary": "The 20-year-old suspect allegedly strangled a 39-year-old woman from Naha in a hotel with a telephone cord.",
-      "source": "CNA",
-      "published": "Mon, 26 Oct 2026 09:36:00 +0800"
-    },
-    {
-      "title": "Lula, Brazil's iconic working class president, wins fourth term in dramatic comeback",
-      "url": "https://www.channelnewsasia.com/world/lula-wins-brazil-presidential-election-against-bolsonaro-6491561",
-      "summary": "A shock comeback returns Luiz Inacio Lula da Silva to power for a fourth term, bucking polls and slowing Latin America’s right-wing surge.",
-      "source": "CNA",
-      "published": "Mon, 26 Oct 2026 08:30:00 +0800"
-    },
-    {
-      "title": "Serbia's Vucic concedes defeat in historic election win for student protest movement",
-      "url": "https://www.channelnewsasia.com/world/serbia-election-vucic-concede-defeat-student-protest-movement-6491631",
-      "summary": "Aleksandar Vucic has held power in Serbia since 2014, and his defeat heralds a new political era for the Balkan country.",
-      "source": "CNA",
-      "published": "Mon, 26 Oct 2026 07:40:00 +0800"
-    },
-    {
-      "title": "Brazil pauses presidential vote count after Supreme Court extends voting hours",
-      "url": "https://www.channelnewsasia.com/world/brazil-pauses-presidential-vote-count-after-supreme-court-extends-voting-hours-6490261",
-      "summary": "The election pits leftist President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, the son of convicted former President Jair Bolsonaro.",
-      "source": "CNA",
-      "published": "Mon, 26 Oct 2026 05:50:00 +0800"
-    },
-    {
-      "title": "Storms batter Europe hitting power supplies, flights and phones",
-      "url": "https://www.channelnewsasia.com/world/storms-batter-europe-hitting-power-supplies-flights-and-phones-6491546",
-      "summary": "",
-      "source": "CNA",
-      "published": "Mon, 26 Oct 2026 05:31:00 +0800"
-    },
-    {
-      "title": "Zelenskyy says US warnings on ballistic strikes have fully resumed",
-      "url": "https://www.channelnewsasia.com/world/zelenskyy-says-us-warnings-ballistic-strikes-have-fully-resumed-6491526",
-      "summary": "Zelenskyy casted the change as a result of a meeting with US special envoy Steve Witkoff in Oslo.",
-      "source": "CNA",
-      "published": "Mon, 26 Oct 2026 05:13:00 +0800"
-    },
-    {
-      "title": "Billionaire Trump backer says Ben-Gvir, Smotrich should not serve in next Israeli government",
-      "url": "https://www.channelnewsasia.com/world/billionaire-trump-backer-says-ben-gvir-smotrich-should-not-serve-in-next-israeli-government-6490701",
-      "summary": "The founder of Pershing Square Capital Management, who praised Netanyahu last week, said a government without the two ministers would send a message that Israel was \"turning a new page.\"",
-      "source": "CNA",
-      "published": "Mon, 26 Oct 2026 04:28:46 +0800"
-    },
-    {
-      "title": "Venezuela opposition leader Machado returns home after fraught year away",
-      "url": "https://www.channelnewsasia.com/world/venezuela-opposition-leader-machado-returns-home-after-fraught-year-away-6490756",
-      "summary": "Machado took a private plane from Panama to Colombia and then crossed overland to Venezuela, two people with knowledge of the matter said.",
-      "source": "CNA",
-      "published": "Mon, 26 Oct 2026 03:57:11 +0800"
-    },
-    {
-      "title": "UK's Burnham says he is open to discussing EU free movement",
-      "url": "https://www.channelnewsasia.com/world/uks-burnham-says-he-open-discussing-eu-free-movement-6491281",
-      "summary": "Official data has shown long-term net migration in 2025 fell to close to its level before a new post-Brexit immigration system was introduced at the start of 2021.",
-      "source": "CNA",
-      "published": "Mon, 26 Oct 2026 02:46:00 +0800"
     }
   ],
-  "generated_at": "2026-10-26T21:36:08+08:00",
+  "generated_at": "2026-10-27T07:48:14+08:00",
   "test_mode": false
 }
