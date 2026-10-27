@@ -1,8 +1,10 @@
 name: Sync
 on:
   schedule:
-    - cron: '5/5 * * * *'
-      timezone: Asia/Singapore
+    # Singapore weekdays: 00:00-07:59 SGT (previous UTC day 16:00-23:59)
+    - cron: '5/5 16-23 * * 0-4'
+    # Singapore weekdays: 08:00-23:59 SGT (same UTC day 00:00-15:59)
+    - cron: '5/5 0-15 * * 1-5'
   workflow_dispatch:
   push:
     branches: [main]
