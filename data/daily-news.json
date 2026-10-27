@@ -1,6 +1,27 @@
 {
   "singapore": [
     {
+      "title": "Too late, too far, too little choice: Why surplus food apps face challenges matching meals with takers",
+      "url": "https://www.channelnewsasia.com/singapore/food-rescue-apps-surplus-food-discount-6495796",
+      "summary": "\"They all want merchants near their home, near the office, and at a very steep discount and at a very convenient timing,\" says the founder of a food rescue app.",
+      "source": "CNA",
+      "published": "Wed, 28 Oct 2026 06:00:00 +0800"
+    },
+    {
+      "title": "Commentary: Singapore’s next big technology bet cannot wait till we’ve figured out AI",
+      "url": "https://www.channelnewsasia.com/commentary/singapore-ai-quantum-tech-jobs-investment-6494781",
+      "summary": "AI is today’s imperative. Quantum may be tomorrow’s advantage. The country must invest in both, say SGTech’s Gavin Chua and Gunasekharan Chellappan.",
+      "source": "CNA",
+      "published": "Wed, 28 Oct 2026 06:00:00 +0800"
+    },
+    {
+      "title": "Deli Hub Catering suspended after 53 develop gastroenteritis symptoms at two MOE kindergartens",
+      "url": "https://www.channelnewsasia.com/singapore/deli-hub-catering-suspended-gastroenteritis-moe-kindergartens-6496906",
+      "summary": "The affected individuals comprise 51 students and two staff members. None were hospitalised.",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 22:27:00 +0800"
+    },
+    {
       "title": "Singapore, Indonesia setting up joint task force to probe firms linked to forest fires; hotlines to manage differences",
       "url": "https://www.channelnewsasia.com/singapore/singapore-indonesia-haze-taskforce-hotline-6495736",
       "summary": "The task force, announced by the two countries' foreign ministers on Tuesday (Oct 27), will coordinate action and share information on companies linked to forest and land fires.",
@@ -83,30 +104,93 @@
       "summary": "Singapore earlier issued notices under the Transboundary Haze Pollution Act to 10 Singapore-based firms and 10 Indonesian firms.",
       "source": "CNA",
       "published": "Tue, 27 Oct 2026 11:41:00 +0800"
-    },
-    {
-      "title": "Youths to be trained to provide psychological first aid during emergencies under new MHA initiative",
-      "url": "https://www.channelnewsasia.com/singapore/mha-youths-psychological-first-aid-sim-ann-6492631",
-      "summary": "The first cohort will comprise 30 youths, with close to 100 expressing interest in the initiative.",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 11:30:00 +0800"
-    },
-    {
-      "title": "Singapore aiming for more solar panels in public spaces to hit new 2035 target",
-      "url": "https://www.channelnewsasia.com/singapore/solar-energy-panels-target-2035-6494786",
-      "summary": "The government will also look to develop a one-stop digital portal to encourage owners of landed homes to install solar panels.",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 10:34:00 +0800"
-    },
-    {
-      "title": "Singapore to host new ASEAN office to exchange jobs data, better track labour market shifts",
-      "url": "https://www.channelnewsasia.com/singapore/asean-labour-statistics-jobs-skills-data-ai-exposure-green-transition-platform-work-6493506",
-      "summary": "AI-related changes, platform work and green jobs are some key areas the ASEAN Labour Statistics Office will study.",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 10:31:25 +0800"
     }
   ],
   "world": [
+    {
+      "title": "Commentary: Anthropic’s record US$2 trillion stock market listing highlights growing risks for us all",
+      "url": "https://www.channelnewsasia.com/commentary/anthropic-2-trillion-ipo-growing-risks-ai-6496021",
+      "summary": "Holding AI risk in one's portfolio is becoming unavoidable for most investors, says an academic.",
+      "source": "CNA",
+      "published": "Wed, 28 Oct 2026 05:59:00 +0800"
+    },
+    {
+      "title": "Flavio Bolsonaro headed to US after Brazil election defeat: US media",
+      "url": "https://www.channelnewsasia.com/world/bolsonaro-brazil-election-defeat-lula-us-6497941",
+      "summary": "The US State Department said it would grant visas to Brazil’s defeated right-wing senator Flávio Bolsonaro and his family, while his political allies accepted the election results.",
+      "source": "CNA",
+      "published": "Wed, 28 Oct 2026 05:50:00 +0800"
+    },
+    {
+      "title": "Dutch zookeeper dies after leopard mauling",
+      "url": "https://www.channelnewsasia.com/world/zookeeper-leopards-killed-netherlands-dutch-zoo-6497931",
+      "summary": "A Dutch zoo keeper with nearly 40 years of experience has died after being mauled by two Persian leopards at Beekse Bergen Safari Park in the southern Netherlands.",
+      "source": "CNA",
+      "published": "Wed, 28 Oct 2026 05:40:00 +0800"
+    },
+    {
+      "title": "Ukraine, Russia say US-brokered truce holding in ravaged city",
+      "url": "https://www.channelnewsasia.com/world/ukraine-russia-us-brokered-truce-holding-6497861",
+      "summary": "The truce, announced by US First Lady Melania Trump, aims to provide aid to residents in the Russian-occupied city of Oleshky, and help those who wish to leave the city safely.",
+      "source": "CNA",
+      "published": "Wed, 28 Oct 2026 05:16:00 +0800"
+    },
+    {
+      "title": "Israeli exit polls show deadlock, setback for Netanyahu",
+      "url": "https://www.channelnewsasia.com/world/israel-election-netanyahu-eisenkot-exit-polls-6497831",
+      "summary": "The election saw record voter turnout, marking the first time Israelis went to the polls since the Hamas-led attacks on Oct 7, 2023.",
+      "source": "CNA",
+      "published": "Wed, 28 Oct 2026 04:29:00 +0800"
+    },
+    {
+      "title": "Norway, Finland leaders hold 'frank and substantive' talk with Putin",
+      "url": "https://www.channelnewsasia.com/world/norway-finland-russia-putin-ukraine-war-6497676",
+      "summary": "\"The outcome of this war will have a direct impact on our and the broader European security,\" Finnish President Alexander Stubb said in a joint statement with Norwegian Prime Minister Jonas Gahr Store.",
+      "source": "CNA",
+      "published": "Wed, 28 Oct 2026 03:01:00 +0800"
+    },
+    {
+      "title": "Trump says will respect US midterm results 'if they are honest'",
+      "url": "https://www.channelnewsasia.com/world/trump-us-midterms-election-respect-honest-results-6497496",
+      "summary": "US President Donald Trump said he would accept the US midterm election results only if they are “honest,” while campaigning to boost Republican support.",
+      "source": "CNA",
+      "published": "Wed, 28 Oct 2026 01:59:00 +0800"
+    },
+    {
+      "title": "Brazil's Bolsonaro has passports cancelled as whereabouts unclear",
+      "url": "https://www.channelnewsasia.com/world/flavio-bolsonaro-passports-cancelled-brazil-election-6497431",
+      "summary": "Brazilian right-wing senator Flavio Bolsonaro said in an earlier social media video that he had been barred from leaving the country and had been ordered to surrender his passports.",
+      "source": "CNA",
+      "published": "Wed, 28 Oct 2026 01:06:00 +0800"
+    },
+    {
+      "title": "US Justice Dept asks Washington state not to count ballots from possible noncitizens",
+      "url": "https://www.channelnewsasia.com/world/us-justice-department-washington-us-midterms-noncitizen-vote-6497396",
+      "summary": "",
+      "source": "CNA",
+      "published": "Wed, 28 Oct 2026 00:47:00 +0800"
+    },
+    {
+      "title": "Pope Leo to meet survivors of abuse by clergy in Latin America, Vatican says",
+      "url": "https://www.channelnewsasia.com/world/pope-leo-south-america-trip-abuse-victims-6497376",
+      "summary": "Pope Leo will visit Uruguay, Argentina and Peru to meet victims of abuse by members of the clergy and the Church.",
+      "source": "CNA",
+      "published": "Wed, 28 Oct 2026 00:29:00 +0800"
+    },
+    {
+      "title": "GSK to nearly double cancer medicines in clinical trials next year",
+      "url": "https://www.channelnewsasia.com/world/gsk-cancer-medicines-clinical-trials-6497336",
+      "summary": "",
+      "source": "CNA",
+      "published": "Wed, 28 Oct 2026 00:12:00 +0800"
+    },
+    {
+      "title": "Palestinians protest against military demolitions in West Bank as Israelis vote",
+      "url": "https://www.channelnewsasia.com/world/palestinians-protest-against-military-demolitions-in-west-bank-israelis-vote-6496861",
+      "summary": "Over 3,000 Palestinians had been forced from their homes by the Israeli military operation, which targeted neighborhoods near the checkpoint where Palestinian gunmen killed the two Israeli soldiers on Oct 23, the United Nations said.",
+      "source": "CNA",
+      "published": "Tue, 27 Oct 2026 22:24:31 +0800"
+    },
     {
       "title": "Houthi official says Egypt's military support for Saudi declaration of war",
       "url": "https://www.channelnewsasia.com/world/houthi-egypt-saudi-arabia-military-support-war-6496056",
@@ -127,92 +211,8 @@
       "summary": "",
       "source": "CNA",
       "published": "Tue, 27 Oct 2026 17:28:47 +0800"
-    },
-    {
-      "title": "Russia, Ukraine begin Oleshky ceasefire but keep up strikes elsewhere",
-      "url": "https://www.channelnewsasia.com/world/russia-ukraine-begin-oleshky-ceasefire-keep-up-strikes-elsewhere-6495076",
-      "summary": "",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 16:57:50 +0800"
-    },
-    {
-      "title": "Trump’s proposed US$70,000 work training fee could drive foreign students away, warn US educators",
-      "url": "https://www.channelnewsasia.com/world/usa-universities-colleges-foreign-students-proposed-opt-fees-educators-oppose-6493866",
-      "summary": "American educators warn that a Trump administration proposal to impose hefty fees on universities for international students seeking work experience could deter foreign enrolment, threatening billions in economic contributions and the country's global influence.",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 16:53:47 +0800"
-    },
-    {
-      "title": "Indian media groups decry Modi’s privacy law in court, say newsrooms face shutdown risk",
-      "url": "https://www.channelnewsasia.com/asia/indian-media-groups-decry-modis-privacy-law-in-court-say-newsrooms-face-shutdown-risk-6495616",
-      "summary": "",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 16:30:00 +0800"
-    },
-    {
-      "title": "Tripling renewable energy capacity by 2030 may still not be enough to meet climate goals: IRENA chief",
-      "url": "https://www.channelnewsasia.com/world/irena-chief-renewable-energy-target-2030-may-not-be-enough-climate-goals-6492991",
-      "summary": "Rising energy demand, driven by changing lifestyles and the growth of AI, is adding pressure to the global energy transition, IRENA chief Francesco La Camera told CNA's Roland Lim.",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 15:34:38 +0800"
-    },
-    {
-      "title": "North Korean artillery pointed south stirs concern at border observatory",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-points-artillery-south-dmz-border-6495571",
-      "summary": "",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 14:38:00 +0800"
-    },
-    {
-      "title": "Anthropic points to AI dangers, soaring sales in IPO filing",
-      "url": "https://www.channelnewsasia.com/world/anthropic-ai-dangers-soaring-sales-ipo-6495171",
-      "summary": "A disappointing reception for Anthropic could dent investor enthusiasm for AI, a sector that has become a key driver of the US economy amid worries of a market bubble.",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 11:07:00 +0800"
-    },
-    {
-      "title": "Fastest turnout in 45 years as Israelis pass wartime judgment on Netanyahu",
-      "url": "https://www.channelnewsasia.com/world/israel-election-prime-minister-netanyahu-6494976",
-      "summary": "Benjamin Netanyahu, Israel's longest-serving leader with 19 years in office, is due for a close race against a rival alliance led by former military chief of staff Gadi Eisenkot as the country goes to the polls.",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 09:50:00 +0800"
-    },
-    {
-      "title": "England and Bayern forward Harry Kane wins men's Ballon d'Or",
-      "url": "https://www.channelnewsasia.com/sport/england-harry-kane-ballon-dor-win-bayern-munich-6494586",
-      "summary": "Kane is the first Englishman in 25 years to win Ballon d'Or, with the last being Michael Owen in 2001.",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 07:19:00 +0800"
-    },
-    {
-      "title": "Commentary: Middle powers need the US – when it comes to China exports",
-      "url": "https://www.channelnewsasia.com/commentary/trump-china-tariffs-partners-action-overcapacity-6490791",
-      "summary": "A recent joint statement about overcapacity suggests a shift in how US and its trade partners are looking to respond to China Shock 2.0, says US politics observer Steven Okun.",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 05:59:00 +0800"
-    },
-    {
-      "title": "Commentary: Ukraine’s drone strikes on Russian data centres may change how we see disinformation",
-      "url": "https://www.channelnewsasia.com/commentary/ukraine-drone-strikes-russia-data-centres-disinformation-6492666",
-      "summary": "Data centres are an unconventional military target but that may be changing as their importance grows, says an academic.",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 05:58:00 +0800"
-    },
-    {
-      "title": "Iran holds 'very good' talks with Mecca pact nations on region's security",
-      "url": "https://www.channelnewsasia.com/world/mecca-iran-talks-middle-east-6494456",
-      "summary": "Iran’s security chief Mohsen Rezaei said security in the region “should be achieved by the countries themselves, and that we must prevent any kind of foreign intervention”.",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 05:43:00 +0800"
-    },
-    {
-      "title": "US judge says firing of daughter of former FBI director unlawful",
-      "url": "https://www.channelnewsasia.com/world/maurene-comey-james-fbi-director-fbi-director-6494416",
-      "summary": "Former federal prosecutor Maurene Comey sued the US Department of Justice, alleging she was fired because of her father, James Comey’s, criticism of US President Donald Trump or because of her perceived political beliefs.",
-      "source": "CNA",
-      "published": "Tue, 27 Oct 2026 05:15:00 +0800"
     }
   ],
-  "generated_at": "2026-10-27T20:41:30+08:00",
+  "generated_at": "2026-10-28T07:16:44+08:00",
   "test_mode": false
 }
