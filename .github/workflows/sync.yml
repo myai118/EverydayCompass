@@ -1,0 +1,38 @@
+name: Sync
+on:
+  schedule:
+    - cron: '3/5 * * * *'
+      timezone: Asia/Singapore
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: sync
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Download
+        run: |
+          set -euo pipefail
+          tempdir="$(mktemp -d)"
+          trap 'rm -rf "$tempdir"' EXIT
+          curl --fail --silent --show-error --location 'https://raw.githubusercontent.com/sgkjeajk/stkref/main/market-data.json' --output "$tempdir/market-data.json"
+          curl --fail --silent --show-error --location 'https://raw.githubusercontent.com/sgkjeajk/stkref/main/dividend-data.json' --output "$tempdir/dividend-data.json"
+          cp "$tempdir/market-data.json" market-data.json
+          cp "$tempdir/dividend-data.json" dividend-data.json
+      - name: Save
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add market-data.json dividend-data.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update monitor data'
+            git push origin HEAD:main
+          else
+            echo 'No data changes.'
+          fi
