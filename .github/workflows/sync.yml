@@ -55,7 +55,7 @@ jobs:
                   'source_dividend_generated_at': dividend_stamp,
                   'copied_at': dt.datetime.now(dt.timezone.utc).isoformat().replace('+00:00', 'Z'),
               }
-              status_path.write_text(json.dumps(status, indent=2) + '\\n', encoding='utf-8')
+              status_path.write_text(json.dumps(status, indent=2) + '\n', encoding='utf-8')
           PY
       - name: Save
         run: |
