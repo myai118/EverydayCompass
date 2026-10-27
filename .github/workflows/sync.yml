@@ -4,6 +4,10 @@ on:
     - cron: '3/5 * * * *'
       timezone: Asia/Singapore
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/sync.yml'
 permissions:
   contents: write
 concurrency:
