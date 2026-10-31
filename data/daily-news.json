@@ -1,11 +1,18 @@
 {
   "singapore": [
     {
+      "title": "Over 6,000 new homes to come for Toa Payoh West, with amenities clustered around Caldecott MRT station",
+      "url": "https://www.channelnewsasia.com/singapore/toa-payoh-west-masterplan-housing-caldecott-6506331",
+      "summary": "The area's first BTO project, Toa Payoh Hillside, will offer about 1,600 flats in the November 2026 sales exercise.",
+      "source": "CNA",
+      "published": "Sat, 31 Oct 2026 14:22:00 +0800"
+    },
+    {
       "title": "Singapore's air quality remains in good-to-moderate range as haze eases",
       "url": "https://www.channelnewsasia.com/singapore/haze-singapore-pm25-psi-oct-31-nea-6508766",
       "summary": "The haze situation is expected to improve as inter-monsoon conditions set in, according to the Meteorological Service Singapore.",
       "source": "CNA",
-      "published": "Sat, 31 Oct 2026 07:45:42 +0800"
+      "published": "Sat, 31 Oct 2026 07:45:00 +0800"
     },
     {
       "title": "Fatal Tampines accident: Man charged with dangerous driving and fleeing crash that killed 2",
@@ -13,6 +20,13 @@
       "summary": "Muhammad Zulfiqar Abdul Aziz, 30, was remanded for investigations and will return to court on Nov 27.",
       "source": "CNA",
       "published": "Sat, 31 Oct 2026 06:31:00 +0800"
+    },
+    {
+      "title": "End of an era: Tracing Lee Biscuits' 92-year journey from Singapore to Johor",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-lee-biscuits-marie-workers-close-6498911",
+      "summary": "From Marie biscuits and cream crackers to colourful iced gems, Lee Biscuits' snacks were household staples for generations of Singaporeans and Malaysians. After 92 years, production is coming to an end.",
+      "source": "CNA",
+      "published": "Sat, 31 Oct 2026 06:00:00 +0800"
     },
     {
       "title": "'Making history is a huge honour': Singapore's first WWE wrestler Dante Chen on his journey and what comes next",
@@ -25,13 +39,6 @@
       "title": "S$100 for 12-course pizza dinner: Inside a couple’s home-based pizzeria in Yishun",
       "url": "https://www.channelnewsasia.com/cna-insider/insider/hustle-hdb-flat-home-based-business-pizza-dining-pizzeria-6505991",
       "summary": "A shared love of pizza has turned into a home-based business. Limited space, demanding schedules and contrasting working styles are now tests David Shen and Sheralyn Tay must navigate, as captured by On The Red Dot.",
-      "source": "CNA",
-      "published": "Sat, 31 Oct 2026 06:00:00 +0800"
-    },
-    {
-      "title": "End of an era: Tracing Lee Biscuits' 92-year journey from Singapore to Johor",
-      "url": "https://www.channelnewsasia.com/asia/malaysia-lee-biscuits-marie-workers-close-6498911",
-      "summary": "From Marie biscuits and cream crackers to colourful iced gems, Lee Biscuits' snacks were household staples for generations of Singaporeans and Malaysians. After 92 years, production is coming to an end.",
       "source": "CNA",
       "published": "Sat, 31 Oct 2026 06:00:00 +0800"
     },
@@ -97,16 +104,44 @@
       "summary": "With no company prosecuted yet under the Transboundary Haze Pollution Act, legal experts map out the possible ways to enhance the law and other regulations in order to proactively manage risks of future haze incidents.",
       "source": "CNA",
       "published": "Fri, 30 Oct 2026 14:25:00 +0800"
-    },
-    {
-      "title": "Domestic worker gets jail for punching non-verbal autistic child at least 23 times",
-      "url": "https://www.channelnewsasia.com/singapore/autistic-child-abuse-maid-jail-6506041",
-      "summary": "The 29-year-old woman also recorded videos of the family’s three children naked in the toilet and sent them to her husband “to show him how mischievous the victims were”.",
-      "source": "CNA",
-      "published": "Fri, 30 Oct 2026 14:12:00 +0800"
     }
   ],
   "world": [
+    {
+      "title": "US campaign for control of Congress enters final weekend",
+      "url": "https://www.channelnewsasia.com/world/us-midterm-election-campaign-congress-final-weekend-6509386",
+      "summary": "",
+      "source": "CNA",
+      "published": "Sat, 31 Oct 2026 19:13:00 +0800"
+    },
+    {
+      "title": "Residents of Russian-controlled Ukrainian town arrive in Belarus",
+      "url": "https://www.channelnewsasia.com/world/residents-russian-controlled-ukrainian-town-arrive-in-belarus-6509371",
+      "summary": "Hundreds of starving and exhausted residents left the town of Oleshky on Friday during a US-backed local ceasefire, the first of its kind and the longest humanitarian pause in the war, which is nearing its fifth year.",
+      "source": "CNA",
+      "published": "Sat, 31 Oct 2026 17:59:23 +0800"
+    },
+    {
+      "title": "Shooting at California Halloween store kills one, wounds six",
+      "url": "https://www.channelnewsasia.com/world/shooting-california-halloween-store-kills-one-wounds-six-6509311",
+      "summary": "The shooting took place hours before the start of Halloween, which is celebrated in the United States on Saturday.",
+      "source": "CNA",
+      "published": "Sat, 31 Oct 2026 17:02:00 +0800"
+    },
+    {
+      "title": "Pakistan military 'cautiously optimistic' on Iran-US mediation",
+      "url": "https://www.channelnewsasia.com/asia/pakistan-military-cautiously-optimistic-iran-us-mediation-6509251",
+      "summary": "Pakistan's chief mediator in its efforts to de-escalate the now eight-month-old Iran war has been to Tehran twice this month, most recently on Monday alongside Saudi and Turkish officials.",
+      "source": "CNA",
+      "published": "Sat, 31 Oct 2026 16:02:08 +0800"
+    },
+    {
+      "title": "Nations commit to get nature goals back on track at UN biodiversity summit",
+      "url": "https://www.channelnewsasia.com/world/nations-commit-get-nature-goals-back-track-un-biodiversity-summit-6509211",
+      "summary": "The COP17 summit in Armenia sought to revive a landmark commitment to halt and reverse the destruction of nature by 2030 after global efforts to meet that goal fell short.",
+      "source": "CNA",
+      "published": "Sat, 31 Oct 2026 14:35:17 +0800"
+    },
     {
       "title": "AI giants promise publishers new way to block some scraping",
       "url": "https://www.channelnewsasia.com/world/ai-giants-promise-publishers-new-way-block-some-scraping-6509181",
@@ -176,43 +211,8 @@
       "summary": "",
       "source": "CNA",
       "published": "Fri, 30 Oct 2026 19:45:47 +0800"
-    },
-    {
-      "title": "What options Netanyahu and Eisenkot have after Israel's deadlocked election",
-      "url": "https://www.channelnewsasia.com/world/what-options-netanyahu-and-eisenkot-have-after-israels-deadlocked-election-6506926",
-      "summary": "Given the indecisive result, Prime Minister Benjamin Netanyahu and Gadi Eisenkot would need to find a way to broaden their blocs if they hope to secure a governing coalition.",
-      "source": "CNA",
-      "published": "Fri, 30 Oct 2026 19:23:52 +0800"
-    },
-    {
-      "title": "Spain working 'tirelessly' to identify train crash dead: PM",
-      "url": "https://www.channelnewsasia.com/world/spain-train-crash-madrid-identify-dead-6506886",
-      "summary": "Relatives of the victims have endured an agonising wait for news as rescue crews sift through the wreckage of tangled metal and bodies are examined in morgues.",
-      "source": "CNA",
-      "published": "Fri, 30 Oct 2026 19:13:00 +0800"
-    },
-    {
-      "title": "Vivian Balakrishnan urges ‘much higher’ trade with Pakistan on first visit by a Singapore leader since 2005",
-      "url": "https://www.channelnewsasia.com/singapore/mfa-vivian-balakrishnan-pakistan-ishaq-dar-6505711",
-      "summary": "The minister for foreign affairs was speaking at a joint press conference with his Pakistani counterpart while on an official visit to Pakistan, the first by a Singapore leader in over 20 years.",
-      "source": "CNA",
-      "published": "Fri, 30 Oct 2026 18:33:00 +0800"
-    },
-    {
-      "title": "US midterms: Data centre expansions spark backlash across political divide",
-      "url": "https://www.channelnewsasia.com/world/us-midterms-data-centre-backlash-pennsylvania-6506506",
-      "summary": "Rising electricity costs, environmental concerns and the spread of large data centres are becoming campaign issues in closely contested congressional races in Pennsylvania.",
-      "source": "CNA",
-      "published": "Fri, 30 Oct 2026 18:14:07 +0800"
-    },
-    {
-      "title": "Protests spread across Europe as cost-of-living pressures fuel public anger",
-      "url": "https://www.channelnewsasia.com/world/protests-across-europe-cost-living-pressures-fuel-public-anger-6503196",
-      "summary": "French protesters say new government measures do not go far enough, raising the prospect of further unrest ahead of a presidential election next April.",
-      "source": "CNA",
-      "published": "Fri, 30 Oct 2026 17:32:39 +0800"
     }
   ],
-  "generated_at": "2026-10-31T14:20:25+08:00",
+  "generated_at": "2026-10-31T21:00:21+08:00",
   "test_mode": false
 }
