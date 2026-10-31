@@ -8,23 +8,23 @@
       "published": "Sat, 31 Oct 2026 07:45:42 +0800"
     },
     {
-      "title": "Two arrested over fatal hit-and-run Tampines accident; man, 30, to be charged for dangerous driving",
+      "title": "Fatal Tampines accident: Man charged with dangerous driving and fleeing crash that killed 2",
       "url": "https://www.channelnewsasia.com/singapore/tampines-accident-man-be-charged-6508686",
-      "summary": "The man and his female passenger, 29, were arrested on Friday near West Coast Road, a day after the accident that killed a motorcyclist and his pillion rider, both 24.",
+      "summary": "Muhammad Zulfiqar Abdul Aziz, 30, was remanded for investigations and will return to court on Nov 27.",
       "source": "CNA",
       "published": "Sat, 31 Oct 2026 06:31:00 +0800"
-    },
-    {
-      "title": "What it takes to turn a 5-room HDB flat into a private dining pizzeria",
-      "url": "https://www.channelnewsasia.com/cna-insider/insider/hustle-hdb-flat-home-based-business-pizza-dining-pizzeria-6505991",
-      "summary": "A shared love of pizza has turned into a home-based business. Limited space, demanding schedules and contrasting working styles are now tests David Shen and Sheralyn Tay must navigate, as captured by On The Red Dot.",
-      "source": "CNA",
-      "published": "Sat, 31 Oct 2026 06:00:00 +0800"
     },
     {
       "title": "'Making history is a huge honour': Singapore's first WWE wrestler Dante Chen on his journey and what comes next",
       "url": "https://www.channelnewsasia.com/singapore/dante-chen-singapore-wwe-wrestler-japan-6502211",
       "summary": "Nearly 14 years after beginning his wrestling career in Singapore, Dante Chen is returning to where it all started. He tells CNA about his five years with WWE, his departure from the company and the next chapter of his career.",
+      "source": "CNA",
+      "published": "Sat, 31 Oct 2026 06:00:00 +0800"
+    },
+    {
+      "title": "S$100 for 12-course pizza dinner: Inside a couple’s home-based pizzeria in Yishun",
+      "url": "https://www.channelnewsasia.com/cna-insider/insider/hustle-hdb-flat-home-based-business-pizza-dining-pizzeria-6505991",
+      "summary": "A shared love of pizza has turned into a home-based business. Limited space, demanding schedules and contrasting working styles are now tests David Shen and Sheralyn Tay must navigate, as captured by On The Red Dot.",
       "source": "CNA",
       "published": "Sat, 31 Oct 2026 06:00:00 +0800"
     },
@@ -108,6 +108,20 @@
   ],
   "world": [
     {
+      "title": "AI giants promise publishers new way to block some scraping",
+      "url": "https://www.channelnewsasia.com/world/ai-giants-promise-publishers-new-way-block-some-scraping-6509181",
+      "summary": "Publishers currently have to implement multiple blocking commands for every bot that crawls the web to collect data, but the new proposed solution will allow them to enter a single, standardised instruction that's recognised and honoured.",
+      "source": "CNA",
+      "published": "Sat, 31 Oct 2026 13:47:00 +0800"
+    },
+    {
+      "title": "Gen Z protests hit Germany as over 160,000 expected at Halloween rallies, while France braces for more unrest",
+      "url": "https://www.channelnewsasia.com/world/germany-gen-z-protests-160000-expected-halloween-6508941",
+      "summary": "France is bracing for a third weekend of protests coinciding with Halloween, with shops boarded up and authorities scrambling to prevent a repeat of the street violence that swept the country two weeks ago.",
+      "source": "CNA",
+      "published": "Sat, 31 Oct 2026 09:56:00 +0800"
+    },
+    {
       "title": "Commentary: What would happen if the internet went down?",
       "url": "https://www.channelnewsasia.com/commentary/ai-cybersecurity-attack-php-6506261",
       "summary": "In the wrong hands, AI tools can threaten the underlying systems the internet relies on, outpacing many organisations’ capability to patch them, says an academic.",
@@ -119,7 +133,7 @@
       "url": "https://www.channelnewsasia.com/world/pope-leo-makes-history-us-midterm-vote-6508626",
       "summary": "The Vatican said the Chicago-born pope believes citizens have a \"right and duty\" to take part in democratic elections.",
       "source": "CNA",
-      "published": "Sat, 31 Oct 2026 05:41:10 +0800"
+      "published": "Sat, 31 Oct 2026 05:41:00 +0800"
     },
     {
       "title": "Botched execution survivor Christa Pike says she's in constant pain",
@@ -197,22 +211,8 @@
       "summary": "French protesters say new government measures do not go far enough, raising the prospect of further unrest ahead of a presidential election next April.",
       "source": "CNA",
       "published": "Fri, 30 Oct 2026 17:32:39 +0800"
-    },
-    {
-      "title": "SIA extends cancellation of Dubai flights to Feb 28",
-      "url": "https://www.channelnewsasia.com/singapore/sia-dubai-flights-cancelled-february-2027-6506341",
-      "summary": "The extended cancellations are due to the geopolitical situation in the Middle East, said Singapore Airlines.",
-      "source": "CNA",
-      "published": "Fri, 30 Oct 2026 17:07:53 +0800"
-    },
-    {
-      "title": "Rubio hosts G20 ministers as Iran, Ukraine wars divide members",
-      "url": "https://www.channelnewsasia.com/world/us-marco-rubio-g20-ministers-iran-ukraine-war-6506156",
-      "summary": "",
-      "source": "CNA",
-      "published": "Fri, 30 Oct 2026 14:33:00 +0800"
     }
   ],
-  "generated_at": "2026-10-31T08:53:21+08:00",
+  "generated_at": "2026-10-31T14:20:25+08:00",
   "test_mode": false
 }
