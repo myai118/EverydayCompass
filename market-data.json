@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T10:55:06.450872Z",
+  "generated_at": "2026-10-31T11:01:06.734215Z",
   "ath_since": "2000-01-01",
   "config_revision": 46,
   "instruments": [
@@ -4051,6 +4051,6 @@
   "request_id": "queue-20261031012504595087",
   "workflow_run": "41155250796",
   "ath_refresh_requested": false,
-  "last_check_completed_at": "2026-10-31T10:55:06.450872Z",
+  "last_check_completed_at": "2026-10-31T11:01:06.734215Z",
   "last_check_status": "skipped_market_closed"
 }
