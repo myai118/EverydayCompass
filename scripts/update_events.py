@@ -764,22 +764,71 @@ def read_ura_events(cfg, today, fetcher):
     return dedupe(events)
 
 
+def verified_empty_source(html, key, today):
+    """Require positive evidence of an empty calendar; an unreadable page is never empty."""
+    soup = BeautifulSoup(html, "html.parser")
+    main = soup.find("main") or soup
+    text = norm(main.get_text(" ", strip=True))
+    if re.search(r"verify.{0,20}(?:human|robot)|access denied|checking your browser|temporarily unavailable|page not found|loading(?:\.\.\.|…)", text, re.I):
+        return False
+    def walk(value):
+        if isinstance(value, list):
+            for item in value:
+                yield from walk(item)
+        elif isinstance(value, dict):
+            yield value
+            for name in ("@graph", "itemListElement", "item", "subEvent"):
+                if name in value:
+                    yield from walk(value[name])
+    events = []
+    for script in soup.find_all("script", type="application/ld+json"):
+        try:
+            for node in walk(json.loads(script.string or script.get_text())):
+                kinds = node.get("@type", [])
+                kinds = kinds if isinstance(kinds, list) else [kinds]
+                if any(isinstance(kind, str) and kind.endswith("Event") for kind in kinds):
+                    events.append(node)
+        except (ValueError, TypeError):
+            return False
+    if events:
+        for event in events:
+            if str(event.get("eventStatus", "")).endswith("EventCancelled"):
+                continue
+            raw = event.get("endDate") or event.get("startDate")
+            try:
+                stamp = datetime.fromisoformat(str(raw).replace("Z", "+00:00"))
+                end = stamp.astimezone(SGT).date() if stamp.tzinfo else stamp.date()
+            except (TypeError, ValueError):
+                return False
+            if end >= today:
+                return False
+        return True
+    # A site's explicit empty-state message is valid only on a recognised, loaded page.
+    heading = main.find("h1")
+    return bool(heading and re.search(
+        r"\b(?:no (?:upcoming|current|ongoing|scheduled) (?:events|exhibitions|programmes)|"
+        r"no events (?:found|available|scheduled)|there are (?:currently )?no events)\b", text, re.I))
+
+
 def read_source_events(cfg, key, today, fetcher):
     if key == "ura":
         return read_ura_events(cfg, today, fetcher)
     urls = list(dict.fromkeys([cfg.get("listing_url", cfg["url"])]
                              + OFFICIAL_LISTING_ALTERNATIVES.get(key, [])))
     errors = []
+    empty_confirmed = False
 
     def extract(html):
+        nonlocal empty_confirmed
         events = parse_source_html(html, key, today)
-        # Read official detail links before rendering the JavaScript listing.
-        return events or fetch_official_details(html, key, today, fetcher)
+        events = events or fetch_official_details(html, key, today, fetcher)
+        empty_confirmed = not events and verified_empty_source(html, key, today)
+        return events
 
     for url in urls:
         try:
             fresh = extract(fetcher(url))
-            if fresh:
+            if fresh or empty_confirmed:
                 return fresh
             errors.append(f"{url}: zero usable events")
         except Exception as exc:
@@ -789,7 +838,7 @@ def read_source_events(cfg, key, today, fetcher):
         for url in urls:
             try:
                 fresh = extract(render_source(url))
-                if fresh:
+                if fresh or empty_confirmed:
                     return fresh
                 errors.append(f"{url}: zero usable events after browser read")
             except Exception as exc:
@@ -812,7 +861,7 @@ def update(previous, today=None, fetcher=fetch):
                 # If no detail links/results are usable, fall back to conservative listing parser.
                 if not fresh:
                     fresh = parse_source_html(html, key, today)
-                if not fresh:
+                if not fresh and not verified_empty_source(html, key, today):
                     raise ValueError("zero usable Esplanade events; preserving previous source records")
                 all_events.extend(fresh)
                 report[key] = {"status":"fresh", "count":len(fresh),
