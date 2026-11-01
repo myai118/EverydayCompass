@@ -729,7 +729,7 @@ def read_ura_events(cfg, today, fetcher):
         link = urljoin(cfg["url"], anchor["href"]).split("#")[0].split("?")[0]
         label = norm(anchor.get_text(" ", strip=True))
         if (official_link(link, "ura") and DETAIL_PATHS["ura"].fullmatch(urlparse(link).path)
-                and re.search(r"\bExhibitions\b", label, re.I)
+                and re.search(r"\bExhibitions\s*$", label, re.I)
                 and link not in links):
             links.append(link)
     if not links:

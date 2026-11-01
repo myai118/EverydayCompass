@@ -38,3 +38,13 @@ def test_empty_success_updates_last_check_and_removes_expired_records():
     assert result["sources"][0]["status"] == "ok"
     assert result["sources"][0]["last_success"] != previous["sources"][0]["last_success"]
     assert not result["all_sources_failed"]
+
+def test_open_calls_mentioning_exhibitions_are_excluded():
+    listing = LISTING + '<a href="/get-involved/events-and-exhibitions/proposals/">Propose exhibitions Competitions and Open Calls</a>'
+    def fetch(url):
+        if url == CFG["ura"]["url"]:
+            return listing
+        assert not url.endswith("/proposals/")
+        return '<main><h1>Demo</h1><p>Date: Until 26 October 2026</p></main>'
+    with rw.patched(CFG):
+        assert rw.ue.read_source_events(CFG["ura"], "ura", date(2026,11,1), fetch) == []
