@@ -508,7 +508,7 @@ function renderSourceStatus(feed){
   nm.textContent=r.name||r.id||"Source";
   if(nm.tagName==="A"){nm.href=r.url; nm.target="_blank"; nm.rel="noopener";}
   const st=document.createElement("span");
-  if(r.status==="ok"){st.className="src-ok"; st.textContent=" ✓ checked "+formatSGT(r.last_success);}
+  if(r.status==="ok"){st.className="src-ok"; st.textContent=" ✓ checked "+formatSGT(r.last_success)+(r.count===0?" · no current events listed":"");}
   else{st.className="src-warn"; st.textContent=" ⚠ could not be read this time · last successful check: "+(r.last_success?formatSGT(r.last_success):"none recorded yet");}
   li.append(nm,st); list.append(li);
  });
