@@ -718,7 +718,55 @@ OFFICIAL_LISTING_ALTERNATIVES = {
 BROWSER_SOURCES = {"gardens", "artscience", "visit_singapore", "catch_sg", "national_museum", "eventbrite", "allevents", "nlb_calendar", "onepa", "nparks"}
 
 
+def read_ura_events(cfg, today, fetcher):
+    """A verified empty public-exhibition calendar is a successful read."""
+    listing = BeautifulSoup(fetcher(cfg.get("listing_url", cfg["url"])), "html.parser")
+    heading = listing.find("h1")
+    if not heading or norm(heading.get_text(" ", strip=True)).lower() != "events & exhibitions":
+        raise ValueError("URA listing structure not recognised")
+    links = []
+    for anchor in listing.find_all("a", href=True):
+        link = urljoin(cfg["url"], anchor["href"]).split("#")[0].split("?")[0]
+        label = norm(anchor.get_text(" ", strip=True))
+        if (official_link(link, "ura") and DETAIL_PATHS["ura"].fullmatch(urlparse(link).path)
+                and re.search(r"\bExhibitions\b", label, re.I)
+                and link not in links):
+            links.append(link)
+    if not links:
+        raise ValueError("URA exhibition links missing; cannot confirm an empty calendar")
+    events = []
+    for link in links:
+        detail_html = fetcher(link)
+        detail = BeautifulSoup(detail_html, "html.parser")
+        for node in detail.select("nav, header, footer, aside, script, style"):
+            node.decompose()
+        main = detail.find("main") or detail
+        if not main.find("h1"):
+            raise ValueError("URA detail structure not recognised: " + link)
+        text = norm(main.get_text(" ", strip=True))
+        # Prefer visitor dates; a publication date is never evidence of expiry.
+        match = MONTH_FIRST_RANGE.search(text) or DATE_RANGE.search(text) or ISO_RANGE.search(text) or SHORT_DATE_RANGE.search(text)
+        until = re.search(r"\b(?:until|till)\s+(\d{1,2}\s+[A-Za-z]{3,9}\s+\d{4})", text, re.I)
+        period = match.group(0) if match else until.group(1) if until else ""
+        end = finite_end_date(period) if period else None
+        if end is None:
+            # The historical William Lim page links only to an online virtual exhibition.
+            if main.find("a", href=re.compile(r"^https://app\.cloudpano\.com/")) and not re.search(r"\b(?:Date|Location):", text, re.I):
+                continue
+            raise ValueError("URA visitor dates could not be verified: " + link)
+        if end < today:
+            continue
+        parsed = parse_official_detail(detail_html, link, "ura", today)
+        if not parsed:
+            raise ValueError("URA current exhibition could not be parsed: " + link)
+        events.extend(parsed)
+    print(f"URA: checked {len(links)} exhibition pages; {len(events)} current events", flush=True)
+    return dedupe(events)
+
+
 def read_source_events(cfg, key, today, fetcher):
+    if key == "ura":
+        return read_ura_events(cfg, today, fetcher)
     urls = list(dict.fromkeys([cfg.get("listing_url", cfg["url"])]
                              + OFFICIAL_LISTING_ALTERNATIVES.get(key, [])))
     errors = []
