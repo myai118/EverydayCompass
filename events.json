@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-01T09:18:07+08:00",
+  "updated_at": "2026-11-01T09:28:15+08:00",
   "events": [
+    {
+      "title": "[A S.U.R.E. Mystery: Mission 1] Showcase at Selected Libraries",
+      "overview": "About the Event A S.U.R.E. Mystery – Mission 1: The Case of the Missing Manuscript Put on your detective cap! A rare first edition, The Final Voyage to the East, has vanished...",
+      "period": "2026-10-17 to 2026-11-15",
+      "start_date": "2026-10-17",
+      "end_date": "2026-11-15",
+      "time": "10:00am – 9:00pm",
+      "venue": "Others",
+      "adult": "Check official information",
+      "category": "Event / Programme",
+      "link": "https://nlb.libcal.com/event/5977500",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "source_key": "nlb_calendar",
+      "source": "NLB GoLibrary — All Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "date_added": "2026-11-01"
+    },
     {
       "title": "[Teens Takeover | re:write] Book Buzz | Readers Assemble",
       "overview": "About the Event What’s on your superhero reading list? Join us for a special Book Buzz featuring recommendations inspired by the world of superheroes, from comics and graphic n...",
@@ -111,11 +137,11 @@
       "period": "2026-11-01 to 2026-11-01",
       "start_date": "2026-11-01",
       "end_date": "2026-11-01",
-      "time": "2:00pm – 4:00pm",
+      "time": "11:00am – 1:00pm",
       "venue": "Punggol Library - Meeting Room (Level 3)",
       "adult": "Check official information",
       "category": "Event / Programme",
-      "link": "https://nlb.libcal.com/event/5976595",
+      "link": "https://nlb.libcal.com/event/5976594",
       "tags": [
         "ending",
         "ongoing"
@@ -411,32 +437,6 @@
       "date_added": "2026-10-25"
     },
     {
-      "title": "Can aI Help You? Discover GenAI with Good Help Mart @ Sembawang Library",
-      "overview": "Welcome to Good Help Mart, where shelves are stocked with playful, hands-on experiences with AI tools. Browse at your own pace; discover how AI can add a little spark to everyday...",
-      "period": "2026-11-01 to 2026-11-05",
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-05",
-      "time": "9:00am – 9:00pm",
-      "venue": "Sembawang Library",
-      "adult": "Check official information",
-      "category": "Event / Programme",
-      "link": "https://nlb.libcal.com/event/5978627",
-      "tags": [
-        "ending",
-        "ongoing"
-      ],
-      "source_key": "nlb_calendar",
-      "source": "NLB GoLibrary — All Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "date_added": "2026-11-01"
-    },
-    {
       "title": "Can aI Help You? Discover GenAI with Good Help Mart @ Serangoon Library",
       "overview": "Welcome to Good Help Mart, where shelves are stocked with playful, hands-on experiences with AI tools. Browse at your own pace; discover how AI can add a little spark to everyday...",
       "period": "2026-11-01 to 2026-11-05",
@@ -533,6 +533,32 @@
         "ongoing"
       ],
       "date_added": null
+    },
+    {
+      "title": "Collage Poetry Workshop with Elisa & Jin",
+      "overview": "About the Event Explore the memories and stories held within the everyday spaces of Bishan through words, images and collage. Inspired by local and Southeast Asian literature,...",
+      "period": "2026-11-01 to 2026-11-01",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "time": "3:30pm – 6:00pm",
+      "venue": "Bishan Library - Programme Zone (Level 2)",
+      "adult": "Check official information",
+      "category": "Event / Programme",
+      "link": "https://nlb.libcal.com/event/5976094",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "source_key": "nlb_calendar",
+      "source": "NLB GoLibrary — All Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "date_added": "2026-11-01"
     },
     {
       "title": "Common Ground",
@@ -1149,6 +1175,32 @@
       "date_added": null
     },
     {
+      "title": "Make Inclusive Tech Sunday @ Punggol Library | MakeIT",
+      "overview": "About the Event Drop by Punggol Regional Library for Make Inclusive Tech Sundays! (M.I.T Sundays!) Event will be held within MakeIT at Punggol (Level 4) Learn about assistive...",
+      "period": "2026-11-01 to 2026-11-01",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "time": "12:00pm – 2:30pm",
+      "venue": "Punggol Library - MakeIT (Level 4)",
+      "adult": "Check official information",
+      "category": "Event / Programme",
+      "link": "https://nlb.libcal.com/event/5977221",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "source_key": "nlb_calendar",
+      "source": "NLB GoLibrary — All Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "date_added": "2026-11-01"
+    },
+    {
       "title": "Make Inclusive Tech Sunday @ Tampines Library | MakeIT",
       "overview": "About the Event Drop by Tampines Library for Make Inclusive Tech Sundays! (M.I.T Sundays!) Learn about assistive tech(tech that helps with special needs), participate in...",
       "period": "2026-11-01 to 2026-11-01",
@@ -1225,32 +1277,6 @@
       "status": "Ending Soon",
       "statusClass": "ending",
       "date_added": "2026-11-01"
-    },
-    {
-      "title": "MOLLY Weekend Outreach @ Fernvale Woods",
-      "overview": "About the Event MOLLY the Mobile Library is coming to your neighbourhood! Come onboard MOLLY and enjoy the library experience closer to home. Browse and borrow books for all ages...",
-      "period": "2026-11-01 to 2026-11-01",
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "time": "9:00am – 12:00pm",
-      "venue": "Others",
-      "adult": "Check official information",
-      "category": "Event / Programme",
-      "link": "https://nlb.libcal.com/event/5978376",
-      "tags": [
-        "ending",
-        "ongoing"
-      ],
-      "source_key": "nlb_calendar",
-      "source": "NLB GoLibrary — All Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "date_added": "2026-10-31"
     },
     {
       "title": "MOLLY Weekend Outreach @ Marine Crescent Ville",
@@ -1870,33 +1896,6 @@
       "date_added": null
     },
     {
-      "title": "The Istana Open House – Storytelling by Krayonkecil",
-      "overview": "\"The Brilliant Oil Lamp\" written by Quek Hong Shin",
-      "period": "2026-11-01 to 2026-11-01",
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "time": "10:30am – 3:30pm",
-      "venue": "The Istana",
-      "adult": "Free",
-      "category": "Event / Programme",
-      "link": "https://allevents.in/singapore/the-istana-open-house-storytelling-by-krayonkecil/100002002599692589",
-      "tags": [
-        "ending",
-        "free",
-        "ongoing"
-      ],
-      "source_key": "allevents",
-      "source": "AllEvents Singapore — Free Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "date_added": "2026-11-01"
-    },
-    {
       "title": "The Misanthrope (Screening)",
       "category": "Event",
       "overview": "★★★★ ‘Sandra Oh shines in a witty update of Molière’s Misanthrope. ’ – Sunday Times",
@@ -1941,33 +1940,6 @@
         "ongoing"
       ],
       "date_added": null
-    },
-    {
-      "title": "The No-Tenant Property Strategy",
-      "overview": "A two-day masterclass for Singapore property owners on generating returns without relying on tenants.",
-      "period": "2026-10-31 to 2026-11-01",
-      "start_date": "2026-10-31",
-      "end_date": "2026-11-01",
-      "time": "1:30pm – 3:30pm",
-      "venue": "The Clan Hotel Singapore",
-      "adult": "Free",
-      "category": "Event / Programme",
-      "link": "https://allevents.in/singapore/the-no-tenant-property-strategy/100002003800661720",
-      "tags": [
-        "ending",
-        "free",
-        "ongoing"
-      ],
-      "source_key": "allevents",
-      "source": "AllEvents Singapore — Free Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "date_added": "2026-11-01"
     },
     {
       "title": "Todd’s Fable-lous Bag (Preschool…",
@@ -2115,6 +2087,32 @@
         "ongoing"
       ],
       "date_added": null
+    },
+    {
+      "title": "Yamaha Primary Course Explorer (Age 3) @ Clementi",
+      "overview": "At 3 years old, children are naturally drawn to fantasy and imagination. Join us for a joyful musical experience!",
+      "period": "2026-10-31 to 2026-11-28",
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-28",
+      "time": "5:00pm – 5:00pm",
+      "venue": "Yamaha Music School, Clementi Branch",
+      "adult": "Free",
+      "category": "Event / Programme",
+      "link": "https://allevents.in/singapore/yamaha-primary-course-explorer-age-3-clementi/100001862553621019",
+      "tags": [
+        "free",
+        "ongoing"
+      ],
+      "source_key": "allevents",
+      "source": "AllEvents Singapore — Free Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ongoing",
+      "statusClass": "",
+      "date_added": "2026-11-01"
     },
     {
       "title": "இன்று புதிதாய் பிறந்தோம் Today We Are Born Anew",
@@ -2627,32 +2625,6 @@
         "upcoming"
       ],
       "date_added": null
-    },
-    {
-      "title": "Dubai Property Investment | Private Consultation in Singapore | 2–6 Nov",
-      "overview": "Explore Dubai property investment opportunities through exclusive one-on-one consultations in Singapore.",
-      "period": "2026-11-02 to 2026-11-06",
-      "start_date": "2026-11-02",
-      "end_date": "2026-11-06",
-      "time": "8:30am – 9:30pm",
-      "venue": "Mandala Club",
-      "adult": "Free",
-      "category": "Event / Programme",
-      "link": "https://allevents.in/singapore/dubai-property-investment-private-consultation-in-singapore-2-6-nov/100002003345187384",
-      "tags": [
-        "free",
-        "upcoming"
-      ],
-      "source_key": "allevents",
-      "source": "AllEvents Singapore — Free Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "date_added": "2026-11-01"
     },
     {
       "title": "Free Suntec Bootcamp: The Faceless Ad Method for Property Agents",
@@ -3184,32 +3156,6 @@
       "date_added": null
     },
     {
-      "title": "Rakuten AI Technology Conference 2026",
-      "overview": "Rakuten's annual Tech showcase event, Rakuten AI Technology Conference, is back and this year, the theme is:\"AI-nization: Enhance & Augment\"",
-      "period": "2026-11-14 to 2026-11-14",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "time": "11:00am – 4:00pm",
-      "venue": "CapitaGreen",
-      "adult": "Free",
-      "category": "Event / Programme",
-      "link": "https://allevents.in/singapore/rakuten-ai-technology-conference-2026/100002003051940274",
-      "tags": [
-        "free",
-        "upcoming"
-      ],
-      "source_key": "allevents",
-      "source": "AllEvents Singapore — Free Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "date_added": "2026-11-01"
-    },
-    {
       "title": "Rhythms of Tradition",
       "category": "Event",
       "overview": "The students and alumnus of Singapore Indian Fine Arts Society present a showcase of dance pieces that highlight the classical Indian dance forms such as bharatanatyam , kathak and kuchipudi , through a vibrant tapestry of music, movement and storytelling.",
@@ -3425,6 +3371,32 @@
         "upcoming"
       ],
       "date_added": null
+    },
+    {
+      "title": "Spring Sprang Sprung 2026",
+      "overview": "The first Singaporean watch fair of its kind—one which focuses on independent watch brands, is back this 2026 at GlassDome Singapore.",
+      "period": "2026-11-14 to 2026-11-15",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "time": "11:00am – 7:00pm",
+      "venue": "Glass Dome - Landmark of Good",
+      "adult": "Free",
+      "category": "Event / Programme",
+      "link": "https://allevents.in/singapore/spring-sprang-sprung-2026/100001995453498129",
+      "tags": [
+        "free",
+        "upcoming"
+      ],
+      "source_key": "allevents",
+      "source": "AllEvents Singapore — Free Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "date_added": "2026-11-01"
     },
     {
       "title": "Tai Chi For Healthy Longevity",
@@ -3892,11 +3864,11 @@
     },
     "allevents": {
       "status": "fresh",
-      "count": 17
+      "count": 15
     },
     "nlb_calendar": {
       "status": "fresh",
-      "count": 42
+      "count": 43
     },
     "nparks": {
       "status": "fresh",
@@ -3910,7 +3882,7 @@
       "url": "https://singaporeccc.org.sg/events/",
       "status": "ok",
       "count": 25,
-      "last_success": "2026-11-01T09:16:03+08:00",
+      "last_success": "2026-11-01T09:26:05+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3920,7 +3892,7 @@
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-01T09:16:03+08:00",
+      "last_success": "2026-11-01T09:26:05+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3930,7 +3902,7 @@
       "url": "https://www.esplanade.com/whats-on",
       "status": "ok",
       "count": 23,
-      "last_success": "2026-11-01T09:16:03+08:00",
+      "last_success": "2026-11-01T09:26:05+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3940,7 +3912,7 @@
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-11-01T09:16:03+08:00",
+      "last_success": "2026-11-01T09:26:05+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3950,7 +3922,7 @@
       "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-11-01T09:16:03+08:00",
+      "last_success": "2026-11-01T09:26:05+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3970,7 +3942,7 @@
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
       "status": "ok",
       "count": 5,
-      "last_success": "2026-11-01T09:16:03+08:00",
+      "last_success": "2026-11-01T09:26:05+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3980,7 +3952,7 @@
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-01T09:16:03+08:00",
+      "last_success": "2026-11-01T09:26:05+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3990,7 +3962,7 @@
       "url": "https://www.catch.sg/Event?EventCategory=Free%20Events",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-11-01T09:16:03+08:00",
+      "last_success": "2026-11-01T09:26:05+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3999,8 +3971,8 @@
       "name": "AllEvents Singapore — Free Events",
       "url": "https://allevents.in/singapore/free-events",
       "status": "ok",
-      "count": 17,
-      "last_success": "2026-11-01T09:16:03+08:00",
+      "count": 15,
+      "last_success": "2026-11-01T09:26:05+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4009,8 +3981,8 @@
       "name": "NLB GoLibrary — All Events",
       "url": "https://nlb.libcal.com/calendar/public",
       "status": "ok",
-      "count": 42,
-      "last_success": "2026-11-01T09:16:03+08:00",
+      "count": 43,
+      "last_success": "2026-11-01T09:26:05+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4020,7 +3992,7 @@
       "url": "https://www.nparks.gov.sg/visit/events",
       "status": "ok",
       "count": 9,
-      "last_success": "2026-11-01T09:16:03+08:00",
+      "last_success": "2026-11-01T09:26:05+08:00",
       "error": "",
       "needs_reader_review": false
     }
