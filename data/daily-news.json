@@ -36,23 +36,23 @@
       "published": "Sun, 01 Nov 2026 08:45:44 +0800"
     },
     {
-      "title": "Singapore haze: PM2.5 readings back to normal islandwide after west briefly enters elevated band",
+      "title": "Singapore haze: PM2.5 readings remain in normal range across all regions",
       "url": "https://www.channelnewsasia.com/singapore/haze-pm25-psi-nov-1-6510401",
-      "summary": "The 24-hour PSI is forecast to be in the moderate range on Sunday, between 51 and 70.",
+      "summary": "The 24-hour PSI is forecast to be in the moderate range on Monday, between 51 and 80.",
       "source": "CNA",
       "published": "Sun, 01 Nov 2026 07:34:00 +0800"
-    },
-    {
-      "title": "Commentary: The invisible workforce helping Singapore age well",
-      "url": "https://www.channelnewsasia.com/commentary/singapore-ageing-health-community-care-career-6506566",
-      "summary": "Helping seniors age well takes more than hospital care, says Agency for Integrated Care Manpower and Talent Chief Derek Tan on Community Care Day (Nov 1).",
-      "source": "CNA",
-      "published": "Sun, 01 Nov 2026 06:00:00 +0800"
     },
     {
       "title": "Rare, roomy and pricey? Inside Singapore's niche jumbo HDB flat market",
       "url": "https://www.channelnewsasia.com/singapore/jumbo-hdb-flat-singapore-rare-housing-market-6506081",
       "summary": "With HDB reviewing the flat conversion scheme to create jumbo flats, CNA speaks with owners of such units about the attraction of extra space – and the extra cost.",
+      "source": "CNA",
+      "published": "Sun, 01 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "Commentary: The invisible workforce helping Singapore age well",
+      "url": "https://www.channelnewsasia.com/commentary/singapore-ageing-health-community-care-career-6506566",
+      "summary": "Helping seniors age well takes more than hospital care, says Agency for Integrated Care Manpower and Talent Chief Derek Tan on Community Care Day (Nov 1).",
       "source": "CNA",
       "published": "Sun, 01 Nov 2026 06:00:00 +0800"
     },
@@ -108,6 +108,27 @@
   ],
   "world": [
     {
+      "title": "French school blockades to restart from Monday: Student group",
+      "url": "https://www.channelnewsasia.com/world/france-protest-school-blockade-students-6510796",
+      "summary": "France's protest movement against soaring prices emerged from weeks of demonstrations by high school students protesting deteriorating learning conditions and inequality.",
+      "source": "CNA",
+      "published": "Sun, 01 Nov 2026 19:22:26 +0800"
+    },
+    {
+      "title": "Bulgaria votes in presidential runoff after tight first round",
+      "url": "https://www.channelnewsasia.com/world/bulgaria-votes-in-presidential-runoff-after-tight-first-round-6510741",
+      "summary": "The vote comes against the backdrop of a series of drone attacks on merchant ships off Bulgaria’s Black Sea coast in the past month.",
+      "source": "CNA",
+      "published": "Sun, 01 Nov 2026 17:21:00 +0800"
+    },
+    {
+      "title": "Turkey moves Kurdish militant leader Ocalan to a new part of an island prison under peace push",
+      "url": "https://www.channelnewsasia.com/world/turkey-moves-kurdish-militant-leader-ocalan-new-part-island-prison-under-peace-push-6510726",
+      "summary": "Ocalan has been imprisoned in a penitentiary on the island of Imrali in the Marmara Sea, since he was captured in 1999.",
+      "source": "CNA",
+      "published": "Sun, 01 Nov 2026 17:04:00 +0800"
+    },
+    {
       "title": "Trump says US looking ‘closely’ at report Nvidia CEO is target of China spy plot",
       "url": "https://www.channelnewsasia.com/asia/trump-says-us-looking-closely-report-nvidia-ceo-target-china-spy-plot-6510641",
       "summary": "US President Donald Trump voiced on Saturday (Oct 31) his support for the “brilliant” head of US chip giant Nvidia, Jensen Huang after a report that he was targeted by a Chinese spy plot.",
@@ -115,11 +136,11 @@
       "published": "Sun, 01 Nov 2026 13:06:24 +0800"
     },
     {
-      "title": "Indian authorities tighten security ahead of big opposition march in Delhi",
-      "url": "https://www.channelnewsasia.com/asia/indian-authorities-tighten-security-ahead-big-opposition-march-in-delhi-6510591",
-      "summary": "Protesters are set to demand the resignation of India's election chief over a controversial revision of voter lists.",
+      "title": "Thousands join Indian opposition protest demanding poll chief’s resignation",
+      "url": "https://www.channelnewsasia.com/asia/thousands-join-indian-opposition-protest-demanding-poll-chiefs-resignation-6510591",
+      "summary": "The protest on Sunday (Nov 1) is the latest in more than a month of opposition rallies challenging Indian Prime Minister Narendra Modi.",
       "source": "CNA",
-      "published": "Sun, 01 Nov 2026 12:42:46 +0800"
+      "published": "Sun, 01 Nov 2026 12:42:00 +0800"
     },
     {
       "title": "Bolivia declares state of emergency over El Nino",
@@ -190,29 +211,8 @@
       "summary": "The shooting took place hours before the start of Halloween, which is celebrated in the United States on Saturday.",
       "source": "CNA",
       "published": "Sat, 31 Oct 2026 17:02:00 +0800"
-    },
-    {
-      "title": "Pakistan military 'cautiously optimistic' on Iran-US mediation",
-      "url": "https://www.channelnewsasia.com/asia/pakistan-military-cautiously-optimistic-iran-us-mediation-6509251",
-      "summary": "Pakistan's chief mediator in its efforts to de-escalate the now eight-month-old Iran war has been to Tehran twice this month, most recently on Monday alongside Saudi and Turkish officials.",
-      "source": "CNA",
-      "published": "Sat, 31 Oct 2026 16:02:08 +0800"
-    },
-    {
-      "title": "Nations commit to get nature goals back on track at UN biodiversity summit",
-      "url": "https://www.channelnewsasia.com/world/nations-commit-get-nature-goals-back-track-un-biodiversity-summit-6509211",
-      "summary": "The COP17 summit in Armenia sought to revive a landmark commitment to halt and reverse the destruction of nature by 2030 after global efforts to meet that goal fell short.",
-      "source": "CNA",
-      "published": "Sat, 31 Oct 2026 14:35:17 +0800"
-    },
-    {
-      "title": "AI giants promise publishers new way to block some scraping",
-      "url": "https://www.channelnewsasia.com/world/ai-giants-promise-publishers-new-way-block-some-scraping-6509181",
-      "summary": "Publishers currently have to implement multiple blocking commands for every bot that crawls the web to collect data, but the new proposed solution will allow them to enter a single, standardised instruction that's recognised and honoured.",
-      "source": "CNA",
-      "published": "Sat, 31 Oct 2026 13:47:00 +0800"
     }
   ],
-  "generated_at": "2026-11-01T14:52:59+08:00",
+  "generated_at": "2026-11-01T19:28:50+08:00",
   "test_mode": false
 }
