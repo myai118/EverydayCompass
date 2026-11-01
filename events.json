@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T07:24:11+08:00",
+  "updated_at": "2026-11-01T09:18:07+08:00",
   "events": [
     {
       "title": "[Teens Takeover | re:write] Book Buzz | Readers Assemble",
@@ -111,11 +111,11 @@
       "period": "2026-11-01 to 2026-11-01",
       "start_date": "2026-11-01",
       "end_date": "2026-11-01",
-      "time": "11:00am – 1:00pm",
+      "time": "2:00pm – 4:00pm",
       "venue": "Punggol Library - Meeting Room (Level 3)",
       "adult": "Check official information",
       "category": "Event / Programme",
-      "link": "https://nlb.libcal.com/event/5976594",
+      "link": "https://nlb.libcal.com/event/5976595",
       "tags": [
         "ending",
         "ongoing"
@@ -220,6 +220,32 @@
       "adult": "Check official information",
       "category": "Event / Programme",
       "link": "https://nlb.libcal.com/event/5971494",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "source_key": "nlb_calendar",
+      "source": "NLB GoLibrary — All Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "date_added": "2026-11-01"
+    },
+    {
+      "title": "AI For Everyday Living",
+      "overview": "About the Event In this friendly, hands-on workshop, you’ll be paired with a youth buddy who will guide you one-on-one as you explore Google Gemini and learn simple, practical...",
+      "period": "2026-11-01 to 2026-11-01",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "time": "4:00pm – 5:00pm",
+      "venue": "Bedok Library - Programme Room (Level 3)",
+      "adult": "Check official information",
+      "category": "Event / Programme",
+      "link": "https://nlb.libcal.com/event/5976471",
       "tags": [
         "ending",
         "ongoing"
@@ -385,6 +411,32 @@
       "date_added": "2026-10-25"
     },
     {
+      "title": "Can aI Help You? Discover GenAI with Good Help Mart @ Sembawang Library",
+      "overview": "Welcome to Good Help Mart, where shelves are stocked with playful, hands-on experiences with AI tools. Browse at your own pace; discover how AI can add a little spark to everyday...",
+      "period": "2026-11-01 to 2026-11-05",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-05",
+      "time": "9:00am – 9:00pm",
+      "venue": "Sembawang Library",
+      "adult": "Check official information",
+      "category": "Event / Programme",
+      "link": "https://nlb.libcal.com/event/5978627",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "source_key": "nlb_calendar",
+      "source": "NLB GoLibrary — All Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "date_added": "2026-11-01"
+    },
+    {
       "title": "Can aI Help You? Discover GenAI with Good Help Mart @ Serangoon Library",
       "overview": "Welcome to Good Help Mart, where shelves are stocked with playful, hands-on experiences with AI tools. Browse at your own pace; discover how AI can add a little spark to everyday...",
       "period": "2026-11-01 to 2026-11-05",
@@ -481,32 +533,6 @@
         "ongoing"
       ],
       "date_added": null
-    },
-    {
-      "title": "Collage Poetry Workshop with Elisa & Jin",
-      "overview": "About the Event Explore the memories and stories held within the everyday spaces of Bishan through words, images and collage. Inspired by local and Southeast Asian literature,...",
-      "period": "2026-11-01 to 2026-11-01",
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "time": "3:30pm – 6:00pm",
-      "venue": "Bishan Library - Programme Zone (Level 2)",
-      "adult": "Check official information",
-      "category": "Event / Programme",
-      "link": "https://nlb.libcal.com/event/5976094",
-      "tags": [
-        "ending",
-        "ongoing"
-      ],
-      "source_key": "nlb_calendar",
-      "source": "NLB GoLibrary — All Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "date_added": "2026-11-01"
     },
     {
       "title": "Common Ground",
@@ -1121,32 +1147,6 @@
         "ongoing"
       ],
       "date_added": null
-    },
-    {
-      "title": "Make Inclusive Tech Sunday @ Punggol Library | MakeIT",
-      "overview": "About the Event Drop by Punggol Regional Library for Make Inclusive Tech Sundays! (M.I.T Sundays!) Event will be held within MakeIT at Punggol (Level 4) Learn about assistive...",
-      "period": "2026-11-01 to 2026-11-01",
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "time": "12:00pm – 2:30pm",
-      "venue": "Punggol Library - MakeIT (Level 4)",
-      "adult": "Check official information",
-      "category": "Event / Programme",
-      "link": "https://nlb.libcal.com/event/5977221",
-      "tags": [
-        "ending",
-        "ongoing"
-      ],
-      "source_key": "nlb_calendar",
-      "source": "NLB GoLibrary — All Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "date_added": "2026-11-01"
     },
     {
       "title": "Make Inclusive Tech Sunday @ Tampines Library | MakeIT",
@@ -1943,6 +1943,33 @@
       "date_added": null
     },
     {
+      "title": "The No-Tenant Property Strategy",
+      "overview": "A two-day masterclass for Singapore property owners on generating returns without relying on tenants.",
+      "period": "2026-10-31 to 2026-11-01",
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-01",
+      "time": "1:30pm – 3:30pm",
+      "venue": "The Clan Hotel Singapore",
+      "adult": "Free",
+      "category": "Event / Programme",
+      "link": "https://allevents.in/singapore/the-no-tenant-property-strategy/100002003800661720",
+      "tags": [
+        "ending",
+        "free",
+        "ongoing"
+      ],
+      "source_key": "allevents",
+      "source": "AllEvents Singapore — Free Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "date_added": "2026-11-01"
+    },
+    {
       "title": "Todd’s Fable-lous Bag (Preschool…",
       "category": "Event / Exhibition",
       "overview": "Nov 01, 2026 - Dec 31, 2028 Todd’s Fable-lous Bag (Preschool… Todd’s Fable-lous Bag is SCCC’s inaugural thematic travelling trunk programme for preschools. Comprising 3 themes,… Other Free",
@@ -2088,57 +2115,6 @@
         "ongoing"
       ],
       "date_added": null
-    },
-    {
-      "title": "Yoo Hyun Mi: The Blank Puzzle (The Image Yet to Come)",
-      "overview": "STPI presents Yoo Hyun Mi: The Blank Puzzle (The Image Yet to Come), the latest chapter in the artist's long-running The Blank Puzzle project (1998 – present), dedicated to the idea that blankness itself can hold meaning. Marking the first presentation of The Blank Puzzle at this scale in Southeast Asia, the exhibition revisits and expands the landmark series’ enduring exploration of materiality, perception, and the subconscious, at a significant inflection point for the influence of Korean artists globally.",
-      "period": "31 Oct 2026 - 12 Dec 2026",
-      "category": "Event / Exhibition",
-      "link": "https://www.catch.sg/Event/Yoo-Hyun-Mi-The-Blank-Puzzle-The-Image-Yet-to-Come-20261029060241",
-      "source_key": "catch_sg",
-      "source": "Catch.sg — Free Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "time": "Check official information",
-      "venue": "Catch.sg — Free Events",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Ongoing",
-      "statusClass": "",
-      "tags": [
-        "free",
-        "ongoing"
-      ],
-      "date_added": "2026-11-01"
-    },
-    {
-      "title": "Your Career in Healthcare: What's Next For You?",
-      "overview": "Thinking about your next move in healthcare? Let's talk over coffee. ☕",
-      "period": "2026-11-01 to 2026-11-01",
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "time": "10:00am – 12:00pm",
-      "venue": "Aventis Graduate School",
-      "adult": "Free",
-      "category": "Event / Programme",
-      "link": "https://allevents.in/singapore/your-career-in-healthcare-whats-next-for-you/100002004059037529",
-      "tags": [
-        "ending",
-        "free",
-        "ongoing"
-      ],
-      "source_key": "allevents",
-      "source": "AllEvents Singapore — Free Events",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "date_added": "2026-11-01"
     },
     {
       "title": "இன்று புதிதாய் பிறந்தோம் Today We Are Born Anew",
@@ -2651,6 +2627,32 @@
         "upcoming"
       ],
       "date_added": null
+    },
+    {
+      "title": "Dubai Property Investment | Private Consultation in Singapore | 2–6 Nov",
+      "overview": "Explore Dubai property investment opportunities through exclusive one-on-one consultations in Singapore.",
+      "period": "2026-11-02 to 2026-11-06",
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "time": "8:30am – 9:30pm",
+      "venue": "Mandala Club",
+      "adult": "Free",
+      "category": "Event / Programme",
+      "link": "https://allevents.in/singapore/dubai-property-investment-private-consultation-in-singapore-2-6-nov/100002003345187384",
+      "tags": [
+        "free",
+        "upcoming"
+      ],
+      "source_key": "allevents",
+      "source": "AllEvents Singapore — Free Events",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "date_added": "2026-11-01"
     },
     {
       "title": "Free Suntec Bootcamp: The Faceless Ad Method for Property Agents",
@@ -3874,7 +3876,7 @@
     "ura": {
       "status": "fallback",
       "count": 0,
-      "error": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/: zero usable events; preserving previous source records"
+      "error": "URA visitor dates could not be verified: https://www.ura.gov.sg/get-involved/events-and-exhibitions/open-call-for-proposals-vab2027/"
     },
     "nlb": {
       "status": "fresh",
@@ -3886,11 +3888,11 @@
     },
     "catch_sg": {
       "status": "fresh",
-      "count": 3
+      "count": 2
     },
     "allevents": {
       "status": "fresh",
-      "count": 16
+      "count": 17
     },
     "nlb_calendar": {
       "status": "fresh",
@@ -3908,7 +3910,7 @@
       "url": "https://singaporeccc.org.sg/events/",
       "status": "ok",
       "count": 25,
-      "last_success": "2026-11-01T07:22:13+08:00",
+      "last_success": "2026-11-01T09:16:03+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3918,7 +3920,7 @@
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-01T07:22:13+08:00",
+      "last_success": "2026-11-01T09:16:03+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3928,7 +3930,7 @@
       "url": "https://www.esplanade.com/whats-on",
       "status": "ok",
       "count": 23,
-      "last_success": "2026-11-01T07:22:13+08:00",
+      "last_success": "2026-11-01T09:16:03+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3938,7 +3940,7 @@
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-11-01T07:22:13+08:00",
+      "last_success": "2026-11-01T09:16:03+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3948,7 +3950,7 @@
       "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-11-01T07:22:13+08:00",
+      "last_success": "2026-11-01T09:16:03+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3959,8 +3961,8 @@
       "status": "fallback",
       "count": 0,
       "last_success": "2026-10-26T06:32:07+08:00",
-      "error": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/: zero usable events; preserving previous source records",
-      "needs_reader_review": true
+      "error": "URA visitor dates could not be verified: https://www.ura.gov.sg/get-involved/events-and-exhibitions/open-call-for-proposals-vab2027/",
+      "needs_reader_review": false
     },
     {
       "id": "nlb",
@@ -3968,7 +3970,7 @@
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
       "status": "ok",
       "count": 5,
-      "last_success": "2026-11-01T07:22:13+08:00",
+      "last_success": "2026-11-01T09:16:03+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3978,7 +3980,7 @@
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-01T07:22:13+08:00",
+      "last_success": "2026-11-01T09:16:03+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3987,8 +3989,8 @@
       "name": "Catch.sg — Free Events",
       "url": "https://www.catch.sg/Event?EventCategory=Free%20Events",
       "status": "ok",
-      "count": 3,
-      "last_success": "2026-11-01T07:22:13+08:00",
+      "count": 2,
+      "last_success": "2026-11-01T09:16:03+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3997,8 +3999,8 @@
       "name": "AllEvents Singapore — Free Events",
       "url": "https://allevents.in/singapore/free-events",
       "status": "ok",
-      "count": 16,
-      "last_success": "2026-11-01T07:22:13+08:00",
+      "count": 17,
+      "last_success": "2026-11-01T09:16:03+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4008,7 +4010,7 @@
       "url": "https://nlb.libcal.com/calendar/public",
       "status": "ok",
       "count": 42,
-      "last_success": "2026-11-01T07:22:13+08:00",
+      "last_success": "2026-11-01T09:16:03+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -4018,7 +4020,7 @@
       "url": "https://www.nparks.gov.sg/visit/events",
       "status": "ok",
       "count": 9,
-      "last_success": "2026-11-01T07:22:13+08:00",
+      "last_success": "2026-11-01T09:16:03+08:00",
       "error": "",
       "needs_reader_review": false
     }
