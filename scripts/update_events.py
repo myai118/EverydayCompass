@@ -649,6 +649,13 @@ def fetch(url, timeout=30):
     r.raise_for_status()
     if r.status_code != 200 or not r.content:
         raise ValueError(f"Official source returned HTTP {r.status_code} with no usable page; keeping previous events")
+    # Requests otherwise defaults charset-less HTML to Latin-1.
+    if "charset=" not in r.headers.get("Content-Type", "").lower():
+        try:
+            r.content.decode("utf-8")
+            r.encoding = "utf-8"
+        except UnicodeDecodeError:
+            pass
     soup = BeautifulSoup(r.text, "html.parser")
     page_text = norm(soup.get_text(" ", strip=True))
     if "verify that you're not a robot" in page_text.lower() or "enable javascript and then reload" in page_text.lower():
