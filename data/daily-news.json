@@ -1,6 +1,27 @@
 {
   "singapore": [
     {
+      "title": "Tiered social media access preferred over outright ban, but is it enough to keep teens safe?",
+      "url": "https://www.channelnewsasia.com/singapore/social-media-ban-tiered-access-parents-experts-6511786",
+      "summary": "Come 2027, Singapore will introduce legislation on age assurance and safer design of social media for teenagers. But experts say keeping children safe online requires more than restrictions.",
+      "source": "CNA",
+      "published": "Tue, 03 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "Commentary: How super-aged Singapore should think about financial security",
+      "url": "https://www.channelnewsasia.com/commentary/super-aged-singapore-financial-security-planning-cpf-housing-6512771",
+      "summary": "With much of their wealth tied up in housing and CPF savings, ageing households need to consider whether they have sufficient financial buffers to weather unexpected shocks, say Duke-NUS’ Daniel Mahadzir and NUS’ Stanley Sia.",
+      "source": "CNA",
+      "published": "Tue, 03 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "Singaporean jailed in Australia for driving over man who stole backpack, killing him",
+      "url": "https://www.channelnewsasia.com/singapore/singaporean-jail-australia-driving-hit-man-stole-bag-manslaughter-6513316",
+      "summary": "The judge said the decision to confront the man and knock him off his e-bike involved \"a degree of vigilantism\".",
+      "source": "CNA",
+      "published": "Mon, 02 Nov 2026 22:22:00 +0800"
+    },
+    {
       "title": "CNA Explains: What happens to carbon credits when the forests protecting them burn?",
       "url": "https://www.channelnewsasia.com/singapore/cna-explains-carbon-credits-offset-emissions-forest-fires-6512761",
       "summary": "Wildfires in Indonesia are threatening forests linked to carbon credit projects. What does this mean for companies that have paid to offset their emissions, and are the safeguards enough?",
@@ -83,30 +104,65 @@
       "summary": "Scott Lee, 29, is giving the Chinatown stall another shot, while brother Troy, 31, is leaving hawker life behind. What changed for the siblings who once said the lifestyle wasn’t what they wanted?",
       "source": "CNA",
       "published": "Mon, 02 Nov 2026 10:43:00 +0800"
-    },
-    {
-      "title": "Man with mental condition jailed for attempting to kill stranger at Kallang Wave Mall",
-      "url": "https://www.channelnewsasia.com/singapore/man-plead-guilty-attempted-culpable-homicide-stranger-kallang-6510561",
-      "summary": "The victim, a 31-year-old woman, was drinking with her boyfriend and acquaintance at Kallang Wave Mall when she went to the toilet and was attacked.",
-      "source": "CNA",
-      "published": "Mon, 02 Nov 2026 10:21:00 +0800"
-    },
-    {
-      "title": "Singapore haze: 24-hr PSI readings in good-to-moderate range islandwide",
-      "url": "https://www.channelnewsasia.com/singapore/singapore-haze-psi-pm25-nov-2-6511726",
-      "summary": "1-hour PM2.5 readings are in the normal range across all regions.",
-      "source": "CNA",
-      "published": "Mon, 02 Nov 2026 08:08:00 +0800"
-    },
-    {
-      "title": "Chemotherapy left her feet too swollen for shoes but this single mum kept running: 'It saved my life'",
-      "url": "https://www.channelnewsasia.com/women/breast-cancer-chemotherapy-running-single-mum-6461851",
-      "summary": "Cassandra Hie started running to cope with her divorce, then kept going through breast cancer and chemotherapy. Now 53, the single mum is a competitive runner and Hyrox athlete with more than 10 top-three finishes since her cancer diagnosis.",
-      "source": "CNA",
-      "published": "Mon, 02 Nov 2026 07:14:00 +0800"
     }
   ],
   "world": [
+    {
+      "title": "Commentary: What to watch for in the US midterm elections",
+      "url": "https://www.channelnewsasia.com/commentary/us-midterm-elections-trump-what-watch-6512736",
+      "summary": "This week will tell us many important things about the future of American politics, says Rana Foroohar for the Financial Times.",
+      "source": "CNA",
+      "published": "Tue, 03 Nov 2026 05:59:00 +0800"
+    },
+    {
+      "title": "Oil prices plunge on US-Iran detente hopes ahead of US midterms",
+      "url": "https://www.channelnewsasia.com/world/oil-prices-plunge-us-iran-detente-hopes-ahead-us-midterms-6514266",
+      "summary": "",
+      "source": "CNA",
+      "published": "Tue, 03 Nov 2026 05:51:00 +0800"
+    },
+    {
+      "title": "Trump makes final US midterm pitch at troubled Reflecting Pool",
+      "url": "https://www.channelnewsasia.com/world/trump-makes-final-us-midterm-pitch-troubled-reflecting-pool-6514236",
+      "summary": "US President Donald Trump described the US midterm elections as “the most important midterm I believe in our lifetime” while urging Republicans to unite ahead of the vote.",
+      "source": "CNA",
+      "published": "Tue, 03 Nov 2026 05:35:00 +0800"
+    },
+    {
+      "title": "Ukraine says Russian strikes dash peace progress hopes after 24 killed",
+      "url": "https://www.channelnewsasia.com/world/russia-ukraine-strikes-24-killed-ceasefire-6514166",
+      "summary": "At least 24 people were killed in Russian strikes on a school distributing humanitarian aid in southern Ukraine, following the expiry of a local ceasefire.",
+      "source": "CNA",
+      "published": "Tue, 03 Nov 2026 04:55:00 +0800"
+    },
+    {
+      "title": "Fridge cyberattack hits supermarkets across Europe",
+      "url": "https://www.channelnewsasia.com/world/fridge-cyberattack-hits-supermarkets-across-europe-6513981",
+      "summary": "A suspected cyberattack targeted supermarket freezer systems across at least eight European countries, causing food spoilage and disrupting grocery operations.",
+      "source": "CNA",
+      "published": "Tue, 03 Nov 2026 03:19:00 +0800"
+    },
+    {
+      "title": "China calls for Mideast dialogue in talks with Iran, Saudi, Oman",
+      "url": "https://www.channelnewsasia.com/east-asia/china-middle-east-iran-saudi-oman-talks-wang-yi-6513771",
+      "summary": "\"All parties should ... in a spirit of reason and pragmatism, focus on a political solution rather than once again resorting to armed conflict,\" said Chinese Foreign Minister Wang Yi.",
+      "source": "CNA",
+      "published": "Tue, 03 Nov 2026 00:03:00 +0800"
+    },
+    {
+      "title": "Anthropic says revenue surged 1100 per cent ahead of IPO",
+      "url": "https://www.channelnewsasia.com/business/anthropic-ai-revenue-surge-ipo-6513651",
+      "summary": "",
+      "source": "CNA",
+      "published": "Mon, 02 Nov 2026 22:50:00 +0800"
+    },
+    {
+      "title": "Singaporean jailed in Australia for driving over man who stole backpack, killing him",
+      "url": "https://www.channelnewsasia.com/singapore/singaporean-jail-australia-driving-hit-man-stole-bag-manslaughter-6513316",
+      "summary": "The judge said the decision to confront the man and knock him off his e-bike involved \"a degree of vigilantism\".",
+      "source": "CNA",
+      "published": "Mon, 02 Nov 2026 22:22:00 +0800"
+    },
     {
       "title": "Countries must pay more towards WHO: Indonesian candidate",
       "url": "https://www.channelnewsasia.com/asia/countries-pay-more-who-indonesia-budi-gunadi-sadikin-6512916",
@@ -155,64 +211,8 @@
       "summary": "The workers’ demands reflect mounting pressure from rising living costs and persistent inflation.",
       "source": "CNA",
       "published": "Mon, 02 Nov 2026 14:45:31 +0800"
-    },
-    {
-      "title": "Democrats, Trump hold final rallies before midterm elections",
-      "url": "https://www.channelnewsasia.com/world/democrats-republicans-trump-rallies-us-midterm-elections-6512286",
-      "summary": "Polls show that Democrats are near certain to take the majority from Republicans in the House of Representatives and have a real shot at winning the currently Republican Senate.",
-      "source": "CNA",
-      "published": "Mon, 02 Nov 2026 14:27:00 +0800"
-    },
-    {
-      "title": "Iran warns new war could last longer after Trump threatens strikes",
-      "url": "https://www.channelnewsasia.com/world/iran-new-war-trump-threatens-strikes-6512341",
-      "summary": "President Donald Trump said that the US could strike its remaining targets in Iran \"in 10 minutes\".",
-      "source": "CNA",
-      "published": "Mon, 02 Nov 2026 14:21:00 +0800"
-    },
-    {
-      "title": "India evacuates thousands ahead of second cyclone in a week",
-      "url": "https://www.channelnewsasia.com/asia/india-cyclone-murasu-evacuation-weather-6512186",
-      "summary": "Cyclone Murasu is expected to be less intense than last week's Cyclone Arnab, where six people were killed and dozens of houses and crops were destroyed.",
-      "source": "CNA",
-      "published": "Mon, 02 Nov 2026 13:16:14 +0800"
-    },
-    {
-      "title": "Police with assault rifles begin Sydney patrols in wake of Bondi attack",
-      "url": "https://www.channelnewsasia.com/world/australia-police-armed-assault-rifles-bondi-beach-6512051",
-      "summary": "The Armed Response Command will deploy at major events, crowded public spaces, sporting venues and places of worship to conduct \"high visibility\" patrols, New South Wales state police said.",
-      "source": "CNA",
-      "published": "Mon, 02 Nov 2026 12:41:56 +0800"
-    },
-    {
-      "title": "Cyber attacks hit Russia, Ukraine after truce ends",
-      "url": "https://www.channelnewsasia.com/world/cyber-attacks-russia-ukraine-6512066",
-      "summary": "US-mediated talks between Russia and Ukraine are set to resume this month, having been effectively frozen since February, when the war in Iran broke out.",
-      "source": "CNA",
-      "published": "Mon, 02 Nov 2026 11:24:00 +0800"
-    },
-    {
-      "title": "Nine dead in small plane crash near Trump's Florida home",
-      "url": "https://www.channelnewsasia.com/world/learjet-plane-crash-trump-florida-home-6511856",
-      "summary": "",
-      "source": "CNA",
-      "published": "Mon, 02 Nov 2026 08:57:00 +0800"
-    },
-    {
-      "title": "Canada's Carney hails 'good conversation' on trade with Trump",
-      "url": "https://www.channelnewsasia.com/world/canada-mark-carney-trade-talk-donald-trump-6511851",
-      "summary": "",
-      "source": "CNA",
-      "published": "Mon, 02 Nov 2026 08:53:42 +0800"
-    },
-    {
-      "title": "Democratic divisions shake up key Michigan Senate race",
-      "url": "https://www.channelnewsasia.com/world/democratic-michigan-senate-race-abdul-el-sayed-haley-stevens-6511826",
-      "summary": "Haley Stevens, who lost a primary to left-wing progressive candidate Abdul El-Sayed earlier this year, endorsed his Republican candidate Mike Rogers.",
-      "source": "CNA",
-      "published": "Mon, 02 Nov 2026 08:48:00 +0800"
     }
   ],
-  "generated_at": "2026-11-02T20:51:01+08:00",
+  "generated_at": "2026-11-03T07:13:01+08:00",
   "test_mode": false
 }
