@@ -49,28 +49,6 @@ textarea:focus-visible{outline:3px solid #925300;outline-offset:4px}
 @media(max-width:580px){.contact-aside .mail-actions{flex-direction:column}.contact-aside .mail-btn{width:100%}}
 @media print{.contact-aside .mail-actions{display:none}}
 </style>
-<style id="form-feedback">
-.form-status{margin:14px 0 0;padding:14px 16px;border-radius:10px;font-weight:700;line-height:1.5;border:2px solid transparent}
-.form-status[hidden],.form-retry[hidden]{display:none}
-.form-status.is-sending{background:#eef3ff;border-color:#b7c8ff;color:#17274a}
-.form-status.is-ok{background:#e4f7ef;border-color:#08745e;color:#064e48}
-.form-status.is-error{background:#fff4e5;border-color:#c26a00;color:#7a4a00}
-.form-retry{display:flex;flex-wrap:wrap;gap:10px;margin-top:10px}
-.retry-btn{min-height:46px;padding:10px 18px;border-radius:9px;border:2px solid #234bc8;background:#234bc8;color:#fff;font-weight:800}
-.retry-btn:hover{background:#17274a;border-color:#17274a}
-.retry-alt{background:#fff;color:#234bc8}
-.retry-alt:hover{background:#eef3ff;color:#17274a}
-.send[disabled]{opacity:.65;cursor:progress}
-.form-details{margin-top:12px;font-size:.9rem;color:#374c60}
-.form-details[hidden]{display:none}
-.form-details summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:center;gap:8px;list-style:none}
-.form-details summary::-webkit-details-marker{display:none}
-.form-details summary::before{content:"▸";font-size:1.1rem;color:#234bc8}
-.form-details[open] summary::before{content:"▾"}
-.form-details pre{white-space:pre-wrap;word-break:break-word;background:#f3f6fb;border:1px solid #d5def2;border-radius:8px;padding:10px;margin:6px 0 0;font:inherit;font-size:.85rem}
-@media(max-width:580px){.form-retry{flex-direction:column}.retry-btn{width:100%}}
-@media print{.form-status,.form-retry,.form-details{display:none}}
-</style>
 </head>
 <body id="top">
 <a class="skip" href="#main">Skip to main content</a><header><div class="wrap header"><a class="brand" href="index.html" aria-label="Everyday Compass home"><span class="mark" aria-hidden="true">↗</span><span>Everyday Compass<small>Useful tools & resources</small></span></a><nav aria-label="Main navigation"><a href="index.html#my-tools">My tools</a><a href="index.html#library">Explore resources</a><a href="index.html#about">About this hub</a><a href="contact.html" aria-current="page">Contact</a></nav></div></header>
@@ -86,9 +64,6 @@ textarea:focus-visible{outline:3px solid #925300;outline-offset:4px}
 <div class="field"><label for="topic">What is your message about?</label><select id="topic" name="topic" required><option value="">Choose a topic</option><option>General query</option><option>Refresh request</option><option>Report a problem</option><option>Other feedback</option></select></div>
 <div class="field"><label for="message">Your message</label><textarea id="message" name="message" required minlength="10" maxlength="5000" aria-describedby="message-help"></textarea><p class="form-note" id="message-help">10–5,000 characters. Please don’t include passwords, NRIC numbers or private medical information.</p></div>
 <button class="send" type="submit" id="send-btn">Send message →</button>
-<div class="form-status" id="form-status" role="status" aria-live="polite" tabindex="-1" hidden></div>
-<div class="form-retry" id="form-retry" hidden><button type="button" class="retry-btn" id="send-again">Try again</button><button type="button" class="retry-btn retry-alt" id="send-plain">Send the usual way</button><button type="button" class="retry-btn retry-alt" id="send-mail">Send by email app instead</button></div>
-<details class="form-details" id="form-details" hidden><summary>Technical details</summary><p>If the problem continues, copy this and send it to the site owner.</p><pre id="form-details-text"></pre></details>
 </form></section>
 <aside class="contact-aside" aria-labelledby="direct-title"><p class="eyebrow">Another way to get in touch</p><h2 id="direct-title">Prefer to email directly?</h2><p>You can also send your request or query using your own email app.</p><div class="mail-actions"><button type="button" class="mail-btn" id="mail-open">✉ Email me</button><button type="button" class="mail-btn mail-btn-alt" id="mail-copy">Copy email address</button></div><p class="mail-msg" id="mail-msg" role="status" aria-live="polite"></p><noscript><p>Turn on JavaScript to use these buttons, or send your message with the form.</p></noscript><p>If the form service is unavailable, direct email is the best alternative.</p><hr><a href="index.html">← Back to the resource hub</a></aside></div>
 </main><footer><div class="wrap footer"><p><strong>Everyday Compass</strong> · Useful tools. Trusted resources. Everyday confidence.</p><a href="index.html">Return home</a></div></footer>
@@ -116,68 +91,6 @@ textarea:focus-visible{outline:3px solid #925300;outline-offset:4px}
       if(navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(ok, fallback);
       else fallback();
     }catch(e){ fallback(); }
-  });
-})();
-</script>
-<script>
-/* Sends the form in the background and shows the result on this page. If this script cannot run, the form still works the normal way. */
-(function(){
-  var form = document.querySelector('form[action*="formsubmit.co"]');
-  if(!form || !window.fetch) return;
-  var btn = document.getElementById("send-btn"), box = document.getElementById("form-status"), retry = document.getElementById("form-retry");
-  var busy = false;
-  var ajaxUrl = form.action.replace("formsubmit.co/", "formsubmit.co/ajax/");   // same address as the form, so it only has to be changed in one place
-  var det = document.getElementById("form-details"), detText = document.getElementById("form-details-text");
-  function details(info){
-    var t = "Time: "+new Date().toISOString()+"\nPage: "+location.href.split("?")[0]+"\n"+info;
-    detText.textContent = t; det.hidden = false; det.open = true;
-  }
-  var fileNote = location.protocol === "file:" ? " Note: this page is open as a file on your computer. The form only works from the website's own address, not from a saved file." : "";
-  function show(kind,text){
-    if(kind === "error") text += fileNote;
-    box.className = "form-status is-"+kind; box.textContent = text; box.hidden = false;
-    retry.hidden = kind !== "error"; if(kind !== "error") det.hidden = true;
-    if(kind !== "sending"){ box.focus(); }
-  }
-  function finish(){ busy = false; btn.disabled = false; }
-  function send(){
-    if(busy) return;
-    busy = true; btn.disabled = true; show("sending","Sending your message…");
-    var data = {}; new FormData(form).forEach(function(v,k){ data[k] = v; });
-    var ctl = ("AbortController" in window) ? new AbortController() : null, timer = setTimeout(function(){ if(ctl) ctl.abort(); }, 20000);
-    fetch(ajaxUrl, { method:"POST", headers:{ "Content-Type":"application/json", "Accept":"application/json" }, body:JSON.stringify(data), signal: ctl ? ctl.signal : undefined })
-      .then(function(r){ return r.text().then(function(t){ var j = {}; try{ j = JSON.parse(t); }catch(e){} return { ok:r.ok, status:r.status, body:j, raw:t }; }); })
-      .then(function(res){
-        clearTimeout(timer);
-        var s = res.body && res.body.success;
-        if(res.ok && (s === true || s === "true")){
-          form.reset(); show("ok","Thank you. Your message has been sent.");
-        }else{
-          if(window.console && console.warn) console.warn("Contact form: the service did not accept the message.", res.body);
-          show("error","Sorry, your message could not be sent. Your text is still here. You can try again, use the email buttons on this page, or send it the usual way.");
-          details("The sending service answered.\nHTTP status: "+res.status+"\nIts reply: "+String(res.raw || "(empty)").replace(/\s+/g," ").slice(0,400));
-        }
-        finish();
-      })
-      .catch(function(err){
-        clearTimeout(timer);
-        if(window.console && console.warn) console.warn("Contact form: sending failed.", err);
-        show("error","Sorry, your message could not be sent. Check your connection. Your text is still here. You can try again, use the email buttons on this page, or send it the usual way.");
-        details("No answer from the sending service.\nError: "+(err && err.name ? err.name : "unknown")+(err && err.message ? " - "+err.message : ""));
-        finish();
-      });
-  }
-  form.addEventListener("submit", function(e){ e.preventDefault(); send(); });          // the browser has already checked the required fields
-  document.getElementById("send-again").addEventListener("click", send);
-  document.getElementById("send-plain").addEventListener("click", function(){ HTMLFormElement.prototype.submit.call(form); });   // normal form post to FormSubmit's own page
-  // Does not need FormSubmit at all: opens the visitor's email app with their message already filled in.
-  document.getElementById("send-mail").addEventListener("click", function(){
-    var f = form.elements, topic = f.topic.value || "Message";
-    var body = "Name: "+f.name.value+"\nEmail: "+f.email.value+"\nTopic: "+topic+"\n\n"+f.message.value, cut = false;
-    if(body.length > 1800){ body = body.slice(0,1800)+"\n\n[Message shortened. Please paste the rest of your message here.]"; cut = true; }
-    var to = ["jjkwan118","gmail.com"].join(String.fromCharCode(64));
-    window.location.href = "mailto:"+to+"?subject="+encodeURIComponent("Everyday Compass - "+topic)+"&body="+encodeURIComponent(body);
-    box.textContent = cut ? "Opening your email app. Your message was long, so it was shortened. Please paste the rest before you send." : "Opening your email app with your message filled in. Press Send there to finish.";
   });
 })();
 </script>
