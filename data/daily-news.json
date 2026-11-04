@@ -1,6 +1,34 @@
 {
   "singapore": [
     {
+      "title": "Joo Chiat vs Haji Lane: What makes a shopping neighbourhood work for retailers?",
+      "url": "https://www.channelnewsasia.com/style-beauty/joo-chiat-vs-haji-lane-retail-singapore-6481261",
+      "summary": "Haji Lane offers visibility, while Joo Chiat provides room to linger. But for Singapore’s independent retailers, neither foot traffic nor a distinctive setting guarantees a sustainable business.",
+      "source": "CNA",
+      "published": "Thu, 05 Nov 2026 07:31:00 +0800"
+    },
+    {
+      "title": "Man to be charged over hidden camera in toilet on Japan to Singapore flight",
+      "url": "https://www.channelnewsasia.com/singapore/man-charge-hidden-camera-plane-toilet-6524356",
+      "summary": "A cabin crew member discovered the hidden camera while using the toilet.",
+      "source": "CNA",
+      "published": "Wed, 04 Nov 2026 22:04:00 +0800"
+    },
+    {
+      "title": "Parliament in brief: Muslim law amendments passed and other highlights from Nov 4",
+      "url": "https://www.channelnewsasia.com/singapore/parliament-brief-muslim-law-amendments-passed-highlights-nov-4-6524481",
+      "summary": "Parliament passed changes to Singapore’s haze law and discussed trust in AI.",
+      "source": "CNA",
+      "published": "Wed, 04 Nov 2026 22:03:14 +0800"
+    },
+    {
+      "title": "Enhanced haze law 'not a silver bullet', international cooperation remains crucial: Grace Fu",
+      "url": "https://www.channelnewsasia.com/singapore/changes-haze-law-not-silver-bullet-parliament-6524361",
+      "summary": "The Transboundary Haze Pollution (Amendment) Bill was passed unanimously after a debate that lasted about six hours and involved 24 MPs.",
+      "source": "CNA",
+      "published": "Wed, 04 Nov 2026 21:44:00 +0800"
+    },
+    {
       "title": "'Absurd and novel': Shanmugam dismisses WP MP’s call to raise issues at Singapore’s meetings with foreign counterparts",
       "url": "https://www.channelnewsasia.com/singapore/k-shanmugam-fadli-fawzi-international-law-bilateral-meetings-parliament-6522351",
       "summary": "Opposition Workers’ Party MP Fadli Fawzi argued that the home affairs ministry should have raised Singapore’s position on Israeli settlements and settler violence during a meeting with Israeli officials.",
@@ -29,9 +57,9 @@
       "published": "Wed, 04 Nov 2026 14:54:00 +0800"
     },
     {
-      "title": "Parliament debates proposed amendments to Transboundary Haze Pollution Act",
-      "url": "https://www.channelnewsasia.com/singapore/parliament-debates-proposed-amendments-transboundary-haze-pollution-act-6520001",
-      "summary": "Parliament is debating proposed amendments to the transboundary haze law after Singapore was hit by its worst haze episode since 2015.",
+      "title": "As it happened: Parliament passes tougher haze law, raising maximum fine to S$20 million",
+      "url": "https://www.channelnewsasia.com/singapore/haze-parliament-pass-tougher-law-live-blog-6520001",
+      "summary": "Companies linked to transboundary haze will now face higher fines as well as curbs on business dealings under amendments to Singapore’s haze law passed on Wednesday (Nov 4).",
       "source": "CNA",
       "published": "Wed, 04 Nov 2026 13:42:00 +0800"
     },
@@ -76,37 +104,72 @@
       "summary": "Ng's victory is Singapore's first medal at this edition of the Games in Senegal and its first gold credited to the country since 2014 in China.",
       "source": "CNA",
       "published": "Wed, 04 Nov 2026 11:57:00 +0800"
-    },
-    {
-      "title": "Japanese yakiniku chain Gyu-Kaku to close last Singapore outlet at CHIJMES on Nov 15",
-      "url": "https://www.channelnewsasia.com/dining/gyu-kaku-singapore-last-outlet-chijmes-closing-6518996",
-      "summary": "The restaurant's closure marks the end of the popular Japanese barbecue chain's presence in Singapore after more than two decades.",
-      "source": "CNA",
-      "published": "Wed, 04 Nov 2026 11:22:44 +0800"
-    },
-    {
-      "title": "Man under police probe for alleged cheating over use of shell companies to avoid rent",
-      "url": "https://www.channelnewsasia.com/singapore/minlaw-shell-companies-property-rent-police-6518916",
-      "summary": "Police found grounds to investigate Mr Anthony Thomas Price after reviewing a court ruling that identified a pattern of the American using shell companies to live rent-free, said Senior Minister of State for Law Murali Pillai.",
-      "source": "CNA",
-      "published": "Wed, 04 Nov 2026 10:57:00 +0800"
-    },
-    {
-      "title": "Tokyo’s Mr Cheesecake by former Michelin restaurant chef opens first Singapore pop-up",
-      "url": "https://www.channelnewsasia.com/dining/mr-cheesecake-singapore-pop-up-ion-orchard-6518516",
-      "summary": "Founded by a former chef at three-Michelin-starred Mirazur, the popular Japanese cheesecake brand is bringing six creations to Singapore, including Caramel Earl Grey.",
-      "source": "CNA",
-      "published": "Wed, 04 Nov 2026 10:35:29 +0800"
-    },
-    {
-      "title": "Bedok South, Xilin and Sungei Bedok MRT stations to open on Dec 26",
-      "url": "https://www.channelnewsasia.com/singapore/new-mrt-stations-sungei-bedok-xilin-tel-dtl-6516651",
-      "summary": "The three new stations on the Thomson-East Coast Line and Downtown Line will improve rail connectivity in eastern Singapore, with commuters expected to save up to 25 minutes on some journeys.",
-      "source": "CNA",
-      "published": "Wed, 04 Nov 2026 09:24:00 +0800"
     }
   ],
   "world": [
+    {
+      "title": "After Republicans routed, Trump devotes first post-midterm event to White House ballroom",
+      "url": "https://www.channelnewsasia.com/world/donald-trump-us-midterms-white-house-ballroom-6525736",
+      "summary": "\"Now, envision chandeliers all over,\" Trump said. \"Envision marble floors. Oh, it's going to be good.\"",
+      "source": "CNA",
+      "published": "Thu, 05 Nov 2026 07:35:00 +0800"
+    },
+    {
+      "title": "Google turns off AI for schoolchildren by default",
+      "url": "https://www.channelnewsasia.com/world/google-ai-children-turn-default-6525746",
+      "summary": "Google said the new controls would be rolled out worldwide, beginning in the United States, but that it had not yet set a date.",
+      "source": "CNA",
+      "published": "Thu, 05 Nov 2026 07:23:00 +0800"
+    },
+    {
+      "title": "French blood banks hit alongside cyberattack on European supermarkets",
+      "url": "https://www.channelnewsasia.com/world/french-blood-banks-hit-alongside-cyberattack-european-supermarkets-6525501",
+      "summary": "",
+      "source": "CNA",
+      "published": "Thu, 05 Nov 2026 05:42:00 +0800"
+    },
+    {
+      "title": "Death toll in Russian attack on aid centre up to 40: Zelenskyy",
+      "url": "https://www.channelnewsasia.com/world/ukraine-russia-war-aid-centre-attack-40-killed-6525456",
+      "summary": "Ukraine's President Volodymyr Zelenskyy also warned that \"more than 30 people may still be under the rubble\".",
+      "source": "CNA",
+      "published": "Thu, 05 Nov 2026 05:12:00 +0800"
+    },
+    {
+      "title": "Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him",
+      "url": "https://www.channelnewsasia.com/world/trump-us-midterms-iran-war-republican-loss-6525316",
+      "summary": "US President Donald Trump said the war was necessary to stop Iran from “having a nuclear weapon” and added that he “would have done nothing different”.",
+      "source": "CNA",
+      "published": "Thu, 05 Nov 2026 03:33:00 +0800"
+    },
+    {
+      "title": "Zelenskyy awards US first lady Ukrainian civilian honour",
+      "url": "https://www.channelnewsasia.com/world/zelenskyy-melania-trump-honour-ukraine-ceasefire-6525091",
+      "summary": "Ukrainian President Volodymyr Zelenskyy honoured US First Lady Melania Trump for helping secure a ceasefire that allowed civilians to safely leave a Russian-controlled town in Ukraine.",
+      "source": "CNA",
+      "published": "Thu, 05 Nov 2026 02:33:00 +0800"
+    },
+    {
+      "title": "Netanyahu rivals seize on Democrats' sweep of US Congress, seeking his ouster",
+      "url": "https://www.channelnewsasia.com/world/netanyahu-ouster-us-midterm-election-democrats-6524971",
+      "summary": "",
+      "source": "CNA",
+      "published": "Thu, 05 Nov 2026 00:50:00 +0800"
+    },
+    {
+      "title": "Stocks surge, oil tumbles after Trump's election rout",
+      "url": "https://www.channelnewsasia.com/world/stocks-wall-street-midterms-election-trump-oil-6524931",
+      "summary": "",
+      "source": "CNA",
+      "published": "Thu, 05 Nov 2026 00:22:00 +0800"
+    },
+    {
+      "title": "Iranian officials gloat as US voters deal blow to Trump",
+      "url": "https://www.channelnewsasia.com/world/iran-gloat-us-midterm-election-trump-6524731",
+      "summary": "Iran's Supreme Leader Mojtaba Khamenei said in a written statement that US hostility would persist regardless of which party was in power.",
+      "source": "CNA",
+      "published": "Wed, 04 Nov 2026 23:23:36 +0800"
+    },
     {
       "title": "China in contact with US, Russia on possible leaders' meeting",
       "url": "https://www.channelnewsasia.com/east-asia/china-us-russia-leaders-meeting-apec-6523336",
@@ -148,71 +211,8 @@
       "summary": "The first Black female governor, the first openly gay male senator, the first Muslim senator and the first female Native American governor all won groundbreaking elections in the vote that racked up resounding gains for Democrats.",
       "source": "CNA",
       "published": "Wed, 04 Nov 2026 14:20:00 +0800"
-    },
-    {
-      "title": "Trump says will accept results of US midterm election, NYT reports",
-      "url": "https://www.channelnewsasia.com/world/trump-says-will-accept-results-us-midterm-election-6520706",
-      "summary": "\"I am absolutely willing to accept those results,\" US President Donald Trump told The New York Times. \"We'll work with the Democrats, and we'll, you know, look forward to working with them. We'll probably work something out.\"",
-      "source": "CNA",
-      "published": "Wed, 04 Nov 2026 12:00:00 +0800"
-    },
-    {
-      "title": "North Korea signals little appetite for renewed US dialogue",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-little-appetite-renewed-dialogue-united-states-6520491",
-      "summary": "The powerful sister of North Korean leader Kim Jong Un accused Washington of pursuing an \"invariable hostile policy\" towards Pyongyang.",
-      "source": "CNA",
-      "published": "Wed, 04 Nov 2026 11:48:18 +0800"
-    },
-    {
-      "title": "Keisha Lance Bottoms wins Georgia race, becomes first Black woman elected governor of US state",
-      "url": "https://www.channelnewsasia.com/world/keisha-lance-bottoms-wins-georgia-race-first-black-woman-elected-governor-us-state-6519866",
-      "summary": "Democrat Keisha Lance Bottoms' win marks a significant shift in Georgia state politics, where Black voters have formed a central part of the Democratic coalition that helped to turn the reliably Republican state into a national battleground.",
-      "source": "CNA",
-      "published": "Wed, 04 Nov 2026 10:57:00 +0800"
-    },
-    {
-      "title": "Greenland parliament ratifies security deal reached with Trump",
-      "url": "https://www.channelnewsasia.com/world/greenland-parliament-ratifies-security-deal-trump-6516826",
-      "summary": "",
-      "source": "CNA",
-      "published": "Wed, 04 Nov 2026 08:49:32 +0800"
-    },
-    {
-      "title": "Trump says US ending US$3.8 billion in annual aid for Israel",
-      "url": "https://www.channelnewsasia.com/world/trump-us-ending-annual-aid-israel-6518421",
-      "summary": "\"Israel is a very thriving country. They don't need it,\" US President Donald Trump said.",
-      "source": "CNA",
-      "published": "Wed, 04 Nov 2026 08:37:00 +0800"
-    },
-    {
-      "title": "Democrats seize Congress in sweeping midterm repudiation of Trump",
-      "url": "https://www.channelnewsasia.com/world/donald-trump-us-election-midterms-6518216",
-      "summary": "Voters in conservative bastions who had propelled US President Donald Trump to his second term in office just two years ago swung dramatically toward Democrats.",
-      "source": "CNA",
-      "published": "Wed, 04 Nov 2026 07:40:00 +0800"
-    },
-    {
-      "title": "Commentary: Permanent WFH is AI’s best promise yet",
-      "url": "https://www.channelnewsasia.com/commentary/work-home-ai-tech-innovation-impact-work-jobs-6516266",
-      "summary": "The AI optimists believe that machines will take all our jobs, but bots can create modern jobs too - jobs that resemble a pre-industrial notion of work, says Allison Schrager for Bloomberg Opinion.",
-      "source": "CNA",
-      "published": "Wed, 04 Nov 2026 05:59:00 +0800"
-    },
-    {
-      "title": "Spanish transport minister offers resignation after deadly train crash",
-      "url": "https://www.channelnewsasia.com/world/spanish-transport-minister-offers-resignation-after-deadly-train-crash-6518011",
-      "summary": "Spain’s Transport Minister Oscar Puente resigned and withdrew from the upcoming general election following a deadly train crash that killed 69 people.",
-      "source": "CNA",
-      "published": "Wed, 04 Nov 2026 05:49:45 +0800"
-    },
-    {
-      "title": "Bomb threats disrupt Europe flights",
-      "url": "https://www.channelnewsasia.com/world/bomb-threats-europe-flights-ryanair-6517866",
-      "summary": "Ryanair was the worst affected airline, with several flights targeted across Europe, including routes to Warsaw, Rome and Sofia.",
-      "source": "CNA",
-      "published": "Wed, 04 Nov 2026 04:20:34 +0800"
     }
   ],
-  "generated_at": "2026-11-04T19:30:39+08:00",
+  "generated_at": "2026-11-05T07:58:40+08:00",
   "test_mode": false
 }
