@@ -33,6 +33,12 @@
       "enabled": true
     },
     {
+      "id": "artscience",
+      "name": "ArtScience Museum",
+      "url": "https://www.marinabaysands.com/museum/whats-on.html",
+      "enabled": true
+    },
+    {
       "id": "ura",
       "name": "Urban Redevelopment Authority",
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
@@ -45,34 +51,21 @@
       "enabled": true
     },
     {
-      "id": "visit_singapore",
+      "id": "srcmvcxqoj2",
       "name": "Visit Singapore",
-      "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
-      "listing_url": "https://www.visitsingapore.com/whats-happening/all-happenings/",
+      "url": "https://www.visitsingapore.com/",
       "enabled": true
     },
     {
-      "id": "catch_sg",
-      "name": "Catch.sg — Free Events",
-      "url": "https://www.catch.sg/Event?EventCategory=Free%20Events",
+      "id": "srcmvcxtvkt",
+      "name": "catch sg",
+      "url": "https://www.catch.sg/Event",
       "enabled": true
     },
     {
-      "id": "allevents",
-      "name": "AllEvents Singapore — Free Events",
-      "url": "https://allevents.in/singapore/free-events",
-      "enabled": true
-    },
-    {
-      "id": "nlb_calendar",
-      "name": "NLB GoLibrary — All Events",
-      "url": "https://nlb.libcal.com/calendar/public",
-      "enabled": true
-    },
-    {
-      "id": "nparks",
-      "name": "NParks — Free Events",
-      "url": "https://www.nparks.gov.sg/visit/events",
+      "id": "srcmw5leuft",
+      "name": "Science centre",
+      "url": "https://www.science.edu.sg/whats-on",
       "enabled": true
     }
   ]
