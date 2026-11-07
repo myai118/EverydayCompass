@@ -26,7 +26,7 @@ permissions:
 
 concurrency:
   group: everyday-compass-pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   refresh:
