@@ -732,7 +732,7 @@ def render_source(url):
 
 # Public official alternatives only. A challenge page is never a successful read.
 OFFICIAL_LISTING_ALTERNATIVES = {
-    "artscience": [],
+    "artscience": ["https://www.marinabaysands.com/museum.html"],
     "onepa": [
         "https://www.onepa.gov.sg/events/kopi-talks-and-dialogues",
         "https://www.onepa.gov.sg/events/exhibition-and-fair",
@@ -861,7 +861,8 @@ def read_source_events(cfg, key, today, fetcher):
             errors.append(f"{url}: {exc}")
             print(f"Official listing unavailable: {errors[-1]}", flush=True)
     if fetcher is fetch and key in BROWSER_SOURCES:
-        for url in urls:
+        browser_urls = urls[:1] if key == "artscience" else urls
+        for url in browser_urls:
             try:
                 fresh = extract(render_source(url))
                 if fresh or empty_confirmed:
