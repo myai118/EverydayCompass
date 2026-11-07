@@ -222,7 +222,7 @@ def generic_parse(html, key, today):
 def verified_empty_source_v2(html, key, today):
     if _orig_verified_empty_source(html, key, today):
         return True
-    if key not in {"srcmvcxqoj2", "srcmvcxtvkt", "srcmw5leuft"}:
+    if key not in {"visit_singapore", "catch_sg", "science_centre"}:
         return False
     from bs4 import BeautifulSoup
     soup = BeautifulSoup(html, "html.parser")
@@ -231,7 +231,7 @@ def verified_empty_source_v2(html, key, today):
     # These public pages are readable but do not expose extractable event
     # records in their server HTML. A reachable, non-challenge page is still
     # a successful source check with zero extracted records.
-    if key == "srcmvcxqoj2":
+    if key == "visit_singapore":
         return bool(title and len(text) > 200)
     return bool(title and len(text) > 500 and not re.search(
         r"verify.{0,20}(?:human|robot)|access denied|checking your browser|temporarily unavailable",
@@ -240,6 +240,8 @@ def verified_empty_source_v2(html, key, today):
 
 
 def parse_source_html_v2(html, key, today):
+    if key == "science_centre":
+        return ue.parse_official_detail(html, ue.SOURCES[key]["url"], key, today)
     if key in additional.KEYS:
         return ue.dedupe(additional.parse(html, key, today, ue.SOURCES[key], ue.clean_event))
     structured = generic_parse(html, key, today)
