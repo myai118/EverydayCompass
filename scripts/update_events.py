@@ -722,23 +722,26 @@ def render_source(url):
         try:
             page = browser.new_page(locale="en-SG")
             response = None
+            host = (urlparse(url).hostname or "").lower()
+            is_mbs = "marinabaysands.com" in host
             try:
-                response = page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                response = page.goto(
+                    url,
+                    wait_until="commit" if is_mbs else "domcontentloaded",
+                    timeout=30000 if is_mbs else 60000,
+                )
             except Exception as exc:
                 # Some public sites keep optional resources open indefinitely.
                 # Continue only if the document body has already loaded.
                 print(f"Browser navigation did not finish for {url}: {exc}", flush=True)
-            host = (urlparse(url).hostname or "").lower()
             try:
                 page.locator("body").wait_for(state="attached", timeout=20000)
             except Exception:
-                # ArtScience may keep the initial document open while its
-                # client-rendered event data loads. One normal reload is
-                # allowed; no challenge is bypassed.
-                if "marinabaysands.com" not in host:
+                if not is_mbs:
                     raise
-                page.goto(url, wait_until="commit", timeout=45000)
-                page.locator("body").wait_for(state="attached", timeout=30000)
+                # One normal retry is allowed; no challenge is bypassed.
+                page.goto(url, wait_until="commit", timeout=30000)
+                page.locator("body").wait_for(state="attached", timeout=20000)
             if response and response.status >= 400:
                 raise ValueError(f"Official browser page returned HTTP {response.status}")
             def check_verification():
