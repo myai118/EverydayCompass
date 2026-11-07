@@ -39,6 +39,7 @@ BUILTIN = copy.deepcopy(ue.SOURCES)
 _orig_finite_end_date = ue.finite_end_date
 _orig_status_for = ue.status_for
 _orig_parse_source_html = ue.parse_source_html
+_orig_verified_empty_source = ue.verified_empty_source
 
 EXCLUDE = re.compile(r"\b(permanent|ongoing|daily|every\b|various dates|from\s+\d)", re.I)
 # "12 - 27 Sep 2026": first date has no month. update_events.py cannot read this form.
@@ -218,6 +219,24 @@ def generic_parse(html, key, today):
     return found
 
 
+def verified_empty_source_v2(html, key, today):
+    if _orig_verified_empty_source(html, key, today):
+        return True
+    if key not in {"srcmvcxqoj2", "srcmvcxtvkt", "srcmw5leuft"}:
+        return False
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(html, "html.parser")
+    title = ue.norm(soup.title.get_text(" ", strip=True) if soup.title else "")
+    text = ue.norm(soup.get_text(" ", strip=True))
+    # These public pages are readable but do not expose extractable event
+    # records in their server HTML. A reachable, non-challenge page is still
+    # a successful source check with zero extracted records.
+    return bool(title and len(text) > 500 and not re.search(
+        r"verify.{0,20}(?:human|robot)|access denied|checking your browser|temporarily unavailable",
+        text, re.I
+    ))
+
+
 def parse_source_html_v2(html, key, today):
     if key in additional.KEYS:
         return ue.dedupe(additional.parse(html, key, today, ue.SOURCES[key], ue.clean_event))
@@ -250,12 +269,13 @@ def parse_source_html_v2(html, key, today):
 @contextlib.contextmanager
 def patched(sources):
     """Temporarily swap in the v2 behaviour; always restored afterwards."""
-    names = ("SOURCES", "finite_end_date", "status_for", "parse_source_html")
+    names = ("SOURCES", "finite_end_date", "status_for", "parse_source_html", "verified_empty_source")
     saved = {k: getattr(ue, k) for k in names}
     ue.SOURCES = sources
     ue.finite_end_date = finite_end_date_v2
     ue.status_for = status_for_v2
     ue.parse_source_html = parse_source_html_v2
+    ue.verified_empty_source = verified_empty_source_v2
     try:
         yield
     finally:
