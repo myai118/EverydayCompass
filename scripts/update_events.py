@@ -557,6 +557,7 @@ DETAIL_PATHS = {
     "national_gallery": re.compile(r"^/sg/en/(?:exhibitions|whats-on|programmes)/[^/]+\.html$"),
     "ura": re.compile(r"^/get-involved/events-and-exhibitions/[^/]+/?$"),
     "artscience": re.compile(r"^/museum/(?:exhibitions|events|programmes)/[^/]+\.html$"),
+    "science_centre": re.compile(r"^/whats-on/[^/]+/?$"),
 }
 
 def parse_official_detail(html, url, key, today):
@@ -684,17 +685,23 @@ def fetch(url, timeout=30):
     return r.text
 
 def render_source(url):
-    """Read a public JavaScript listing; never interact with verification challenges."""
+    """Open an official public page in a browser and return its rendered HTML.
+
+    This is a read-only recovery pass: it waits for visible page content and
+    never clicks, submits forms, solves challenges, or bypasses access controls.
+    """
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
-        # Use Chromium's normal protocol negotiation for Marina Bay Sands.
-        # Keep the existing compatibility setting for the other working sources.
-        args = ["--disable-http2"]
-        browser = p.chromium.launch(headless=True, args=args)
+        browser = p.chromium.launch(headless=True, args=["--disable-http2"])
         try:
             page = browser.new_page(locale="en-SG")
-            # Optional resources must not prevent reading an already loaded document.
-            response = page.goto(url, wait_until="commit", timeout=45000)
+            response = None
+            try:
+                response = page.goto(url, wait_until="domcontentloaded", timeout=60000)
+            except Exception as exc:
+                # Some public sites keep optional resources open indefinitely.
+                # Continue only if the document body has already loaded.
+                print(f"Browser navigation did not finish for {url}: {exc}", flush=True)
             page.locator("body").wait_for(state="attached", timeout=20000)
             if response and response.status >= 400:
                 raise ValueError(f"Official browser page returned HTTP {response.status}")
@@ -703,28 +710,36 @@ def render_source(url):
                 if any(s in text for s in ("verify that you're not a robot", "verify you are human", "checking your browser")):
                     raise ValueError("Official source requires browser verification; keeping previous events")
             check_verification()
-            # Allow the public listing's JavaScript to fill event cards.
+            host = (urlparse(url).hostname or "").lower()
             try:
-                if "catch.sg" in url and "/Event/" in urlparse(url).path:
+                if "visitsingapore.com" in host:
+                    page.wait_for_function(
+                        "() => document.body.innerText.includes('Upcoming Happenings') || "
+                        "document.querySelectorAll('a[href*='/whats-happening/']").length > 2",
+                        timeout=25000)
+                elif "science.edu.sg" in host:
+                    page.wait_for_function(
+                        "() => document.body.innerText.includes('Ticket Price') || "
+                        "document.querySelector('main h1, h1')",
+                        timeout=25000)
+                elif "catch.sg" in host and "/Event/" in urlparse(url).path:
                     page.wait_for_function("() => document.body.innerText.includes('Event Details')", timeout=20000)
-                elif (urlparse(url).hostname or "").endswith("onepa.gov.sg"):
-                    page.wait_for_function("""() => [...document.querySelectorAll('a[href]')].filter(a =>
-                        /\/events\/(?!search|neighbourhood-events$|arts-and-culture$|active-ageing$)/i.test(a.getAttribute('href') || '')).length > 2""", timeout=25000)
-                elif (urlparse(url).hostname or "").endswith("nparks.gov.sg"):
-                    page.wait_for_function("""() => document.querySelectorAll('article, [class*="event"], [class*="card"], [class*="listing"]').length > 20""", timeout=25000)
-                elif any(host in (urlparse(url).hostname or "") for host in ("eventbrite", "allevents", "libcal")):
-                    page.wait_for_function("""() => [...document.querySelectorAll('a[href]')].some(a =>
-                        /\\/e\\/|\\/singapore\\/[^/]+\\/|\\/event\\/\\d+/.test(a.getAttribute('href') || ''))""", timeout=25000)
+                elif "marinabaysands.com" in host:
+                    page.wait_for_function(
+                        "() => document.querySelectorAll('a[href*='/museum/']").length > 5",
+                        timeout=25000)
                 else:
-                    page.wait_for_function("""() => [...document.querySelectorAll('a[href]')].some(a =>
-                        /calendar-of-events\\/.+|museum\\/(exhibitions|events|programmes)\\/.+|\\/Event\\/.*\\d{8}|whats-happening\\/.+/.test(a.getAttribute('href') || ''))""",
+                    page.wait_for_function(
+                        "() => document.querySelectorAll('a[href]').length > 10",
                         timeout=20000)
             except Exception:
                 pass
-            page.wait_for_timeout(3000)
+            page.wait_for_timeout(2000)
             check_verification()
             html = page.content()
-            print(f"Rendered public listing {page.url}: {len(html)} characters", flush=True)
+            if len(html) < 1000:
+                raise ValueError("Official browser page contained no usable document")
+            print(f"Rendered public page {page.url}: {len(html)} characters", flush=True)
             return html
         finally:
             browser.close()
@@ -741,7 +756,7 @@ OFFICIAL_LISTING_ALTERNATIVES = {
         "https://www.onepa.gov.sg/events/neighbourhood-parties",
     ],
 }
-BROWSER_SOURCES = {"gardens", "artscience", "visit_singapore", "catch_sg", "national_museum", "eventbrite", "allevents", "nlb_calendar", "onepa", "nparks"}
+BROWSER_SOURCES = {"gardens", "artscience", "visit_singapore", "catch_sg", "science_centre", "national_museum", "eventbrite", "allevents", "nlb_calendar", "onepa", "nparks"}
 
 
 def read_ura_events(cfg, today, fetcher):
