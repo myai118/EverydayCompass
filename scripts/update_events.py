@@ -791,6 +791,22 @@ OFFICIAL_LISTING_ALTERNATIVES = {
         "https://www.onepa.gov.sg/events/neighbourhood-parties",
     ],
 }
+
+# If the heavy ArtScience listing shell cannot be downloaded, these are
+# official detail pages linked from that listing. They are deliberately
+# bounded and are re-read on every refresh; expired pages are discarded.
+OFFICIAL_DETAIL_FALLBACKS = {
+    "artscience": [
+        "https://www.marinabaysands.com/museum/exhibitions/more-than-human.html",
+        "https://www.marinabaysands.com/museum/exhibitions/future-world.html",
+        "https://www.marinabaysands.com/museum/programmes/talks/in-relation.html",
+        "https://www.marinabaysands.com/museum/programmes/artscience-encounters/sounding-lines.html",
+        "https://www.marinabaysands.com/museum/programmes/in-the-ether.html",
+        "https://www.marinabaysands.com/museum/programmes/artscience-interlude/sarah-abbott.html",
+        "https://www.marinabaysands.com/museum/programmes/artscience-interlude/yoshi-sodeoka.html",
+        "https://www.marinabaysands.com/museum/programmes/tours.html",
+    ],
+}
 BROWSER_SOURCES = {"gardens", "artscience", "visit_singapore", "catch_sg", "science_centre", "national_museum", "eventbrite", "allevents", "nlb_calendar", "onepa", "nparks"}
 
 
@@ -936,6 +952,21 @@ def read_source_events(cfg, key, today, fetcher):
             except Exception as exc:
                 errors.append(f"{url}: {exc}")
                 print(f"Official browser read unavailable: {errors[-1]}", flush=True)
+    # Detail-page recovery for listings whose client shell is too heavy to
+    # download. Each page is official, bounded, and parsed conservatively.
+    for detail_url in OFFICIAL_DETAIL_FALLBACKS.get(key, []):
+        try:
+            detail_html = render_source(detail_url) if fetcher is fetch else source_fetcher(detail_url)
+            fresh = parse_official_detail(detail_html, detail_url, key, today)
+            if fresh:
+                readable_urls.add(detail_url)
+                all_detail_events = locals().get("all_detail_events", []) + fresh
+                locals()["all_detail_events"] = all_detail_events
+        except Exception as exc:
+            print(f"Official detail recovery unavailable {detail_url}: {str(exc)[:160]}", flush=True)
+    if locals().get("all_detail_events"):
+        return dedupe(locals()["all_detail_events"])
+
     reason = errors[-1] if errors else "zero usable events"
     raise ValueError(reason + "; preserving previous source records")
 
