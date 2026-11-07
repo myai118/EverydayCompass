@@ -288,9 +288,10 @@ def patched(sources):
 
 
 # ---------------------------------------------------------------- the refresh
-def run(previous, sources, today=None, now=None, fetcher=None):
+def run(previous, sources, today=None, now=None, fetcher=None, source_keys=None):
     now = now or datetime.now(ue.SGT)
     today = today or now.date()
+    active_keys = set(sources) if source_keys is None else set(source_keys)
 
     # Events from sources you removed or switched off are dropped. Hand-added events
     # (no source_key) are kept.
@@ -302,6 +303,7 @@ def run(previous, sources, today=None, now=None, fetcher=None):
     if fetcher is not None:
         kwargs["fetcher"] = fetcher
     with patched(sources):
+        kwargs["source_keys"] = active_keys
         payload = ue.update(prev, **kwargs)
         # Safety net: finished events never stay, even when every source failed.
         payload["events"] = [e for e in payload["events"] if not ue.is_expired(e, today)]
@@ -335,20 +337,22 @@ def run(previous, sources, today=None, now=None, fetcher=None):
     rows = []
     for key, cfg in sources.items():
         r = payload["source_report"].get(key, {})
+        deferred = key not in active_keys
         ok = r.get("status") == "fresh"
         last = now.isoformat(timespec="seconds") if ok else old.get(key, {}).get("last_success")
         rows.append({
             "id": key,
             "name": cfg["name"],
             "url": cfg["url"],
-            "status": "ok" if ok else "fallback",
+            "status": "deferred" if deferred else ("ok" if ok else "fallback"),
             "count": r.get("count", 0),
             "last_success": last,
-            "error": "" if ok else str(r.get("error", ""))[:180],
-            "needs_reader_review": not ok and "zero usable" in str(r.get("error", "")).lower(),
+            "error": "" if deferred or ok else str(r.get("error", ""))[:180],
+            "needs_reader_review": not deferred and not ok and "zero usable" in str(r.get("error", "")).lower(),
         })
     payload["sources"] = rows
-    payload["all_sources_failed"] = not any(r["status"] == "ok" for r in rows)
+    active_rows = [r for r in rows if r["id"] in active_keys]
+    payload["all_sources_failed"] = not any(r["status"] == "ok" for r in active_rows)
     return payload
 
 
@@ -362,6 +366,10 @@ def write_github_output(name, value):
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--skip-artscience", action="store_true",
+                    help="Refresh all sources except the slow ArtScience recovery source")
+    ap.add_argument("--only-artscience", action="store_true",
+                    help="Refresh only the ArtScience recovery source")
     ap.add_argument("--output", default=str(ue.OUT))
     ap.add_argument("--sources", default=str(SOURCES_FILE))
     args = ap.parse_args(argv)
@@ -373,7 +381,16 @@ def main(argv=None):
         print("WARNING:", w)
     print(f"Using {len(sources)} source(s): " + ", ".join(sources))
 
-    payload = run(previous, sources)
+    if args.skip_artscience and args.only_artscience:
+        raise SystemExit("Choose only one of --skip-artscience and --only-artscience")
+    if args.only_artscience:
+        active_keys = {"artscience"}
+    elif args.skip_artscience:
+        active_keys = set(sources) - {"artscience"}
+    else:
+        active_keys = set(sources)
+
+    payload = run(previous, sources, source_keys=active_keys)
     for row in payload["sources"]:
         line = f"  [{row['status'].upper():8}] {row['name']}: {row['count']} event(s)"
         if row["error"]:
