@@ -970,11 +970,23 @@ def read_source_events(cfg, key, today, fetcher):
     raise ValueError(reason + "; preserving previous source records")
 
 
-def update(previous, today=None, fetcher=fetch):
+def update(previous, today=None, fetcher=fetch, source_keys=None):
+    """Refresh selected sources while preserving all unselected source records.
+    
+    source_keys is used by the staged workflow: the normal sources are written
+    first, then a slow recovery source can be refreshed separately.
+    """
     today = today or datetime.now(SGT).date()
+    active_keys = set(SOURCES) if source_keys is None else set(source_keys)
     all_events = []
     report = {}
     for key, cfg in SOURCES.items():
+        if key not in active_keys:
+            # Keep the previous records for sources deliberately deferred to a
+            # later phase. They are still subject to normal expiry removal.
+            all_events.extend(e for e in previous_for(previous, key)
+                              if not is_expired(e, today))
+            continue
         prev = previous_for(previous, key)
         try:
             if key == "esplanade":
