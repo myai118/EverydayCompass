@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T14:04:30.362094Z",
+  "generated_at": "2026-11-07T14:10:30.629452Z",
   "ath_since": "2000-01-01",
   "config_revision": 46,
   "instruments": [
@@ -4048,9 +4048,9 @@
     }
   ],
   "source": "Yahoo Finance; per-row timestamps and errors apply",
-  "request_id": "queue-20261107050312882520",
-  "workflow_run": "42341060860",
+  "request_id": "queue-20261107050314094066",
+  "workflow_run": "42341062463",
   "ath_refresh_requested": false,
-  "last_check_completed_at": "2026-11-07T14:04:30.362094Z",
+  "last_check_completed_at": "2026-11-07T14:10:30.629452Z",
   "last_check_status": "skipped_market_closed"
 }
