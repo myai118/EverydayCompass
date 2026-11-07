@@ -75,27 +75,46 @@ jobs:
       - name: Safety tests
         if: steps.recovery_check.outputs.needed == 'true'
         run: pytest -q
-      - name: Update feed
+      # Phase 1: refresh and save every normal source first. ArtScience is
+      # deliberately excluded because its manual recovery can be slow.
+      - name: Update normal sources
         if: steps.recovery_check.outputs.needed == 'true'
         id: update
-        run: python scripts/run_whats_on.py
-      - name: Commit changed feed
+        run: python scripts/run_whats_on.py --skip-artscience
+      - name: Commit normal source feed
         if: steps.recovery_check.outputs.needed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add events.json
           if ! git diff --cached --quiet; then
-            git commit -m "Update What's On events"
+            git commit -m "Update What's On events (normal sources)"
             git pull --rebase origin main
             git push origin HEAD:main
           fi
-      # Runs AFTER the feed is saved, so finished events are still removed.
-      # Failing here marks the run red on the Actions page and triggers GitHub's failure notification.
-      - name: Fail the run if every source returned zero events
+
+      # Phase 2: attempt ArtScience only after the normal feed is already live.
+      # A slow/failing recovery must not block or undo the normal refresh.
+      - name: Run ArtScience manual recovery
+        if: steps.recovery_check.outputs.needed == 'true'
+        id: artscience
+        continue-on-error: true
+        run: python scripts/run_whats_on.py --only-artscience
+      - name: Commit ArtScience recovery result
+        if: always() && steps.recovery_check.outputs.needed == 'true'
+        run: |
+          git add events.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update ArtScience event recovery"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      # The normal feed is already saved before this health check runs.
+      - name: Fail the run if every normal source returned zero events
         if: steps.recovery_check.outputs.needed == 'true' && steps.update.outputs.all_sources_failed == 'true'
         run: |
-          echo "::error::Every What's On source returned zero events. Previous events were kept and finished events removed. Check the source list and the websites."
+          echo "::error::Every normal What's On source returned zero events. Previous events were kept and finished events removed. Check the source list and the websites."
           exit 1
 
   reader-enhancement-alert:
