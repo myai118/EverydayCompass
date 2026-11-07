@@ -894,17 +894,22 @@ def read_source_events(cfg, key, today, fetcher):
     errors = []
     empty_confirmed = False
     readable_urls = set()
+    source_fetcher = fetcher
+    if key == "artscience" and fetcher is fetch:
+        # The ArtScience page is a large client-rendered document and can
+        # exceed the normal 30-second request timeout on GitHub runners.
+        source_fetcher = lambda url: fetch(url, timeout=120)
 
     def extract(html):
         nonlocal empty_confirmed
         events = parse_source_html(html, key, today)
-        events = events or fetch_official_details(html, key, today, fetcher)
+        events = events or fetch_official_details(html, key, today, source_fetcher)
         empty_confirmed = not events and verified_empty_source(html, key, today)
         return events
 
     for url in urls:
         try:
-            fresh = extract(fetcher(url))
+            fresh = extract(source_fetcher(url))
             readable_urls.add(url)
             if fresh or empty_confirmed:
                 return fresh
