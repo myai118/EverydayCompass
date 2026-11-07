@@ -597,6 +597,13 @@ def parse_official_detail(html, url, key, today):
     elif not period:
         match = MONTH_FIRST_RANGE.search(text) or DATE_RANGE.search(text) or ISO_RANGE.search(text) or SHORT_DATE_RANGE.search(text)
         period = match.group(0) if match else ""
+    if not period and key == "science_centre":
+        match = re.search(
+            r"\bDate\s+(?:Opens|Runs)?\s*:?[ ]*"
+            r"(\d{1,2}\s+[A-Za-z]{3,9}\s+\d{4}|[A-Za-z]{3,9}\s+\d{1,2},?\s+\d{4})",
+            text, re.I
+        )
+        period = extract_period(match.group(1)) if match else "Ongoing"
     if not period:
         return []
     paragraphs = [norm(p.get_text(" ", strip=True)) for p in main.find_all("p")]
@@ -613,8 +620,27 @@ def parse_official_detail(html, url, key, today):
         free = bool(re.fullmatch(r"Free[.!]?", price_scope, re.I) or re.search(r"\b(?:admission is free|free admission|(?:tickets?\s*(?:&\s*)?prices?|price|admission)\s*(?:is|:|-)?\s*(?:free|\$?0(?:\.00)?))\b", price_scope, re.I))
         if not free:
             return []
-    e = clean_event({"title":title, "overview":overview[:700], "period":period,
-                     "category":"Event / Exhibition", "link":url}, key, today)
+    event_data = {"title":title, "overview":overview[:700], "period":period,
+                  "category":"Event / Exhibition", "link":url}
+    if key == "science_centre":
+        location = re.search(
+            r"\bLocation\s+(.+?)(?=\b(?:Operation Hours|Perfect For|Ticket Price)\b|$)",
+            text, re.I
+        )
+        hours = re.search(
+            r"\bOperation Hours\s+(.+?)(?=\b(?:Perfect For|Ticket Price)\b|$)",
+            text, re.I
+        )
+        price = re.search(
+            r"\bTicket Price\s+(From\s+\$\s*\d+(?:\.\d{1,2})?)",
+            text, re.I
+        )
+        event_data.update({
+            "venue": norm(location.group(1)) if location else "Science Centre Singapore",
+            "time": norm(hours.group(1)) if hours else "Check official information",
+            "adult": norm(price.group(1)) if price else "Check official information",
+        })
+    e = clean_event(event_data, key, today)
     if key == "catch_sg":
         e["adult"] = e["senior"] = e["child"] = "Free"
         e["tags"] = sorted(set(e["tags"]) | {"free"})
@@ -635,7 +661,7 @@ def fetch_official_details(listing_html, key, today, fetcher, limit=12):
     def read(url):
         try:
             events = parse_official_detail(fetcher(url), url, key, today)
-            if not events and key in ("catch_sg", "nlb_calendar") and fetcher is fetch:
+            if not events and key in ("catch_sg", "nlb_calendar", "artscience", "visit_singapore", "science_centre") and fetcher is fetch:
                 events = parse_official_detail(render_source(url), url, key, today)
             return events
         except Exception as exc:
@@ -715,7 +741,7 @@ def render_source(url):
                 if "visitsingapore.com" in host:
                     page.wait_for_function(
                         "() => document.body.innerText.includes('Upcoming Happenings') || "
-                        "document.querySelectorAll('a[href*='/whats-happening/']").length > 2",
+                        "document.querySelectorAll('a[href*=\"/whats-happening/\"]').length > 2",
                         timeout=25000)
                 elif "science.edu.sg" in host:
                     page.wait_for_function(
@@ -726,7 +752,7 @@ def render_source(url):
                     page.wait_for_function("() => document.body.innerText.includes('Event Details')", timeout=20000)
                 elif "marinabaysands.com" in host:
                     page.wait_for_function(
-                        "() => document.querySelectorAll('a[href*='/museum/']").length > 5",
+                        "() => document.querySelectorAll('a[href*=\"/museum/\"]').length > 5",
                         timeout=25000)
                 else:
                     page.wait_for_function(
