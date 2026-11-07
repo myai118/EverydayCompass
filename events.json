@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T18:37:46+08:00",
+  "updated_at": "2026-11-07T20:59:48+08:00",
   "events": [
     {
       "title": "[CANCELLED] Dee Dee Bridgewater Duo with Helen Sung",
@@ -2223,30 +2223,6 @@
       "date_added": "2026-11-06"
     },
     {
-      "title": "Zapin Acah: Workshop by Destar Limar UPSI",
-      "category": "Event",
-      "overview": "As part of the festival's knowledge-sharing platform, invited foreign groups will each conduct a two-hour workshop at the Esplanade Annexe Studio.",
-      "period": "7 & 8 Nov 2026",
-      "time": "11:00 AM",
-      "venue": "Esplanade Annexe Studio",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/muara-festival/2026/zapin-acah-workshop-by-destar-limar-upsi",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Ongoing",
-      "statusClass": "",
-      "tags": [
-        "free",
-        "ongoing"
-      ],
-      "date_added": "2026-11-05"
-    },
-    {
       "title": "இன்று புதிதாய் பிறந்தோம் Today We Are Born Anew",
       "category": "Event",
       "overview": "இன்று புதிதாய் பிறந்தோம் (Today We Are Born Anew) is a bharatanatyam dance production inspired by Mahakavi Subramania Bharathiyaar's Puthiya Aathichudi (புதிய ஆத்திசூடி), a timeless collection of concise moral and philosophical maxims that serve as a guide for ethical living and social progress. Drawing from these verses, the production brings Bharathiyaar's ideas into the present, exploring their relevance to life today.",
@@ -2879,8 +2855,8 @@
     },
     "esplanade": {
       "status": "fresh",
-      "count": 57,
-      "detail_errors": 0
+      "count": 56,
+      "detail_errors": 1
     },
     "national_museum": {
       "status": "fresh",
@@ -2893,7 +2869,7 @@
     "artscience": {
       "status": "fallback",
       "count": 0,
-      "error": "https://www.marinabaysands.com/museum/whats-on.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum/whats-on.html\", waiting"
+      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; "
     },
     "ura": {
       "status": "fresh",
@@ -2923,7 +2899,7 @@
       "url": "https://singaporeccc.org.sg/events/",
       "status": "ok",
       "count": 27,
-      "last_success": "2026-11-07T18:26:16+08:00",
+      "last_success": "2026-11-07T20:49:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2933,7 +2909,7 @@
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-07T18:26:16+08:00",
+      "last_success": "2026-11-07T20:49:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2942,8 +2918,8 @@
       "name": "Esplanade",
       "url": "https://www.esplanade.com/whats-on",
       "status": "ok",
-      "count": 57,
-      "last_success": "2026-11-07T18:26:16+08:00",
+      "count": 56,
+      "last_success": "2026-11-07T20:49:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2953,7 +2929,7 @@
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-11-07T18:26:16+08:00",
+      "last_success": "2026-11-07T20:49:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2963,18 +2939,18 @@
       "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-07T18:26:16+08:00",
+      "last_success": "2026-11-07T20:49:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
     {
       "id": "artscience",
       "name": "ArtScience Museum",
-      "url": "https://www.marinabaysands.com/museum/whats-on.html",
+      "url": "https://www.marinabaysands.com/museum.html",
       "status": "fallback",
       "count": 0,
       "last_success": null,
-      "error": "https://www.marinabaysands.com/museum/whats-on.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum/whats-on.html\", waiting",
+      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; ",
       "needs_reader_review": false
     },
     {
@@ -2983,7 +2959,7 @@
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-07T18:26:16+08:00",
+      "last_success": "2026-11-07T20:49:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2993,7 +2969,7 @@
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
       "status": "ok",
       "count": 6,
-      "last_success": "2026-11-07T18:26:16+08:00",
+      "last_success": "2026-11-07T20:49:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3003,7 +2979,7 @@
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-07T18:26:16+08:00",
+      "last_success": "2026-11-07T20:49:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3013,7 +2989,7 @@
       "url": "https://www.catch.sg/Event",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-07T18:26:16+08:00",
+      "last_success": "2026-11-07T20:49:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -3023,7 +2999,7 @@
       "url": "https://www.science.edu.sg/whats-on",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-07T18:26:16+08:00",
+      "last_success": "2026-11-07T20:49:46+08:00",
       "error": "",
       "needs_reader_review": false
     }
