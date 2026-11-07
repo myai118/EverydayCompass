@@ -303,7 +303,8 @@ def run(previous, sources, today=None, now=None, fetcher=None, source_keys=None)
     if fetcher is not None:
         kwargs["fetcher"] = fetcher
     with patched(sources):
-        kwargs["source_keys"] = active_keys
+        if source_keys is not None:
+            kwargs["source_keys"] = active_keys
         payload = ue.update(prev, **kwargs)
         # Safety net: finished events never stay, even when every source failed.
         payload["events"] = [e for e in payload["events"] if not ue.is_expired(e, today)]
