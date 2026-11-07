@@ -677,7 +677,7 @@ def fetch(url, timeout=30):
             pass
     soup = BeautifulSoup(r.text, "html.parser")
     page_text = norm(soup.get_text(" ", strip=True))
-    if "verify that you're not a robot" in page_text.lower() or "enable javascript and then reload" in page_text.lower():
+    if "verify that you're not a robot" in page_text.lower():
         raise ValueError("Official source requires browser verification; keeping previous events")
     print(f"Fetched {r.url}: HTTP {r.status_code}, {len(r.content)} bytes, "
           f"{len(text_blocks(soup))} candidate cards; title={norm(soup.title.get_text() if soup.title else '')[:100]}", flush=True)
@@ -732,7 +732,7 @@ def render_source(url):
 
 # Public official alternatives only. A challenge page is never a successful read.
 OFFICIAL_LISTING_ALTERNATIVES = {
-    "artscience": ["https://www.marinabaysands.com/museum.html"],
+    "artscience": [],
     "onepa": [
         "https://www.onepa.gov.sg/events/kopi-talks-and-dialogues",
         "https://www.onepa.gov.sg/events/exhibition-and-fair",
