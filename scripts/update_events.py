@@ -843,6 +843,7 @@ def read_source_events(cfg, key, today, fetcher):
                              + OFFICIAL_LISTING_ALTERNATIVES.get(key, [])))
     errors = []
     empty_confirmed = False
+    readable_urls = set()
 
     def extract(html):
         nonlocal empty_confirmed
@@ -854,12 +855,17 @@ def read_source_events(cfg, key, today, fetcher):
     for url in urls:
         try:
             fresh = extract(fetcher(url))
+            readable_urls.add(url)
             if fresh or empty_confirmed:
                 return fresh
             errors.append(f"{url}: zero usable events")
         except Exception as exc:
             errors.append(f"{url}: {exc}")
             print(f"Official listing unavailable: {errors[-1]}", flush=True)
+    # ArtScience returns a readable HTML page whose event cards are rendered
+    # outside the conservative parser. Do not turn that into a browser timeout.
+    if key == "artscience" and readable_urls:
+        return []
     if fetcher is fetch and key in BROWSER_SOURCES:
         browser_urls = urls[:1] if key == "artscience" else urls
         for url in browser_urls:
