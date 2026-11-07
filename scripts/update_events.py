@@ -645,10 +645,29 @@ def fetch_official_details(listing_html, key, today, fetcher, limit=12):
 
 
 def fetch(url, timeout=30):
-    r = requests.get(url, headers={"User-Agent": UA, "Accept-Language": "en-SG,en;q=0.9", "Accept": "text/html,application/xhtml+xml"}, timeout=timeout)
-    r.raise_for_status()
-    if r.status_code != 200 or not r.content:
-        raise ValueError(f"Official source returned HTTP {r.status_code} with no usable page; keeping previous events")
+    # Some official public sites briefly return 202 while their edge/cache is warming.
+    # Retry transient responses before declaring the source unavailable.
+    last_status = None
+    r = None
+    for attempt in range(3):
+        r = requests.get(
+            url,
+            headers={"User-Agent": UA, "Accept-Language": "en-SG,en;q=0.9",
+                     "Accept": "text/html,application/xhtml+xml"},
+            timeout=timeout,
+        )
+        last_status = r.status_code
+        if 200 <= r.status_code < 300 and r.content:
+            break
+        if r.status_code not in {202, 429, 500, 502, 503, 504}:
+            r.raise_for_status()
+        if attempt < 2:
+            import time
+            time.sleep(1.5 * (attempt + 1))
+    if r is None or not (200 <= last_status < 300) or not r.content:
+        raise ValueError(
+            f"Official source returned HTTP {last_status} with no usable page; keeping previous events"
+        )
     # Requests otherwise defaults charset-less HTML to Latin-1.
     if "charset=" not in r.headers.get("Content-Type", "").lower():
         try:
@@ -670,7 +689,7 @@ def render_source(url):
     with sync_playwright() as p:
         # Use Chromium's normal protocol negotiation for Marina Bay Sands.
         # Keep the existing compatibility setting for the other working sources.
-        args = [] if (urlparse(url).hostname or "").endswith("marinabaysands.com") else ["--disable-http2"]
+        args = ["--disable-http2"]
         browser = p.chromium.launch(headless=True, args=args)
         try:
             page = browser.new_page(locale="en-SG")
