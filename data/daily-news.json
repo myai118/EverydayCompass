@@ -1,6 +1,13 @@
 {
   "singapore": [
     {
+      "title": "Stand on either side of escalators? Commuters reluctant to ditch 'keep left' habit in SMRT trial",
+      "url": "https://www.channelnewsasia.com/singapore/smrt-escalator-stand-both-sides-trial-6532751",
+      "summary": "CNA's observations at City Hall MRT station found that commuters who walked up the steps on the right took about 20 seconds to complete the ride, compared with 30 seconds for those who stood still on the left.",
+      "source": "CNA",
+      "published": "Sat, 07 Nov 2026 15:07:48 +0800"
+    },
+    {
       "title": "Man arrested after alleged assault in River Valley, car overturns following police chase",
       "url": "https://www.channelnewsasia.com/singapore/police-chase-overturned-car-river-valley-assault-6532596",
       "summary": "The suspect's car overturned at the junction of Race Course Road and Birch Road after a collision with another vehicle.",
@@ -97,13 +104,6 @@
       "summary": "The vehicle is part of Grab's autonomous shuttle service, which operates on two fixed routes in Punggol.",
       "source": "CNA",
       "published": "Fri, 06 Nov 2026 15:02:00 +0800"
-    },
-    {
-      "title": "Singapore Airlines unveils S$2 billion cabin upgrade with new First Class double beds, Business Class seats with privacy doors",
-      "url": "https://www.channelnewsasia.com/travel/singapore-airlines-sia-new-cabin-products-first-class-business-class-2027-6526061",
-      "summary": "The next-generation seats will be rolled out progressively from the second half of 2027, with more privacy, improved comfort and personalised features across all four cabin classes.",
-      "source": "CNA",
-      "published": "Fri, 06 Nov 2026 13:31:00 +0800"
     }
   ],
   "world": [
@@ -213,6 +213,6 @@
       "published": "Fri, 06 Nov 2026 13:11:39 +0800"
     }
   ],
-  "generated_at": "2026-11-07T14:37:35+08:00",
+  "generated_at": "2026-11-07T19:18:39+08:00",
   "test_mode": false
 }
