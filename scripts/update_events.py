@@ -801,10 +801,6 @@ OFFICIAL_DETAIL_FALLBACKS = {
         "https://www.marinabaysands.com/museum/exhibitions/future-world.html",
         "https://www.marinabaysands.com/museum/programmes/talks/in-relation.html",
         "https://www.marinabaysands.com/museum/programmes/artscience-encounters/sounding-lines.html",
-        "https://www.marinabaysands.com/museum/programmes/in-the-ether.html",
-        "https://www.marinabaysands.com/museum/programmes/artscience-interlude/sarah-abbott.html",
-        "https://www.marinabaysands.com/museum/programmes/artscience-interlude/yoshi-sodeoka.html",
-        "https://www.marinabaysands.com/museum/programmes/tours.html",
     ],
 }
 BROWSER_SOURCES = {"gardens", "artscience", "visit_singapore", "catch_sg", "science_centre", "national_museum", "eventbrite", "allevents", "nlb_calendar", "onepa", "nparks"}
