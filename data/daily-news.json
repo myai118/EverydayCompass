@@ -1,6 +1,20 @@
 {
   "singapore": [
     {
+      "title": "Man arrested after alleged assault in River Valley, car overturns following police chase",
+      "url": "https://www.channelnewsasia.com/singapore/police-chase-overturned-car-river-valley-assault-6532596",
+      "summary": "The suspect's car overturned at the junction of Race Course Road and Birch Road after a collision with another vehicle.",
+      "source": "CNA",
+      "published": "Sat, 07 Nov 2026 11:28:00 +0800"
+    },
+    {
+      "title": "Sheila Sim on her runway return at Chanel in Sydney: ‘I represent women who have forgotten to love themselves’",
+      "url": "https://www.channelnewsasia.com/style-beauty/sheila-sim-chanel-cruise-show-sydney-6530466",
+      "summary": "After over a decade away from the runway, Singaporean model-actress Sheila Sim makes a memorable return at Chanel’s Cruise 2026/27 show in Sydney, Australia, reflecting on motherhood, newfound confidence and her enduring relationship with the French luxury house.",
+      "source": "CNA",
+      "published": "Sat, 07 Nov 2026 09:37:00 +0800"
+    },
+    {
       "title": "After years of robust growth, a tough 2027 ahead for Singapore banks: Analysts",
       "url": "https://www.channelnewsasia.com/singapore/dbs-uob-ocbc-banks-earnings-outlook-6531376",
       "summary": "The three Singapore banks reported a mixed bag of earnings this week, with DBS and UOB missing analysts' expectations.",
@@ -90,23 +104,30 @@
       "summary": "The next-generation seats will be rolled out progressively from the second half of 2027, with more privacy, improved comfort and personalised features across all four cabin classes.",
       "source": "CNA",
       "published": "Fri, 06 Nov 2026 13:31:00 +0800"
-    },
-    {
-      "title": "Singapore authorities warn of privacy, security risks from personal AI agents",
-      "url": "https://www.channelnewsasia.com/singapore/personal-ai-agents-assistant-advisory-muse-dots-hermes-grok-openclaw-6529836",
-      "summary": "\"AI agents can be very useful, but you cannot treat them like human assistants and give them the same broad access to your information and implicit trust,\" said the authorities.",
-      "source": "CNA",
-      "published": "Fri, 06 Nov 2026 13:30:00 +0800"
-    },
-    {
-      "title": "From cancer to diabetes: Singapore biomedical startups expand into China to accelerate development of new treatments",
-      "url": "https://www.channelnewsasia.com/singapore/singapore-biomedical-startups-expand-china-cancer-diabetes-treatments-6516196",
-      "summary": "Singapore startups are tapping China’s vast patient pool, hospital networks and manufacturing capabilities, but they must also navigate its evolving regulatory landscape.",
-      "source": "CNA",
-      "published": "Fri, 06 Nov 2026 12:51:04 +0800"
     }
   ],
   "world": [
+    {
+      "title": "Ahead of Trump-Xi meetings, US presses China on trade pledges",
+      "url": "https://www.channelnewsasia.com/east-asia/ahead-trump-xi-meetings-us-presses-china-trade-pledges-6532561",
+      "summary": "\"I emphasized the importance of China fully and immediately honouring its commitments, raised concerns about recent Chinese actions and underscored that progress depends on concrete results,\" Treasury Secretary Scott Bessent said in a social media post.",
+      "source": "CNA",
+      "published": "Sat, 07 Nov 2026 10:28:00 +0800"
+    },
+    {
+      "title": "Paraguay president ousted and placed under house arrest, successor sworn in",
+      "url": "https://www.channelnewsasia.com/world/paraguay-president-ousted-and-placed-under-house-arrest-successor-sworn-in-6532536",
+      "summary": "Santiago Peña was ousted from the presidency about an hour beforehand in a unanimous Senate vote, with lawmakers citing questions over his past links to the collapsed digital bank ueno that had provided accounts for nearly half of Paraguay's population.",
+      "source": "CNA",
+      "published": "Sat, 07 Nov 2026 09:46:00 +0800"
+    },
+    {
+      "title": "China's giant pandas make public debut at US zoo",
+      "url": "https://www.channelnewsasia.com/world/china-panda-us-zoo-atlanta-6532496",
+      "summary": "Giant pandas Ping Ping and Fu Shuang will make Zoo Atlanta home for the next 10 years.",
+      "source": "CNA",
+      "published": "Sat, 07 Nov 2026 09:14:00 +0800"
+    },
     {
       "title": "Protesters break into Microsoft data centre site in Amsterdam as Europe’s backlash spreads",
       "url": "https://www.channelnewsasia.com/world/data-centre-protesters-microsoft-amsterdam-europe-6531886",
@@ -190,29 +211,8 @@
       "summary": "According to Australia's Fair Work Commission, one of the complaints that led to his dismissal was that the Italian chef Davide Tamburella had refused to top pizzas with the offending fruit around three times across four years.",
       "source": "CNA",
       "published": "Fri, 06 Nov 2026 13:11:39 +0800"
-    },
-    {
-      "title": "Israel faces new era of sinking US support after election",
-      "url": "https://www.channelnewsasia.com/world/israel-us-support-midterm-election-6529946",
-      "summary": "",
-      "source": "CNA",
-      "published": "Fri, 06 Nov 2026 11:21:00 +0800"
-    },
-    {
-      "title": "Hegseth vows to keep fighting from Pentagon, defends Iran war",
-      "url": "https://www.channelnewsasia.com/world/hegseth-pentagon-us-iran-war-democrats-congress-6529906",
-      "summary": "Democrats, who won control of US Congress in the midterm elections, have promised to investigate US Secretary of Defence Pete Hegseth and his handling of the Pentagon.",
-      "source": "CNA",
-      "published": "Fri, 06 Nov 2026 11:09:00 +0800"
-    },
-    {
-      "title": "Melania hosts Russia and Ukraine as Trump touts deal for 'all of Europe'",
-      "url": "https://www.channelnewsasia.com/world/melania-trump-russia-ukraine-deal-6529891",
-      "summary": "",
-      "source": "CNA",
-      "published": "Fri, 06 Nov 2026 11:04:15 +0800"
     }
   ],
-  "generated_at": "2026-11-07T09:12:13+08:00",
+  "generated_at": "2026-11-07T14:37:35+08:00",
   "test_mode": false
 }
