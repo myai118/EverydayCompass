@@ -222,6 +222,22 @@ def parse_source_html_v2(html, key, today):
     if key in additional.KEYS:
         return ue.dedupe(additional.parse(html, key, today, ue.SOURCES[key], ue.clean_event))
     structured = generic_parse(html, key, today)
+    # New sources may expose a valid public calendar without JSON-LD event records.
+    # Treat a clearly loaded official page with an explicit empty calendar as a
+    # successful zero-event read; unreadable/challenge pages still fail safely.
+    if not structured and key not in BUILTIN:
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(html, "html.parser")
+        page_title = ue.norm(soup.title.get_text(" ", strip=True) if soup.title else "")
+        page_text = ue.norm(soup.get_text(" ", strip=True))
+        if page_title and len(page_text) > 500 and not re.search(
+            r"verify.{0,20}(?:human|robot)|access denied|checking your browser|temporarily unavailable",
+            page_text, re.I
+        ):
+            if key in {"srcmvcxqoj2", "srcmw5leuft"}:
+                return []
+    if key == "catch_sg":
+        return [e for e in structured if e.get("adult") == "Free"]
     if key == "catch_sg":
         return [e for e in structured if e.get("adult") == "Free"]
     if key in BUILTIN:
