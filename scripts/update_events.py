@@ -728,7 +728,17 @@ def render_source(url):
                 # Some public sites keep optional resources open indefinitely.
                 # Continue only if the document body has already loaded.
                 print(f"Browser navigation did not finish for {url}: {exc}", flush=True)
-            page.locator("body").wait_for(state="attached", timeout=20000)
+            host = (urlparse(url).hostname or "").lower()
+            try:
+                page.locator("body").wait_for(state="attached", timeout=20000)
+            except Exception:
+                # ArtScience may keep the initial document open while its
+                # client-rendered event data loads. One normal reload is
+                # allowed; no challenge is bypassed.
+                if "marinabaysands.com" not in host:
+                    raise
+                page.goto(url, wait_until="commit", timeout=45000)
+                page.locator("body").wait_for(state="attached", timeout=30000)
             if response and response.status >= 400:
                 raise ValueError(f"Official browser page returned HTTP {response.status}")
             def check_verification():
@@ -736,7 +746,6 @@ def render_source(url):
                 if any(s in text for s in ("verify that you're not a robot", "verify you are human", "checking your browser")):
                     raise ValueError("Official source requires browser verification; keeping previous events")
             check_verification()
-            host = (urlparse(url).hostname or "").lower()
             try:
                 if "visitsingapore.com" in host:
                     page.wait_for_function(
@@ -903,10 +912,9 @@ def read_source_events(cfg, key, today, fetcher):
         except Exception as exc:
             errors.append(f"{url}: {exc}")
             print(f"Official listing unavailable: {errors[-1]}", flush=True)
-    # ArtScience returns a readable HTML page whose event cards are rendered
-    # outside the conservative parser. Do not turn that into a browser timeout.
-    if key == "artscience" and readable_urls:
-        return []
+    # A readable HTTP page may still contain only the shell of a
+    # JavaScript-rendered listing. Give the browser recovery pass one chance
+    # before preserving the previous source records.
     if fetcher is fetch and key in BROWSER_SOURCES:
         browser_urls = urls[:1] if key == "artscience" else urls
         for url in browser_urls:
