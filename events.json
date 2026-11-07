@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T08:08:24+08:00",
+  "updated_at": "2026-11-07T12:52:48+08:00",
   "events": [
     {
       "title": "[CANCELLED] Dee Dee Bridgewater Duo with Helen Sung",
@@ -2614,7 +2614,7 @@
     "artscience": {
       "status": "fallback",
       "count": 0,
-      "error": "https://www.marinabaysands.com/museum.html: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.marinabaysands.com/museum.html\nCall log:\n  - navigating to \"https://www.marinaba"
+      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; "
     },
     "ura": {
       "status": "fresh",
@@ -2627,7 +2627,7 @@
     "srcmvcxqoj2": {
       "status": "fallback",
       "count": 0,
-      "error": "https://www.visitsingapore.com/: zero usable events; preserving previous source records"
+      "error": "https://www.visitsingapore.com/whats-happening/all-happenings/: zero usable events; preserving previous source records"
     },
     "srcmvcxtvkt": {
       "status": "fallback",
@@ -2637,7 +2637,7 @@
     "srcmw5leuft": {
       "status": "fallback",
       "count": 0,
-      "error": "https://www.science.edu.sg/whats-on: Official source returned HTTP 202 with no usable page; keeping previous events; preserving previous source records"
+      "error": "https://www.science.edu.sg/whats-on: Official source requires browser verification; keeping previous events; preserving previous source records"
     }
   },
   "sources": [
@@ -2647,7 +2647,7 @@
       "url": "https://singaporeccc.org.sg/events/",
       "status": "ok",
       "count": 27,
-      "last_success": "2026-11-07T08:06:08+08:00",
+      "last_success": "2026-11-07T12:49:09+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2657,7 +2657,7 @@
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-07T08:06:08+08:00",
+      "last_success": "2026-11-07T12:49:09+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2667,7 +2667,7 @@
       "url": "https://www.esplanade.com/whats-on",
       "status": "ok",
       "count": 57,
-      "last_success": "2026-11-07T08:06:08+08:00",
+      "last_success": "2026-11-07T12:49:09+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2677,7 +2677,7 @@
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-11-07T08:06:08+08:00",
+      "last_success": "2026-11-07T12:49:09+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2687,7 +2687,7 @@
       "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-07T08:06:08+08:00",
+      "last_success": "2026-11-07T12:49:09+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2698,7 +2698,7 @@
       "status": "fallback",
       "count": 0,
       "last_success": null,
-      "error": "https://www.marinabaysands.com/museum.html: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.marinabaysands.com/museum.html\nCall log:\n  - navigating to \"https://www.marinaba",
+      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; ",
       "needs_reader_review": false
     },
     {
@@ -2707,7 +2707,7 @@
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-07T08:06:08+08:00",
+      "last_success": "2026-11-07T12:49:09+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2717,18 +2717,18 @@
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
       "status": "ok",
       "count": 6,
-      "last_success": "2026-11-07T08:06:08+08:00",
+      "last_success": "2026-11-07T12:49:09+08:00",
       "error": "",
       "needs_reader_review": false
     },
     {
       "id": "srcmvcxqoj2",
       "name": "Visit Singapore",
-      "url": "https://www.visitsingapore.com/",
+      "url": "https://www.visitsingapore.com/whats-happening/all-happenings/",
       "status": "fallback",
       "count": 0,
       "last_success": null,
-      "error": "https://www.visitsingapore.com/: zero usable events; preserving previous source records",
+      "error": "https://www.visitsingapore.com/whats-happening/all-happenings/: zero usable events; preserving previous source records",
       "needs_reader_review": true
     },
     {
@@ -2748,7 +2748,7 @@
       "status": "fallback",
       "count": 0,
       "last_success": null,
-      "error": "https://www.science.edu.sg/whats-on: Official source returned HTTP 202 with no usable page; keeping previous events; preserving previous source records",
+      "error": "https://www.science.edu.sg/whats-on: Official source requires browser verification; keeping previous events; preserving previous source records",
       "needs_reader_review": false
     }
   ],
