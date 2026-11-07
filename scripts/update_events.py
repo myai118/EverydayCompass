@@ -954,18 +954,18 @@ def read_source_events(cfg, key, today, fetcher):
                 print(f"Official browser read unavailable: {errors[-1]}", flush=True)
     # Detail-page recovery for listings whose client shell is too heavy to
     # download. Each page is official, bounded, and parsed conservatively.
+    all_detail_events = []
     for detail_url in OFFICIAL_DETAIL_FALLBACKS.get(key, []):
         try:
             detail_html = render_source(detail_url) if fetcher is fetch else source_fetcher(detail_url)
             fresh = parse_official_detail(detail_html, detail_url, key, today)
             if fresh:
                 readable_urls.add(detail_url)
-                all_detail_events = locals().get("all_detail_events", []) + fresh
-                locals()["all_detail_events"] = all_detail_events
+                all_detail_events.extend(fresh)
         except Exception as exc:
             print(f"Official detail recovery unavailable {detail_url}: {str(exc)[:160]}", flush=True)
-    if locals().get("all_detail_events"):
-        return dedupe(locals()["all_detail_events"])
+    if all_detail_events:
+        return dedupe(all_detail_events)
 
     reason = errors[-1] if errors else "zero usable events"
     raise ValueError(reason + "; preserving previous source records")
