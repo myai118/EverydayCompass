@@ -898,7 +898,12 @@ def read_source_events(cfg, key, today, fetcher):
     if key == "artscience" and fetcher is fetch:
         # The ArtScience page is a large client-rendered document and can
         # exceed the normal 30-second request timeout on GitHub runners.
-        source_fetcher = lambda url: fetch(url, timeout=120)
+        def source_fetcher(url):
+            try:
+                return fetch(url, timeout=120)
+            except TypeError:
+                # Keep lightweight test doubles and compatible fetchers usable.
+                return fetcher(url)
 
     def extract(html):
         nonlocal empty_confirmed
