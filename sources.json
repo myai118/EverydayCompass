@@ -51,20 +51,21 @@
       "enabled": true
     },
     {
-      "id": "srcmvcxqoj2",
+      "id": "visit_singapore",
       "name": "Visit Singapore",
-      "url": "https://www.visitsingapore.com/whats-happening/all-happenings/",
+      "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
+      "listing_url": "https://www.visitsingapore.com/whats-happening/all-happenings/",
       "enabled": true
     },
     {
-      "id": "srcmvcxtvkt",
-      "name": "catch sg",
+      "id": "catch_sg",
+      "name": "Catch.sg — Free Events",
       "url": "https://www.catch.sg/Event",
       "enabled": true
     },
     {
-      "id": "srcmw5leuft",
-      "name": "Science centre",
+      "id": "science_centre",
+      "name": "Science Centre Singapore",
       "url": "https://www.science.edu.sg/whats-on",
       "listing_url": "https://www.science.edu.sg/whats-on/one-ocean",
       "enabled": true
