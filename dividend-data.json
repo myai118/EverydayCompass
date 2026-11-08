@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-07T01:58:42.488349Z",
+  "generated_at": "2026-11-08T01:29:21.740372Z",
   "config_revision": 46,
   "instruments": [
     {
       "ticker": "ES3.SI",
-      "dividend_retrieved_at": "2026-11-07T01:57:58.852580Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:21.572699Z",
       "dividend_per_share": 0.093,
       "dividend_yield_pct": 3.393061380099123,
       "ex_dividend_date": "13 Aug 2026",
@@ -14,7 +14,7 @@
     },
     {
       "ticker": "GQC0.MU",
-      "dividend_retrieved_at": "2026-11-07T01:57:59.109622Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:21.946800Z",
       "dividend_per_share": null,
       "dividend_yield_pct": null,
       "ex_dividend_date": null,
@@ -23,9 +23,9 @@
     },
     {
       "ticker": "QQQ",
-      "dividend_retrieved_at": "2026-11-07T01:57:59.880098Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:22.687276Z",
       "dividend_per_share": 0.751,
-      "dividend_yield_pct": 0.47124649347481407,
+      "dividend_yield_pct": 0.47111720774272214,
       "ex_dividend_date": "21 Sep 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -33,9 +33,9 @@
     },
     {
       "ticker": "QQQM",
-      "dividend_retrieved_at": "2026-11-07T01:58:00.037774Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:22.930754Z",
       "dividend_per_share": 0.313,
-      "dividend_yield_pct": 0.48729911871435977,
+      "dividend_yield_pct": 0.4870105839686181,
       "ex_dividend_date": "21 Sep 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -43,9 +43,9 @@
     },
     {
       "ticker": "SPY",
-      "dividend_retrieved_at": "2026-11-07T01:58:00.181801Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:23.156497Z",
       "dividend_per_share": 1.889,
-      "dividend_yield_pct": 1.0313498809928596,
+      "dividend_yield_pct": 1.0312937752451414,
       "ex_dividend_date": "18 Sep 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -53,9 +53,9 @@
     },
     {
       "ticker": "VOO",
-      "dividend_retrieved_at": "2026-11-07T01:58:00.342294Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:23.385600Z",
       "dividend_per_share": 1.823,
-      "dividend_yield_pct": 1.0988815906266642,
+      "dividend_yield_pct": 1.098832822970754,
       "ex_dividend_date": "28 Sep 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -63,9 +63,9 @@
     },
     {
       "ticker": "VTI",
-      "dividend_retrieved_at": "2026-11-07T01:58:00.532047Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:23.602693Z",
       "dividend_per_share": 0.956,
-      "dividend_yield_pct": 1.091592608461294,
+      "dividend_yield_pct": 1.0910949631144145,
       "ex_dividend_date": "28 Sep 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -73,7 +73,7 @@
     },
     {
       "ticker": "1155.KL",
-      "dividend_retrieved_at": "2026-11-07T01:58:00.687055Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:23.833996Z",
       "dividend_per_share": 0.31,
       "dividend_yield_pct": 6.32411067193676,
       "ex_dividend_date": "23 Sep 2026",
@@ -83,9 +83,9 @@
     },
     {
       "ticker": "AAPL",
-      "dividend_retrieved_at": "2026-11-07T01:58:00.838780Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:24.058095Z",
       "dividend_per_share": 0.27,
-      "dividend_yield_pct": 0.3092903828197946,
+      "dividend_yield_pct": 0.30960656599585246,
       "ex_dividend_date": "10 Aug 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -93,7 +93,7 @@
     },
     {
       "ticker": "AMZN",
-      "dividend_retrieved_at": "2026-11-07T01:58:01.022627Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:24.303601Z",
       "dividend_per_share": null,
       "dividend_yield_pct": null,
       "ex_dividend_date": null,
@@ -102,7 +102,7 @@
     },
     {
       "ticker": "BN4.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:01.922641Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:25.556971Z",
       "dividend_per_share": 0.15,
       "dividend_yield_pct": 3.8095238095238098,
       "ex_dividend_date": "11 Aug 2026",
@@ -112,7 +112,7 @@
     },
     {
       "ticker": "D05.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:02.038464Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:25.777855Z",
       "dividend_per_share": 0.81,
       "dividend_yield_pct": 4.561101549053356,
       "ex_dividend_date": "14 Aug 2026",
@@ -122,9 +122,9 @@
     },
     {
       "ticker": "GOOGL",
-      "dividend_retrieved_at": "2026-11-07T01:58:02.212360Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:26.004203Z",
       "dividend_per_share": 0.22,
-      "dividend_yield_pct": 0.3008044770898916,
+      "dividend_yield_pct": 0.3019874991221294,
       "ex_dividend_date": "04 Sep 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -132,9 +132,9 @@
     },
     {
       "ticker": "META",
-      "dividend_retrieved_at": "2026-11-07T01:58:02.343165Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:26.238727Z",
       "dividend_per_share": 0.525,
-      "dividend_yield_pct": 0.3432382073158772,
+      "dividend_yield_pct": 0.34417766123084487,
       "ex_dividend_date": "21 Sep 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -142,9 +142,9 @@
     },
     {
       "ticker": "MSFT",
-      "dividend_retrieved_at": "2026-11-07T01:58:02.432882Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:26.466391Z",
       "dividend_per_share": 0.91,
-      "dividend_yield_pct": 0.6848090906525441,
+      "dividend_yield_pct": 0.6860029023199714,
       "ex_dividend_date": "20 Aug 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -152,9 +152,9 @@
     },
     {
       "ticker": "NDAQ",
-      "dividend_retrieved_at": "2026-11-07T01:58:02.544905Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:26.707090Z",
       "dividend_per_share": 0.31,
-      "dividend_yield_pct": 1.0826955385476946,
+      "dividend_yield_pct": 1.0828976848394325,
       "ex_dividend_date": "11 Sep 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -162,9 +162,9 @@
     },
     {
       "ticker": "NVDA",
-      "dividend_retrieved_at": "2026-11-07T01:58:02.642909Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:26.928334Z",
       "dividend_per_share": 0.25,
-      "dividend_yield_pct": 0.27926960257787325,
+      "dividend_yield_pct": 0.2786112301757394,
       "ex_dividend_date": "10 Sep 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -172,7 +172,7 @@
     },
     {
       "ticker": "O39.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:02.774029Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:27.142667Z",
       "dividend_per_share": 0.47,
       "dividend_yield_pct": 3.7865128020194727,
       "ex_dividend_date": "17 Aug 2026",
@@ -182,9 +182,9 @@
     },
     {
       "ticker": "SHEL",
-      "dividend_retrieved_at": "2026-11-07T01:58:02.901387Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:27.364909Z",
       "dividend_per_share": 0.7812,
-      "dividend_yield_pct": 3.049233252623083,
+      "dividend_yield_pct": 3.0501564234534264,
       "ex_dividend_date": "14 Aug 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -192,7 +192,7 @@
     },
     {
       "ticker": "TSLA",
-      "dividend_retrieved_at": "2026-11-07T01:58:03.070210Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:27.589833Z",
       "dividend_per_share": null,
       "dividend_yield_pct": null,
       "ex_dividend_date": null,
@@ -201,7 +201,7 @@
     },
     {
       "ticker": "U11.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:04.158087Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:28.853026Z",
       "dividend_per_share": 0.88,
       "dividend_yield_pct": 4.311279826464207,
       "ex_dividend_date": "17 Aug 2026",
@@ -211,7 +211,7 @@
     },
     {
       "ticker": "Z74.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:04.324902Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:29.086552Z",
       "dividend_per_share": 0.103,
       "dividend_yield_pct": 4.52322738386308,
       "ex_dividend_date": "31 Jul 2026",
@@ -221,27 +221,27 @@
     },
     {
       "ticker": "0P00006FYP.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:04.487906Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:29.613142Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P00006FYU",
-      "dividend_retrieved_at": "2026-11-07T01:58:05.084445Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:30.674497Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P00006FZD.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:05.686924Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:31.472526Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P00006G0B.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:06.281004Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:32.329027Z",
       "dividend_per_share": 0.073536,
-      "dividend_yield_pct": 5.114552147239263,
+      "dividend_yield_pct": 5.161416542842991,
       "ex_dividend_date": "01 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -249,9 +249,9 @@
     },
     {
       "ticker": "0P00006G0E.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:06.441975Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:32.557079Z",
       "dividend_per_share": 0.00764,
-      "dividend_yield_pct": 5.707211538461539,
+      "dividend_yield_pct": 5.759126743480898,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -259,9 +259,9 @@
     },
     {
       "ticker": "0P00006G0K.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:06.536707Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:32.778164Z",
       "dividend_per_share": 0.02463,
-      "dividend_yield_pct": 4.763331864257381,
+      "dividend_yield_pct": 4.757042253521127,
       "ex_dividend_date": "01 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -269,9 +269,9 @@
     },
     {
       "ticker": "0P00006O9U.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:06.689656Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:32.979389Z",
       "dividend_per_share": 0.0077,
-      "dividend_yield_pct": 5.211056114787832,
+      "dividend_yield_pct": 5.235514332010951,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -279,7 +279,7 @@
     },
     {
       "ticker": "0P00006OE7.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:06.846096Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:33.215896Z",
       "dividend_per_share": null,
       "dividend_yield_pct": null,
       "ex_dividend_date": null,
@@ -288,13 +288,13 @@
     },
     {
       "ticker": "0P00006OHZ.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:07.397814Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:34.011035Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P00006ONO.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:07.882269Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:34.740760Z",
       "dividend_per_share": 0.022,
       "dividend_yield_pct": 3.9850987696681535,
       "ex_dividend_date": "01 Oct 2026",
@@ -304,9 +304,9 @@
     },
     {
       "ticker": "0P00006OSF.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:08.041274Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:34.967261Z",
       "dividend_per_share": 0.0332,
-      "dividend_yield_pct": 4.22499036856299,
+      "dividend_yield_pct": 4.22879177377892,
       "ex_dividend_date": "01 Sep 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -314,21 +314,21 @@
     },
     {
       "ticker": "0P00006X58",
-      "dividend_retrieved_at": "2026-11-07T01:58:08.195047Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:35.179598Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P00009N7A.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:08.712195Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:36.015206Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P00009VED.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:09.333692Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:36.812185Z",
       "dividend_per_share": 0.045,
-      "dividend_yield_pct": 8.695652173913045,
+      "dividend_yield_pct": 8.794788273615636,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -336,7 +336,7 @@
     },
     {
       "ticker": "0P0000AAP5.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:09.470235Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:37.051040Z",
       "dividend_per_share": null,
       "dividend_yield_pct": null,
       "ex_dividend_date": null,
@@ -345,7 +345,7 @@
     },
     {
       "ticker": "0P0000IYVB.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:10.138096Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:37.753465Z",
       "dividend_per_share": null,
       "dividend_yield_pct": null,
       "ex_dividend_date": null,
@@ -354,7 +354,7 @@
     },
     {
       "ticker": "0P0000IYVJ.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:10.720325Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:38.506889Z",
       "dividend_per_share": null,
       "dividend_yield_pct": null,
       "ex_dividend_date": null,
@@ -363,75 +363,75 @@
     },
     {
       "ticker": "0P0000JUE8.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:11.271152Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:39.217389Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0000N6XR.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:11.940083Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:39.909542Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0000PTOL.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:12.447080Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:40.749245Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0000PYTM.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:12.931980Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:41.424222Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0000RU7Y.L",
-      "dividend_retrieved_at": "2026-11-07T01:58:13.508169Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:42.142163Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0000SX14",
-      "dividend_retrieved_at": "2026-11-07T01:58:14.033205Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:42.856219Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0000T1AS.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:14.684409Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:43.639100Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0000T1B1.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:15.308411Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:44.357059Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0000TJ2I.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:15.751026Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:45.075602Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0000TJ2J.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:16.286948Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:45.840857Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0000TJ2K.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:16.769666Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:46.533499Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0000TZQ7.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:17.422954Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:47.343593Z",
       "dividend_per_share": 0.004805,
-      "dividend_yield_pct": 6.46845425867508,
+      "dividend_yield_pct": 6.488924050632912,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -439,21 +439,21 @@
     },
     {
       "ticker": "0P0000U879.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:17.592411Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:47.566990Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0000W76V.F",
-      "dividend_retrieved_at": "2026-11-07T01:58:18.183871Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:48.262639Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0000W8JB.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:18.805936Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:49.050423Z",
       "dividend_per_share": 0.0099,
-      "dividend_yield_pct": 5.20277995452385,
+      "dividend_yield_pct": 5.193572793372745,
       "ex_dividend_date": "01 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -461,15 +461,15 @@
     },
     {
       "ticker": "0P0000WX0N",
-      "dividend_retrieved_at": "2026-11-07T01:58:18.931748Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:49.275526Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0000X071",
-      "dividend_retrieved_at": "2026-11-07T01:58:19.530767Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:50.063585Z",
       "dividend_per_share": 0.636,
-      "dividend_yield_pct": 5.809941978986984,
+      "dividend_yield_pct": 5.832349468713105,
       "ex_dividend_date": "08 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -477,9 +477,9 @@
     },
     {
       "ticker": "0P0000XMS6.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:19.648426Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:50.285832Z",
       "dividend_per_share": 0.046157,
-      "dividend_yield_pct": 6.81764505119454,
+      "dividend_yield_pct": 6.809897727272726,
       "ex_dividend_date": "29 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -487,9 +487,9 @@
     },
     {
       "ticker": "0P0000Y077.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:19.751168Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:50.503119Z",
       "dividend_per_share": 0.040177,
-      "dividend_yield_pct": 6.934044502617801,
+      "dividend_yield_pct": 6.915939947780678,
       "ex_dividend_date": "29 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -497,9 +497,9 @@
     },
     {
       "ticker": "0P0000Y1XJ.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:19.850162Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:50.727712Z",
       "dividend_per_share": 0.004825,
-      "dividend_yield_pct": 6.467434554973822,
+      "dividend_yield_pct": 6.487815126050421,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -507,9 +507,9 @@
     },
     {
       "ticker": "0P0000YJFF.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:20.004878Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:50.943525Z",
       "dividend_per_share": 0.07,
-      "dividend_yield_pct": 5.92274678111588,
+      "dividend_yield_pct": 5.9440057430007185,
       "ex_dividend_date": "08 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -517,9 +517,9 @@
     },
     {
       "ticker": "0P0000YWCI.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:20.150833Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:51.164465Z",
       "dividend_per_share": 0.037,
-      "dividend_yield_pct": 6.361221779548472,
+      "dividend_yield_pct": 6.3527851458885936,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -527,9 +527,9 @@
     },
     {
       "ticker": "0P0000Z32L.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:20.304221Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:51.389024Z",
       "dividend_per_share": 0.05381,
-      "dividend_yield_pct": 8.411763894825375,
+      "dividend_yield_pct": 8.485944389578956,
       "ex_dividend_date": "15 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -537,21 +537,21 @@
     },
     {
       "ticker": "0P00010B1T.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:20.451020Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:51.599358Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P00011RFD",
-      "dividend_retrieved_at": "2026-11-07T01:58:20.975401Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:52.396347Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P00011VRH.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:21.551830Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:53.247581Z",
       "dividend_per_share": 0.044,
-      "dividend_yield_pct": 3.5588035350101963,
+      "dividend_yield_pct": 3.6203319502074685,
       "ex_dividend_date": "30 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -559,15 +559,15 @@
     },
     {
       "ticker": "0P00014JQA",
-      "dividend_retrieved_at": "2026-11-07T01:58:21.648241Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:53.522658Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P00014NHG.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:22.171146Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:54.241024Z",
       "dividend_per_share": 0.485041,
-      "dividend_yield_pct": 7.187421025713024,
+      "dividend_yield_pct": 7.336331275846539,
       "ex_dividend_date": "29 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -575,9 +575,9 @@
     },
     {
       "ticker": "0P00015GRZ.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:22.283189Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:54.445178Z",
       "dividend_per_share": 0.076861,
-      "dividend_yield_pct": 6.874468390804597,
+      "dividend_yield_pct": 6.864605451936873,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -585,15 +585,15 @@
     },
     {
       "ticker": "0P00015HVX",
-      "dividend_retrieved_at": "2026-11-07T01:58:22.443692Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:54.667775Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001666N.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:23.016283Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:55.479521Z",
       "dividend_per_share": 0.02,
-      "dividend_yield_pct": 5.240112994350283,
+      "dividend_yield_pct": 5.225352112676056,
       "ex_dividend_date": "01 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -601,27 +601,27 @@
     },
     {
       "ticker": "0P00016JAZ.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:23.167047Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:55.778268Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P00017HVE.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:23.773590Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:56.496978Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P00018GXP.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:24.394283Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:57.270505Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P00018U5Y.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:24.954052Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:58.059211Z",
       "dividend_per_share": 0.058805,
-      "dividend_yield_pct": 6.145784855998474,
+      "dividend_yield_pct": 6.118361340548752,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -629,27 +629,27 @@
     },
     {
       "ticker": "0P00018YBU.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:25.098960Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:58.286734Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P00018ZTZ.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:25.669485Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:59.075449Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001BFPY.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:26.201061Z",
+      "dividend_retrieved_at": "2026-11-08T01:28:59.837038Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001BMQK",
-      "dividend_retrieved_at": "2026-11-07T01:58:26.761936Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:00.628432Z",
       "dividend_per_share": 0.078665,
-      "dividend_yield_pct": 0.33040026880591367,
+      "dividend_yield_pct": 0.33971756780100193,
       "ex_dividend_date": "13 May 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -657,9 +657,9 @@
     },
     {
       "ticker": "0P0001BW40.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:26.904143Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:00.831202Z",
       "dividend_per_share": 0.145455,
-      "dividend_yield_pct": 7.0284318287575624,
+      "dividend_yield_pct": 7.268575553416746,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -667,9 +667,9 @@
     },
     {
       "ticker": "0P0001CM2M.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:27.008817Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:01.037877Z",
       "dividend_per_share": 0.34,
-      "dividend_yield_pct": 2.8112449799196786,
+      "dividend_yield_pct": 2.867567048582219,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -677,15 +677,15 @@
     },
     {
       "ticker": "0P0001D4AK.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:27.153338Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:01.249531Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001D7HH.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:27.762778Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:01.939341Z",
       "dividend_per_share": 0.0053,
-      "dividend_yield_pct": 4.133077415227128,
+      "dividend_yield_pct": 4.1383728379244085,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -693,33 +693,33 @@
     },
     {
       "ticker": "0P0001E2A6.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:27.881400Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:02.148219Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001E2J0.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:28.271670Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:02.928445Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001F4NU.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:28.754659Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:03.769292Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001FL3C.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:29.358502Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:04.522699Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001H0AT.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:29.969779Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:05.331112Z",
       "dividend_per_share": 0.005431,
-      "dividend_yield_pct": 8.786841040852098,
+      "dividend_yield_pct": 8.908146528157463,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -727,7 +727,7 @@
     },
     {
       "ticker": "0P0001HOCP.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:30.120796Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:05.616266Z",
       "dividend_per_share": 0.042,
       "dividend_yield_pct": 7.029288702928871,
       "ex_dividend_date": "30 Oct 2026",
@@ -737,21 +737,21 @@
     },
     {
       "ticker": "0P0001I4B8.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:30.275282Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:05.827892Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001I7S8.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:32.036177Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:06.637810Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001I7S9.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:32.675010Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:07.448474Z",
       "dividend_per_share": 0.0042,
-      "dividend_yield_pct": 6.306306306306306,
+      "dividend_yield_pct": 6.323713927227101,
       "ex_dividend_date": "30 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -759,9 +759,9 @@
     },
     {
       "ticker": "0P0001I7SB.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:32.814084Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:07.659865Z",
       "dividend_per_share": 0.01,
-      "dividend_yield_pct": 5.221932114882506,
+      "dividend_yield_pct": 5.198856251624643,
       "ex_dividend_date": "30 Sep 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -769,9 +769,9 @@
     },
     {
       "ticker": "0P0001IGY0.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:32.968780Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:07.872853Z",
       "dividend_per_share": 0.02584,
-      "dividend_yield_pct": 4.517682349226398,
+      "dividend_yield_pct": 4.528645283815151,
       "ex_dividend_date": "15 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -779,15 +779,15 @@
     },
     {
       "ticker": "0P0001IL1V.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:33.104175Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:08.091405Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001IM92.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:33.726925Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:08.864609Z",
       "dividend_per_share": 0.24,
-      "dividend_yield_pct": 3.5943361975069585,
+      "dividend_yield_pct": 3.5869565217391304,
       "ex_dividend_date": "14 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -795,15 +795,15 @@
     },
     {
       "ticker": "0P0001IXUF",
-      "dividend_retrieved_at": "2026-11-07T01:58:33.838055Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:09.080276Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001JDPY",
-      "dividend_retrieved_at": "2026-11-07T01:58:34.478102Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:09.721275Z",
       "dividend_per_share": 0.07,
-      "dividend_yield_pct": 7.746576289943284,
+      "dividend_yield_pct": 7.836478808855222,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -811,9 +811,9 @@
     },
     {
       "ticker": "0P0001JDPZ.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:34.642410Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:09.945338Z",
       "dividend_per_share": 0.07,
-      "dividend_yield_pct": 7.233203850054536,
+      "dividend_yield_pct": 7.317568940985161,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -821,9 +821,9 @@
     },
     {
       "ticker": "0P0001JLUD.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:34.743434Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:10.162524Z",
       "dividend_per_share": 0.039072,
-      "dividend_yield_pct": 3.225239184879552,
+      "dividend_yield_pct": 3.2324611300720516,
       "ex_dividend_date": "07 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -831,15 +831,15 @@
     },
     {
       "ticker": "0P0001KEXO.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:34.845992Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:10.383736Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001KY9J.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:35.448075Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:11.146083Z",
       "dividend_per_share": 0.12,
-      "dividend_yield_pct": 6.238895444250043,
+      "dividend_yield_pct": 6.440352072579968,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -847,21 +847,21 @@
     },
     {
       "ticker": "0P0001L7YH.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:35.551327Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:11.361878Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001LJIP.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:36.088135Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:12.127565Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001LLU2.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:36.569777Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:12.904180Z",
       "dividend_per_share": 0.723554,
-      "dividend_yield_pct": 3.5492668287494302,
+      "dividend_yield_pct": 3.543881808526779,
       "ex_dividend_date": "30 Sep 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -869,15 +869,15 @@
     },
     {
       "ticker": "0P0001ME6T.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:36.669903Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:13.108081Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001N40P.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:37.264983Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:13.870770Z",
       "dividend_per_share": 0.60185,
-      "dividend_yield_pct": 5.980915714522272,
+      "dividend_yield_pct": 6.231130854826188,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -885,15 +885,15 @@
     },
     {
       "ticker": "0P0001OHDD.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:37.372462Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:14.089531Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001OHDE.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:37.933614Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:14.821521Z",
       "dividend_per_share": 0.0042,
-      "dividend_yield_pct": 7.328777083030391,
+      "dividend_yield_pct": 7.358738501971092,
       "ex_dividend_date": "30 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -901,27 +901,27 @@
     },
     {
       "ticker": "0P0001OPAK.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:38.089234Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:15.427286Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001OR0L.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:38.712362Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:16.174105Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001PC8P",
-      "dividend_retrieved_at": "2026-11-07T01:58:39.167755Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:16.846858Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001PC8U",
-      "dividend_retrieved_at": "2026-11-07T01:58:39.751146Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:17.601555Z",
       "dividend_per_share": 0.52,
-      "dividend_yield_pct": 6.485803189420459,
+      "dividend_yield_pct": 6.518382424799171,
       "ex_dividend_date": "30 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -929,9 +929,9 @@
     },
     {
       "ticker": "0P0001PMVA",
-      "dividend_retrieved_at": "2026-11-07T01:58:39.900279Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:17.819142Z",
       "dividend_per_share": 0.0486,
-      "dividend_yield_pct": 4.988060719768036,
+      "dividend_yield_pct": 5.0970789180145015,
       "ex_dividend_date": "02 Nov 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -939,9 +939,9 @@
     },
     {
       "ticker": "0P0001QQ6S.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:40.021921Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:18.042528Z",
       "dividend_per_share": 0.022884,
-      "dividend_yield_pct": 3.0035055350553503,
+      "dividend_yield_pct": 2.9918162162162165,
       "ex_dividend_date": "23 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -949,15 +949,15 @@
     },
     {
       "ticker": "0P0001R7JV.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:40.165508Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:18.279564Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001RE6O.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:40.777590Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:19.113093Z",
       "dividend_per_share": 0.03232,
-      "dividend_yield_pct": 2.7012857937169863,
+      "dividend_yield_pct": 2.7173390197860585,
       "ex_dividend_date": "23 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -965,9 +965,9 @@
     },
     {
       "ticker": "0P0001RFVY.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:40.868648Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:19.320258Z",
       "dividend_per_share": 0.358146,
-      "dividend_yield_pct": 3.1740673133617108,
+      "dividend_yield_pct": 3.2193375823311596,
       "ex_dividend_date": "23 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -975,9 +975,9 @@
     },
     {
       "ticker": "0P0001RN2G.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:40.983478Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:19.527467Z",
       "dividend_per_share": 0.0067,
-      "dividend_yield_pct": 1.3563749623229178,
+      "dividend_yield_pct": 1.3561024610748367,
       "ex_dividend_date": "01 Jul 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -985,15 +985,15 @@
     },
     {
       "ticker": "0P0001RQ7I.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:41.113593Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:19.808784Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     },
     {
       "ticker": "0P0001S1E0.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:41.708045Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:20.481445Z",
       "dividend_per_share": 0.07446,
-      "dividend_yield_pct": 7.018390804597701,
+      "dividend_yield_pct": 7.201684919966302,
       "ex_dividend_date": "29 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -1001,9 +1001,9 @@
     },
     {
       "ticker": "0P0001SSOL.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:41.875521Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:20.699242Z",
       "dividend_per_share": 0.151,
-      "dividend_yield_pct": 6.953124999999999,
+      "dividend_yield_pct": 6.92992213570634,
       "ex_dividend_date": "01 Oct 2026",
       "dividend_error": null,
       "dividend_source": "Yahoo Finance dividend chart",
@@ -1011,7 +1011,7 @@
     },
     {
       "ticker": "0P0001UKZ7.SI",
-      "dividend_retrieved_at": "2026-11-07T01:58:41.973252Z",
+      "dividend_retrieved_at": "2026-11-08T01:29:21.014442Z",
       "dividend_error": "Dividend sources unavailable or missing; prior values retained",
       "dividend_fallback_error": "Exact Google Finance ticker not available"
     }
