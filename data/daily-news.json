@@ -1,11 +1,25 @@
 {
   "singapore": [
     {
+      "title": "From coloured powder to digital designs: How Singapore's rangoli artists are keeping tradition alive",
+      "url": "https://www.channelnewsasia.com/singapore/deepavali-rangoli-arts-community-culture-tradition-6530826",
+      "summary": "CNA speaks to three rangoli artists who are modernising the traditional art form through innovative techniques, while inspiring younger generations to embrace the craft.",
+      "source": "CNA",
+      "published": "Sun, 08 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "Australia should deepen economic, security ties with Southeast Asia to advance national interests amid intense global rivalry: SM Lee",
+      "url": "https://www.channelnewsasia.com/singapore/lee-hsien-loong-australia-asia-deepen-ties-6531531",
+      "summary": "Senior Minister Lee Hsien Loong called for greater Australian investment in Southeast Asia, saying deeper regional ties would strengthen its resilience and competitiveness.",
+      "source": "CNA",
+      "published": "Sun, 08 Nov 2026 05:30:00 +0800"
+    },
+    {
       "title": "Stand on either side of escalators? Commuters reluctant to ditch 'keep left' habit in SMRT trial",
       "url": "https://www.channelnewsasia.com/singapore/smrt-escalator-stand-both-sides-trial-6532751",
       "summary": "CNA's observations at City Hall MRT station found that commuters who walked up the steps on the right took about 20 seconds to complete the ride, compared with 30 seconds for those who stood still on the left.",
       "source": "CNA",
-      "published": "Sat, 07 Nov 2026 15:07:48 +0800"
+      "published": "Sat, 07 Nov 2026 15:07:00 +0800"
     },
     {
       "title": "Man arrested after alleged assault in River Valley, car overturns following police chase",
@@ -90,23 +104,72 @@
       "summary": "The 31-year-old declared that he had two trading cards, but ICA officers found 105 cards in his luggage.",
       "source": "CNA",
       "published": "Fri, 06 Nov 2026 16:46:00 +0800"
-    },
-    {
-      "title": "Genetic testing subsidies for hereditary breast, ovarian cancer to start on Dec 1",
-      "url": "https://www.channelnewsasia.com/singapore/genetic-testing-hereditary-breast-ovarian-cancer-subsidies-dec-1-6530326",
-      "summary": "About 2,000 people are expected to benefit each year, with doctors saying the subsidies could help more families identify hereditary risks early and take preventive action.",
-      "source": "CNA",
-      "published": "Fri, 06 Nov 2026 15:07:51 +0800"
-    },
-    {
-      "title": "Grab autonomous vehicle nearly hits schoolgirl at traffic crossing in Punggol",
-      "url": "https://www.channelnewsasia.com/singapore/grab-autonomous-vehicle-traffic-incident-6530421",
-      "summary": "The vehicle is part of Grab's autonomous shuttle service, which operates on two fixed routes in Punggol.",
-      "source": "CNA",
-      "published": "Fri, 06 Nov 2026 15:02:00 +0800"
     }
   ],
   "world": [
+    {
+      "title": "Israel president taps Eisenkot to form new government",
+      "url": "https://www.channelnewsasia.com/world/israel-president-taps-eisenkot-form-new-government-6533711",
+      "summary": "In the Oct 27 election, neither side secured a majority in a country deeply polarised by Netanyahu's hard-right rule and worn down by three years of war.",
+      "source": "CNA",
+      "published": "Sun, 08 Nov 2026 09:30:00 +0800"
+    },
+    {
+      "title": "Commentary: US allies need a plan for a lame-duck Trump",
+      "url": "https://www.channelnewsasia.com/commentary/us-midterms-lame-duck-president-trump-foreign-policy-6530601",
+      "summary": "A more reliable predictor is that US President Donald Trump will do what he believes best serves him, says Marc Champion for Bloomberg Opinion.",
+      "source": "CNA",
+      "published": "Sun, 08 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "Trump offers press secretary role to UFC chief Dana White",
+      "url": "https://www.channelnewsasia.com/world/trump-offers-press-secretary-role-ufc-chief-dana-white-6533481",
+      "summary": "The White House has been without a press secretary since Oct 16 when Katie Zacharia left the position after less than a week on the job.",
+      "source": "CNA",
+      "published": "Sun, 08 Nov 2026 05:00:35 +0800"
+    },
+    {
+      "title": "Gunman 'fascinated by far-right' kills six in Krakow, Poland",
+      "url": "https://www.channelnewsasia.com/world/gunman-fascinated-far-right-kills-six-in-krakow-poland-6533446",
+      "summary": "The incident occurred in Krakow's Main Market Square, one of Poland's tourist hotspots popular with locals and foreign visitors.",
+      "source": "CNA",
+      "published": "Sun, 08 Nov 2026 04:32:00 +0800"
+    },
+    {
+      "title": "Iran says forces 'stronger' than at beginning of war",
+      "url": "https://www.channelnewsasia.com/world/iran-says-forces-stronger-beginning-war-6533381",
+      "summary": "Iran's military now has \"greater motivation, commitment and self-confidence\" than it did at the start of the war, said an Iranian army spokesman.",
+      "source": "CNA",
+      "published": "Sun, 08 Nov 2026 03:20:00 +0800"
+    },
+    {
+      "title": "Russia pounds power facilities around Kyiv, damages major bridge",
+      "url": "https://www.channelnewsasia.com/world/russia-pounds-power-facilities-around-kyiv-damages-major-bridge-6533046",
+      "summary": "Moscow has expanded its campaign in recent weeks to target Kyiv's bridges, snarling traffic in the city of more than 3 million people.",
+      "source": "CNA",
+      "published": "Sun, 08 Nov 2026 02:04:34 +0800"
+    },
+    {
+      "title": "New Zealand PM sees path back to office but vote 'too close to call'",
+      "url": "https://www.channelnewsasia.com/world/new-zealand-election-pm-christopher-luxon-6533161",
+      "summary": "Neither New Zealand Prime Minister Christopher Luxon's National Party nor the centre-left Labour won enough seats in parliament to form a government without minor parties.",
+      "source": "CNA",
+      "published": "Sat, 07 Nov 2026 22:33:08 +0800"
+    },
+    {
+      "title": "Heavy rains leave tens of thousands without shelter in Gaza",
+      "url": "https://www.channelnewsasia.com/world/gaza-heavy-rain-without-shelter-humanitarian-aid-6533131",
+      "summary": "Since early Saturday, hundreds of displaced families have been seen fleeing camps in parts of Gaza City and in the central and northern areas of the Strip after they were inundated by rainwater.",
+      "source": "CNA",
+      "published": "Sat, 07 Nov 2026 22:01:00 +0800"
+    },
+    {
+      "title": "Clashes in Paris after new French protests",
+      "url": "https://www.channelnewsasia.com/world/france-protests-students-yellow-vests-rising-costs-6532981",
+      "summary": "Police said a group of 200 violent individuals attacked officers as they were arresting a man who had set fire to a trash bin in the square.",
+      "source": "CNA",
+      "published": "Sat, 07 Nov 2026 19:20:00 +0800"
+    },
     {
       "title": "Ahead of Trump-Xi meetings, US presses China on trade pledges",
       "url": "https://www.channelnewsasia.com/east-asia/ahead-trump-xi-meetings-us-presses-china-trade-pledges-6532561",
@@ -148,71 +211,8 @@
       "summary": "",
       "source": "CNA",
       "published": "Sat, 07 Nov 2026 07:48:21 +0800"
-    },
-    {
-      "title": "Tech stocks stage partial rebound while dollar gains after US jobs data",
-      "url": "https://www.channelnewsasia.com/world/tech-stocks-wall-street-ai-markets-6532311",
-      "summary": "",
-      "source": "CNA",
-      "published": "Sat, 07 Nov 2026 05:43:00 +0800"
-    },
-    {
-      "title": "Trump names immigration hardliner Stephen Miller new chief of staff",
-      "url": "https://www.channelnewsasia.com/world/stephen-miller-trump-new-chief-staff-immigration-6532261",
-      "summary": "Stephen Miller, known for his hardline immigration policies, was described by US President Donald Trump as one of his most trusted advisers.",
-      "source": "CNA",
-      "published": "Sat, 07 Nov 2026 05:06:00 +0800"
-    },
-    {
-      "title": "Kenyan starvation cult leader sentenced to 200 years for child murders",
-      "url": "https://www.channelnewsasia.com/world/kenya-paul-mackenzie-mass-murder-sentenced-prison-6532176",
-      "summary": "Kenyan preacher Paul Mackenzie was sentenced to 200 years in prison for causing the deaths of 190 children, by encouraging them to starve themselves.",
-      "source": "CNA",
-      "published": "Sat, 07 Nov 2026 04:34:32 +0800"
-    },
-    {
-      "title": "Meghan Markle's father arrested in US over child sex abuse images",
-      "url": "https://www.channelnewsasia.com/world/meghan-markle-father-thomas-arrested-child-sex-abuse-images-6532121",
-      "summary": "FBI agents arrested the 82-year-old at his Florida home after allegedly finding illegal images of children in his storage units.",
-      "source": "CNA",
-      "published": "Sat, 07 Nov 2026 03:00:22 +0800"
-    },
-    {
-      "title": "Girl, 7, among two killed in French bus crash",
-      "url": "https://www.channelnewsasia.com/world/school-bus-crash-france-lent-two-killed-6532041",
-      "summary": "A school bus carrying 43 passengers crashed into a tree in eastern France, killing a seven-year-old girl and an 18-year-old man.",
-      "source": "CNA",
-      "published": "Sat, 07 Nov 2026 02:05:50 +0800"
-    },
-    {
-      "title": "Newsroom bomb threats follow escalating European flight hoaxes",
-      "url": "https://www.channelnewsasia.com/world/newsroom-bomb-threats-europe-flight-hoaxes-6531986",
-      "summary": "The messages, headlined \"Message to the West\", portrayed the threats as a prelude to attacks on means of transport across Europe.",
-      "source": "CNA",
-      "published": "Sat, 07 Nov 2026 01:12:00 +0800"
-    },
-    {
-      "title": "Fighter jet escorts, flight diversions: What we know about Europe’s wave of hoax bomb threats",
-      "url": "https://www.channelnewsasia.com/world/europe-hoax-bomb-threats-airlines-what-know-fighter-jets-6530546",
-      "summary": "No clear pattern has emerged among the airlines and airports targeted, although a significant number of the affected flights either departed or were bound for Italy. CNA looks at what we know so far.",
-      "source": "CNA",
-      "published": "Fri, 06 Nov 2026 16:41:14 +0800"
-    },
-    {
-      "title": "Tesla to pull the plug on Cybertruck after years of poor sales",
-      "url": "https://www.channelnewsasia.com/world/tesla-wind-down-cybertruck-production-poor-sales-6530476",
-      "summary": "",
-      "source": "CNA",
-      "published": "Fri, 06 Nov 2026 15:05:00 +0800"
-    },
-    {
-      "title": "'An insult to his culture': Italian chef fired after refusing to put pineapple on pizza, loses case in Australia",
-      "url": "https://www.channelnewsasia.com/dining/italian-chef-fired-pineapple-pizza-australia-david-tamburella-6530021",
-      "summary": "According to Australia's Fair Work Commission, one of the complaints that led to his dismissal was that the Italian chef Davide Tamburella had refused to top pizzas with the offending fruit around three times across four years.",
-      "source": "CNA",
-      "published": "Fri, 06 Nov 2026 13:11:39 +0800"
     }
   ],
-  "generated_at": "2026-11-07T19:18:39+08:00",
+  "generated_at": "2026-11-08T09:46:23+08:00",
   "test_mode": false
 }
