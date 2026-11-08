@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T07:42:03+08:00",
+  "updated_at": "2026-11-09T07:50:47+08:00",
   "events": [
     {
       "title": "A Night of Disney & Pixar!",
@@ -2388,46 +2388,10 @@
     }
   ],
   "source_report": {
-    "sccc": {
-      "status": "fresh",
-      "count": 25
-    },
-    "gardens": {
-      "status": "fresh",
-      "count": 12
-    },
-    "esplanade": {
-      "status": "fresh",
-      "count": 39,
-      "detail_errors": 0
-    },
-    "national_museum": {
-      "status": "fresh",
-      "count": 2
-    },
-    "national_gallery": {
-      "status": "fresh",
-      "count": 1
-    },
-    "ura": {
-      "status": "fresh",
-      "count": 0
-    },
-    "nlb": {
-      "status": "fresh",
-      "count": 6
-    },
-    "visit_singapore": {
-      "status": "fresh",
-      "count": 10
-    },
-    "catch_sg": {
-      "status": "fresh",
-      "count": 0
-    },
-    "science_centre": {
-      "status": "fresh",
-      "count": 0
+    "artscience": {
+      "status": "fallback",
+      "count": 0,
+      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; "
     }
   },
   "sources": [
@@ -2435,8 +2399,8 @@
       "id": "sccc",
       "name": "Singapore Chinese Cultural Centre",
       "url": "https://singaporeccc.org.sg/events/",
-      "status": "ok",
-      "count": 25,
+      "status": "deferred",
+      "count": 0,
       "last_success": "2026-11-09T07:41:16+08:00",
       "error": "",
       "needs_reader_review": false
@@ -2445,8 +2409,8 @@
       "id": "gardens",
       "name": "Gardens by the Bay",
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
-      "status": "ok",
-      "count": 12,
+      "status": "deferred",
+      "count": 0,
       "last_success": "2026-11-09T07:41:16+08:00",
       "error": "",
       "needs_reader_review": false
@@ -2455,8 +2419,8 @@
       "id": "esplanade",
       "name": "Esplanade",
       "url": "https://www.esplanade.com/whats-on",
-      "status": "ok",
-      "count": 39,
+      "status": "deferred",
+      "count": 0,
       "last_success": "2026-11-09T07:41:16+08:00",
       "error": "",
       "needs_reader_review": false
@@ -2465,8 +2429,8 @@
       "id": "national_museum",
       "name": "National Museum of Singapore",
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
-      "status": "ok",
-      "count": 2,
+      "status": "deferred",
+      "count": 0,
       "last_success": "2026-11-09T07:41:16+08:00",
       "error": "",
       "needs_reader_review": false
@@ -2475,8 +2439,8 @@
       "id": "national_gallery",
       "name": "National Gallery Singapore",
       "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
-      "status": "ok",
-      "count": 1,
+      "status": "deferred",
+      "count": 0,
       "last_success": "2026-11-09T07:41:16+08:00",
       "error": "",
       "needs_reader_review": false
@@ -2485,17 +2449,17 @@
       "id": "artscience",
       "name": "ArtScience Museum",
       "url": "https://www.marinabaysands.com/museum.html",
-      "status": "deferred",
+      "status": "fallback",
       "count": 0,
       "last_success": null,
-      "error": "",
+      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; ",
       "needs_reader_review": false
     },
     {
       "id": "ura",
       "name": "Urban Redevelopment Authority",
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
-      "status": "ok",
+      "status": "deferred",
       "count": 0,
       "last_success": "2026-11-09T07:41:16+08:00",
       "error": "",
@@ -2505,8 +2469,8 @@
       "id": "nlb",
       "name": "National Library Board",
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
-      "status": "ok",
-      "count": 6,
+      "status": "deferred",
+      "count": 0,
       "last_success": "2026-11-09T07:41:16+08:00",
       "error": "",
       "needs_reader_review": false
@@ -2515,8 +2479,8 @@
       "id": "visit_singapore",
       "name": "Visit Singapore",
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
-      "status": "ok",
-      "count": 10,
+      "status": "deferred",
+      "count": 0,
       "last_success": "2026-11-09T07:41:16+08:00",
       "error": "",
       "needs_reader_review": false
@@ -2525,7 +2489,7 @@
       "id": "catch_sg",
       "name": "Catch.sg — Free Events",
       "url": "https://www.catch.sg/Event",
-      "status": "ok",
+      "status": "deferred",
       "count": 0,
       "last_success": "2026-11-09T07:41:16+08:00",
       "error": "",
@@ -2535,12 +2499,12 @@
       "id": "science_centre",
       "name": "Science Centre Singapore",
       "url": "https://www.science.edu.sg/whats-on",
-      "status": "ok",
+      "status": "deferred",
       "count": 0,
       "last_success": "2026-11-09T07:41:16+08:00",
       "error": "",
       "needs_reader_review": false
     }
   ],
-  "all_sources_failed": false
+  "all_sources_failed": true
 }
