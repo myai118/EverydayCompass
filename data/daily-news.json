@@ -1,7 +1,7 @@
 {
   "singapore": [
     {
-      "title": "From coloured powder to digital designs: How Singapore's rangoli artists are keeping tradition alive",
+      "title": "Deepavali in new colours: How Singapore’s rangoli artists are adapting an old craft",
       "url": "https://www.channelnewsasia.com/singapore/deepavali-rangoli-arts-community-culture-tradition-6530826",
       "summary": "CNA speaks to three rangoli artists who are modernising the traditional art form through innovative techniques, while inspiring younger generations to embrace the craft.",
       "source": "CNA",
@@ -108,6 +108,13 @@
   ],
   "world": [
     {
+      "title": "New Zealand poised for weeks of political wrangling after knife-edge poll",
+      "url": "https://www.channelnewsasia.com/world/new-zealand-political-wrangling-knife-edge-poll-pm-luxon-6533761",
+      "summary": "",
+      "source": "CNA",
+      "published": "Sun, 08 Nov 2026 11:24:00 +0800"
+    },
+    {
       "title": "Israel president taps Eisenkot to form new government",
       "url": "https://www.channelnewsasia.com/world/israel-president-taps-eisenkot-form-new-government-6533711",
       "summary": "In the Oct 27 election, neither side secured a majority in a country deeply polarised by Netanyahu's hard-right rule and worn down by three years of war.",
@@ -122,11 +129,11 @@
       "published": "Sun, 08 Nov 2026 06:00:00 +0800"
     },
     {
-      "title": "Trump offers press secretary role to UFC chief Dana White",
-      "url": "https://www.channelnewsasia.com/world/trump-offers-press-secretary-role-ufc-chief-dana-white-6533481",
-      "summary": "The White House has been without a press secretary since Oct 16 when Katie Zacharia left the position after less than a week on the job.",
+      "title": "Trump offers UFC boss press secretary post, urges criminal probes of Democrats",
+      "url": "https://www.channelnewsasia.com/world/trump-white-house-press-secretary-dana-white-ufc-6533481",
+      "summary": "The White House has been without a press secretary since Oct 16, when Katie Zacharia left the position after less than a week on the job.",
       "source": "CNA",
-      "published": "Sun, 08 Nov 2026 05:00:35 +0800"
+      "published": "Sun, 08 Nov 2026 05:00:00 +0800"
     },
     {
       "title": "Gunman 'fascinated by far-right' kills six in Krakow, Poland",
@@ -204,15 +211,8 @@
       "summary": "",
       "source": "CNA",
       "published": "Sat, 07 Nov 2026 07:58:45 +0800"
-    },
-    {
-      "title": "Cornell faculty vote no-confidence in university leadership over alleged gang rape",
-      "url": "https://www.channelnewsasia.com/world/cornell-gang-rape-no-confidence-vote-6532296",
-      "summary": "",
-      "source": "CNA",
-      "published": "Sat, 07 Nov 2026 07:48:21 +0800"
     }
   ],
-  "generated_at": "2026-11-08T09:46:23+08:00",
+  "generated_at": "2026-11-08T14:43:32+08:00",
   "test_mode": false
 }
