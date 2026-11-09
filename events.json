@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T07:50:47+08:00",
+  "updated_at": "2026-11-09T08:05:53+08:00",
   "events": [
     {
       "title": "A Night of Disney & Pixar!",
@@ -1638,6 +1638,29 @@
       "date_added": "2026-11-05"
     },
     {
+      "title": "Marina Bay Presents: A Moment to Savour",
+      "category": "Event / Exhibition",
+      "overview": "16 NOV ’26 - 31 MAR ’27 Marina Bay Presents: A Moment to Savour A Moment to Savour brings together acclaimed international chefs and Marina Bay restaurants for exclusive collaborations and limited-time menus across Marina Bay, including a showcase by Waku Ghin and two-Michelin-starred MOSU Seoul, with privileges for VISA and UOB cardholders.",
+      "period": "16 NOV 2026 - 31 MAR 2027",
+      "time": "Check official information",
+      "venue": "Visit Singapore",
+      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
+      "source_key": "visit_singapore",
+      "source": "Visit Singapore",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "upcoming"
+      ],
+      "date_added": "2026-11-09"
+    },
+    {
       "title": "Mizuho Blue Challenge - The Kallang Football Series",
       "category": "Event / Exhibition",
       "overview": "13 - 17 NOV ’26 Mizuho Blue Challenge - The Kallang Football Series The Mizuho Blue Challenge - The Kallang Football Series features football five-time FIFA World Cup™ champions Brazil and Asian powerhouse Japan, as well as Singapore and Paraguay, offering fans unforgettable matchups.",
@@ -2216,6 +2239,29 @@
       "date_added": "2026-11-05"
     },
     {
+      "title": "The Resting Room",
+      "category": "Event / Exhibition",
+      "overview": "14 NOV ’26 The Resting Room The Resting Room is an immersive, shared sound-and-deep-rest experience presented by Future Resonance x Heveya at New Bahru. Settle into a plush mattress, close your eyes, and discover what happens when sound, space, and stillness come together.",
+      "period": "14 NOV 2026",
+      "time": "Check official information",
+      "venue": "Visit Singapore",
+      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
+      "source_key": "visit_singapore",
+      "source": "Visit Singapore",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "upcoming"
+      ],
+      "date_added": "2026-11-09"
+    },
+    {
       "title": "The Soup of Reincarnation",
       "category": "Event / Exhibition",
       "overview": "Nov 13, 2026 - Nov 15, 2026 Goodman Arts Centre BlackBox The Soup of Reincarnation Step into a mysterious world where love, fate, memory and rebirth collide. At the River… Dance/Theatre",
@@ -2388,10 +2434,46 @@
     }
   ],
   "source_report": {
-    "artscience": {
-      "status": "fallback",
-      "count": 0,
-      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; "
+    "sccc": {
+      "status": "fresh",
+      "count": 25
+    },
+    "gardens": {
+      "status": "fresh",
+      "count": 12
+    },
+    "esplanade": {
+      "status": "fresh",
+      "count": 39,
+      "detail_errors": 0
+    },
+    "national_museum": {
+      "status": "fresh",
+      "count": 2
+    },
+    "national_gallery": {
+      "status": "fresh",
+      "count": 1
+    },
+    "ura": {
+      "status": "fresh",
+      "count": 0
+    },
+    "nlb": {
+      "status": "fresh",
+      "count": 6
+    },
+    "visit_singapore": {
+      "status": "fresh",
+      "count": 12
+    },
+    "catch_sg": {
+      "status": "fresh",
+      "count": 0
+    },
+    "science_centre": {
+      "status": "fresh",
+      "count": 0
     }
   },
   "sources": [
@@ -2399,9 +2481,9 @@
       "id": "sccc",
       "name": "Singapore Chinese Cultural Centre",
       "url": "https://singaporeccc.org.sg/events/",
-      "status": "deferred",
-      "count": 0,
-      "last_success": "2026-11-09T07:41:16+08:00",
+      "status": "ok",
+      "count": 25,
+      "last_success": "2026-11-09T08:04:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2409,9 +2491,9 @@
       "id": "gardens",
       "name": "Gardens by the Bay",
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
-      "status": "deferred",
-      "count": 0,
-      "last_success": "2026-11-09T07:41:16+08:00",
+      "status": "ok",
+      "count": 12,
+      "last_success": "2026-11-09T08:04:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2419,9 +2501,9 @@
       "id": "esplanade",
       "name": "Esplanade",
       "url": "https://www.esplanade.com/whats-on",
-      "status": "deferred",
-      "count": 0,
-      "last_success": "2026-11-09T07:41:16+08:00",
+      "status": "ok",
+      "count": 39,
+      "last_success": "2026-11-09T08:04:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2429,9 +2511,9 @@
       "id": "national_museum",
       "name": "National Museum of Singapore",
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
-      "status": "deferred",
-      "count": 0,
-      "last_success": "2026-11-09T07:41:16+08:00",
+      "status": "ok",
+      "count": 2,
+      "last_success": "2026-11-09T08:04:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2439,9 +2521,9 @@
       "id": "national_gallery",
       "name": "National Gallery Singapore",
       "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
-      "status": "deferred",
-      "count": 0,
-      "last_success": "2026-11-09T07:41:16+08:00",
+      "status": "ok",
+      "count": 1,
+      "last_success": "2026-11-09T08:04:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2449,19 +2531,19 @@
       "id": "artscience",
       "name": "ArtScience Museum",
       "url": "https://www.marinabaysands.com/museum.html",
-      "status": "fallback",
+      "status": "deferred",
       "count": 0,
       "last_success": null,
-      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; ",
+      "error": "",
       "needs_reader_review": false
     },
     {
       "id": "ura",
       "name": "Urban Redevelopment Authority",
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
-      "status": "deferred",
+      "status": "ok",
       "count": 0,
-      "last_success": "2026-11-09T07:41:16+08:00",
+      "last_success": "2026-11-09T08:04:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2469,9 +2551,9 @@
       "id": "nlb",
       "name": "National Library Board",
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
-      "status": "deferred",
-      "count": 0,
-      "last_success": "2026-11-09T07:41:16+08:00",
+      "status": "ok",
+      "count": 6,
+      "last_success": "2026-11-09T08:04:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2479,9 +2561,9 @@
       "id": "visit_singapore",
       "name": "Visit Singapore",
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
-      "status": "deferred",
-      "count": 0,
-      "last_success": "2026-11-09T07:41:16+08:00",
+      "status": "ok",
+      "count": 12,
+      "last_success": "2026-11-09T08:04:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2489,9 +2571,9 @@
       "id": "catch_sg",
       "name": "Catch.sg — Free Events",
       "url": "https://www.catch.sg/Event",
-      "status": "deferred",
+      "status": "ok",
       "count": 0,
-      "last_success": "2026-11-09T07:41:16+08:00",
+      "last_success": "2026-11-09T08:04:46+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2499,12 +2581,12 @@
       "id": "science_centre",
       "name": "Science Centre Singapore",
       "url": "https://www.science.edu.sg/whats-on",
-      "status": "deferred",
+      "status": "ok",
       "count": 0,
-      "last_success": "2026-11-09T07:41:16+08:00",
+      "last_success": "2026-11-09T08:04:46+08:00",
       "error": "",
       "needs_reader_review": false
     }
   ],
-  "all_sources_failed": true
+  "all_sources_failed": false
 }
