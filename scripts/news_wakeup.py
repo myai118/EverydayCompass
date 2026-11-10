@@ -8,7 +8,7 @@ import urllib.request
 
 SGT = dt.timezone(dt.timedelta(hours=8))
 WORKFLOW = 'daily-news.yml'
-GRACE = dt.timedelta(minutes=20)
+GRACE = dt.timedelta(minutes=5)
 COOLDOWN = dt.timedelta(minutes=20)
 MAX_RECOVERIES = 3
 ACTIVE = {'requested', 'waiting', 'pending', 'queued', 'in_progress'}
