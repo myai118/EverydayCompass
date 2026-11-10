@@ -185,7 +185,7 @@ To request for What’s On adhoc request, click <a class="btn primary" href="htt
 </section>
 <div id="emptyState" class="empty hidden">No current events to show right now. Please check back after the next daily refresh.</div>
 
-<p class="footer-note"><b>Information checked 23 Sep 2026.</b> Always check the linked event information before travelling because organisers may change timings, prices or programmes.<br>Everyday Compass · Simple, useful information for everyday life in Singapore</p>
+<p class="footer-note"><b id="feedCheckedAt">Information checked from the published feed.</b> Always check the linked event information before travelling because organisers may change timings, prices or programmes.<br>Everyday Compass · Simple, useful information for everyday life in Singapore</p>
 <!-- Owner request 2026-10-21: no public settings link or dot.
 Settings are opened from digital-tools/myweb/kwc.html via #admin-whats-on. -->
 </main>
@@ -508,6 +508,9 @@ function formatSGT(iso){
 /* Per-source "last checked successfully" display. Uses feed.sources written by the new refresh script. */
 function renderSourceStatus(feed){
  const sum=document.getElementById("srcSummary"), list=document.getElementById("srcList"), warn=document.getElementById("allFailed");
+ const checked=document.getElementById("feedCheckedAt");
+ if(checked&&feed&&feed.updated_at) checked.textContent="Information checked "+formatSGT(feed.updated_at)+".";
+ if(checked&&!feed) checked.textContent="Information checked from the published feed.";
  if(!sum||!list) return;
  list.textContent=""; warn.classList.add("hidden");
  if(!feed){sum.textContent="Checking…"; return;}
@@ -545,7 +548,12 @@ async function loadScheduledFeed(){
   events.splice(0,events.length,...feed.events);
   render();
   renderSourceStatus(feed);
- }catch(err){}
+ }catch(err){
+  const sum=document.getElementById("srcSummary");
+  if(sum) sum.textContent="Live event feed unavailable; showing the saved page copy.";
+  const checked=document.getElementById("feedCheckedAt");
+  if(checked) checked.textContent="Live feed unavailable — page copy may be out of date.";
+ }
 }
 
 /* ---------- SOURCE SETTINGS ---------- */
