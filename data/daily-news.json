@@ -1,11 +1,53 @@
 {
   "singapore": [
     {
+      "title": "Commentary: ASEAN must hold the line on Five-Point Consensus for Myanmar’s reintegration",
+      "url": "https://www.channelnewsasia.com/commentary/myanmar-asean-summit-reintegration-malaysia-visit-6538936",
+      "summary": "Myanmar’s political reintegration into the Southeast Asian bloc should follow demonstrable progress, not be offered in the hope that progress will follow, says Joanne Lin from the ISEAS-Yusof Ishak Institute.",
+      "source": "CNA",
+      "published": "Wed, 11 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "CNA Explains: Why Singapore is a prime target for disinformation campaigns",
+      "url": "https://www.channelnewsasia.com/singapore/cna-explains-cna-verify-disinformation-campaigns-influence-operations-6538141",
+      "summary": "A false secret meeting with Singapore’s ambassador to Indonesia was the latest of several cases investigated by CNA Verify. Who spreads such claims and how do they do it?",
+      "source": "CNA",
+      "published": "Wed, 11 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "School meal ordering app Tappee hit by cybersecurity incident, says SATS; four schools affected",
+      "url": "https://www.channelnewsasia.com/singapore/school-meal-ordering-app-tappee-sats-data-breach-cybersecurity-6539236",
+      "summary": "\"No banking or credit card information, or details or images of student identification documents, have been compromised, as such information was not collected through the Tappee application,\" said food solutions provider SATS.",
+      "source": "CNA",
+      "published": "Tue, 10 Nov 2026 21:12:00 +0800"
+    },
+    {
+      "title": "New S$30 million funding tier to help Singapore employers hire people with disabilities",
+      "url": "https://www.channelnewsasia.com/singapore/disability-worker-job-employer-s-eeg-grant-6539276",
+      "summary": "The grant tier will support enterprises that employ a meaningful number of people with disabilities who have moderate support needs.",
+      "source": "CNA",
+      "published": "Tue, 10 Nov 2026 20:08:00 +0800"
+    },
+    {
+      "title": "CNA Explains: ‘Cruise for life’ ship Odyssey seized – what happens after a vessel is arrested?",
+      "url": "https://www.channelnewsasia.com/singapore/explains-cruise-ship-odyssey-arrest-maritime-law-6539026",
+      "summary": "The cruise ship, meant to take passengers on a continuous voyage around the world, was arrested in Singapore after arriving from Cambodia on Sunday.",
+      "source": "CNA",
+      "published": "Tue, 10 Nov 2026 19:52:00 +0800"
+    },
+    {
+      "title": "MHA deputy secretary to step down, take on LTA CEO position from May 1",
+      "url": "https://www.channelnewsasia.com/singapore/mha-lta-ceo-htx-mot-6539046",
+      "summary": "Ministry of Home Affairs Deputy Secretary (Development) Chan Tsan will be leaving the ministry after 26 years.",
+      "source": "CNA",
+      "published": "Tue, 10 Nov 2026 19:46:00 +0800"
+    },
+    {
       "title": "Woman who privately prosecuted brother for assault loses appeal over AGC's move to discontinue case",
       "url": "https://www.channelnewsasia.com/singapore/woman-private-prosecution-brother-assault-agc-appeal-acquittal-6538771",
       "summary": "Her lawyer argued that the Attorney-General's Chambers had never explained why it stepped in, while the prosecution said that it had no duty to disclose its reasons.",
       "source": "CNA",
-      "published": "Tue, 10 Nov 2026 18:25:38 +0800"
+      "published": "Tue, 10 Nov 2026 18:25:00 +0800"
     },
     {
       "title": "SPH Media hit by cyberattacks; says no customer financial data or access exposed",
@@ -62,51 +104,65 @@
       "summary": "The professional violinist was purportedly lured away from his landed home in Katong so property valuations could be conducted on the place without his authorisation.",
       "source": "CNA",
       "published": "Tue, 10 Nov 2026 13:12:00 +0800"
-    },
-    {
-      "title": "Would you pay S$10,000 for a vat of customised soya sauce? This Singapore maker has a waiting list of over 2 years",
-      "url": "https://www.channelnewsasia.com/dining/nanyang-soya-sauce-6535046",
-      "summary": "Forget whisky casks. At Nanyang Sauce, customers can commission their own vat of soya sauce, customised down to the salt and water used.",
-      "source": "CNA",
-      "published": "Tue, 10 Nov 2026 12:54:00 +0800"
-    },
-    {
-      "title": "Mandai Executive Golf Course gets another reprieve as tenancy extended to end-2027",
-      "url": "https://www.channelnewsasia.com/singapore/mandai-executive-golf-course-extension-end-2027-6538126",
-      "summary": "The tenancy extension for Mandai Executive Golf Course is final and will not affect the timeline for developing an outdoor adventure learning centre on the site, said authorities.",
-      "source": "CNA",
-      "published": "Tue, 10 Nov 2026 12:43:53 +0800"
-    },
-    {
-      "title": "Own this Elba tumble dryer? Users warned after six fires reported in Singapore",
-      "url": "https://www.channelnewsasia.com/singapore/elba-ebd-602s-tumble-dryer-fire-warning-6538116",
-      "summary": "The affected EBD 602S model is no longer sold in retail outlets, but the advisory applies to all units still in use.",
-      "source": "CNA",
-      "published": "Tue, 10 Nov 2026 12:06:00 +0800"
-    },
-    {
-      "title": "Mediacorp appoints Charles Ng and Eugene Ho to its board of directors",
-      "url": "https://www.channelnewsasia.com/singapore/mediacorp-directors-board-6537936",
-      "summary": "Their complementary perspectives will help us pursue growth securely and responsibly, and sustain the trust that is essential to fulfilling our public service mission as Singapore’s national media network,” said Mediacorp chairman Niam Chiang Meng.",
-      "source": "CNA",
-      "published": "Tue, 10 Nov 2026 11:06:57 +0800"
-    },
-    {
-      "title": "MAS launches gold vaulting service with 500-tonne capacity, extends GST waiver to some gold services",
-      "url": "https://www.channelnewsasia.com/singapore/gold-mas-central-bank-vault-reserves-6537906",
-      "summary": "The service aims to provide foreign central banks, international financial institutions, and sovereign entities with a secure option to hold gold reserves in Singapore.",
-      "source": "CNA",
-      "published": "Tue, 10 Nov 2026 11:00:00 +0800"
-    },
-    {
-      "title": "KFC Singapore launching Avengers: Doomsday menu with Doctor Doom burger, chicken and Marvel collectibles",
-      "url": "https://www.channelnewsasia.com/dining/kfc-marvel-avengers-doomsday-singapore-menu-6537731",
-      "summary": "The limited-time collaboration runs from Nov 25 to Jan 12, 2027, featuring a Doom Burger, green-seasoned fried chicken, snacks and S$7.50 blind-box Colonel Sanders figurines dressed as Marvel characters.",
-      "source": "CNA",
-      "published": "Tue, 10 Nov 2026 10:46:00 +0800"
     }
   ],
   "world": [
+    {
+      "title": "Commentary: Everything Jensen Huang said about China is out the window",
+      "url": "https://www.channelnewsasia.com/commentary/nvidia-ceo-jensen-huang-alice-china-ai-chips-6539051",
+      "summary": "The Nvidia CEO’s advocacy for selling AI chips to China could be previously explained by self-interest, but things have become a lot murkier, says Catherine Thorbecke for Bloomberg Opinion.",
+      "source": "CNA",
+      "published": "Wed, 11 Nov 2026 05:59:00 +0800"
+    },
+    {
+      "title": "US stocks fall on hot inflation report as Nvidia tumbles again",
+      "url": "https://www.channelnewsasia.com/world/stocks-wall-street-inflation-nvidia-anthropic-6540751",
+      "summary": "",
+      "source": "CNA",
+      "published": "Wed, 11 Nov 2026 05:54:38 +0800"
+    },
+    {
+      "title": "Thomas Markle, father of Meghan, cut off his ankle monitor, DOJ says",
+      "url": "https://www.channelnewsasia.com/world/thomas-markle-meghan-sexual-abuse-ankle-monitor-6540731",
+      "summary": "",
+      "source": "CNA",
+      "published": "Wed, 11 Nov 2026 05:36:06 +0800"
+    },
+    {
+      "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
+      "url": "https://www.channelnewsasia.com/world/israel-parliament-sworn-in-eisenkot-netanyahu-6540601",
+      "summary": "Israeli President Isaac Herzog urged lawmakers to \"do everything to avoid another election.’”",
+      "source": "CNA",
+      "published": "Wed, 11 Nov 2026 04:48:54 +0800"
+    },
+    {
+      "title": "UK children's author David Walliams accused of sex assault, grooming teens",
+      "url": "https://www.channelnewsasia.com/world/david-walliams-sexual-assault-uk-comedian-author-6540531",
+      "summary": "The comedian and author denies the allegations, but in a letter published by the Guardian acknowledged that \"at times I behaved thoughtlessly towards other people I had casual sexual relationships with\".",
+      "source": "CNA",
+      "published": "Wed, 11 Nov 2026 03:38:35 +0800"
+    },
+    {
+      "title": "US skips UN human rights review, drawing criticism",
+      "url": "https://www.channelnewsasia.com/world/us-un-human-rights-review-meeting-postponed-6540346",
+      "summary": "The meeting was postponed until January after Washington refused to take part, saying participation would imply support for the UN Human Rights Council.",
+      "source": "CNA",
+      "published": "Wed, 11 Nov 2026 02:27:13 +0800"
+    },
+    {
+      "title": "Defiant Hegseth blasts impeachment effort ahead of House vote",
+      "url": "https://www.channelnewsasia.com/world/hegseth-impeachment-house-vote-defence-trump-massie-6540321",
+      "summary": "US Defence Secretary Pete Hegseth also thanked US President Donald Trump for his support as lawmakers prepared to vote on eight articles of impeachment against him.",
+      "source": "CNA",
+      "published": "Wed, 11 Nov 2026 01:32:17 +0800"
+    },
+    {
+      "title": "Greta Thunberg slams UN climate COPs as 'greenwashed circuses'",
+      "url": "https://www.channelnewsasia.com/world/greta-thunberg-cop31-climate-un-greenwashed-circuses-6540246",
+      "summary": "“COPs have become greenwashed circuses. That is the reality,” said climate activist Greta Thunberg upon arriving at the COP31 summit in Türkiye.",
+      "source": "CNA",
+      "published": "Wed, 11 Nov 2026 00:40:00 +0800"
+    },
     {
       "title": "French students block dozens of schools",
       "url": "https://www.channelnewsasia.com/world/french-students-block-dozens-schools-6539126",
@@ -155,64 +211,8 @@
       "summary": "US President Donald Trump has pushed for an end to the Russia-Ukraine war since returning to power, but previous talks produced no breakthroughs.",
       "source": "CNA",
       "published": "Tue, 10 Nov 2026 12:47:06 +0800"
-    },
-    {
-      "title": "Qantas to cut 850 jobs as it rushes to keep pace with AI",
-      "url": "https://www.channelnewsasia.com/world/qantas-cut-850-jobs-ai-accenture-india-6538201",
-      "summary": "\"Leading organisations around the world are well progressed in using technology and AI to completely transform how they work, and standing still is not an option for us,\" Qantas chief executive Vanessa Hudson said.",
-      "source": "CNA",
-      "published": "Tue, 10 Nov 2026 12:04:31 +0800"
-    },
-    {
-      "title": "Pope leads mega mass in Buenos Aires, meets abuse victims",
-      "url": "https://www.channelnewsasia.com/world/pope-leo-mass-argentina-buenos-aires-6537801",
-      "summary": "Pope Leo, who has refused to reduce his packed schedule following lung cancer surgery, is currently on a 12-day tour of South America.",
-      "source": "CNA",
-      "published": "Tue, 10 Nov 2026 09:39:00 +0800"
-    },
-    {
-      "title": "Trump says Nvidia CEO Jensen Huang told him he did not know the woman linked to him was a spy",
-      "url": "https://www.channelnewsasia.com/world/jensen-huang-nvidia-donald-trump-chinese-spy-6537361",
-      "summary": "",
-      "source": "CNA",
-      "published": "Tue, 10 Nov 2026 07:37:00 +0800"
-    },
-    {
-      "title": "Nvidia, CEO Jensen Huang sued over disclosures related to suspected Chinese spy",
-      "url": "https://www.channelnewsasia.com/world/jensen-huang-nvidia-sued-chinese-spy-6537296",
-      "summary": "",
-      "source": "CNA",
-      "published": "Tue, 10 Nov 2026 07:15:00 +0800"
-    },
-    {
-      "title": "Pentagon chief Hegseth expected to face House impeachment vote this week",
-      "url": "https://www.channelnewsasia.com/world/us-pentagon-chief-pete-hegseth-expected-face-house-impeachment-vote-6537176",
-      "summary": "Congressional sources say the resolution may have the votes to pass but conviction appears unlikely.",
-      "source": "CNA",
-      "published": "Tue, 10 Nov 2026 06:33:00 +0800"
-    },
-    {
-      "title": "Trump revives election fraud claims after crushing midterm defeat",
-      "url": "https://www.channelnewsasia.com/world/trump-revives-election-fraud-claims-after-crushing-midterm-defeat-6537096",
-      "summary": "The US president reversed his earlier acceptance of the results, claiming that voting machines and early ballot counts had affected the outcome.",
-      "source": "CNA",
-      "published": "Tue, 10 Nov 2026 05:54:00 +0800"
-    },
-    {
-      "title": "Wall St jumps as oil slide cools inflation worries; Nvidia slumps",
-      "url": "https://www.channelnewsasia.com/world/wall-st-jumps-oil-slide-cools-inflation-worries-nvidia-slumps-6537066",
-      "summary": "",
-      "source": "CNA",
-      "published": "Tue, 10 Nov 2026 05:36:08 +0800"
-    },
-    {
-      "title": "France says Iran behind 'unprecedented' cyberattacks on fridges",
-      "url": "https://www.channelnewsasia.com/world/france-iran-supermarket-fridge-cyberattacks-6536986",
-      "summary": "“We will implement sanctions at the European level against all those responsible,” said French Foreign Minister Jean-Noel Barrot, accusing Iran’s Revolutionary Guards of carrying out cyberattacks on supermarket refrigerators across France.",
-      "source": "CNA",
-      "published": "Tue, 10 Nov 2026 04:57:17 +0800"
     }
   ],
-  "generated_at": "2026-11-10T19:42:16+08:00",
+  "generated_at": "2026-11-11T06:57:42+08:00",
   "test_mode": false
 }
