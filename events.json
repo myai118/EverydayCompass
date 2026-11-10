@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:49:41+08:00",
+  "updated_at": "2026-11-10T19:58:26+08:00",
   "events": [
     {
       "title": "2026 Architectural Heritage Awards and Architectural Heritage Season: Exhibition",
@@ -2383,46 +2383,10 @@
     }
   ],
   "source_report": {
-    "sccc": {
-      "status": "fresh",
-      "count": 25
-    },
-    "gardens": {
-      "status": "fresh",
-      "count": 11
-    },
-    "esplanade": {
-      "status": "fresh",
-      "count": 37,
-      "detail_errors": 0
-    },
-    "national_museum": {
-      "status": "fresh",
-      "count": 2
-    },
-    "national_gallery": {
-      "status": "fresh",
-      "count": 1
-    },
-    "ura": {
-      "status": "fresh",
-      "count": 1
-    },
-    "nlb": {
-      "status": "fresh",
-      "count": 6
-    },
-    "visit_singapore": {
-      "status": "fresh",
-      "count": 12
-    },
-    "catch_sg": {
-      "status": "fresh",
-      "count": 0
-    },
-    "science_centre": {
-      "status": "fresh",
-      "count": 0
+    "artscience": {
+      "status": "fallback",
+      "count": 0,
+      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; "
     }
   },
   "sources": [
