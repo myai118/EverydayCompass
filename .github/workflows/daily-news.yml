@@ -14,14 +14,18 @@ on:
     - cron: '45 22 * * *'
     - cron: '45 4 * * *'
     - cron: '45 10 * * *'
-    # Backup 1 checks 2 hours later; Backup 2 checks 3 hours later.
-    # Both skip if that refresh window already completed.
-    - cron: '45 0 * * *'
-    - cron: '45 6 * * *'
-    - cron: '45 12 * * *'
-    - cron: '45 1 * * *'
-    - cron: '45 7 * * *'
-    - cron: '45 13 * * *'
+    # Backups check 30 and 60 minutes later; completed editions are skipped.
+    - cron: '15 23 * * *'
+    - cron: '15 5 * * *'
+    - cron: '15 11 * * *'
+    - cron: '45 23 * * *'
+    - cron: '45 5 * * *'
+    - cron: '45 11 * * *'
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/daily-news.yml
+      - scripts/update_news.py
 
 permissions:
   contents: write
