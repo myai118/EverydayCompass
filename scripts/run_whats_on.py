@@ -338,22 +338,40 @@ def run(previous, sources, today=None, now=None, fetcher=None, source_keys=None)
     rows = []
     for key, cfg in sources.items():
         r = payload["source_report"].get(key, {})
+        prior = old.get(key, {})
         deferred = key not in active_keys
         ok = r.get("status") == "fresh"
-        last = now.isoformat(timespec="seconds") if ok else old.get(key, {}).get("last_success")
+        if deferred:
+            # A staged recovery run must not replace the already-published
+            # normal-source result with a misleading "deferred" warning.
+            # Carry the previous stage's status, count, timestamp and error
+            # forward; only the selected recovery source is recalculated.
+            row_status = prior.get("status") if prior.get("status") in {"ok", "fallback"} else "deferred"
+            row_count = prior.get("count", 0)
+            row_last = prior.get("last_success")
+            row_error = prior.get("error", "")
+            row_review = bool(prior.get("needs_reader_review"))
+        else:
+            row_status = "ok" if ok else "fallback"
+            row_count = r.get("count", 0)
+            row_last = now.isoformat(timespec="seconds") if ok else prior.get("last_success")
+            row_error = "" if ok else str(r.get("error", ""))[:180]
+            row_review = not ok and "zero usable" in str(r.get("error", "")).lower()
         rows.append({
             "id": key,
             "name": cfg["name"],
             "url": cfg["url"],
-            "status": "deferred" if deferred else ("ok" if ok else "fallback"),
-            "count": r.get("count", 0),
-            "last_success": last,
-            "error": "" if deferred or ok else str(r.get("error", ""))[:180],
-            "needs_reader_review": not deferred and not ok and "zero usable" in str(r.get("error", "")).lower(),
+            "status": row_status,
+            "count": row_count,
+            "last_success": row_last,
+            "error": row_error,
+            "needs_reader_review": row_review,
         })
     payload["sources"] = rows
-    active_rows = [r for r in rows if r["id"] in active_keys]
-    payload["all_sources_failed"] = not any(r["status"] == "ok" for r in active_rows)
+    # Evaluate the final merged feed, including results carried forward from
+    # the earlier stage. This prevents an ArtScience-only retry from declaring
+    # the whole refresh failed when normal sources succeeded.
+    payload["all_sources_failed"] = not any(r["status"] == "ok" for r in rows)
     return payload
 
 
