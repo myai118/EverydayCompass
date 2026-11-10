@@ -51,8 +51,9 @@ class WakeupTests(unittest.TestCase):
     def test_midnight_uses_previous_evening(self):
         self.assertEqual(wake.latest_window(stamp('01:00')), stamp('18:45') - dt.timedelta(days=1))
 
-    def test_early_check_allows_main_to_start(self):
-        self.assertEqual(wake.decide({}, [], stamp('12:53'))['action'], 'skip')
+    def test_recovery_waits_five_minutes_for_main_then_launches(self):
+        self.assertEqual(wake.decide({}, [], stamp('12:49'))['action'], 'skip')
+        self.assertEqual(wake.decide({}, [], stamp('12:53'))['action'], 'dispatch')
 
     def test_complete_edition_skips(self):
         client = FakeGitHub([edition()])
