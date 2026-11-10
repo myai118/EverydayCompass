@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:58:26+08:00",
+  "updated_at": "2026-11-11T07:00:13+08:00",
   "events": [
     {
       "title": "2026 Architectural Heritage Awards and Architectural Heritage Season: Exhibition",
@@ -23,6 +23,31 @@
         "ongoing"
       ],
       "date_added": "2026-11-10"
+    },
+    {
+      "title": "Abby & Tristan: Songs We Remember",
+      "category": "Event",
+      "overview": "Abby & Tristan take audiences on a musical trip down memory lane, featuring songs from Singapore television dramas, such as《城里的月光》 (Moonlight in the City) and《早安老师》 (Good Morning, Sir!) , alongside Hong Kong hits like《追》 (Chase ) and Monica . Recent favourites such as 《凉凉》and《如果可以》 (Red Scarf ) will also be featured!",
+      "period": "11 Nov 2026",
+      "time": "6:45 pm, 7:45 pm",
+      "venue": "Esplanade Concourse",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/soundtracks/2026/abby-and-tristan-songs-we-remember",
+      "source_key": "esplanade",
+      "source": "Esplanade",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "5mins",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "free",
+        "ongoing"
+      ],
+      "date_added": "2026-11-05"
     },
     {
       "title": "Bit Bit Forest Mid-Autumn Light Up!",
@@ -804,6 +829,30 @@
       "date_added": null
     },
     {
+      "title": "The Grass That Flowers — A Young People Environmental Dance-Theatre",
+      "category": "Event / Exhibition",
+      "overview": "11 - 14 NOV ’26 The Grass That Flowers — A Young People Environmental Dance-Theatre Visit the amazing world of Singapore's seagrass through dance! The show translates complex ecological concepts — such as conservation, ecosystem, and anthropogenic impact — into a magical and accessible learning experience for children.",
+      "period": "11 - 14 NOV 2026",
+      "time": "Check official information",
+      "venue": "Visit Singapore",
+      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
+      "source_key": "visit_singapore",
+      "source": "Visit Singapore",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "date_added": "2026-11-07"
+    },
+    {
       "title": "The Misanthrope (Screening)",
       "category": "Event",
       "overview": "★★★★ ‘Sandra Oh shines in a witty update of Molière’s Misanthrope. ’ – Sunday Times",
@@ -848,31 +897,6 @@
         "ongoing"
       ],
       "date_added": null
-    },
-    {
-      "title": "The Parachutes",
-      "category": "Event",
-      "overview": "The Parachutes take the audience on a nostalgic and energetic musical journey through some of the most memorable songs featured in popular TV shows from the 1990s to today.",
-      "period": "10 Nov 2026",
-      "time": "6:45 pm, 7:45 pm",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/soundtracks/2026/the-parachutes",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "tags": [
-        "ending",
-        "free",
-        "ongoing"
-      ],
-      "date_added": "2026-11-05"
     },
     {
       "title": "Todd’s Fable-lous Bag (Preschool…",
@@ -1160,31 +1184,6 @@
         "upcoming"
       ],
       "date_added": null
-    },
-    {
-      "title": "Abby & Tristan: Songs We Remember",
-      "category": "Event",
-      "overview": "Abby & Tristan take audiences on a musical trip down memory lane, featuring songs from Singapore television dramas, such as《城里的月光》 (Moonlight in the City) and《早安老师》 (Good Morning, Sir!) , alongside Hong Kong hits like《追》 (Chase ) and Monica . Recent favourites such as 《凉凉》and《如果可以》 (Red Scarf ) will also be featured!",
-      "period": "11 Nov 2026",
-      "time": "6:45 pm, 7:45 pm",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/soundtracks/2026/abby-and-tristan-songs-we-remember",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "free",
-        "ongoing",
-        "upcoming"
-      ],
-      "date_added": "2026-11-05"
     },
     {
       "title": "After Hours",
@@ -2188,29 +2187,6 @@
       "date_added": "2026-11-06"
     },
     {
-      "title": "The Grass That Flowers — A Young People Environmental Dance-Theatre",
-      "category": "Event / Exhibition",
-      "overview": "11 - 14 NOV ’26 The Grass That Flowers — A Young People Environmental Dance-Theatre Visit the amazing world of Singapore's seagrass through dance! The show translates complex ecological concepts — such as conservation, ecosystem, and anthropogenic impact — into a magical and accessible learning experience for children.",
-      "period": "11 - 14 NOV 2026",
-      "time": "Check official information",
-      "venue": "Visit Singapore",
-      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
-      "source_key": "visit_singapore",
-      "source": "Visit Singapore",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "upcoming"
-      ],
-      "date_added": "2026-11-07"
-    },
-    {
       "title": "The Resting Room",
       "category": "Event / Exhibition",
       "overview": "14 NOV ’26 The Resting Room The Resting Room is an immersive, shared sound-and-deep-rest experience presented by Future Resonance x Heveya at New Bahru. Settle into a plush mattress, close your eyes, and discover what happens when sound, space, and stillness come together.",
@@ -2383,10 +2359,46 @@
     }
   ],
   "source_report": {
-    "artscience": {
-      "status": "fallback",
-      "count": 0,
-      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; "
+    "sccc": {
+      "status": "fresh",
+      "count": 25
+    },
+    "gardens": {
+      "status": "fresh",
+      "count": 11
+    },
+    "esplanade": {
+      "status": "fresh",
+      "count": 36,
+      "detail_errors": 0
+    },
+    "national_museum": {
+      "status": "fresh",
+      "count": 2
+    },
+    "national_gallery": {
+      "status": "fresh",
+      "count": 1
+    },
+    "ura": {
+      "status": "fresh",
+      "count": 1
+    },
+    "nlb": {
+      "status": "fresh",
+      "count": 6
+    },
+    "visit_singapore": {
+      "status": "fresh",
+      "count": 12
+    },
+    "catch_sg": {
+      "status": "fresh",
+      "count": 0
+    },
+    "science_centre": {
+      "status": "fresh",
+      "count": 0
     }
   },
   "sources": [
@@ -2396,7 +2408,7 @@
       "url": "https://singaporeccc.org.sg/events/",
       "status": "ok",
       "count": 25,
-      "last_success": "2026-11-10T19:48:51+08:00",
+      "last_success": "2026-11-11T06:59:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2406,7 +2418,7 @@
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
       "status": "ok",
       "count": 11,
-      "last_success": "2026-11-10T19:48:51+08:00",
+      "last_success": "2026-11-11T06:59:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2415,8 +2427,8 @@
       "name": "Esplanade",
       "url": "https://www.esplanade.com/whats-on",
       "status": "ok",
-      "count": 37,
-      "last_success": "2026-11-10T19:48:51+08:00",
+      "count": 36,
+      "last_success": "2026-11-11T06:59:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2426,7 +2438,7 @@
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-11-10T19:48:51+08:00",
+      "last_success": "2026-11-11T06:59:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2436,7 +2448,7 @@
       "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-10T19:48:51+08:00",
+      "last_success": "2026-11-11T06:59:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2456,7 +2468,7 @@
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-10T19:48:51+08:00",
+      "last_success": "2026-11-11T06:59:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2466,7 +2478,7 @@
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
       "status": "ok",
       "count": 6,
-      "last_success": "2026-11-10T19:48:51+08:00",
+      "last_success": "2026-11-11T06:59:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2476,7 +2488,7 @@
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-10T19:48:51+08:00",
+      "last_success": "2026-11-11T06:59:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2486,7 +2498,7 @@
       "url": "https://www.catch.sg/Event",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-10T19:48:51+08:00",
+      "last_success": "2026-11-11T06:59:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2496,7 +2508,7 @@
       "url": "https://www.science.edu.sg/whats-on",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-10T19:48:51+08:00",
+      "last_success": "2026-11-11T06:59:28+08:00",
       "error": "",
       "needs_reader_review": false
     }
