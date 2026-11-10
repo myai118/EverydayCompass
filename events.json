@@ -1,31 +1,6 @@
 {
-  "updated_at": "2026-11-09T09:22:34+08:00",
+  "updated_at": "2026-11-10T10:44:30+08:00",
   "events": [
-    {
-      "title": "A Night of Disney & Pixar!",
-      "category": "Event",
-      "overview": "Musical magic and shining, shimmering splendour take centre stage as a group of local musicians performs Disney and Pixar songs!",
-      "period": "9 Nov 2026",
-      "time": "7:15 pm, 8:45 pm",
-      "venue": "DBS Foundation Outdoor Theatre at Esplanade",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/soundtracks/2026/a-night-of-disney-and-pixar",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "tags": [
-        "ending",
-        "free",
-        "ongoing"
-      ],
-      "date_added": "2026-11-05"
-    },
     {
       "title": "Bit Bit Forest Mid-Autumn Light Up!",
       "category": "Festival · Light-up",
@@ -169,7 +144,7 @@
     {
       "title": "Dance Connections",
       "category": "Event / Exhibition",
-      "overview": "Oct 01, 2026 - Dec 30, 2027 Singapore Chinese Cultural Centre Concourse, Level 1 Dance Connections Looking to pick up Chinese dance after work while staying active and expanding your social… Other Free",
+      "overview": "Oct 01, 2026 - Dec 30, 2027 SCCC Level 10 foyer Dance Connections Looking to pick up Chinese dance after work while staying active and expanding your social… Other Free",
       "period": "Oct 01, 2026 - Dec 30, 2027",
       "time": "Check official information",
       "venue": "Singapore Chinese Cultural Centre",
@@ -259,30 +234,6 @@
       "date_added": null
     },
     {
-      "title": "Experience Portugal",
-      "period": "8 Oct - 9 Nov 2026",
-      "link": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/portuguese-programmes.html",
-      "overview": "Step into a celebration of Portugal’s rich heritage and shared history with Singapore, through food, dance, art and film.",
-      "time": "Various timing",
-      "venue": "Flower Dome",
-      "category": "Event / Exhibition",
-      "source_key": "gardens",
-      "source": "Gardens by the Bay",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "tags": [
-        "ending",
-        "ongoing"
-      ],
-      "date_added": null
-    },
-    {
       "title": "Fear No Power: Women Imagining Otherwise",
       "category": "Event",
       "overview": "Fear No Power: Women Imagining Otherwise highlights the lives and practices of five artists from Southeast Asia for whom art, life, kinship and community are inseparable. Featuring Imelda Cajipe-Endaya (Philippines), Nirmala Dutt (Malaysia), Amanda Heng (Singapore), Dolorosa Sinaga (Indonesia), and Phaptawan Suwannakudt (Thailand), the exhibition honours their multi-faceted roles—not only as artists, but also as educators, writers or community organisers.",
@@ -328,30 +279,6 @@
         "ongoing"
       ],
       "date_added": "2026-11-03"
-    },
-    {
-      "title": "Get Crafty! – Sunflower Knots Bag Charm by Macramenian",
-      "period": "9 Nov 2026",
-      "link": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/get-crafty-sunflower-knots-bag-charm-by-macramenian.html",
-      "overview": "Learn basic macrame knots using cotton cords to craft a radiant sunflower bag charm. It’s perfect as a daily reminder that you can create your own sunshine and positive vibes!",
-      "time": "11.00am - 5.00pm",
-      "venue": "Australian Garden, Flower Dome",
-      "category": "Event / Exhibition",
-      "source_key": "gardens",
-      "source": "Gardens by the Bay",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "tags": [
-        "ending",
-        "ongoing"
-      ],
-      "date_added": "2026-10-29"
     },
     {
       "title": "Happy Sing-Along (Season 4)",
@@ -517,31 +444,6 @@
         "ongoing"
       ],
       "date_added": "2026-11-07"
-    },
-    {
-      "title": "Oops! All Singin’ in the Rain",
-      "category": "Event",
-      "overview": "Iman & Kenzo pay tribute to one of Hollywood’s most influential movie musicals, Singin’ in the Rain ! The duo presents a night of laughter, history and jazz, performing every song from the movie. The songs include Good Morning , Make ‘Em Laugh , and, of course, Singin’ in the Rain .",
-      "period": "9 Nov 2026",
-      "time": "6:45 pm, 7:45 pm",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/soundtracks/2026/oops-all-singin-in-the-rain",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "tags": [
-        "ending",
-        "free",
-        "ongoing"
-      ],
-      "date_added": "2026-11-05"
     },
     {
       "title": "Punggol Stories",
@@ -925,6 +827,31 @@
       "date_added": null
     },
     {
+      "title": "The Parachutes",
+      "category": "Event",
+      "overview": "The Parachutes take the audience on a nostalgic and energetic musical journey through some of the most memorable songs featured in popular TV shows from the 1990s to today.",
+      "period": "10 Nov 2026",
+      "time": "6:45 pm, 7:45 pm",
+      "venue": "Esplanade Concourse",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/soundtracks/2026/the-parachutes",
+      "source_key": "esplanade",
+      "source": "Esplanade",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "5mins",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "free",
+        "ongoing"
+      ],
+      "date_added": "2026-11-05"
+    },
+    {
       "title": "Todd’s Fable-lous Bag (Preschool…",
       "category": "Event / Exhibition",
       "overview": "Nov 01, 2026 - Dec 31, 2028 Todd’s Fable-lous Bag (Preschool… Todd’s Fable-lous Bag is SCCC’s inaugural thematic travelling trunk programme for preschools. Comprising 3 themes,… Other Free",
@@ -970,6 +897,30 @@
         "ongoing"
       ],
       "date_added": "2026-11-07"
+    },
+    {
+      "title": "World Xiangqi Tournament Series…",
+      "category": "Event / Exhibition",
+      "overview": "Nov 10, 2026 - Nov 15, 2026 Singapore Chinese Cultural Centre Multi-Purpose Hall, Level 7 World Xiangqi Tournament Series… World Xiangqi Tournament Series 2026: Making History in Singapore Singapore will make xiangqi history this… Other",
+      "period": "Nov 10, 2026 - Nov 15, 2026",
+      "time": "Check official information",
+      "venue": "Singapore Chinese Cultural Centre",
+      "link": "https://singaporeccc.org.sg/events/world-xiangqi-tournament-series-fringe-activities/",
+      "source_key": "sccc",
+      "source": "Singapore Chinese Cultural Centre",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "date_added": "2026-11-05"
     },
     {
       "title": "இன்று புதிதாய் பிறந்தோம் Today We Are Born Anew",
@@ -1929,6 +1880,29 @@
       "date_added": null
     },
     {
+      "title": "Sensory Moments - Christmas Train Show",
+      "period": "28 Nov 2026",
+      "link": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/sensory-moments-christmas-train-show.html",
+      "overview": "Discover why poinsettias turn red, explore the scents and textures of conifers, and experience winter through snow-like foliage and delicate fragrances.",
+      "time": "2.00pm – 5.00pm",
+      "venue": "Mediterranean Garden and Flower Field, Flower Dome",
+      "category": "Event / Exhibition",
+      "source_key": "gardens",
+      "source": "Gardens by the Bay",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "upcoming"
+      ],
+      "date_added": "2026-11-10"
+    },
+    {
       "title": "Siaw-Tao’s 56th Anniversary Exhibition",
       "category": "Event / Exhibition",
       "overview": "Dec 09, 2026 - Dec 13, 2026 新加坡华族文化中心七楼多功能礼堂 Siaw-Tao’s 56th Anniversary Exhibition The 56th Anniversary Exhibition of Siaw-Tao Seal Carving, Calligraphy and Painting Society is a showcase… Exhibition Free",
@@ -2214,31 +2188,6 @@
       "date_added": "2026-11-07"
     },
     {
-      "title": "The Parachutes",
-      "category": "Event",
-      "overview": "The Parachutes take the audience on a nostalgic and energetic musical journey through some of the most memorable songs featured in popular TV shows from the 1990s to today.",
-      "period": "10 Nov 2026",
-      "time": "6:45 pm, 7:45 pm",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/soundtracks/2026/the-parachutes",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "free",
-        "ongoing",
-        "upcoming"
-      ],
-      "date_added": "2026-11-05"
-    },
-    {
       "title": "The Resting Room",
       "category": "Event / Exhibition",
       "overview": "14 NOV ’26 The Resting Room The Resting Room is an immersive, shared sound-and-deep-rest experience presented by Future Resonance x Heveya at New Bahru. Settle into a plush mattress, close your eyes, and discover what happens when sound, space, and stillness come together.",
@@ -2360,29 +2309,6 @@
       "date_added": "2026-10-30"
     },
     {
-      "title": "World Xiangqi Tournament Series…",
-      "category": "Event / Exhibition",
-      "overview": "Nov 10, 2026 - Nov 15, 2026 Singapore Chinese Cultural Centre Multi-Purpose Hall, Level 7 World Xiangqi Tournament Series… World Xiangqi Tournament Series 2026: Making History in Singapore Singapore will make xiangqi history this… Other",
-      "period": "Nov 10, 2026 - Nov 15, 2026",
-      "time": "Check official information",
-      "venue": "Singapore Chinese Cultural Centre",
-      "link": "https://singaporeccc.org.sg/events/world-xiangqi-tournament-series-fringe-activities/",
-      "source_key": "sccc",
-      "source": "Singapore Chinese Cultural Centre",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "upcoming"
-      ],
-      "date_added": "2026-11-05"
-    },
-    {
       "title": "Yesterday’s Legends to Tomorrow’s Stars",
       "category": "Event",
       "overview": "Celebrating the legacy of musical theatre and the artists who continue to shape its future, Yesterday’s Legends to Tomorrow’s Stars pays tribute to the generations of composers, lyricists, performers and storytellers who have paved the way for today’s emerging talent. From the groundbreaking genius of Stephen Sondheim to the unmistakable songwriting and performance excellence of Dolly Parton, this showcase honors the diverse voices, timeless stories, and musical innovations and styles that have influenced generations.",
@@ -2434,10 +2360,46 @@
     }
   ],
   "source_report": {
-    "artscience": {
-      "status": "fallback",
-      "count": 0,
-      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; "
+    "sccc": {
+      "status": "fresh",
+      "count": 25
+    },
+    "gardens": {
+      "status": "fresh",
+      "count": 11
+    },
+    "esplanade": {
+      "status": "fresh",
+      "count": 37,
+      "detail_errors": 0
+    },
+    "national_museum": {
+      "status": "fresh",
+      "count": 2
+    },
+    "national_gallery": {
+      "status": "fresh",
+      "count": 1
+    },
+    "ura": {
+      "status": "fresh",
+      "count": 0
+    },
+    "nlb": {
+      "status": "fresh",
+      "count": 6
+    },
+    "visit_singapore": {
+      "status": "fresh",
+      "count": 12
+    },
+    "catch_sg": {
+      "status": "fresh",
+      "count": 0
+    },
+    "science_centre": {
+      "status": "fresh",
+      "count": 0
     }
   },
   "sources": [
@@ -2445,9 +2407,9 @@
       "id": "sccc",
       "name": "Singapore Chinese Cultural Centre",
       "url": "https://singaporeccc.org.sg/events/",
-      "status": "deferred",
-      "count": 0,
-      "last_success": "2026-11-09T09:12:57+08:00",
+      "status": "ok",
+      "count": 25,
+      "last_success": "2026-11-10T10:43:37+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2455,9 +2417,9 @@
       "id": "gardens",
       "name": "Gardens by the Bay",
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
-      "status": "deferred",
-      "count": 0,
-      "last_success": "2026-11-09T09:12:57+08:00",
+      "status": "ok",
+      "count": 11,
+      "last_success": "2026-11-10T10:43:37+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2465,9 +2427,9 @@
       "id": "esplanade",
       "name": "Esplanade",
       "url": "https://www.esplanade.com/whats-on",
-      "status": "deferred",
-      "count": 0,
-      "last_success": "2026-11-09T09:12:57+08:00",
+      "status": "ok",
+      "count": 37,
+      "last_success": "2026-11-10T10:43:37+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2475,9 +2437,9 @@
       "id": "national_museum",
       "name": "National Museum of Singapore",
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
-      "status": "deferred",
-      "count": 0,
-      "last_success": "2026-11-09T09:12:57+08:00",
+      "status": "ok",
+      "count": 2,
+      "last_success": "2026-11-10T10:43:37+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2485,9 +2447,9 @@
       "id": "national_gallery",
       "name": "National Gallery Singapore",
       "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
-      "status": "deferred",
-      "count": 0,
-      "last_success": "2026-11-09T09:12:57+08:00",
+      "status": "ok",
+      "count": 1,
+      "last_success": "2026-11-10T10:43:37+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2495,19 +2457,19 @@
       "id": "artscience",
       "name": "ArtScience Museum",
       "url": "https://www.marinabaysands.com/museum.html",
-      "status": "fallback",
+      "status": "deferred",
       "count": 0,
       "last_success": null,
-      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; ",
+      "error": "",
       "needs_reader_review": false
     },
     {
       "id": "ura",
       "name": "Urban Redevelopment Authority",
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
-      "status": "deferred",
+      "status": "ok",
       "count": 0,
-      "last_success": "2026-11-09T09:12:57+08:00",
+      "last_success": "2026-11-10T10:43:37+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2515,9 +2477,9 @@
       "id": "nlb",
       "name": "National Library Board",
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
-      "status": "deferred",
-      "count": 0,
-      "last_success": "2026-11-09T09:12:57+08:00",
+      "status": "ok",
+      "count": 6,
+      "last_success": "2026-11-10T10:43:37+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2525,9 +2487,9 @@
       "id": "visit_singapore",
       "name": "Visit Singapore",
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
-      "status": "deferred",
-      "count": 0,
-      "last_success": "2026-11-09T09:12:57+08:00",
+      "status": "ok",
+      "count": 12,
+      "last_success": "2026-11-10T10:43:37+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2535,9 +2497,9 @@
       "id": "catch_sg",
       "name": "Catch.sg — Free Events",
       "url": "https://www.catch.sg/Event",
-      "status": "deferred",
+      "status": "ok",
       "count": 0,
-      "last_success": "2026-11-09T09:12:57+08:00",
+      "last_success": "2026-11-10T10:43:37+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2545,12 +2507,12 @@
       "id": "science_centre",
       "name": "Science Centre Singapore",
       "url": "https://www.science.edu.sg/whats-on",
-      "status": "deferred",
+      "status": "ok",
       "count": 0,
-      "last_success": "2026-11-09T09:12:57+08:00",
+      "last_success": "2026-11-10T10:43:37+08:00",
       "error": "",
       "needs_reader_review": false
     }
   ],
-  "all_sources_failed": true
+  "all_sources_failed": false
 }
