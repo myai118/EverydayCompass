@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T07:08:57+08:00",
+  "updated_at": "2026-11-11T08:39:42+08:00",
   "events": [
     {
       "title": "2026 Architectural Heritage Awards and Architectural Heritage Season: Exhibition",
@@ -2359,10 +2359,46 @@
     }
   ],
   "source_report": {
-    "artscience": {
-      "status": "fallback",
-      "count": 0,
-      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; "
+    "sccc": {
+      "status": "fresh",
+      "count": 25
+    },
+    "gardens": {
+      "status": "fresh",
+      "count": 11
+    },
+    "esplanade": {
+      "status": "fresh",
+      "count": 36,
+      "detail_errors": 0
+    },
+    "national_museum": {
+      "status": "fresh",
+      "count": 2
+    },
+    "national_gallery": {
+      "status": "fresh",
+      "count": 1
+    },
+    "ura": {
+      "status": "fresh",
+      "count": 1
+    },
+    "nlb": {
+      "status": "fresh",
+      "count": 6
+    },
+    "visit_singapore": {
+      "status": "fresh",
+      "count": 12
+    },
+    "catch_sg": {
+      "status": "fresh",
+      "count": 0
+    },
+    "science_centre": {
+      "status": "fresh",
+      "count": 0
     }
   },
   "sources": [
@@ -2372,7 +2408,7 @@
       "url": "https://singaporeccc.org.sg/events/",
       "status": "ok",
       "count": 25,
-      "last_success": "2026-11-11T06:59:28+08:00",
+      "last_success": "2026-11-11T08:38:50+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2382,7 +2418,7 @@
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
       "status": "ok",
       "count": 11,
-      "last_success": "2026-11-11T06:59:28+08:00",
+      "last_success": "2026-11-11T08:38:50+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2392,7 +2428,7 @@
       "url": "https://www.esplanade.com/whats-on",
       "status": "ok",
       "count": 36,
-      "last_success": "2026-11-11T06:59:28+08:00",
+      "last_success": "2026-11-11T08:38:50+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2402,7 +2438,7 @@
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-11-11T06:59:28+08:00",
+      "last_success": "2026-11-11T08:38:50+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2412,7 +2448,7 @@
       "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-11T06:59:28+08:00",
+      "last_success": "2026-11-11T08:38:50+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2432,7 +2468,7 @@
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-11T06:59:28+08:00",
+      "last_success": "2026-11-11T08:38:50+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2442,7 +2478,7 @@
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
       "status": "ok",
       "count": 6,
-      "last_success": "2026-11-11T06:59:28+08:00",
+      "last_success": "2026-11-11T08:38:50+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2452,7 +2488,7 @@
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-11T06:59:28+08:00",
+      "last_success": "2026-11-11T08:38:50+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2462,7 +2498,7 @@
       "url": "https://www.catch.sg/Event",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-11T06:59:28+08:00",
+      "last_success": "2026-11-11T08:38:50+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2472,7 +2508,7 @@
       "url": "https://www.science.edu.sg/whats-on",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-11T06:59:28+08:00",
+      "last_success": "2026-11-11T08:38:50+08:00",
       "error": "",
       "needs_reader_review": false
     }
