@@ -1,11 +1,32 @@
 {
   "singapore": [
     {
+      "title": "‘Some friends ask if I’m speaking to aliens’: How young Singaporeans are gearing up for space careers",
+      "url": "https://www.channelnewsasia.com/singapore/space-careers-talent-schools-students-satellites-6543061",
+      "summary": "Singapore is opening new pathways for young people into the space industry, but questions remain over whether these will lead to viable careers.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "Commentary: Have online reviews killed the joy of discovery?",
+      "url": "https://www.channelnewsasia.com/commentary/business-buy-five-star-review-restaurant-salon-6502911",
+      "summary": "When businesses can buy five-star reviews for a few dollars, perhaps it is time we placed a little less faith in strangers' opinions, says writer Karen Tee.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "Singapore Airlines to review feedback on new cabin products, business class colour scheme: CEO",
+      "url": "https://www.channelnewsasia.com/singapore/singapore-airlines-business-class-colour-new-cabin-6546286",
+      "summary": "Mr Goh Choon Phong on Thursday (Nov 12) said that the airline will also be exploring \"further refinements\" to enhance customers’ travel experience.",
+      "source": "CNA",
+      "published": "Thu, 12 Nov 2026 21:13:32 +0800"
+    },
+    {
       "title": "Alice Huang barred from re-entering Singapore; insufficient evidence she committed offences in Megaspeed probe: MHA",
       "url": "https://www.channelnewsasia.com/singapore/alice-huang-megaspeed-mha-offences-probe-6544206",
-      "summary": "\"Singapore is committed to upholding our reputation as a trusted and reliable business hub. We will not allow companies or individuals to misuse Singapore's business environment to engage in fraud or dishonest practices,\" the Ministry of Home Affairs said.",
+      "summary": "An independent investigation into several companies, including Megaspeed and their key officers, began in February 2025. \"Singapore is committed to upholding our reputation as a trusted and reliable business hub,\" the Ministry of Home Affairs said.",
       "source": "CNA",
-      "published": "Thu, 12 Nov 2026 21:00:05 +0800"
+      "published": "Thu, 12 Nov 2026 21:00:00 +0800"
     },
     {
       "title": "Eight teenagers arrested for public nuisance over prank in Hougang",
@@ -83,36 +104,106 @@
       "summary": "The limited-time Christmas menu runs from Nov 12 to Jan 3, featuring chicken chorizo, Hawaiian and beef pepperoni star-shaped pizzas, along with new sliders and sharing bundles.",
       "source": "CNA",
       "published": "Thu, 12 Nov 2026 13:22:13 +0800"
-    },
-    {
-      "title": "Police looking into report of woman hitting toddler during TikTok livestream",
-      "url": "https://www.channelnewsasia.com/singapore/police-tiktok-livestream-child-abuse-woman-6544831",
-      "summary": "The videos showed a woman repeatedly hitting a young girl on the back while apparently trying to get her to take a nap.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 12:32:41 +0800"
-    },
-    {
-      "title": "Commentary: Why Singapore Airlines should welcome the backlash over new business class seats",
-      "url": "https://www.channelnewsasia.com/commentary/singapore-airlines-business-class-colour-yellow-grey-sia-6544871",
-      "summary": "People do not get angry at brands they do not care about, says marketing professor Julien Cayla from Nanyang Business School.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 12:19:00 +0800"
-    },
-    {
-      "title": "Can Pulau Tekong help power Singapore without affecting military training?",
-      "url": "https://www.channelnewsasia.com/singapore/pulau-tekong-military-training-live-firing-energy-cluster-ema-6538521",
-      "summary": "Experts say adequate safety buffers and careful planning would be needed to accommodate both military training and energy operations on the island.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 06:00:00 +0800"
     }
   ],
   "world": [
     {
+      "title": "China's access to Nvidia chips in doubt as curbs gain traction in US Congress",
+      "url": "https://www.channelnewsasia.com/east-asia/china-access-nvidia-chips-us-congress-jensen-huang-6546746",
+      "summary": "",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 07:13:39 +0800"
+    },
+    {
+      "title": "Commentary: I don’t want AI in my online search. What options do I have?",
+      "url": "https://www.channelnewsasia.com/commentary/ai-in-google-online-search-how-disable-6545591",
+      "summary": "It is technically possible to disable AI-generated answers from the search results page, says this academic.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 05:59:00 +0800"
+    },
+    {
+      "title": "Markets whiplashed as Huang quits Nvidia",
+      "url": "https://www.channelnewsasia.com/world/nvidia-markets-jensen-huang-resigns-6547596",
+      "summary": "Nvidia shares plunged 13 per cent at the start of trading in New York before moderating.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 05:54:00 +0800"
+    },
+    {
+      "title": "Israeli strike on Gaza hospital deadliest since election",
+      "url": "https://www.channelnewsasia.com/world/israel-gaza-strike-nasser-hospital-11-killed-6547556",
+      "summary": "The Israeli military said the strike targeted Hamas commander Muhammad Abu Ismail, but his death has not been confirmed.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 05:46:17 +0800"
+    },
+    {
+      "title": "Pentagon chief decorates soldier who reprimanded him and his entourage",
+      "url": "https://www.channelnewsasia.com/world/hegseth-soldier-medal-tomb-unknown-veterans-day-6547431",
+      "summary": "\"We love soldiers. We love standards. Well done, Specialist,\" US Defence Secretary Pete Hegseth said, praising a soldier for upholding standards at the Tomb of the Unknown Soldier during a Veterans Day visit.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 04:35:44 +0800"
+    },
+    {
+      "title": "Singapore users affected in global Microsoft outage with Outlook, Teams down",
+      "url": "https://www.channelnewsasia.com/business/microsoft-outlook-365-down-thousands-users-6547306",
+      "summary": "Microsoft attributed the connectivity issues to \"elevated load\" on its infrastructure across multiple regions.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 02:32:00 +0800"
+    },
+    {
+      "title": "One dead, four wounded in downtown Washington shooting: police",
+      "url": "https://www.channelnewsasia.com/world/one-dead-four-wounded-in-downtown-washington-shooting-police-6547186",
+      "summary": "Police said the shooting may have stemmed from \"some sort of conflict\" with the building’s homeowners association, while one victim remains in critical condition.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 02:04:32 +0800"
+    },
+    {
+      "title": "World leaders set out clashing priorities as COP31 turns to negotiations",
+      "url": "https://www.channelnewsasia.com/world/cop31-turkiye-world-leaders-climate-change-6547111",
+      "summary": "",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 01:36:13 +0800"
+    },
+    {
+      "title": "Trump says US does not 'need a deal with Iran'",
+      "url": "https://www.channelnewsasia.com/world/trump-us-iran-war-deal-vance-6547086",
+      "summary": "His comments come after reports by the Wall Street Journal of US Vice President JD Vance having face-to-face talks with a top Iranian security official.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 00:50:36 +0800"
+    },
+    {
+      "title": "Putin suggests no Ukraine compromise in meeting with US envoys",
+      "url": "https://www.channelnewsasia.com/world/putin-russia-ukraine-war-deal-us-talks-6547041",
+      "summary": "",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 00:25:24 +0800"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang resigns amid deepening scandal, leaving AI chip giant at crossroads",
+      "url": "https://www.channelnewsasia.com/world/nvidia-ceo-jensen-huang-resigns-6546526",
+      "summary": "Chief Financial Officer Colette Kress will take over as interim CEO. Jensen Huang, who co-founded Nvidia, will not remain on the board.",
+      "source": "CNA",
+      "published": "Thu, 12 Nov 2026 22:01:00 +0800"
+    },
+    {
+      "title": "Eight dead after Brooklyn apartment building collapses, NY mayor says",
+      "url": "https://www.channelnewsasia.com/world/brooklyn-new-york-city-apartment-collapse-zohran-mamdani-6546476",
+      "summary": "The cause of the collapse of the 1930-era building was not immediately clear.",
+      "source": "CNA",
+      "published": "Thu, 12 Nov 2026 21:37:00 +0800"
+    },
+    {
+      "title": "Global AI stocks sink as Nvidia CEO's exit deepens sector concerns",
+      "url": "https://www.channelnewsasia.com/business/ai-stocks-nvidia-global-market-6546411",
+      "summary": "As the centrepiece of the AI ecosystem, Nvidia finances infrastructure built around its chips - a strategy that has drawn scrutiny over circular funding and now risks weighing on the sector as its crisis deepens.",
+      "source": "CNA",
+      "published": "Thu, 12 Nov 2026 21:15:00 +0800"
+    },
+    {
       "title": "Alice Huang barred from re-entering Singapore; insufficient evidence she committed offences in Megaspeed probe: MHA",
       "url": "https://www.channelnewsasia.com/singapore/alice-huang-megaspeed-mha-offences-probe-6544206",
-      "summary": "\"Singapore is committed to upholding our reputation as a trusted and reliable business hub. We will not allow companies or individuals to misuse Singapore's business environment to engage in fraud or dishonest practices,\" the Ministry of Home Affairs said.",
+      "summary": "An independent investigation into several companies, including Megaspeed and their key officers, began in February 2025. \"Singapore is committed to upholding our reputation as a trusted and reliable business hub,\" the Ministry of Home Affairs said.",
       "source": "CNA",
-      "published": "Thu, 12 Nov 2026 21:00:05 +0800"
+      "published": "Thu, 12 Nov 2026 21:00:00 +0800"
     },
     {
       "title": "Israeli defence minister says no need for opposition approval to launch strikes",
@@ -120,99 +211,8 @@
       "summary": "The leader of the opposition bloc, Gadi Eisenkot, has called on caretaker Prime Minister Benjamin Netanyahu to show restraint.",
       "source": "CNA",
       "published": "Thu, 12 Nov 2026 20:54:23 +0800"
-    },
-    {
-      "title": "Bomb alert temporarily halts trains at Calais station in France, causing Eurostar delays",
-      "url": "https://www.channelnewsasia.com/world/france-bomb-alert-train-eurostar-delays-6545841",
-      "summary": "The alert came amid a broader wave of bomb threats and hoaxes reported in France and other European countries in recent months, targeting flights, schools and, in some cases, media organisations.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 18:40:45 +0800"
-    },
-    {
-      "title": "Nvidia customer Megaspeed says it cooperated with US inspections, takes export control laws seriously",
-      "url": "https://www.channelnewsasia.com/business/nvidia-megaspeed-cooperated-us-inspections-6545611",
-      "summary": "Megaspeed has retained an American law firm to lead a \"comprehensive census\" of its graphics processing units and independently verify its export control compliance practices.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 17:28:00 +0800"
-    },
-    {
-      "title": "Why AI ads and foreign meddling did not seem to sway the US midterm elections",
-      "url": "https://www.channelnewsasia.com/world/us-midterms-elections-ai-ads-foreign-interference-6545281",
-      "summary": "The real harm may have been done elsewhere, in the deepening of divisions and erosion of trust, experts told CNA.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 16:23:10 +0800"
-    },
-    {
-      "title": "US envoys arrive in Moscow for latest round of Ukrainian peace talks with Putin",
-      "url": "https://www.channelnewsasia.com/world/us-envoys-arrive-in-moscow-latest-round-ukrainian-peace-talks-putin-6545326",
-      "summary": "",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 15:25:47 +0800"
-    },
-    {
-      "title": "Global powers head to Asia with trade, AI, security in focus",
-      "url": "https://www.channelnewsasia.com/asia/asean-summit-global-leaders-trade-ai-nuclear-6544811",
-      "summary": "ASEAN is set to open its final leaders summit of the year on Sunday (Nov 15), with India's Narendra Modi and US President Donald Trump expected to attend.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 12:50:00 +0800"
-    },
-    {
-      "title": "Who would be next CEO at Nvidia? Top engineer and CFO favoured as candidates",
-      "url": "https://www.channelnewsasia.com/business/nvidia-jensen-huang-affair-next-ceo-candidates-engineer-cfo-6544986",
-      "summary": "Ian Buck, who oversees Nvidia’s data centre business, and CFO Colette Kress are the most likely candidates to succeed Jensen Huang as CEO, say analysts.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 12:46:00 +0800"
-    },
-    {
-      "title": "Building collapse in Brooklyn kills at least two, injures more than 10",
-      "url": "https://www.channelnewsasia.com/world/new-york-brooklyn-building-collapse-several-injured-6544236",
-      "summary": "The four-unit apartment building dating from 1930 collapsed and tumbled into the adjoining construction site where excavation work was underway, said the city's fire department chief.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 11:49:00 +0800"
-    },
-    {
-      "title": "US says China agreed importance of leader-level talks to advance denuclearisation",
-      "url": "https://www.channelnewsasia.com/world/us-marco-rubio-china-wang-yi-denuclearisation-talks-6544651",
-      "summary": "The call discussed President Donald Trump's travel to the APEC summit in China next week and Chinese President Xi Jinping's visit to Florida to attend next month's G20 summit.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 11:20:00 +0800"
-    },
-    {
-      "title": "Russian ambassador to US dies: Foreign ministry",
-      "url": "https://www.channelnewsasia.com/world/russian-ambassador-us-dies-foreign-ministry-6544281",
-      "summary": "",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 08:31:27 +0800"
-    },
-    {
-      "title": "Democrat Colom wins Mississippi Senate seat, becomes state's first Black senator since 1874",
-      "url": "https://www.channelnewsasia.com/world/mississippi-senate-scott-colom-democrat-us-midterms-6544221",
-      "summary": "The Democrats now have a 55-44 advantage in the 100-member Senate, with the result of the US Senate race in Alaska yet to be determined.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 08:11:00 +0800"
-    },
-    {
-      "title": "Nvidia board weighs CEO Jensen Huang's future as leadership crisis deepens",
-      "url": "https://www.channelnewsasia.com/world/nvidia-ceo-jensen-huang-oust-board-affair-6544031",
-      "summary": "Under Nvidia's bylaws, CEO Jensen Huang can be removed \"with or without cause\" by a majority vote of the directors.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 06:50:00 +0800"
-    },
-    {
-      "title": "Nvidia CEO Huang had relationship with executive who reported to him: Report",
-      "url": "https://www.channelnewsasia.com/business/nvidia-ceo-jensen-huang-relationship-executive-kimberly-powell-6544021",
-      "summary": "Jensen Huang allegedly had a relationship with Kimberly Powell, Nvidia's vice president of health care.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 06:31:00 +0800"
-    },
-    {
-      "title": "Commentary: Anthropic’s mega IPO is coming. Don’t let hype drive your investment decisions",
-      "url": "https://www.channelnewsasia.com/commentary/anthropic-mega-ipo-spark-fomo-retail-investors-back-basics-6542546",
-      "summary": "Anthropic’s upcoming IPO could fuel FOMO for many investors but excitement over a company’s prospects should not overshadow the fundamentals of investing, says Chez Anbu, head of wealth advisory at OCBC.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 06:00:00 +0800"
     }
   ],
-  "generated_at": "2026-11-12T21:13:55+08:00",
+  "generated_at": "2026-11-13T07:42:54+08:00",
   "test_mode": false
 }
