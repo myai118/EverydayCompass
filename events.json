@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T08:48:27+08:00",
+  "updated_at": "2026-11-12T09:54:57+08:00",
   "events": [
     {
       "title": "2026 Architectural Heritage Awards and Architectural Heritage Season: Exhibition",
@@ -23,31 +23,6 @@
         "ongoing"
       ],
       "date_added": "2026-11-10"
-    },
-    {
-      "title": "Abby & Tristan: Songs We Remember",
-      "category": "Event",
-      "overview": "Abby & Tristan take audiences on a musical trip down memory lane, featuring songs from Singapore television dramas, such as《城里的月光》 (Moonlight in the City) and《早安老师》 (Good Morning, Sir!) , alongside Hong Kong hits like《追》 (Chase ) and Monica . Recent favourites such as 《凉凉》and《如果可以》 (Red Scarf ) will also be featured!",
-      "period": "11 Nov 2026",
-      "time": "6:45 pm, 7:45 pm",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/soundtracks/2026/abby-and-tristan-songs-we-remember",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "tags": [
-        "ending",
-        "free",
-        "ongoing"
-      ],
-      "date_added": "2026-11-05"
     },
     {
       "title": "Bit Bit Forest Mid-Autumn Light Up!",
@@ -396,6 +371,30 @@
         "ongoing"
       ],
       "date_added": null
+    },
+    {
+      "title": "IAMWATCH 2026",
+      "category": "Event / Exhibition",
+      "overview": "12 - 15 NOV ’26 IAMWATCH 2026 IAMWATCH returns to Singapore this November. Fifty watchmakers and friends of The Hour Glass gather for four days of intimate encounters celebrating the passion, craft, and stories behind watchmaking.",
+      "period": "12 - 15 NOV 2026",
+      "time": "Check official information",
+      "venue": "Visit Singapore",
+      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
+      "source_key": "visit_singapore",
+      "source": "Visit Singapore",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "date_added": "2026-11-07"
     },
     {
       "title": "In the Ether—The Rise of Sanctuary Technologies",
@@ -829,6 +828,30 @@
       "date_added": null
     },
     {
+      "title": "The Christmas Atelier 2026",
+      "category": "Event / Exhibition",
+      "overview": "12 - 14 NOV ’26 The Christmas Atelier 2026 The Christmas Atelier returns for its 8th edition at Marina Bay Sands! Discover more than 130 artisanal brands, founders, and creators celebrating craftsmanship, creativity, and the joy of thoughtful giving.",
+      "period": "12 - 14 NOV 2026",
+      "time": "Check official information",
+      "venue": "Visit Singapore",
+      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
+      "source_key": "visit_singapore",
+      "source": "Visit Singapore",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "date_added": "2026-11-07"
+    },
+    {
       "title": "The Grass That Flowers — A Young People Environmental Dance-Theatre",
       "category": "Event / Exhibition",
       "overview": "11 - 14 NOV ’26 The Grass That Flowers — A Young People Environmental Dance-Theatre Visit the amazing world of Singapore's seagrass through dance! The show translates complex ecological concepts — such as conservation, ecosystem, and anthropogenic impact — into a magical and accessible learning experience for children.",
@@ -922,28 +945,29 @@
       "date_added": "2026-10-30"
     },
     {
-      "title": "Toy Story | PEACEMINUSONE: THE FIRST FAN",
-      "category": "Event / Exhibition",
-      "overview": "16 OCT ’26 - 11 NOV ’26 Toy Story | PEACEMINUSONE: THE FIRST FAN Mighty Jaxx presents Toy Story | PEACEMINUSONE: THE FIRST FAN, a pop-up pairing G-DRAGON’s label with Disney and Pixar’s characters. Discover sculptures, photo spots, and exclusive collectibles at CQ @ Clarke Quay.",
-      "period": "16 OCT 2026 - 11 NOV 2026",
-      "time": "Check official information",
-      "venue": "Visit Singapore",
-      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
-      "source_key": "visit_singapore",
-      "source": "Visit Singapore",
+      "title": "Trio Opal",
+      "category": "Event",
+      "overview": "Trio Opal explores the magic of the silver screen through an intimate performance for piano, flute and cello, featuring timeless music by some of cinema’s most celebrated composers.",
+      "period": "12 Nov 2026",
+      "time": "6:45 pm, 7:45 pm",
+      "venue": "Esplanade Concourse",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/soundtracks/2026/trio-opal",
+      "source_key": "esplanade",
+      "source": "Esplanade",
       "why": "See the official organiser page for the latest visitor information.",
       "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
+      "duration": "5mins",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
       "status": "Ending Soon",
       "statusClass": "ending",
       "tags": [
         "ending",
+        "free",
         "ongoing"
       ],
-      "date_added": "2026-11-07"
+      "date_added": "2026-11-05"
     },
     {
       "title": "World Xiangqi Tournament Series…",
@@ -1284,6 +1308,29 @@
       "date_added": null
     },
     {
+      "title": "BTS THE CITY Supertrees Light & Music Experience",
+      "period": "12 Dec - 22 Dec 2026",
+      "link": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/bts-thecity-light-and-music-experience.html",
+      "overview": "As part of BTS THE CITY ARIRANG SINGAPORE, Gardens by the Bay iconic Supertrees will light up in synchrony with BTS music, including the new release ‘ARIRANG’.",
+      "time": "9.35pm",
+      "venue": "Supertree Grove",
+      "category": "Event / Exhibition",
+      "source_key": "gardens",
+      "source": "Gardens by the Bay",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "upcoming"
+      ],
+      "date_added": "2026-11-12"
+    },
+    {
       "title": "Christmas Wonderland",
       "period": "27 Nov 2026 - 3 Jan 2027",
       "link": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/christmas-wonderland-2026.html",
@@ -1443,29 +1490,6 @@
         "upcoming"
       ],
       "date_added": "2026-10-29"
-    },
-    {
-      "title": "IAMWATCH 2026",
-      "category": "Event / Exhibition",
-      "overview": "12 - 15 NOV ’26 IAMWATCH 2026 IAMWATCH returns to Singapore this November. Fifty watchmakers and friends of The Hour Glass gather for four days of intimate encounters celebrating the passion, craft, and stories behind watchmaking.",
-      "period": "12 - 15 NOV 2026",
-      "time": "Check official information",
-      "venue": "Visit Singapore",
-      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
-      "source_key": "visit_singapore",
-      "source": "Visit Singapore",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "upcoming"
-      ],
-      "date_added": "2026-11-07"
     },
     {
       "title": "Inventions by Biswa Kalyan Rath",
@@ -2141,29 +2165,6 @@
       "date_added": "2026-11-05"
     },
     {
-      "title": "The Christmas Atelier 2026",
-      "category": "Event / Exhibition",
-      "overview": "12 - 14 NOV ’26 The Christmas Atelier 2026 The Christmas Atelier returns for its 8th edition at Marina Bay Sands! Discover more than 130 artisanal brands, founders, and creators celebrating craftsmanship, creativity, and the joy of thoughtful giving.",
-      "period": "12 - 14 NOV 2026",
-      "time": "Check official information",
-      "venue": "Visit Singapore",
-      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
-      "source_key": "visit_singapore",
-      "source": "Visit Singapore",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "upcoming"
-      ],
-      "date_added": "2026-11-07"
-    },
-    {
       "title": "The Drama Continues: 20…",
       "category": "Event / Exhibition",
       "overview": "Nov 28, 2026 - Nov 28, 2026 Singapore Chinese Cultural Centre Recital Studio, Level 6 The Drama Continues: 20… A new chapter for local Chinese drama began in 1982 with the establishment of the… Lectures/Talks/Conference Free",
@@ -2233,31 +2234,6 @@
       "date_added": null
     },
     {
-      "title": "Trio Opal",
-      "category": "Event",
-      "overview": "Trio Opal explores the magic of the silver screen through an intimate performance for piano, flute and cello, featuring timeless music by some of cinema’s most celebrated composers.",
-      "period": "12 Nov 2026",
-      "time": "6:45 pm, 7:45 pm",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/soundtracks/2026/trio-opal",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "free",
-        "ongoing",
-        "upcoming"
-      ],
-      "date_added": "2026-11-05"
-    },
-    {
       "title": "Voices Lounge: Musical Theatre Night Out! with A Spoonful of Theatre",
       "category": "Event",
       "overview": "Come down to the Voices Lounge and join A Spoonful of Theatre for a musical extravaganza where you can belt out your favourite Broadway hits with live piano accompaniment!",
@@ -2283,13 +2259,13 @@
       "date_added": "2026-10-30"
     },
     {
-      "title": "Voices Lounge: The Vocal Mixer 2026 with Peter Huang (A Vocal Affair)",
+      "title": "Voices Lounge: The Vocal Mixer 2026 with Peter Huang (MICappella) Ft. Voice Band EXIT",
       "category": "Event",
       "overview": "Always wanted to try a cappella or already singing with a group and keen to meet more like-minded singers?",
       "period": "4 Dec 2026",
       "time": "5:00 PM",
       "venue": "Esplanade Annexe Studio",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/voices-a-festival-of-song/2026/voices-lounge-the-vocal-mixer-2026-with-peter-huang-a-vocal-affair",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/voices-a-festival-of-song/2026/voices-lounge-the-vocal-mixer-2026-with-peter-huang--micappella-ft-voice-band-exit",
       "source_key": "esplanade",
       "source": "Esplanade",
       "why": "See the official organiser page for the latest visitor information.",
@@ -2305,7 +2281,30 @@
         "ongoing",
         "upcoming"
       ],
-      "date_added": "2026-10-30"
+      "date_added": "2026-11-12"
+    },
+    {
+      "title": "wave to earth - the pieces tour",
+      "category": "Event / Exhibition",
+      "overview": "20 NOV ’26 wave to earth - the pieces tour Fresh off the heels of their new song “heaven and hell,” South Korean indie rock band wave to earth is bringing their \"the pieces tour\" to Singapore!",
+      "period": "20 NOV 2026",
+      "time": "Check official information",
+      "venue": "Visit Singapore",
+      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
+      "source_key": "visit_singapore",
+      "source": "Visit Singapore",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "upcoming"
+      ],
+      "date_added": "2026-11-12"
     },
     {
       "title": "Yesterday’s Legends to Tomorrow’s Stars",
@@ -2359,10 +2358,46 @@
     }
   ],
   "source_report": {
-    "artscience": {
-      "status": "fallback",
-      "count": 0,
-      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; "
+    "sccc": {
+      "status": "fresh",
+      "count": 25
+    },
+    "gardens": {
+      "status": "fresh",
+      "count": 12
+    },
+    "esplanade": {
+      "status": "fresh",
+      "count": 35,
+      "detail_errors": 0
+    },
+    "national_museum": {
+      "status": "fresh",
+      "count": 2
+    },
+    "national_gallery": {
+      "status": "fresh",
+      "count": 1
+    },
+    "ura": {
+      "status": "fresh",
+      "count": 1
+    },
+    "nlb": {
+      "status": "fresh",
+      "count": 6
+    },
+    "visit_singapore": {
+      "status": "fresh",
+      "count": 12
+    },
+    "catch_sg": {
+      "status": "fresh",
+      "count": 0
+    },
+    "science_centre": {
+      "status": "fresh",
+      "count": 0
     }
   },
   "sources": [
@@ -2372,7 +2407,7 @@
       "url": "https://singaporeccc.org.sg/events/",
       "status": "ok",
       "count": 25,
-      "last_success": "2026-11-11T08:38:50+08:00",
+      "last_success": "2026-11-12T09:53:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2381,8 +2416,8 @@
       "name": "Gardens by the Bay",
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
       "status": "ok",
-      "count": 11,
-      "last_success": "2026-11-11T08:38:50+08:00",
+      "count": 12,
+      "last_success": "2026-11-12T09:53:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2391,8 +2426,8 @@
       "name": "Esplanade",
       "url": "https://www.esplanade.com/whats-on",
       "status": "ok",
-      "count": 36,
-      "last_success": "2026-11-11T08:38:50+08:00",
+      "count": 35,
+      "last_success": "2026-11-12T09:53:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2402,7 +2437,7 @@
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-11-11T08:38:50+08:00",
+      "last_success": "2026-11-12T09:53:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2412,7 +2447,7 @@
       "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-11T08:38:50+08:00",
+      "last_success": "2026-11-12T09:53:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2432,7 +2467,7 @@
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-11T08:38:50+08:00",
+      "last_success": "2026-11-12T09:53:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2442,7 +2477,7 @@
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
       "status": "ok",
       "count": 6,
-      "last_success": "2026-11-11T08:38:50+08:00",
+      "last_success": "2026-11-12T09:53:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2452,7 +2487,7 @@
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-11T08:38:50+08:00",
+      "last_success": "2026-11-12T09:53:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2462,7 +2497,7 @@
       "url": "https://www.catch.sg/Event",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-11T08:38:50+08:00",
+      "last_success": "2026-11-12T09:53:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2472,7 +2507,7 @@
       "url": "https://www.science.edu.sg/whats-on",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-11T08:38:50+08:00",
+      "last_success": "2026-11-12T09:53:54+08:00",
       "error": "",
       "needs_reader_review": false
     }
