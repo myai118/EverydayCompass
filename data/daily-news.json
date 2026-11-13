@@ -1,118 +1,160 @@
 {
   "singapore": [
     {
-      "title": "‘Some friends ask if I’m speaking to aliens’: How young Singaporeans are gearing up for space careers",
+      "title": "‘A lot at stake’: Meet the meteorologist tasked with predicting Singapore’s haze",
+      "url": "https://www.channelnewsasia.com/singapore/meet-meteorologist-tasked-predicting-singapore-haze-6538861",
+      "summary": "Executive meteorologist Gabriel Lim at the National Environment Agency shares the pressures of forecasting haze and how the job has taught him to embrace uncertainty.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 19:07:57 +0800"
+    },
+    {
+      "title": "Fraudulent claims taken seriously after video shows alleged misuse of Return Right machine: BCRS operator",
+      "url": "https://www.channelnewsasia.com/singapore/fraud-claims-after-video-man-allegedly-misuse-bcrs-machine-6549181",
+      "summary": "BCRS Ltd said that as the scheme’s operator, its priority is to ensure the system functions “reliably and fairly for everyone”.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 18:55:00 +0800"
+    },
+    {
+      "title": "'Microsoft-sponsored holiday': Singapore workers scramble to cope with global outage",
+      "url": "https://www.channelnewsasia.com/singapore/microsoft-outage-singapore-impact-workers-government-students-6548921",
+      "summary": "Workers turn to alternative communication channels or put tasks on hold, while students face disruptions to exam preparations as a global Microsoft outage stretches beyond 12 hours.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 18:43:00 +0800"
+    },
+    {
+      "title": "Singapore's healthcare cyber breaches expose growing risks beyond hospitals, warn experts",
+      "url": "https://www.channelnewsasia.com/singapore/healthcare-cybersecurity-data-breaches-hackers-6548821",
+      "summary": "Six of 10 reported data breaches in the past two months involved healthcare-related organisations, highlighting concerns over cybersecurity risks across an increasingly interconnected sector.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 17:45:07 +0800"
+    },
+    {
+      "title": "No clear link between recent data breaches; incidents appear to be result of 'opportunistic attacks': PDPC",
+      "url": "https://www.channelnewsasia.com/singapore/pdpc-cyberattacks-cybersecurity-attacks-connection-6548991",
+      "summary": "The Personal Data Protection Commission advised organisations to regularly check and patch vulnerabilities, protect access and credentials, and encrypt or store sensitive data offline.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 17:19:00 +0800"
+    },
+    {
+      "title": "More than a green space: How a Bukit Batok garden is bringing neighbours together",
+      "url": "https://www.channelnewsasia.com/singapore/bukit-batok-community-garden-kampung-spirit-6548771",
+      "summary": "At a 300 sq m community garden in Bukit Batok Central, residents are learning about plants, picking up gardening skills and forging friendships.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 16:42:11 +0800"
+    },
+    {
+      "title": "Recent data breaches do not appear to be part of coordinated campaigns targeting Singapore: CSA",
+      "url": "https://www.channelnewsasia.com/singapore/data-breaches-cybersecurity-campaigns-singapore-csa-6548301",
+      "summary": "The cybersecurity incidents instead reflect a broader global trend of opportunistic attacks, said the Cyber Security Agency of Singapore.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 16:34:00 +0800"
+    },
+    {
+      "title": "Paramore's Hayley Williams to bring solo concert tour to Singapore in February 2027",
+      "url": "https://www.channelnewsasia.com/entertainment/hayley-williams-ssolo-concert-singapore-2027-6548481",
+      "summary": "The Paramore frontwoman will perform in Singapore on Feb 26, 2027, as part of The Hayley Williams Show, which focuses on her solo music. The venue, ticket prices and sale dates have yet to be announced.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 13:16:00 +0800"
+    },
+    {
+      "title": "Fifth person charged in Singapore over alleged fraud conspiracy linked to Nvidia chips",
+      "url": "https://www.channelnewsasia.com/singapore/man-charged-fraud-nvidia-chips-6548606",
+      "summary": "Shi Bingzhe was handed 41 charges for allegedly consenting to money laundering offences committed by two companies where he was a key officer.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 13:05:00 +0800"
+    },
+    {
+      "title": "Some Singapore government systems affected by Microsoft outage: GovTech",
+      "url": "https://www.channelnewsasia.com/singapore/microsoft-outage-govtech-6548566",
+      "summary": "Emergency services remain fully operational, said the agency.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 12:27:00 +0800"
+    },
+    {
+      "title": "Woman who conspired to abuse 4-year-old Megan Khung, helped dispose of her body given 13 years’ jail",
+      "url": "https://www.channelnewsasia.com/singapore/nouvelle-chua-jail-megan-khung-high-court-6545786",
+      "summary": "Nouvelle Chua Ruoshi was friends with Megan’s mother and her boyfriend, who subjected the child to repeated abuse from 2019 to 2020.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 10:51:00 +0800"
+    },
+    {
+      "title": "24-year-old cyclist dies in Changi accident involving tipper truck",
+      "url": "https://www.channelnewsasia.com/singapore/cyclist-accident-changi-fatal-eastern-region-6548116",
+      "summary": "There were at least three accidents involving cyclists in Singapore’s eastern region in less than two days this week.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 10:20:00 +0800"
+    },
+    {
+      "title": "Obesity clinics see surge in patients amid greater awareness of condition",
+      "url": "https://www.channelnewsasia.com/singapore/obesity-clinics-increase-patients-greater-awareness-overweight-6547196",
+      "summary": "Healthcare providers say factors such as genetics, hormones and metabolism can make weight loss difficult despite efforts to adopt healthier lifestyles.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 09:16:10 +0800"
+    },
+    {
+      "title": "Beyond astronauts and rockets: How Singapore is grooming its future space workforce",
       "url": "https://www.channelnewsasia.com/singapore/space-careers-talent-schools-students-satellites-6543061",
       "summary": "Singapore is opening new pathways for young people into the space industry, but questions remain over whether these will lead to viable careers.",
       "source": "CNA",
       "published": "Fri, 13 Nov 2026 06:00:00 +0800"
     },
     {
-      "title": "Commentary: Have online reviews killed the joy of discovery?",
+      "title": "Commentary: Have we become too reliant on online reviews and recommendations?",
       "url": "https://www.channelnewsasia.com/commentary/business-buy-five-star-review-restaurant-salon-6502911",
       "summary": "When businesses can buy five-star reviews for a few dollars, perhaps it is time we placed a little less faith in strangers' opinions, says writer Karen Tee.",
       "source": "CNA",
       "published": "Fri, 13 Nov 2026 06:00:00 +0800"
-    },
-    {
-      "title": "Singapore Airlines to review feedback on new cabin products, business class colour scheme: CEO",
-      "url": "https://www.channelnewsasia.com/singapore/singapore-airlines-business-class-colour-new-cabin-6546286",
-      "summary": "Mr Goh Choon Phong on Thursday (Nov 12) said that the airline will also be exploring \"further refinements\" to enhance customers’ travel experience.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 21:13:32 +0800"
-    },
-    {
-      "title": "Alice Huang barred from re-entering Singapore; insufficient evidence she committed offences in Megaspeed probe: MHA",
-      "url": "https://www.channelnewsasia.com/singapore/alice-huang-megaspeed-mha-offences-probe-6544206",
-      "summary": "An independent investigation into several companies, including Megaspeed and their key officers, began in February 2025. \"Singapore is committed to upholding our reputation as a trusted and reliable business hub,\" the Ministry of Home Affairs said.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 21:00:00 +0800"
-    },
-    {
-      "title": "Eight teenagers arrested for public nuisance over prank in Hougang",
-      "url": "https://www.channelnewsasia.com/singapore/eight-teenagers-arrested-public-nuisance-prank-6546031",
-      "summary": "The eight male teenagers, aged between 12 and 15, allegedly visited a residential unit in Hougang late at night on multiple occasions, knocking on the door and windows before fleeing.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 20:12:48 +0800"
-    },
-    {
-      "title": "Lions coach Gavin Lee in talks with FAS over contract after Asian Cup postponed beyond current deal",
-      "url": "https://www.channelnewsasia.com/singapore/lion-coach-gavin-lee-contract-expire-asian-cup-6545481",
-      "summary": "Lee’s current 18-month contract, signed in November 2025, is set to end before the Asian Cup starts in December 2027.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 19:08:06 +0800"
-    },
-    {
-      "title": "New internship programme aims to draw more young Singaporeans into hawker trade",
-      "url": "https://www.channelnewsasia.com/singapore/internship-apprenticeship-programme-young-hawkers-6545376",
-      "summary": "Students from ITE and Temasek Polytechnic will get hands-on experience at hawker stalls under a new initiative set to begin in April 2027, as part of efforts to preserve Singapore's hawker culture.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 19:06:44 +0800"
-    },
-    {
-      "title": "Data of over 4,000 healthcare, community care employees potentially accessed in AIC cybersecurity incident",
-      "url": "https://www.channelnewsasia.com/singapore/aic-cybersecurity-cyber-attack-healthcare-6545671",
-      "summary": "The data that may have been accessed includes names, contact numbers, email addresses and NRIC numbers.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 18:17:00 +0800"
-    },
-    {
-      "title": "Recent cybersecurity incidents involving 6 healthcare entities did not disrupt patient care: MOH",
-      "url": "https://www.channelnewsasia.com/singapore/moh-cybersecurity-cyber-attacks-healthcare-6545706",
-      "summary": "The Ministry of Health says there is no evidence so far that patient safety and care have been compromised while the Cyber Security Agency says it's monitoring the situation.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 18:03:00 +0800"
-    },
-    {
-      "title": "Wheelock Place renamed Landmark Orchard after Hongkong Land acquisition",
-      "url": "https://www.channelnewsasia.com/singapore/wheelock-place-renamed-landmark-orchard-hong-kong-6545291",
-      "summary": "The Orchard Road property has been known as Wheelock Place since 1996.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 15:53:00 +0800"
-    },
-    {
-      "title": "‘We need to be exposed’: Gavin Lee's Lions welcome Brazil, Paraguay challenge",
-      "url": "https://www.channelnewsasia.com/sport/singapore-lions-brazil-paraguay-football-matches-6545346",
-      "summary": "Brazil are sixth in FIFA's world rankings, while Paraguay sit 33rd, underlining the scale of the task facing the Lions, who are ranked 149th.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 15:49:00 +0800"
-    },
-    {
-      "title": "PUB trials remote-controlled pump vehicle, road sensors to tackle flooding",
-      "url": "https://www.channelnewsasia.com/singapore/pump-vehicle-road-sensors-pub-trials-6544941",
-      "summary": "The pump vehicle can be remotely manoeuvred into flooded areas, navigating uneven terrain and staircases.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 14:00:27 +0800"
-    },
-    {
-      "title": "Travellers can now use DBS PayLah! at over 100 million merchants across China",
-      "url": "https://www.channelnewsasia.com/singapore/dbs-paylah-china-100-million-merchants-payment-6545051",
-      "summary": "Users can pay by scanning a merchant's QR code or presenting their own for merchants to scan, without additional transaction fees.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 13:48:18 +0800"
-    },
-    {
-      "title": "Singapore Art Week 2027 will take place in January with over 100 events and spotlight on Southeast Asian artists",
-      "url": "https://www.channelnewsasia.com/living/singapore-art-week-2027-southeast-asian-art-exhibitions-highlights-6544976",
-      "summary": "Running from Jan 21 to 31, 2027, the 15th edition of Singapore Art Week will feature various artworks, from a giant melting sun and immersive exhibitions to art displays in a former air raid shelter, MRT stations and hotel suites.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 13:44:49 +0800"
-    },
-    {
-      "title": "Pizza Hut Singapore introduces Christmas menu with star-shaped pizzas and sharing bundles",
-      "url": "https://www.channelnewsasia.com/dining/pizza-hut-singapore-christmas-2026-star-pizza-cheese-dip-6544491",
-      "summary": "The limited-time Christmas menu runs from Nov 12 to Jan 3, featuring chicken chorizo, Hawaiian and beef pepperoni star-shaped pizzas, along with new sliders and sharing bundles.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 13:22:13 +0800"
     }
   ],
   "world": [
+    {
+      "title": "Indigenous rights in Australia 'embarrassing': UN envoy",
+      "url": "https://www.channelnewsasia.com/world/indigenous-rights-in-australia-embarrassing-un-envoy-6549216",
+      "summary": "",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 18:39:42 +0800"
+    },
+    {
+      "title": "IAEA increasingly concerned about Iranian enrichment plant, its report says",
+      "url": "https://www.channelnewsasia.com/world/iaea-un-report-concern-iran-nuclear-plant-6549176",
+      "summary": "Iran has not permitted International Atomic Energy Agency (IAEA) officers to inspect the plant or see design plans, according to a confidential report released on Friday (Nov 13) that was seen by Reuters.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 18:11:01 +0800"
+    },
+    {
+      "title": "US lawmakers summon Nvidia ex-CEO after affair with suspected spy",
+      "url": "https://www.channelnewsasia.com/world/us-lawmakers-summon-nvidia-ex-ceo-jensen-huang-spy-affair-6548891",
+      "summary": "“Recent reports raise serious concerns about our national security and the protection of sensitive US technology,” Republican Senator Tim Scott.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 16:09:00 +0800"
+    },
+    {
+      "title": "Australia's spy agency, federal police hit by Microsoft outage",
+      "url": "https://www.channelnewsasia.com/world/australia-spy-agency-federal-police-microsoft-outage-6548446",
+      "summary": "Home Affairs Minister Tony Burke said Microsoft told him it did not believe the outage was caused by a cyber attack.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 11:08:00 +0800"
+    },
+    {
+      "title": "Who is Colette Kress, the interim CEO replacing Jensen Huang at Nvidia",
+      "url": "https://www.channelnewsasia.com/world/colette-kress-nvidia-interim-ceo-replacing-jensen-huang-6548251",
+      "summary": "Colette Kress often pushed back against Jensen Huang’s riskier AI bets. Now Nvidia’s longtime CFO is running the company while it searches for a new CEO.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 10:56:00 +0800"
+    },
+    {
+      "title": "Microsoft Outlook outage: Governments, businesses affected worldwide as tech giant struggles to restore services",
+      "url": "https://www.channelnewsasia.com/world/microsoft-outlook-outage-email-teams-live-6548071",
+      "summary": "The outage has affected some government systems in Singapore, but authorities assured the public that emergency services remain fully operational.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 09:57:00 +0800"
+    },
     {
       "title": "China's access to Nvidia chips in doubt as curbs gain traction in US Congress",
       "url": "https://www.channelnewsasia.com/east-asia/china-access-nvidia-chips-us-congress-jensen-huang-6546746",
       "summary": "",
       "source": "CNA",
-      "published": "Fri, 13 Nov 2026 07:13:39 +0800"
+      "published": "Fri, 13 Nov 2026 07:13:00 +0800"
     },
     {
       "title": "Commentary: I don’t want AI in my online search. What options do I have?",
@@ -122,7 +164,7 @@
       "published": "Fri, 13 Nov 2026 05:59:00 +0800"
     },
     {
-      "title": "Markets whiplashed as Huang quits Nvidia",
+      "title": "Markets whiplashed as Jensen Huang quits Nvidia",
       "url": "https://www.channelnewsasia.com/world/nvidia-markets-jensen-huang-resigns-6547596",
       "summary": "Nvidia shares plunged 13 per cent at the start of trading in New York before moderating.",
       "source": "CNA",
@@ -143,9 +185,16 @@
       "published": "Fri, 13 Nov 2026 04:35:44 +0800"
     },
     {
-      "title": "Singapore users affected in global Microsoft outage with Outlook, Teams down",
-      "url": "https://www.channelnewsasia.com/business/microsoft-outlook-365-down-thousands-users-6547306",
-      "summary": "Microsoft attributed the connectivity issues to \"elevated load\" on its infrastructure across multiple regions.",
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "url": "https://www.channelnewsasia.com/business/nvidia-ceo-jensen-huang-third-extramarital-affair-employee-6547376",
+      "summary": "The Nvidia employee is unnamed.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 03:28:00 +0800"
+    },
+    {
+      "title": "Microsoft outage stretches beyond 15 hours as company reports 'early signs' of stabilisation",
+      "url": "https://www.channelnewsasia.com/business/microsoft-global-outage-outlook-teams-thousands-users-6547306",
+      "summary": "Microsoft says it is not aware of any malicious activity causing the global outage, as it continues efforts to identify the underlying problem and restore affected services.",
       "source": "CNA",
       "published": "Fri, 13 Nov 2026 02:32:00 +0800"
     },
@@ -162,57 +211,8 @@
       "summary": "",
       "source": "CNA",
       "published": "Fri, 13 Nov 2026 01:36:13 +0800"
-    },
-    {
-      "title": "Trump says US does not 'need a deal with Iran'",
-      "url": "https://www.channelnewsasia.com/world/trump-us-iran-war-deal-vance-6547086",
-      "summary": "His comments come after reports by the Wall Street Journal of US Vice President JD Vance having face-to-face talks with a top Iranian security official.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 00:50:36 +0800"
-    },
-    {
-      "title": "Putin suggests no Ukraine compromise in meeting with US envoys",
-      "url": "https://www.channelnewsasia.com/world/putin-russia-ukraine-war-deal-us-talks-6547041",
-      "summary": "",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 00:25:24 +0800"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang resigns amid deepening scandal, leaving AI chip giant at crossroads",
-      "url": "https://www.channelnewsasia.com/world/nvidia-ceo-jensen-huang-resigns-6546526",
-      "summary": "Chief Financial Officer Colette Kress will take over as interim CEO. Jensen Huang, who co-founded Nvidia, will not remain on the board.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 22:01:00 +0800"
-    },
-    {
-      "title": "Eight dead after Brooklyn apartment building collapses, NY mayor says",
-      "url": "https://www.channelnewsasia.com/world/brooklyn-new-york-city-apartment-collapse-zohran-mamdani-6546476",
-      "summary": "The cause of the collapse of the 1930-era building was not immediately clear.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 21:37:00 +0800"
-    },
-    {
-      "title": "Global AI stocks sink as Nvidia CEO's exit deepens sector concerns",
-      "url": "https://www.channelnewsasia.com/business/ai-stocks-nvidia-global-market-6546411",
-      "summary": "As the centrepiece of the AI ecosystem, Nvidia finances infrastructure built around its chips - a strategy that has drawn scrutiny over circular funding and now risks weighing on the sector as its crisis deepens.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 21:15:00 +0800"
-    },
-    {
-      "title": "Alice Huang barred from re-entering Singapore; insufficient evidence she committed offences in Megaspeed probe: MHA",
-      "url": "https://www.channelnewsasia.com/singapore/alice-huang-megaspeed-mha-offences-probe-6544206",
-      "summary": "An independent investigation into several companies, including Megaspeed and their key officers, began in February 2025. \"Singapore is committed to upholding our reputation as a trusted and reliable business hub,\" the Ministry of Home Affairs said.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 21:00:00 +0800"
-    },
-    {
-      "title": "Israeli defence minister says no need for opposition approval to launch strikes",
-      "url": "https://www.channelnewsasia.com/world/israel-caretaker-defence-minister-launch-strikes-6546291",
-      "summary": "The leader of the opposition bloc, Gadi Eisenkot, has called on caretaker Prime Minister Benjamin Netanyahu to show restraint.",
-      "source": "CNA",
-      "published": "Thu, 12 Nov 2026 20:54:23 +0800"
     }
   ],
-  "generated_at": "2026-11-13T07:42:54+08:00",
+  "generated_at": "2026-11-13T19:38:21+08:00",
   "test_mode": false
 }
