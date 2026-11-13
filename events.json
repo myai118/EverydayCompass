@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T10:03:41+08:00",
+  "updated_at": "2026-11-13T09:04:13+08:00",
   "events": [
     {
       "title": "2026 Architectural Heritage Awards and Architectural Heritage Season: Exhibition",
@@ -23,6 +23,30 @@
         "ongoing"
       ],
       "date_added": "2026-11-10"
+    },
+    {
+      "title": "A Sound Not Yet",
+      "category": "Event / Exhibition",
+      "overview": "Nov 13, 2026 - Nov 14, 2026 42 Waterloo Street, Black box A Sound Not Yet A Sound Not Yet 一聲未至 is a 45-minute solo theatrical performance created and performed by… Concert Free",
+      "period": "Nov 13, 2026 - Nov 14, 2026",
+      "time": "Check official information",
+      "venue": "Singapore Chinese Cultural Centre",
+      "link": "https://singaporeccc.org.sg/events/a-sound-not-yet/",
+      "source_key": "sccc",
+      "source": "Singapore Chinese Cultural Centre",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "date_added": null
     },
     {
       "title": "Bit Bit Forest Mid-Autumn Light Up!",
@@ -178,29 +202,6 @@
       "mrt": "Check directions",
       "duration": "Flexible",
       "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Ongoing",
-      "statusClass": "",
-      "tags": [
-        "ongoing"
-      ],
-      "date_added": null
-    },
-    {
-      "title": "Diana Krall",
-      "category": "Event",
-      "overview": "Diana Krall is the only jazz singer to have eight albums debut at the top of the Billboard Jazz Albums chart. To date, her albums have garnered two Grammy® Awards, ten Juno® Awards and have also earned nine gold, three platinum and seven multi-platinum albums. Krall's unique artistry transcends any single musical style and has made her one of the most recognizable artists of our time. As The New York Times recently noted Krall possesses, “A voice at once cool and sultry, wielded with a rhythmic sophistication.”",
-      "period": "24 & 25 Nov 2026",
-      "time": "8:00 PM",
-      "venue": "Esplanade Concert Hall",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/mosaic-music-series/2026/diana-krall",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "From $74.80",
       "senior": "Check official information",
       "child": "Check official information",
       "status": "Ongoing",
@@ -470,6 +471,55 @@
       "date_added": "2026-11-07"
     },
     {
+      "title": "Mizuho Blue Challenge - The Kallang Football Series",
+      "category": "Event / Exhibition",
+      "overview": "13 - 17 NOV ’26 Mizuho Blue Challenge - The Kallang Football Series The Mizuho Blue Challenge - The Kallang Football Series features football five-time FIFA World Cup™ champions Brazil and Asian powerhouse Japan, as well as Singapore and Paraguay, offering fans unforgettable matchups.",
+      "period": "13 - 17 NOV 2026",
+      "time": "Check official information",
+      "venue": "Visit Singapore",
+      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
+      "source_key": "visit_singapore",
+      "source": "Visit Singapore",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "date_added": "2026-11-07"
+    },
+    {
+      "title": "Muara Festival Main Showcase",
+      "category": "Event",
+      "overview": "The Muara Festival Main Showcase offers a three-night celebration of dance, storytelling and cultural exchange.",
+      "period": "13 – 15 Nov 2026",
+      "time": "7:30 pm, 9:15 pm",
+      "venue": "DBS Foundation Outdoor Theatre at Esplanade",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/muara-festival/2026/muara-festival-main-showcase",
+      "source_key": "esplanade",
+      "source": "Esplanade",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "5mins",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "free",
+        "ongoing"
+      ],
+      "date_added": "2026-11-05"
+    },
+    {
       "title": "ONE Ocean: Every Action Ripples",
       "category": "Event / Exhibition",
       "overview": "30 MAY ’26 - 03 JAN ’27 ONE Ocean: Every Action Ripples Embark on a multi-sensory journey into the depths of the Ocean through immersive 360° spatial projection, free-roaming VR adventure and hands-on wow moments at every turn.",
@@ -491,6 +541,31 @@
         "ongoing"
       ],
       "date_added": "2026-11-07"
+    },
+    {
+      "title": "Pesona Seni Karimun",
+      "category": "Event",
+      "overview": "Pelangi Budaya presents two sets of dances and music celebrating Malay and Indonesian cultural traditions. The first opens with Tari Persembahan , a welcoming dance that expresses hospitality, followed by a creative take on zapin , group dances and the song Anugerah Kepri .",
+      "period": "13 – 15 Nov 2026",
+      "time": "6:30 pm, 8:00 PM",
+      "venue": "Esplanade Concourse",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/muara-festival/2026/pesona-seni-karimun",
+      "source_key": "esplanade",
+      "source": "Esplanade",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "5mins",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "free",
+        "ongoing"
+      ],
+      "date_added": "2026-11-05"
     },
     {
       "title": "Punggol Stories",
@@ -755,9 +830,33 @@
       "date_added": null
     },
     {
+      "title": "Something Strange Festival 2026",
+      "category": "Event / Exhibition",
+      "overview": "13 - 15 NOV ’26 Something Strange Festival 2026 Something Strange Festival is the first local festival where supernatural folklore meets culture. Experiences include Haunted Backrooms, Haunting Heritage Tours, Horror Short Film Challenge, Live Podcast Shows, Social Night, SSF Horror-thon, and The Curiosity Market.",
+      "period": "13 - 15 NOV 2026",
+      "time": "Check official information",
+      "venue": "Visit Singapore",
+      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
+      "source_key": "visit_singapore",
+      "source": "Visit Singapore",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "date_added": "2026-11-08"
+    },
+    {
       "title": "TGIF Music Station 2026",
       "category": "Event / Exhibition",
-      "overview": "May 22, 2026 - Mar 19, 2027 SCCC Auditorium, Level 9 TGIF Music Station 2026 Featuring Singapore’s favourite performing artists and rising stars, join us for good local music performances… Concert Free",
+      "overview": "May 22, 2026 - Mar 19, 2027 Singapore Chinese Cultural Centre Concourse, Level 1 TGIF Music Station 2026 Featuring Singapore’s favourite performing artists and rising stars, join us for good local music performances… Concert Free",
       "period": "May 22, 2026 - Mar 19, 2027",
       "time": "Check official information",
       "venue": "Singapore Chinese Cultural Centre",
@@ -922,6 +1021,30 @@
       "date_added": null
     },
     {
+      "title": "The Soup of Reincarnation",
+      "category": "Event / Exhibition",
+      "overview": "Nov 13, 2026 - Nov 15, 2026 Goodman Arts Centre BlackBox The Soup of Reincarnation Step into a mysterious world where love, fate, memory and rebirth collide. At the River… Dance/Theatre",
+      "period": "Nov 13, 2026 - Nov 15, 2026",
+      "time": "Check official information",
+      "venue": "Singapore Chinese Cultural Centre",
+      "link": "https://singaporeccc.org.sg/events/the-soup-of-reincarnation/",
+      "source_key": "sccc",
+      "source": "Singapore Chinese Cultural Centre",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "date_added": null
+    },
+    {
       "title": "Todd’s Fable-lous Bag (Preschool…",
       "category": "Event / Exhibition",
       "overview": "Nov 01, 2026 - Dec 31, 2028 Todd’s Fable-lous Bag (Preschool… Todd’s Fable-lous Bag is SCCC’s inaugural thematic travelling trunk programme for preschools. Comprising 3 themes,… Other Free",
@@ -943,31 +1066,6 @@
         "ongoing"
       ],
       "date_added": "2026-10-30"
-    },
-    {
-      "title": "Trio Opal",
-      "category": "Event",
-      "overview": "Trio Opal explores the magic of the silver screen through an intimate performance for piano, flute and cello, featuring timeless music by some of cinema’s most celebrated composers.",
-      "period": "12 Nov 2026",
-      "time": "6:45 pm, 7:45 pm",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/soundtracks/2026/trio-opal",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "tags": [
-        "ending",
-        "free",
-        "ongoing"
-      ],
-      "date_added": "2026-11-05"
     },
     {
       "title": "World Xiangqi Tournament Series…",
@@ -1163,29 +1261,6 @@
       "date_added": "2026-10-30"
     },
     {
-      "title": "A Sound Not Yet",
-      "category": "Event / Exhibition",
-      "overview": "Nov 13, 2026 - Nov 14, 2026 42 Waterloo Street, Black box A Sound Not Yet A Sound Not Yet 一聲未至 is a 45-minute solo theatrical performance created and performed by… Concert Free",
-      "period": "Nov 13, 2026 - Nov 14, 2026",
-      "time": "Check official information",
-      "venue": "Singapore Chinese Cultural Centre",
-      "link": "https://singaporeccc.org.sg/events/a-sound-not-yet/",
-      "source_key": "sccc",
-      "source": "Singapore Chinese Cultural Centre",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "upcoming"
-      ],
-      "date_added": null
-    },
-    {
       "title": "A Very Mahogany Wedding",
       "category": "Event",
       "overview": "South Asian weddings are often marked by their grandiose and colourful spectacles! Yet, beneath this grandeur often lies a more tumultuous emotional landscape.",
@@ -1235,30 +1310,6 @@
       "date_added": "2026-11-06"
     },
     {
-      "title": "All My Sons (Screening)",
-      "category": "Event",
-      "overview": "★★★★★ ‘The stars of a dream cast align.’ – Guardian",
-      "period": "4 Dec 2026",
-      "time": "7:30 pm",
-      "venue": "Singtel Waterfront Theatre at Esplanade",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/national-theatre-live/2026/all-my-sons-screening",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "From $24",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "ongoing",
-        "upcoming"
-      ],
-      "date_added": null
-    },
-    {
       "title": "An Indian Girl's Mixtape",
       "category": "Event",
       "overview": "There is a particular kind of playlist that belongs to anyone who grew up between languages — a Tamil song beside a Hindi one beside a Malayalam one, with no thought given to whether they belong together. An Indian Girl's Mixtape takes that instinct to the stage. Across an evening of soulful and up-tempo material, songs from Ilaiyaraaja, A.R. Rahman and the Hindi film songbook are reimagined for voice, keys and percussion, often in genres far from their originals. Nothing is played straight, and nothing is played for novelty. Just good songs, heard differently, in the company of people who love them.",
@@ -1282,53 +1333,6 @@
         "upcoming"
       ],
       "date_added": null
-    },
-    {
-      "title": "Bedok to Bollywood",
-      "category": "Event",
-      "overview": "Three decades. Two Singaporeans. One dream. Based on true stories from prolific stand-up comedian Rishi Budhrani and award-winning host K.P. Sandhu, this heartwarming, interactive dramedy follows two Singaporeans chasing an elusive dream: becoming superstars in Bollywood.",
-      "period": "26 – 28 Nov 2026",
-      "time": "8:00 PM",
-      "venue": "Esplanade Recital Studio",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/bedok-to-bollywood",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "From $41.50",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "ongoing",
-        "upcoming"
-      ],
-      "date_added": null
-    },
-    {
-      "title": "BTS THE CITY Supertrees Light & Music Experience",
-      "period": "12 Dec - 22 Dec 2026",
-      "link": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/bts-thecity-light-and-music-experience.html",
-      "overview": "As part of BTS THE CITY ARIRANG SINGAPORE, Gardens by the Bay iconic Supertrees will light up in synchrony with BTS music, including the new release ‘ARIRANG’.",
-      "time": "9.35pm",
-      "venue": "Supertree Grove",
-      "category": "Event / Exhibition",
-      "source_key": "gardens",
-      "source": "Gardens by the Bay",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "upcoming"
-      ],
-      "date_added": "2026-11-12"
     },
     {
       "title": "Christmas Wonderland",
@@ -1492,6 +1496,29 @@
       "date_added": "2026-10-29"
     },
     {
+      "title": "Inheritance. Red Hill",
+      "category": "Event / Exhibition",
+      "overview": "Dec 06, 2026 - Dec 06, 2026 Singapore Chinese Cultural Centre, Level 9 Auditorium Inheritance. Red Hill Long ago, swordfish repeatedly attacked the villagers living along the coast, their sharp snouts piercing… Dance/Theatre",
+      "period": "Dec 06, 2026 - Dec 06, 2026",
+      "time": "Check official information",
+      "venue": "Singapore Chinese Cultural Centre",
+      "link": "https://singaporeccc.org.sg/events/inheritance-red-hill/",
+      "source_key": "sccc",
+      "source": "Singapore Chinese Cultural Centre",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "upcoming"
+      ],
+      "date_added": "2026-11-13"
+    },
+    {
       "title": "Inventions by Biswa Kalyan Rath",
       "category": "Event",
       "overview": "Fresh off packed houses across North America and India, comedy heavy-hitter and serial ranter Biswa Kalyan Rath is finally coming to town with his latest, highly acclaimed stand-up show.",
@@ -1546,30 +1573,6 @@
       "time": "2:00 PM",
       "venue": "Singtel Waterfront Theatre at Esplanade",
       "link": "https://www.esplanade.com/whats-on/festivals-and-series/national-theatre-live/2026/les-liaisons-dangereuses-screening",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "From $24",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "ongoing",
-        "upcoming"
-      ],
-      "date_added": null
-    },
-    {
-      "title": "Life of Pi (Encore Screening)",
-      "category": "Event",
-      "overview": "★★★★★ ‘It will make you believe in theatre. A triumph.’ – Sunday Times",
-      "period": "5 Dec 2026",
-      "time": "2:00 PM",
-      "venue": "Singtel Waterfront Theatre at Esplanade",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/national-theatre-live/2026/life-of-pi-encore-screening",
       "source_key": "esplanade",
       "source": "Esplanade",
       "why": "See the official organiser page for the latest visitor information.",
@@ -1658,54 +1661,6 @@
       "date_added": "2026-11-09"
     },
     {
-      "title": "Mizuho Blue Challenge - The Kallang Football Series",
-      "category": "Event / Exhibition",
-      "overview": "13 - 17 NOV ’26 Mizuho Blue Challenge - The Kallang Football Series The Mizuho Blue Challenge - The Kallang Football Series features football five-time FIFA World Cup™ champions Brazil and Asian powerhouse Japan, as well as Singapore and Paraguay, offering fans unforgettable matchups.",
-      "period": "13 - 17 NOV 2026",
-      "time": "Check official information",
-      "venue": "Visit Singapore",
-      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
-      "source_key": "visit_singapore",
-      "source": "Visit Singapore",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "upcoming"
-      ],
-      "date_added": "2026-11-07"
-    },
-    {
-      "title": "Muara Festival Main Showcase",
-      "category": "Event",
-      "overview": "The Muara Festival Main Showcase offers a three-night celebration of dance, storytelling and cultural exchange.",
-      "period": "13 – 15 Nov 2026",
-      "time": "7:30 pm, 9:15 pm",
-      "venue": "DBS Foundation Outdoor Theatre at Esplanade",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/muara-festival/2026/muara-festival-main-showcase",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "free",
-        "ongoing",
-        "upcoming"
-      ],
-      "date_added": "2026-11-05"
-    },
-    {
       "title": "Music for Comfort",
       "category": "Event / Exhibition",
       "overview": "Nov 15, 2026 - Nov 15, 2026 Island Ballroom, Shangri-La Singapore Music for Comfort What if you could step away from the noise of everyday life, settle into stillness,… Concert",
@@ -1754,29 +1709,27 @@
       "date_added": "2026-11-08"
     },
     {
-      "title": "Pesona Seni Karimun",
-      "category": "Event",
-      "overview": "Pelangi Budaya presents two sets of dances and music celebrating Malay and Indonesian cultural traditions. The first opens with Tari Persembahan , a welcoming dance that expresses hospitality, followed by a creative take on zapin , group dances and the song Anugerah Kepri .",
-      "period": "13 – 15 Nov 2026",
-      "time": "6:30 pm, 8:00 PM",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/muara-festival/2026/pesona-seni-karimun",
-      "source_key": "esplanade",
-      "source": "Esplanade",
+      "title": "Nam Hwa Blaze: The…",
+      "category": "Event / Exhibition",
+      "overview": "Dec 20, 2026 - Dec 20, 2026 Singapore Chinese Cultural Centre, Level 9 Auditorium Nam Hwa Blaze: The… Nam Hwa Blaze: The Legacy in Me 2026 A new generation takes the stage to… Dance/Theatre",
+      "period": "Dec 20, 2026 - Dec 20, 2026",
+      "time": "Check official information",
+      "venue": "Singapore Chinese Cultural Centre",
+      "link": "https://singaporeccc.org.sg/events/nam-hwa-blaze-the-legacy-in-me-2026/",
+      "source_key": "sccc",
+      "source": "Singapore Chinese Cultural Centre",
       "why": "See the official organiser page for the latest visitor information.",
       "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
       "status": "Upcoming",
       "statusClass": "upcoming",
       "tags": [
-        "free",
-        "ongoing",
         "upcoming"
       ],
-      "date_added": "2026-11-05"
+      "date_added": "2026-11-13"
     },
     {
       "title": "Piano Realms: Anime & Game Soundscapes",
@@ -1829,6 +1782,29 @@
       "date_added": "2026-10-30"
     },
     {
+      "title": "Quiet Morning in Flower Dome",
+      "period": "12 Dec 2026",
+      "link": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/quiet-morning-in-flower-dome.html",
+      "overview": "Enjoy a quieter visit to Flower Dome's Christmas Train Show at Quiet Morning, a sensory-friendly programme for persons with autism and their families. With reduced background music and announcements, explore the floral displays at your own pace.",
+      "time": "8.00am - 9.00am",
+      "venue": "Flower Dome",
+      "category": "Event / Exhibition",
+      "source_key": "gardens",
+      "source": "Gardens by the Bay",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "upcoming"
+      ],
+      "date_added": "2026-11-13"
+    },
+    {
       "title": "Rafta Rafta",
       "category": "Event",
       "overview": "Rafta Rafta means “slowly, slowly”, a fitting phrase for a young marriage trying to find its footing in a Singapore that is always on the move.",
@@ -1876,31 +1852,6 @@
         "upcoming"
       ],
       "date_added": null
-    },
-    {
-      "title": "Sayembara Tari",
-      "category": "Event",
-      "overview": "Organised by Era Dance Theatre Ltd, Sayembara Tari is a dynamic dance competition that celebrates the richness of traditional and contemporary Malay dance among youths in the Nusantara. In 2026, the competition is dedicated entirely to zapin dance, in support of Singapore's efforts to seek UNESCO recognition of zapin as intangible cultural heritage.",
-      "period": "14 Nov 2026",
-      "time": "3:00 PM",
-      "venue": "DBS Foundation Outdoor Theatre at Esplanade",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/muara-festival/2026/sayembara-tari",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "free",
-        "ongoing",
-        "upcoming"
-      ],
-      "date_added": "2026-11-05"
     },
     {
       "title": "SCO30 Closing Gala",
@@ -2018,29 +1969,6 @@
         "upcoming"
       ],
       "date_added": null
-    },
-    {
-      "title": "Something Strange Festival 2026",
-      "category": "Event / Exhibition",
-      "overview": "13 - 15 NOV ’26 Something Strange Festival 2026 Something Strange Festival is the first local festival where supernatural folklore meets culture. Experiences include Haunted Backrooms, Haunting Heritage Tours, Horror Short Film Challenge, Live Podcast Shows, Social Night, SSF Horror-thon, and The Curiosity Market.",
-      "period": "13 - 15 NOV 2026",
-      "time": "Check official information",
-      "venue": "Visit Singapore",
-      "link": "https://www.visitsingapore.com/whats-happening/all-happenings/",
-      "source_key": "visit_singapore",
-      "source": "Visit Singapore",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "upcoming"
-      ],
-      "date_added": "2026-11-08"
     },
     {
       "title": "Songs from shows with Jason Yu",
@@ -2211,29 +2139,6 @@
       "date_added": "2026-11-09"
     },
     {
-      "title": "The Soup of Reincarnation",
-      "category": "Event / Exhibition",
-      "overview": "Nov 13, 2026 - Nov 15, 2026 Goodman Arts Centre BlackBox The Soup of Reincarnation Step into a mysterious world where love, fate, memory and rebirth collide. At the River… Dance/Theatre",
-      "period": "Nov 13, 2026 - Nov 15, 2026",
-      "time": "Check official information",
-      "venue": "Singapore Chinese Cultural Centre",
-      "link": "https://singaporeccc.org.sg/events/the-soup-of-reincarnation/",
-      "source_key": "sccc",
-      "source": "Singapore Chinese Cultural Centre",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "upcoming"
-      ],
-      "date_added": null
-    },
-    {
       "title": "Voices Lounge: Musical Theatre Night Out! with A Spoonful of Theatre",
       "category": "Event",
       "overview": "Come down to the Voices Lounge and join A Spoonful of Theatre for a musical extravaganza where you can belt out your favourite Broadway hits with live piano accompaniment!",
@@ -2358,10 +2263,46 @@
     }
   ],
   "source_report": {
-    "artscience": {
-      "status": "fallback",
-      "count": 0,
-      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; "
+    "sccc": {
+      "status": "fresh",
+      "count": 27
+    },
+    "gardens": {
+      "status": "fresh",
+      "count": 12
+    },
+    "esplanade": {
+      "status": "fresh",
+      "count": 29,
+      "detail_errors": 10
+    },
+    "national_museum": {
+      "status": "fresh",
+      "count": 2
+    },
+    "national_gallery": {
+      "status": "fresh",
+      "count": 1
+    },
+    "ura": {
+      "status": "fresh",
+      "count": 1
+    },
+    "nlb": {
+      "status": "fresh",
+      "count": 6
+    },
+    "visit_singapore": {
+      "status": "fresh",
+      "count": 12
+    },
+    "catch_sg": {
+      "status": "fresh",
+      "count": 0
+    },
+    "science_centre": {
+      "status": "fresh",
+      "count": 0
     }
   },
   "sources": [
@@ -2370,8 +2311,8 @@
       "name": "Singapore Chinese Cultural Centre",
       "url": "https://singaporeccc.org.sg/events/",
       "status": "ok",
-      "count": 25,
-      "last_success": "2026-11-12T09:53:54+08:00",
+      "count": 27,
+      "last_success": "2026-11-13T09:03:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2381,7 +2322,7 @@
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-12T09:53:54+08:00",
+      "last_success": "2026-11-13T09:03:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2390,8 +2331,8 @@
       "name": "Esplanade",
       "url": "https://www.esplanade.com/whats-on",
       "status": "ok",
-      "count": 35,
-      "last_success": "2026-11-12T09:53:54+08:00",
+      "count": 29,
+      "last_success": "2026-11-13T09:03:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2401,7 +2342,7 @@
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-11-12T09:53:54+08:00",
+      "last_success": "2026-11-13T09:03:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2411,7 +2352,7 @@
       "url": "https://www.nationalgallery.sg/sg/en/whats-on.html",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-12T09:53:54+08:00",
+      "last_success": "2026-11-13T09:03:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2431,7 +2372,7 @@
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-12T09:53:54+08:00",
+      "last_success": "2026-11-13T09:03:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2441,7 +2382,7 @@
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
       "status": "ok",
       "count": 6,
-      "last_success": "2026-11-12T09:53:54+08:00",
+      "last_success": "2026-11-13T09:03:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2451,7 +2392,7 @@
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-12T09:53:54+08:00",
+      "last_success": "2026-11-13T09:03:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2461,7 +2402,7 @@
       "url": "https://www.catch.sg/Event",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-12T09:53:54+08:00",
+      "last_success": "2026-11-13T09:03:28+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2471,7 +2412,7 @@
       "url": "https://www.science.edu.sg/whats-on",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-12T09:53:54+08:00",
+      "last_success": "2026-11-13T09:03:28+08:00",
       "error": "",
       "needs_reader_review": false
     }
