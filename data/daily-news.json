@@ -1,6 +1,27 @@
 {
   "singapore": [
     {
+      "title": "Are you losing muscle without knowing it? These tests can detect sarcopenia as you age",
+      "url": "https://www.channelnewsasia.com/wellness/sarcopenia-muscle-loss-tests-dexa-handgrip-strength-ageing-6542351",
+      "summary": "You may look the same on the outside but your muscles could be shrinking without you knowing it. Doctors explain the signs of age-related muscle loss, the tests that can detect it, and whether strength training and nutrition can really help reverse the damage.",
+      "source": "CNA",
+      "published": "Sat, 14 Nov 2026 06:52:57 +0800"
+    },
+    {
+      "title": "Singapore lose 4-1 to Paraguay in opening fixture of friendly tournament",
+      "url": "https://www.channelnewsasia.com/sport/singapore-paraguay-friendly-tournament-mizuho-blue-challenge-6548866",
+      "summary": "The 149th-ranked Lions matched their much higher-ranked opponents in the first half but Paraguay showed their class after the break.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 22:04:00 +0800"
+    },
+    {
+      "title": "What the Microsoft Outlook outage reveals about risks, limitations and gaps in communication",
+      "url": "https://www.channelnewsasia.com/singapore/microsoft-outlook-outage-risks-limitations-gaps-6549346",
+      "summary": "\"Modern society has become highly dependent on a small number of major cloud and technology providers,\" says one expert.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 19:42:00 +0800"
+    },
+    {
       "title": "‘A lot at stake’: Meet the meteorologist tasked with predicting Singapore’s haze",
       "url": "https://www.channelnewsasia.com/singapore/meet-meteorologist-tasked-predicting-singapore-haze-6538861",
       "summary": "Executive meteorologist Gabriel Lim at the National Environment Agency shares the pressures of forecasting haze and how the job has taught him to embrace uncertainty.",
@@ -26,7 +47,7 @@
       "url": "https://www.channelnewsasia.com/singapore/healthcare-cybersecurity-data-breaches-hackers-6548821",
       "summary": "Six of 10 reported data breaches in the past two months involved healthcare-related organisations, highlighting concerns over cybersecurity risks across an increasingly interconnected sector.",
       "source": "CNA",
-      "published": "Fri, 13 Nov 2026 17:45:07 +0800"
+      "published": "Fri, 13 Nov 2026 17:45:00 +0800"
     },
     {
       "title": "No clear link between recent data breaches; incidents appear to be result of 'opportunistic attacks': PDPC",
@@ -83,30 +104,100 @@
       "summary": "There were at least three accidents involving cyclists in Singapore’s eastern region in less than two days this week.",
       "source": "CNA",
       "published": "Fri, 13 Nov 2026 10:20:00 +0800"
-    },
-    {
-      "title": "Obesity clinics see surge in patients amid greater awareness of condition",
-      "url": "https://www.channelnewsasia.com/singapore/obesity-clinics-increase-patients-greater-awareness-overweight-6547196",
-      "summary": "Healthcare providers say factors such as genetics, hormones and metabolism can make weight loss difficult despite efforts to adopt healthier lifestyles.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 09:16:10 +0800"
-    },
-    {
-      "title": "Beyond astronauts and rockets: How Singapore is grooming its future space workforce",
-      "url": "https://www.channelnewsasia.com/singapore/space-careers-talent-schools-students-satellites-6543061",
-      "summary": "Singapore is opening new pathways for young people into the space industry, but questions remain over whether these will lead to viable careers.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 06:00:00 +0800"
-    },
-    {
-      "title": "Commentary: Have we become too reliant on online reviews and recommendations?",
-      "url": "https://www.channelnewsasia.com/commentary/business-buy-five-star-review-restaurant-salon-6502911",
-      "summary": "When businesses can buy five-star reviews for a few dollars, perhaps it is time we placed a little less faith in strangers' opinions, says writer Karen Tee.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 06:00:00 +0800"
     }
   ],
   "world": [
+    {
+      "title": "All departing US flights grounded due to communications problem",
+      "url": "https://www.channelnewsasia.com/world/us-grounds-departing-flights-communication-problem-6550736",
+      "summary": "The rare nationwide ground stop order was issued due a communications problem affecting US air traffic control towers.",
+      "source": "CNA",
+      "published": "Sat, 14 Nov 2026 06:21:00 +0800"
+    },
+    {
+      "title": "Commentary: Jensen Huang may prove that the ‘irreplaceable CEO’ is a myth",
+      "url": "https://www.channelnewsasia.com/commentary/nvidia-succession-plan-jensen-huang-irreplaceable-ceo-myth-6549121",
+      "summary": "Jensen Huang's successor will have to figure out how to run a company built around someone who is no longer there, says Beth Kowitt for Bloomberg Opinion.",
+      "source": "CNA",
+      "published": "Sat, 14 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "Stocks fall but Wall Street notches a winning week after several turbulent days",
+      "url": "https://www.channelnewsasia.com/world/stocks-fall-wall-street-notches-winning-week-after-several-turbulent-days-6550656",
+      "summary": "",
+      "source": "CNA",
+      "published": "Sat, 14 Nov 2026 05:54:10 +0800"
+    },
+    {
+      "title": "US air force responds to suspected drone activity over UK airbase",
+      "url": "https://www.channelnewsasia.com/world/us-air-force-suspected-drone-activity-uk-airbase-6550596",
+      "summary": "The incident follows recent security concerns, with US military aircraft moved from British bases reportedly due to threats from Iran.",
+      "source": "CNA",
+      "published": "Sat, 14 Nov 2026 05:35:00 +0800"
+    },
+    {
+      "title": "Tanker hits docked river cruise ship in New Orleans",
+      "url": "https://www.channelnewsasia.com/world/us-tanker-hits-river-cruise-ship-new-orleans-6550576",
+      "summary": "Around 130 passengers were on board the American Cruise Lines passenger ship when the collision happened, local media reported.",
+      "source": "CNA",
+      "published": "Sat, 14 Nov 2026 05:09:00 +0800"
+    },
+    {
+      "title": "Europe chooses team for Ukraine talks",
+      "url": "https://www.channelnewsasia.com/world/europe-ukraine-russia-talks-putin-us-envoys-6550496",
+      "summary": "EU leaders agreed that Britain, France, Germany, Italy, Poland and EU officials would represent Europe in future Ukraine peace talks, saying Europe must speak with \"one clear and united voice\".",
+      "source": "CNA",
+      "published": "Sat, 14 Nov 2026 04:25:50 +0800"
+    },
+    {
+      "title": "Microsoft 'deeply sorry' as outage triggers global chaos",
+      "url": "https://www.channelnewsasia.com/world/microsoft-outage-recovery-deeply-sorry-outlook-teams-6550421",
+      "summary": "The tech giant reported broad recovery and stability across its services, but said full services were still being restored.",
+      "source": "CNA",
+      "published": "Sat, 14 Nov 2026 03:18:00 +0800"
+    },
+    {
+      "title": "Pope returns to 'beloved' Peruvian hometown",
+      "url": "https://www.channelnewsasia.com/world/pope-leo-peru-visit-south-america-tour-6550281",
+      "summary": "Pope Leo is expected to celebrate Mass for thousands of pilgrims, visit a chapel he helped rebuild and meet local clergy and university students.",
+      "source": "CNA",
+      "published": "Sat, 14 Nov 2026 01:46:00 +0800"
+    },
+    {
+      "title": "COP31 talks face early friction over future of fossil fuels",
+      "url": "https://www.channelnewsasia.com/world/cop31-fossil-fuels-turkiye-climate-talks-6550236",
+      "summary": "",
+      "source": "CNA",
+      "published": "Sat, 14 Nov 2026 00:52:45 +0800"
+    },
+    {
+      "title": "Iran targeted US radar system in Bahrain",
+      "url": "https://www.channelnewsasia.com/world/iran-us-radar-system-bahrain-strike-guards-6550196",
+      "summary": "The US military's Central Command denied that the radar had been destroyed and said it intercepted two \"one-way attack drones\" launched at Bahrain by Iran's Revolutionary Guards.",
+      "source": "CNA",
+      "published": "Sat, 14 Nov 2026 00:30:02 +0800"
+    },
+    {
+      "title": "Faxes, phones and Bluetooth: Microsoft outage forces businesses to find fixes",
+      "url": "https://www.channelnewsasia.com/world/microsoft-outage-businesses-fixes-fax-6550041",
+      "summary": "While most reported their core systems were still running, trading and administrative work slowed in places in the latest reminder of how much of the world's commerce, public services and communications run on a handful of technology providers.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 23:17:00 +0800"
+    },
+    {
+      "title": "Russia says Europeans can join Ukraine peace talks if they show 'readiness to contribute'",
+      "url": "https://www.channelnewsasia.com/world/russia-kremlin-ukraine-eu-talks-negotiations-6549796",
+      "summary": "Europe must show it is ready to contribute to the Ukraine peace process before a decision is made on letting Europeans join the negotiations, the Kremlin said on Friday (Nov 13).",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 21:39:09 +0800"
+    },
+    {
+      "title": "Germany's Merz asks Trump for 'no surprises' from Putin talks",
+      "url": "https://www.channelnewsasia.com/world/germany-friedrich-merz-eu-russia-ukraine-war-putin-talks-6549776",
+      "summary": "German Chancellor Friedrich Merz is pushing for EU leaders to commit to supporting Ukraine as part of negotiations on the bloc's long-term budget.",
+      "source": "CNA",
+      "published": "Fri, 13 Nov 2026 21:35:27 +0800"
+    },
     {
       "title": "Indigenous rights in Australia 'embarrassing': UN envoy",
       "url": "https://www.channelnewsasia.com/world/indigenous-rights-in-australia-embarrassing-un-envoy-6549216",
@@ -120,99 +211,8 @@
       "summary": "Iran has not permitted International Atomic Energy Agency (IAEA) officers to inspect the plant or see design plans, according to a confidential report released on Friday (Nov 13) that was seen by Reuters.",
       "source": "CNA",
       "published": "Fri, 13 Nov 2026 18:11:01 +0800"
-    },
-    {
-      "title": "US lawmakers summon Nvidia ex-CEO after affair with suspected spy",
-      "url": "https://www.channelnewsasia.com/world/us-lawmakers-summon-nvidia-ex-ceo-jensen-huang-spy-affair-6548891",
-      "summary": "“Recent reports raise serious concerns about our national security and the protection of sensitive US technology,” Republican Senator Tim Scott.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 16:09:00 +0800"
-    },
-    {
-      "title": "Australia's spy agency, federal police hit by Microsoft outage",
-      "url": "https://www.channelnewsasia.com/world/australia-spy-agency-federal-police-microsoft-outage-6548446",
-      "summary": "Home Affairs Minister Tony Burke said Microsoft told him it did not believe the outage was caused by a cyber attack.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 11:08:00 +0800"
-    },
-    {
-      "title": "Who is Colette Kress, the interim CEO replacing Jensen Huang at Nvidia",
-      "url": "https://www.channelnewsasia.com/world/colette-kress-nvidia-interim-ceo-replacing-jensen-huang-6548251",
-      "summary": "Colette Kress often pushed back against Jensen Huang’s riskier AI bets. Now Nvidia’s longtime CFO is running the company while it searches for a new CEO.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 10:56:00 +0800"
-    },
-    {
-      "title": "Microsoft Outlook outage: Governments, businesses affected worldwide as tech giant struggles to restore services",
-      "url": "https://www.channelnewsasia.com/world/microsoft-outlook-outage-email-teams-live-6548071",
-      "summary": "The outage has affected some government systems in Singapore, but authorities assured the public that emergency services remain fully operational.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 09:57:00 +0800"
-    },
-    {
-      "title": "China's access to Nvidia chips in doubt as curbs gain traction in US Congress",
-      "url": "https://www.channelnewsasia.com/east-asia/china-access-nvidia-chips-us-congress-jensen-huang-6546746",
-      "summary": "",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 07:13:00 +0800"
-    },
-    {
-      "title": "Commentary: I don’t want AI in my online search. What options do I have?",
-      "url": "https://www.channelnewsasia.com/commentary/ai-in-google-online-search-how-disable-6545591",
-      "summary": "It is technically possible to disable AI-generated answers from the search results page, says this academic.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 05:59:00 +0800"
-    },
-    {
-      "title": "Markets whiplashed as Jensen Huang quits Nvidia",
-      "url": "https://www.channelnewsasia.com/world/nvidia-markets-jensen-huang-resigns-6547596",
-      "summary": "Nvidia shares plunged 13 per cent at the start of trading in New York before moderating.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 05:54:00 +0800"
-    },
-    {
-      "title": "Israeli strike on Gaza hospital deadliest since election",
-      "url": "https://www.channelnewsasia.com/world/israel-gaza-strike-nasser-hospital-11-killed-6547556",
-      "summary": "The Israeli military said the strike targeted Hamas commander Muhammad Abu Ismail, but his death has not been confirmed.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 05:46:17 +0800"
-    },
-    {
-      "title": "Pentagon chief decorates soldier who reprimanded him and his entourage",
-      "url": "https://www.channelnewsasia.com/world/hegseth-soldier-medal-tomb-unknown-veterans-day-6547431",
-      "summary": "\"We love soldiers. We love standards. Well done, Specialist,\" US Defence Secretary Pete Hegseth said, praising a soldier for upholding standards at the Tomb of the Unknown Soldier during a Veterans Day visit.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 04:35:44 +0800"
-    },
-    {
-      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "url": "https://www.channelnewsasia.com/business/nvidia-ceo-jensen-huang-third-extramarital-affair-employee-6547376",
-      "summary": "The Nvidia employee is unnamed.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 03:28:00 +0800"
-    },
-    {
-      "title": "Microsoft outage stretches beyond 15 hours as company reports 'early signs' of stabilisation",
-      "url": "https://www.channelnewsasia.com/business/microsoft-global-outage-outlook-teams-thousands-users-6547306",
-      "summary": "Microsoft says it is not aware of any malicious activity causing the global outage, as it continues efforts to identify the underlying problem and restore affected services.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 02:32:00 +0800"
-    },
-    {
-      "title": "One dead, four wounded in downtown Washington shooting: police",
-      "url": "https://www.channelnewsasia.com/world/one-dead-four-wounded-in-downtown-washington-shooting-police-6547186",
-      "summary": "Police said the shooting may have stemmed from \"some sort of conflict\" with the building’s homeowners association, while one victim remains in critical condition.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 02:04:32 +0800"
-    },
-    {
-      "title": "World leaders set out clashing priorities as COP31 turns to negotiations",
-      "url": "https://www.channelnewsasia.com/world/cop31-turkiye-world-leaders-climate-change-6547111",
-      "summary": "",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 01:36:13 +0800"
     }
   ],
-  "generated_at": "2026-11-13T19:38:21+08:00",
+  "generated_at": "2026-11-14T07:57:08+08:00",
   "test_mode": false
 }
