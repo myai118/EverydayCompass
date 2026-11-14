@@ -1,6 +1,20 @@
 {
   "singapore": [
     {
+      "title": "'Very inconvenient': Residents, shop owners frustrated by indiscriminately parked bicycles despite stepped-up enforcement",
+      "url": "https://www.channelnewsasia.com/singapore/bicycle-indiscriminate-parking-mrt-stations-cyclists-6551666",
+      "summary": "The Land Transport Authority has removed 489 bicycles in the first 10 months of 2026 as it ramps up efforts to tackle the issue.",
+      "source": "CNA",
+      "published": "Sun, 15 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "A Tiong Bahru apartment gets a warm, Scandinavian-inspired makeover",
+      "url": "https://www.channelnewsasia.com/obsessions/tiong-bahru-apartment-renovation-scandinavian-interior-design-6537686",
+      "summary": "An 89-sq-m apartment in one of Singapore’s oldest housing estates has been transformed into a light-filled home with an open layout, natural materials and carefully chosen design classics.",
+      "source": "CNA",
+      "published": "Sun, 15 Nov 2026 04:45:00 +0800"
+    },
+    {
       "title": "Records of about 140,000 migrant workers exposed in Fullerton Health's recent data breach",
       "url": "https://www.channelnewsasia.com/singapore/fullerton-health-cybersecurity-data-incident-work-pass-holder-records-6551586",
       "summary": "About 43,000 records belonged to individuals whose work passes were no longer valid, the healthcare provider said in response to CNA's queries.",
@@ -90,26 +104,75 @@
       "summary": "\"Modern society has become highly dependent on a small number of major cloud and technology providers,\" says one expert.",
       "source": "CNA",
       "published": "Fri, 13 Nov 2026 19:42:00 +0800"
-    },
-    {
-      "title": "‘A lot at stake’: Meet the meteorologist tasked with predicting Singapore’s haze",
-      "url": "https://www.channelnewsasia.com/singapore/meet-meteorologist-tasked-predicting-singapore-haze-6538861",
-      "summary": "Executive meteorologist Gabriel Lim at the National Environment Agency shares the pressures of forecasting haze and how the job has taught him to embrace uncertainty.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 19:07:57 +0800"
-    },
-    {
-      "title": "Fraudulent claims taken seriously after video shows alleged misuse of Return Right machine: BCRS operator",
-      "url": "https://www.channelnewsasia.com/singapore/fraud-claims-after-video-man-allegedly-misuse-bcrs-machine-6549181",
-      "summary": "BCRS Ltd said that as the scheme’s operator, its priority is to ensure the system functions “reliably and fairly for everyone”.",
-      "source": "CNA",
-      "published": "Fri, 13 Nov 2026 18:55:00 +0800"
     }
   ],
   "world": [
     {
-      "title": "US proposes Ukraine cede territory in exchange for joining NATO: Zelenskyy",
-      "url": "https://www.channelnewsasia.com/world/us-proposes-ukraine-cede-territory-in-exchange-joining-nato-zelenskyy-6551616",
+      "title": "Commentary: Extreme weather risk is scaring big firms away from poor countries",
+      "url": "https://www.channelnewsasia.com/commentary/climate-change-big-corporates-avoid-investments-in-poor-countries-6548911",
+      "summary": "Companies rarely say why they’re avoiding a particular location, but their climate-related concerns occasionally become visible, says this academic.",
+      "source": "CNA",
+      "published": "Sun, 15 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
+      "url": "https://www.channelnewsasia.com/world/spacex-starship-returns-landing-pad-orbit-acing-test-reusable-rockets-6552211",
+      "summary": "",
+      "source": "CNA",
+      "published": "Sun, 15 Nov 2026 05:42:00 +0800"
+    },
+    {
+      "title": "US aviation shutdown blamed on L3 Harris installed router",
+      "url": "https://www.channelnewsasia.com/world/us-aviation-shutdown-blamed-l3-harris-installed-router-6552171",
+      "summary": "The FAA spends US$1 billion annually to maintain its old copper wire system and is racing to replace it with more modern fiber-based communications.",
+      "source": "CNA",
+      "published": "Sun, 15 Nov 2026 04:56:13 +0800"
+    },
+    {
+      "title": "Fed's Collins says gradual rate hikes best to manage economic risks",
+      "url": "https://www.channelnewsasia.com/world/feds-collins-says-gradual-rate-hikes-best-manage-economic-risks-6552151",
+      "summary": "A number of Fed officials have said a more measured pace of rate increases allows the economy time to adjust to the rise in borrowing costs.",
+      "source": "CNA",
+      "published": "Sun, 15 Nov 2026 04:27:00 +0800"
+    },
+    {
+      "title": "Ukraine's Zelenskyy escalates criticism of SpaceX over speed caps",
+      "url": "https://www.channelnewsasia.com/world/ukraines-zelenskyy-escalates-criticism-spacex-over-speed-caps-6551911",
+      "summary": "The Ukrainian Defence Ministry has raised the issue with SpaceX at the institutional level, Zelenskyy said.",
+      "source": "CNA",
+      "published": "Sun, 15 Nov 2026 02:32:33 +0800"
+    },
+    {
+      "title": "US air travel issues to persist well into Sunday, officials say, with thousands of flights affected",
+      "url": "https://www.channelnewsasia.com/world/us-air-travel-issues-persist-well-sunday-officials-say-thousands-flights-affected-6551971",
+      "summary": "The problem was traced to FAA contractor L3Harris' installation of at least one new router at a remote facility.",
+      "source": "CNA",
+      "published": "Sun, 15 Nov 2026 02:02:00 +0800"
+    },
+    {
+      "title": "'Waiting so long': Fans gather for Eurovision's first Asia show",
+      "url": "https://www.channelnewsasia.com/asia/waiting-so-long-fans-gather-eurovisions-first-asia-show-6551791",
+      "summary": "Performers from 11 countries including Laos, the Philippines and South Korea are battling it out for the first Asia crown, in a contest featuring Bangladeshi beatboxing, Vietnamese pop and a love song by a Mongolian economist.",
+      "source": "CNA",
+      "published": "Sat, 14 Nov 2026 21:11:00 +0800"
+    },
+    {
+      "title": "Italy fines Meta US$887 million over Android users' data access",
+      "url": "https://www.channelnewsasia.com/business/italy-fines-meta-us887-million-over-android-users-data-access-6551816",
+      "summary": "A Meta spokesperson said the company would appeal, strongly disagreeing with the authority's decision and calling the fine \"disproportionate\".",
+      "source": "CNA",
+      "published": "Sat, 14 Nov 2026 21:07:00 +0800"
+    },
+    {
+      "title": "ASEAN not easing Myanmar approach, bloc's special envoy says",
+      "url": "https://www.channelnewsasia.com/asia/asean-not-easing-myanmar-approach-blocs-special-envoy-says-6551711",
+      "summary": "ASEAN special envoy and Philippine Foreign Affairs Secretary Maria Theresa Lazaro says the grouping is not relaxing its approach to Myanmar under its Five-Point Consensus.",
+      "source": "CNA",
+      "published": "Sat, 14 Nov 2026 20:35:00 +0800"
+    },
+    {
+      "title": "US suggested Kyiv cede land for NATO, Zelenskyy says",
+      "url": "https://www.channelnewsasia.com/world/us-suggested-kyiv-cede-land-nato-zelenskyy-says-6551616",
       "summary": "The Ukrainian president said Russia was \"betting everything\" on this winter's campaign in its war with Ukraine.",
       "source": "CNA",
       "published": "Sat, 14 Nov 2026 19:11:00 +0800"
@@ -148,71 +211,8 @@
       "summary": "Successful recoveries of both Starship and its booster would have marked a milestone in the space industry's decades-long pursuit of fully reusable rocket systems that can drastically reduce mission costs and make frequent launches possible.",
       "source": "CNA",
       "published": "Sat, 14 Nov 2026 13:46:00 +0800"
-    },
-    {
-      "title": "Iran reports three incidents of oil tankers hit by mines in Hormuz",
-      "url": "https://www.channelnewsasia.com/world/strait-hormuz-oil-tankers-mines-iran-6551256",
-      "summary": "Since war erupted with the United States in February, Tehran has insisted that vessels obtain its authorisation to cross the strait and has attacked ships that do not comply.",
-      "source": "CNA",
-      "published": "Sat, 14 Nov 2026 12:43:00 +0800"
-    },
-    {
-      "title": "US loses measles-free status after continued spread of the disease: Report",
-      "url": "https://www.channelnewsasia.com/world/us-lose-measles-free-status-disease-transmission-6550971",
-      "summary": "The reported decision by the Americas branch of the World Health Organization comes as the US battles the highest number of measles cases it has seen in more than three decades.",
-      "source": "CNA",
-      "published": "Sat, 14 Nov 2026 12:21:12 +0800"
-    },
-    {
-      "title": "US flight shutdown exposes deepening air traffic network crisis",
-      "url": "https://www.channelnewsasia.com/world/us-flight-shutdown-ground-stop-air-traffic-network-6551206",
-      "summary": "The nationwide flight shutdown on Friday (Nov 13) has exposed longstanding weaknesses in the US air traffic control network, raising questions about whether billions of dollars in modernisation efforts can prevent further disruptions.",
-      "source": "CNA",
-      "published": "Sat, 14 Nov 2026 11:56:01 +0800"
-    },
-    {
-      "title": "Tanker hits docked river cruise boat in New Orleans, but no fatalities",
-      "url": "https://www.channelnewsasia.com/world/tanker-cruise-boat-collision-us-new-orleans-6551141",
-      "summary": "",
-      "source": "CNA",
-      "published": "Sat, 14 Nov 2026 11:09:21 +0800"
-    },
-    {
-      "title": "'I may lose my mind': Frustrated travellers stuck in US flight havoc",
-      "url": "https://www.channelnewsasia.com/world/us-flights-ground-stop-travel-disruption-delays-6551081",
-      "summary": "A rare nationwide ground stop left hundreds of thousands of passengers stranded across the United States, with conflicting information about delays adding to the confusion as travellers scrambled to salvage their plans.",
-      "source": "CNA",
-      "published": "Sat, 14 Nov 2026 10:26:51 +0800"
-    },
-    {
-      "title": "US lifts nationwide ground stop, allowing flights to resume after hours of travel chaos",
-      "url": "https://www.channelnewsasia.com/world/us-lift-nationwide-ground-stop-flights-travel-chaos-6551041",
-      "summary": "The rare nationwide ground stop order, issued due to a communications problem affecting US air traffic control towers, caused chaos at airports and triggered the longest shutdown since the 9/11 attacks in 2001.",
-      "source": "CNA",
-      "published": "Sat, 14 Nov 2026 09:40:00 +0800"
-    },
-    {
-      "title": "All departing US flights grounded due to communications problem",
-      "url": "https://www.channelnewsasia.com/world/us-grounds-departing-flights-communication-problem-6550736",
-      "summary": "The rare nationwide ground stop order was issued due to a communications problem affecting US air traffic control towers.",
-      "source": "CNA",
-      "published": "Sat, 14 Nov 2026 06:21:00 +0800"
-    },
-    {
-      "title": "Commentary: Jensen Huang may prove that the ‘irreplaceable CEO’ is a myth",
-      "url": "https://www.channelnewsasia.com/commentary/nvidia-succession-plan-jensen-huang-irreplaceable-ceo-myth-6549121",
-      "summary": "Jensen Huang's successor will have to figure out how to run a company built around someone who is no longer there, says Beth Kowitt for Bloomberg Opinion.",
-      "source": "CNA",
-      "published": "Sat, 14 Nov 2026 06:00:00 +0800"
-    },
-    {
-      "title": "Stocks fall but Wall Street notches a winning week after several turbulent days",
-      "url": "https://www.channelnewsasia.com/world/stocks-fall-wall-street-notches-winning-week-after-several-turbulent-days-6550656",
-      "summary": "",
-      "source": "CNA",
-      "published": "Sat, 14 Nov 2026 05:54:10 +0800"
     }
   ],
-  "generated_at": "2026-11-14T19:44:19+08:00",
+  "generated_at": "2026-11-15T06:56:19+08:00",
   "test_mode": false
 }
