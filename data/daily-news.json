@@ -1,11 +1,18 @@
 {
   "singapore": [
     {
-      "title": "ASEAN should focus on digital economy, energy resilience, broadening networks amid global uncertainty: PM Wong",
+      "title": "Singapore-Indonesia haze task force should become ASEAN-wide platform: PM Wong",
+      "url": "https://www.channelnewsasia.com/singapore/lawrence-wong-asean-summit-manila-haze-indonesia-6552421",
+      "summary": "He also urged restraint over Thailand-Cambodia border tensions and said Myanmar must show \"concrete actions\" before returning fully to the regional bloc.",
+      "source": "CNA",
+      "published": "Sun, 15 Nov 2026 18:44:00 +0800"
+    },
+    {
+      "title": "What should ASEAN focus on amid global uncertainty? PM Wong suggests 3 areas",
       "url": "https://www.channelnewsasia.com/singapore/lawrence-wong-asean-summit-manila-6552066",
       "summary": "Singapore Prime Minister Lawrence Wong was speaking at the plenary session of the 49th ASEAN Summit in the Philippine capital of Manila.",
       "source": "CNA",
-      "published": "Sun, 15 Nov 2026 15:18:38 +0800"
+      "published": "Sun, 15 Nov 2026 15:18:00 +0800"
     },
     {
       "title": "A family photo, a hand to hold: An occupational therapist learnt what matters most to dying patients",
@@ -97,13 +104,6 @@
       "summary": "The contingent's achievements included a historic wushu gold and Singapore's first-ever fencing medal at the Games, secured on the final day of competition.",
       "source": "CNA",
       "published": "Sat, 14 Nov 2026 08:12:00 +0800"
-    },
-    {
-      "title": "Are you losing muscle without knowing it? These tests can detect sarcopenia as you age",
-      "url": "https://www.channelnewsasia.com/wellness/sarcopenia-muscle-loss-tests-dexa-handgrip-strength-ageing-6542351",
-      "summary": "You may look the same on the outside but your muscles could be shrinking without you knowing it. Doctors explain the signs of age-related muscle loss, the tests that can detect it, and whether strength training and nutrition can really help reverse the damage.",
-      "source": "CNA",
-      "published": "Sat, 14 Nov 2026 06:52:00 +0800"
     }
   ],
   "world": [
@@ -213,6 +213,6 @@
       "published": "Sat, 14 Nov 2026 17:33:00 +0800"
     }
   ],
-  "generated_at": "2026-11-15T17:52:09+08:00",
+  "generated_at": "2026-11-15T20:14:16+08:00",
   "test_mode": false
 }
