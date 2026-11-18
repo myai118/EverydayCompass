@@ -1,0 +1,1146 @@
+{
+  "version": 1,
+  "revision": 49,
+  "refreshIntervalMinutes": 15,
+  "priceChecker": {
+    "enabled": true,
+    "intervalMinutes": 6,
+    "cycles": 10,
+    "maxActiveCheckers": 15,
+    "categories": {
+      "ETF": true,
+      "Stock": true,
+      "Fund": false
+    },
+    "refillThreshold": 5,
+    "topUpJobs": 10
+  },
+  "saved_at": "2026-11-17T22:57:48.650Z",
+  "instruments": [
+    {
+      "ticker": "ES3.SI",
+      "enabled": true,
+      "show": true,
+      "name": "State Street SPDR Straits Times Index ETF",
+      "region": "Singapore",
+      "type": "ETF",
+      "metadata_source": "State Street reference \u00b7 7 Oct 2026"
+    },
+    {
+      "ticker": "GQC0.MU",
+      "enabled": true,
+      "show": true,
+      "name": "Fundsmith Equity Fund Feeder",
+      "region": "Munich",
+      "type": "ETF",
+      "metadata_source": "Yahoo Finance quote webpage"
+    },
+    {
+      "ticker": "QQQ",
+      "enabled": true,
+      "show": true,
+      "name": "Invesco QQQ Trust, Series 1",
+      "region": "United States",
+      "type": "ETF",
+      "metadata_source": "Nasdaq directory \u00b7 6 Oct 2026"
+    },
+    {
+      "ticker": "QQQM",
+      "enabled": true,
+      "show": true,
+      "name": "Invesco NASDAQ 100 ETF",
+      "region": "United States",
+      "type": "ETF",
+      "metadata_source": "Nasdaq directory \u00b7 6 Oct 2026"
+    },
+    {
+      "ticker": "SPY",
+      "enabled": true,
+      "show": true,
+      "name": "State Street SPDR S&P 500 ETF Trust",
+      "region": "United States",
+      "type": "ETF",
+      "metadata_source": "Nasdaq directory \u00b7 6 Oct 2026"
+    },
+    {
+      "ticker": "VOO",
+      "enabled": true,
+      "show": true,
+      "name": "Vanguard S&P 500 ETF",
+      "region": "United States",
+      "type": "ETF",
+      "metadata_source": "Nasdaq directory \u00b7 6 Oct 2026"
+    },
+    {
+      "ticker": "VTI",
+      "enabled": true,
+      "show": true,
+      "name": "Vanguard Morningstar Total Stock Market ETF",
+      "region": "United States",
+      "type": "ETF",
+      "metadata_source": "Nasdaq directory \u00b7 6 Oct 2026"
+    },
+    {
+      "ticker": "1155.KL",
+      "enabled": true,
+      "show": true,
+      "name": "Malayan Banking Berhad",
+      "region": "Kuala Lumpur",
+      "type": "Stock",
+      "metadata_source": "Yahoo Finance quote webpage"
+    },
+    {
+      "ticker": "5E2.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Seatrium Limited",
+      "region": "SES",
+      "type": "Stock",
+      "metadata_source": "Yahoo Finance quote webpage"
+    },
+    {
+      "ticker": "A7RU.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Keppel Infrastructure Trust",
+      "region": "Singapore",
+      "type": "Stock",
+      "metadata_source": "Yahoo Finance symbol search"
+    },
+    {
+      "ticker": "AAPL",
+      "enabled": true,
+      "show": true,
+      "name": "Apple Inc. - Common Stock",
+      "region": "United States",
+      "type": "Stock",
+      "metadata_source": "Nasdaq directory \u00b7 6 Oct 2026"
+    },
+    {
+      "ticker": "AMZN",
+      "enabled": true,
+      "show": true,
+      "name": "Amazon.com, Inc. - Common Stock",
+      "region": "United States",
+      "type": "Stock",
+      "metadata_source": "Nasdaq directory \u00b7 6 Oct 2026"
+    },
+    {
+      "ticker": "BN4.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Keppel Ltd.",
+      "region": "Singapore",
+      "type": "Stock",
+      "metadata_source": "Yahoo Finance quote page \u00b7 11 Oct 2026"
+    },
+    {
+      "ticker": "D05.SI",
+      "enabled": true,
+      "show": true,
+      "name": "DBS Group Holdings Ltd",
+      "region": "Singapore",
+      "type": "Stock",
+      "metadata_source": "SGX reference \u00b7 7 Oct 2026"
+    },
+    {
+      "ticker": "GOOGL",
+      "enabled": true,
+      "show": true,
+      "name": "Alphabet Inc. - Class A Common Stock",
+      "region": "United States",
+      "type": "Stock",
+      "metadata_source": "Nasdaq directory \u00b7 6 Oct 2026"
+    },
+    {
+      "ticker": "K71U.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Keppel REIT",
+      "region": "Singapore",
+      "type": "Stock",
+      "metadata_source": "Yahoo Finance symbol search"
+    },
+    {
+      "ticker": "META",
+      "enabled": true,
+      "show": true,
+      "name": "Meta Platforms, Inc. - Class A Common Stock",
+      "region": "United States",
+      "type": "Stock",
+      "metadata_source": "Nasdaq directory \u00b7 6 Oct 2026"
+    },
+    {
+      "ticker": "MSFT",
+      "enabled": true,
+      "show": true,
+      "name": "Microsoft Corporation - Common Stock",
+      "region": "United States",
+      "type": "Stock",
+      "metadata_source": "Nasdaq directory \u00b7 6 Oct 2026"
+    },
+    {
+      "ticker": "NDAQ",
+      "enabled": true,
+      "show": true,
+      "name": "Nasdaq, Inc. - Common Stock",
+      "region": "United States",
+      "type": "Stock",
+      "metadata_source": "Nasdaq directory \u00b7 6 Oct 2026"
+    },
+    {
+      "ticker": "NVDA",
+      "enabled": true,
+      "show": true,
+      "name": "NVIDIA Corporation - Common Stock",
+      "region": "United States",
+      "type": "Stock",
+      "metadata_source": "Nasdaq directory \u00b7 6 Oct 2026"
+    },
+    {
+      "ticker": "O39.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Oversea-Chinese Banking Corporation Ltd",
+      "region": "Singapore",
+      "type": "Stock",
+      "metadata_source": "SGX reference \u00b7 7 Oct 2026"
+    },
+    {
+      "ticker": "SHEL",
+      "enabled": true,
+      "show": true,
+      "name": "Shell plc",
+      "region": "NYSE",
+      "type": "Stock",
+      "metadata_source": "Yahoo Finance quote webpage"
+    },
+    {
+      "ticker": "TSLA",
+      "enabled": true,
+      "show": true,
+      "name": "Tesla, Inc.  - Common Stock",
+      "region": "United States",
+      "type": "Stock",
+      "metadata_source": "Nasdaq directory \u00b7 6 Oct 2026"
+    },
+    {
+      "ticker": "U11.SI",
+      "enabled": true,
+      "show": true,
+      "name": "United Overseas Bank Ltd",
+      "region": "Singapore",
+      "type": "Stock",
+      "metadata_source": "SGX reference \u00b7 7 Oct 2026"
+    },
+    {
+      "ticker": "Z74.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Singapore Telecommunications Limited",
+      "region": "SES",
+      "type": "Stock",
+      "metadata_source": "Yahoo Finance quote webpage"
+    },
+    {
+      "ticker": "0P00006FYP.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Infinity Global Stock Index SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00006FYU",
+      "enabled": true,
+      "show": true,
+      "name": "Infinity US 500 Stock Index USD",
+      "region": "OTC Markets OTCPK",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00006FZD.SI",
+      "enabled": true,
+      "show": true,
+      "name": "LionGlobal SGD Money Market SGD A",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00006G0B.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Schroder Asian Growth SGD A Dis",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00006G0E.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Schroder Multi-Asset Revolution A",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance quote webpage"
+    },
+    {
+      "ticker": "0P00006G0K.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Schroder Singapore Trust SGD A Dis",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00006O9U.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Amova Singapore Div Eq SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00006OE7.SI",
+      "enabled": true,
+      "show": true,
+      "name": "PineBridge Acorns of Asia Balanced",
+      "region": "Singapore",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance fund page"
+    },
+    {
+      "ticker": "0P00006OHZ.SI",
+      "enabled": true,
+      "show": true,
+      "name": "FSSA Regional China A Acc",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00006ONO.SI",
+      "enabled": true,
+      "show": true,
+      "name": "FSSA Dividend Advantage A Qdis",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance quote webpage"
+    },
+    {
+      "ticker": "0P00006OSF.SI",
+      "enabled": true,
+      "show": true,
+      "name": "First Sentier Bridge Fund A (H Dist)",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00006X58",
+      "enabled": true,
+      "show": true,
+      "name": "Pictet-Security P USD",
+      "region": "OTC Markets OTCPK",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00009N7A.SI",
+      "enabled": true,
+      "show": true,
+      "name": "BGF Global Allocation A2 SGD Hedged",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00009VED.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Franklin Income A(Mdis)SGD-H1",
+      "region": "Singapore",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance fund page \u00b7 11 Oct 2026"
+    },
+    {
+      "ticker": "0P0000AAP5.SI",
+      "enabled": true,
+      "show": true,
+      "name": "BGF World Mining A2 SGD Hedged",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance quote webpage"
+    },
+    {
+      "ticker": "0P0000IYVB.SI",
+      "enabled": true,
+      "show": true,
+      "name": "BGF World Gold A2 SGD Hedged",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance quote webpage"
+    },
+    {
+      "ticker": "0P0000IYVJ.SI",
+      "enabled": true,
+      "show": true,
+      "name": "BGF World Energy A2 SGD Hedged",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance individual ticker chart"
+    },
+    {
+      "ticker": "0P0000JUE8.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Fullerton SGD Cash A",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000N6XR.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Schroder Singapore Fixed Income A Acc",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000PTOL.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Schroder Global Emerging Market Opps",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000PYTM.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Franklin India A(acc)SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000RU7Y.L",
+      "enabled": true,
+      "show": true,
+      "name": "Fundsmith Equity R Acc",
+      "region": "LSE",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000SX14",
+      "enabled": true,
+      "show": true,
+      "name": "Nordea 1 - Emerging Sust Strs Eq BP USD",
+      "region": "OTC Markets OTCPK",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000T1AS.SI",
+      "enabled": true,
+      "show": true,
+      "name": "AB Global High Yield A2 SGD H",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000T1B1.SI",
+      "enabled": true,
+      "show": true,
+      "name": "AB Emerging Markets Debt A2 SGD H",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000TJ2I.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Schroder Multi-Asset Revolt 30 A SGD Acc",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000TJ2J.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Schroder Multi-Asset Revolution 50",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000TJ2K.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Schroder Multi-Asset Revolution 70",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000TZQ7.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Schroder Asian Income SGD A Dis",
+      "region": "Singapore",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance fund page \u00b7 11 Oct 2026"
+    },
+    {
+      "ticker": "0P0000U879.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Franklin US Opportunities A(acc)SGD-H1",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000W76V.F",
+      "enabled": true,
+      "show": true,
+      "name": "Fundsmith Equity R EUR Acc",
+      "region": "Frankfurt",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000W8JB.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Fullerton SGD Income B",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000WX0N",
+      "enabled": true,
+      "show": true,
+      "name": "Neuberger US Multi Cap Opps $ A Acc",
+      "region": "OTC Markets OTCPK",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000X071",
+      "enabled": true,
+      "show": true,
+      "name": "JPM Global Income A mth USD Hdg",
+      "region": "OTC Markets OTCPK",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000XMS6.SI",
+      "enabled": true,
+      "show": true,
+      "name": "PIMCO GIS Income Administrative SGDH Inc",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000Y077.SI",
+      "enabled": true,
+      "show": true,
+      "name": "PIMCO GIS Income E SGD Hedged Inc",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance quote webpage"
+    },
+    {
+      "ticker": "0P0000Y1XJ.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Schroder Asian Income SGD X Dis",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000YJFF.SI",
+      "enabled": true,
+      "show": true,
+      "name": "JPM Global Income A mth SGD Hdg",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000YWCI.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Franklin Global Sukuk A Mdis SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0000Z32L.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Allianz Income and Growth AMi3 H2 SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance quote webpage"
+    },
+    {
+      "ticker": "0P00010B1T.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Amundi Fds US Bond A2 SGD H C",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00011RFD",
+      "enabled": true,
+      "show": true,
+      "name": "Lazard Emerging Markets Eq B Acc USD",
+      "region": "OTC Markets OTCPK",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00011VRH.SI",
+      "enabled": true,
+      "show": true,
+      "name": "BGF European Equity Income A6 SGD H",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00014JQA",
+      "enabled": true,
+      "show": true,
+      "name": "Guinness Global Innovators C USD ACC",
+      "region": "OTC Markets OTCPK",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00014NHG.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Schroder ISF Asn Div Mxmsr A Dis SGDH M",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00015GRZ.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Neuberger Strategic Income SGD A Mn Dis",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00015HVX",
+      "enabled": true,
+      "show": true,
+      "name": "Guinness Global Equity Income C USD Acc",
+      "region": "OTC Markets OTCPK",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001666N.SI",
+      "enabled": true,
+      "show": true,
+      "name": "LionGlobal Singapore Div Eq SGD QDist",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00016JAZ.SI",
+      "enabled": true,
+      "show": true,
+      "name": "HSBC GIF Global Short Dur Bd ACHSGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00017HVE.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Fidelity Global Financial Svcs A-Acc-SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00018GXP.SI",
+      "enabled": true,
+      "show": true,
+      "name": "AXAWF Global High Yield Bds A Cap SGD H",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00018U5Y.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Eastspring Inv Asian Low Vol Eq ASDM",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00018YBU.SI",
+      "enabled": true,
+      "show": true,
+      "name": "PineBridge Asia exJapan SmCap Eq A5",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P00018ZTZ.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Federated Hermes Glb EM Eq R SGD Acc",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001BFPY.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Loomis Sayles US Growth Eq R/A H-SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001BMQK",
+      "enabled": true,
+      "show": true,
+      "name": "HSBC GIF Global Eq Clmt Trnstn AD",
+      "region": "OTC Markets OTCPK",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001BW40.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Neuberger US Equity Prm SGD A MD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001CM2M.SI",
+      "enabled": true,
+      "show": true,
+      "name": "BNP Paribas Aqua C RH SGD MD D",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001D4AK.SI",
+      "enabled": true,
+      "show": true,
+      "name": "United SGD Money Market B SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001D7HH.SI",
+      "enabled": true,
+      "show": true,
+      "name": "First Sentier Bridge Fund A (M Dist)",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001E2A6.SI",
+      "enabled": true,
+      "show": true,
+      "name": "BGF World Technology A2 SGD H",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001E2J0.SI",
+      "enabled": true,
+      "show": true,
+      "name": "United High Grade Corporate Bd ASGDAccH",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001F4NU.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Canaccord Genuity Opp A SGD Hdg Acc",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001FL3C.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Allianz Best Styles Global Eq ET H2 SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001H0AT.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Manulife GF Glb MA Dvrs Inc AA SGDH MD G",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001HOCP.SI",
+      "enabled": true,
+      "show": true,
+      "name": "BGF Global Bond Income A6 SGD H",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001I4B8.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Allianz Thematica AT H2 SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001I7S8.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Maybank Asian Growth and Inc A SGD Acc",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001I7S9.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Maybank Asian Growth and Inc A SGD Inc",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance quote webpage"
+    },
+    {
+      "ticker": "0P0001I7SB.SI",
+      "enabled": true,
+      "show": true,
+      "name": "MAMG Global Sukuk Income-I A SGD Inc",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001IGY0.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Allianz Global High Yield AMg H2 SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001IL1V.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Allianz China A Shares AT SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001IM92.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Robeco Credit Income BxH SGD Dist",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001IXUF",
+      "enabled": true,
+      "show": true,
+      "name": "Baillie Gifford WW US Equity Gr A USD",
+      "region": "OTC Markets OTCPK",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001JDPY",
+      "enabled": true,
+      "show": true,
+      "name": "Invesco Global Income A USDH MD1",
+      "region": "OTC Markets OTCPK",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001JDPZ.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Invesco Global Income A SGDH MD1",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001JLUD.SI",
+      "enabled": true,
+      "show": true,
+      "name": "PineBridge Asia Pacific Invm Grd Bd A5HD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001KEXO.SI",
+      "enabled": true,
+      "show": true,
+      "name": "United China A-Shares Innovt A SGD Acc",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001KY9J.SI",
+      "enabled": true,
+      "show": true,
+      "name": "abrdn-Global Dynamic Div AGrs MIncAHSGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001L7YH.SI",
+      "enabled": true,
+      "show": true,
+      "name": "GS Global Future Gen Eq OC Acc SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001LJIP.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Mirova Thematic Sbscptn Ecoy R/A H-SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001LLU2.SI",
+      "enabled": true,
+      "show": true,
+      "name": "PGIM Global Total Ret Bd SGDH A Dis (Q)",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001ME6T.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Ascend Asia Trust Global Equity A SGD H",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001N40P.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Allspring Lux Glb Eq Enh Inc A SGDHGDist",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001OHDD.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Maybank Asian Growth and Inc-I A SGD Acc",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001OHDE.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Maybank Asian Growth and Inc-I A SGD Dis",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001OPAK.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Franklin Shariah Technology A Acc SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001OR0L.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Baillie Gifford WW Asia ex Jpn A SGD Acc",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001PC8P",
+      "enabled": true,
+      "show": true,
+      "name": "Ascend Asia Trust Global MA Gr A USD",
+      "region": "OTC Markets OTCPK",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001PC8U",
+      "enabled": true,
+      "show": true,
+      "name": "Ascend Asia Trust Global MA Inc A USD",
+      "region": "OTC Markets OTCPK",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001PMVA",
+      "enabled": true,
+      "show": true,
+      "name": "Capital Group AMBAL LUX Bfydm",
+      "region": "OTC Markets OTCPK",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001QQ6S.SI",
+      "enabled": true,
+      "show": true,
+      "name": "HSBC GIF Asia Bond S47M3HSGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001R7JV.SI",
+      "enabled": true,
+      "show": true,
+      "name": "HSBC Islamic Global Equity Index AC SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001RE6O.SI",
+      "enabled": true,
+      "show": true,
+      "name": "HSBC GIF Asia Pac ex Jpn EqHiDivS48M2SGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001RFVY.SI",
+      "enabled": true,
+      "show": true,
+      "name": "HSBC Portfolios World Sel 5 AMFLXHSGD",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001RN2G.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Lion-Bibds Islamic Enh Lqdty A SGDH Dis",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001RQ7I.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Fidelity Global Technology A-Acc-SGD H",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001S1E0.SI",
+      "enabled": true,
+      "show": true,
+      "name": "PIMCO GIS Bal Inc & Gr M Ret SGD H IncII",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001SSOL.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Fullerton Lux Flexible Crdt Inc A SGDH D",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    },
+    {
+      "ticker": "0P0001UKZ7.SI",
+      "enabled": true,
+      "show": true,
+      "name": "Maybank Glb Shariah MA I Fd A SGD Inc",
+      "region": "SES",
+      "type": "Fund",
+      "metadata_source": "Yahoo Finance exact-symbol chart metadata \u00b7 19 Oct 2026"
+    }
+  ]
+}
