@@ -1,6 +1,34 @@
 {
   "singapore": [
     {
+      "title": "Former SPF officer jailed for kissing woman without consent as cousin sexually assaulted her",
+      "url": "https://www.channelnewsasia.com/singapore/former-spf-officer-jailed-kissing-woman-without-consent-cousin-sexually-assaulted-her-6565686",
+      "summary": "The man was sentenced to four months' jail after pleading guilty to molesting the woman in a Geylang hotel room.",
+      "source": "CNA",
+      "published": "Fri, 20 Nov 2026 06:01:08 +0800"
+    },
+    {
+      "title": "'We are humans too, we have feelings': Healthcare workers grapple with abuse by those they care for",
+      "url": "https://www.channelnewsasia.com/singapore/healthcare-workers-abuse-harassment-patients-6563431",
+      "summary": "Reports of abuse and harassment against healthcare workers have nearly doubled in two years. But protecting staff becomes more complicated when those responsible are vulnerable patients who still depend on their care.",
+      "source": "CNA",
+      "published": "Fri, 20 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "MAS unveils 2027 Year of the Goat coins featuring Bukit Batok's Little Guilin",
+      "url": "https://www.channelnewsasia.com/singapore/mas-2027-year-goat-coins-bukit-batok-little-guilin-6566571",
+      "summary": "Pre-orders for the 2027 Year of the Goat coins can be made from Thursday to Dec 13 through the Singapore Mint.",
+      "source": "CNA",
+      "published": "Thu, 19 Nov 2026 23:53:00 +0800"
+    },
+    {
+      "title": "More support for retrenched workers, longer training stints for fresh grads being considered: Jasmin Lau",
+      "url": "https://www.channelnewsasia.com/singapore/acting-manpower-minister-jasmin-lau-mom-jobseeker-support-graduates-retrenchment-6565936",
+      "summary": "The government is considering extending financial assistance to more retrenched workers and for a longer period, as it reviews the SkillsFuture Jobseeker Support Scheme.",
+      "source": "CNA",
+      "published": "Thu, 19 Nov 2026 23:47:35 +0800"
+    },
+    {
       "title": "2 men charged with keeping deregistered vehicles in Singapore, making false export declarations",
       "url": "https://www.channelnewsasia.com/singapore/men-charged-keep-deregistered-vehicles-6565586",
       "summary": "The 19 deregistered vehicles that had been declared as exported were found in Singapore in April and May.",
@@ -29,16 +57,16 @@
       "published": "Thu, 19 Nov 2026 16:43:59 +0800"
     },
     {
-      "title": "Circle Line reliability falls 23% in October as overall MRT performance dips from record high",
-      "url": "https://www.channelnewsasia.com/singapore/mrt-rail-reliability-nov-2026-lta-6564726",
-      "summary": "The overall MRT network's 12-month mean kilometres between failure fell 7 per cent to 3.14 million train-km, but stayed above 2 million train-km for a seventh straight month.",
+      "title": "Woman loses suit against driver over incident caused by chicken crossing the road",
+      "url": "https://www.channelnewsasia.com/singapore/woman-lose-suit-chicken-cross-road-6565046",
+      "summary": "In dismissing the suit, the judge said the incident was caused by a chicken crossing the road and it was unfortunately \"part of the vicissitudes of life\".",
       "source": "CNA",
       "published": "Thu, 19 Nov 2026 15:04:00 +0800"
     },
     {
-      "title": "Woman loses suit against driver over incident caused by chicken crossing the road",
-      "url": "https://www.channelnewsasia.com/singapore/woman-lose-suit-chicken-cross-road-6565046",
-      "summary": "In dismissing the suit, the judge said the incident was caused by a chicken crossing the road and it was unfortunately \"part of the vicissitudes of life\".",
+      "title": "Circle Line reliability falls 23% in October as overall MRT performance dips from record high",
+      "url": "https://www.channelnewsasia.com/singapore/mrt-rail-reliability-nov-2026-lta-6564726",
+      "summary": "The overall MRT network's 12-month mean kilometres between failure fell 7 per cent to 3.14 million train-km, but stayed above 2 million train-km for a seventh straight month.",
       "source": "CNA",
       "published": "Thu, 19 Nov 2026 15:04:00 +0800"
     },
@@ -76,37 +104,79 @@
       "summary": "The deployment is expected to give travellers more cruise itineraries across Southeast Asia.",
       "source": "CNA",
       "published": "Thu, 19 Nov 2026 11:34:47 +0800"
-    },
-    {
-      "title": "2 tech firms team up to build network to make AI agents safer at handling sensitive data",
-      "url": "https://www.channelnewsasia.com/singapore/ai-agents-tenon-security-network-terminal-3-affinidi-6561221",
-      "summary": "The network is aimed, for instance, at helping AI agents safely perform bank functions such as overseas transfers and disputed credit card charges, without exposing the customer's account details.",
-      "source": "CNA",
-      "published": "Thu, 19 Nov 2026 09:04:00 +0800"
-    },
-    {
-      "title": "CNA Now: Xi, Trump and Putin hold historic trilateral talks in Shenzhen, plus other news as it happens",
-      "url": "https://www.channelnewsasia.com/singapore/cna-now-live-blog-6562016",
-      "summary": "Stay on top of the day's biggest stories with CNA Now, which brings you breaking news and major developments from Singapore and around the world.",
-      "source": "CNA",
-      "published": "Thu, 19 Nov 2026 08:58:00 +0800"
-    },
-    {
-      "title": "She lost her mother to suicide at 13, survived abuse and grew up in care – now, at 22, she helps others find hope",
-      "url": "https://www.channelnewsasia.com/women/shirlene-ng-foster-care-childhood-trauma-recovery-6538226",
-      "summary": "Shirlene Ng moved between shelters and caregivers' homes eight times in four years as a teen. Now a psychology undergraduate and the youngest recipient of the President’s Challenge Springboard Fellowship, she reflects on her lost childhood and why she wants to help other young women navigate life after trauma.",
-      "source": "CNA",
-      "published": "Thu, 19 Nov 2026 07:24:00 +0800"
-    },
-    {
-      "title": "Commentary: Cyberattacks on billboards, supermarket fridges reveal a new test of resilience",
-      "url": "https://www.channelnewsasia.com/commentary/supermarket-fridge-europe-cyberattack-resilience-test-6561996",
-      "summary": "Recent cyberattacks involving public LED screens and supermarket refrigerators have exposed security weaknesses in many electronic devices connected to the internet, says RSIS’ Benjamin Ang.",
-      "source": "CNA",
-      "published": "Thu, 19 Nov 2026 06:00:00 +0800"
     }
   ],
   "world": [
+    {
+      "title": "Trump administration weighs forcing US firms to disclose Chinese AI use",
+      "url": "https://www.channelnewsasia.com/world/us-weighs-forcing-us-firms-disclose-chinese-ai-use-6562396",
+      "summary": "",
+      "source": "CNA",
+      "published": "Fri, 20 Nov 2026 07:26:00 +0800"
+    },
+    {
+      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says",
+      "url": "https://www.channelnewsasia.com/world/us-signed-sales-ai-chips-china-6567216",
+      "summary": "The US approved shipments of AI chips made by Nvidia and AMD to companies on the Pentagon's list of alleged Chinese military-backed companies.",
+      "source": "CNA",
+      "published": "Fri, 20 Nov 2026 07:04:00 +0800"
+    },
+    {
+      "title": "Commentary: Grand Theft Auto made its name satirising America. Then reality caught up",
+      "url": "https://www.channelnewsasia.com/commentary/gta-vi-grand-theft-auto-satire-success-6565451",
+      "summary": "The success of a game franchise that once sparked public outrage, lawsuits and congressional scrutiny tells a story about how much society has changed, says Gearoid Reidy for Bloomberg Opinion.",
+      "source": "CNA",
+      "published": "Fri, 20 Nov 2026 05:59:00 +0800"
+    },
+    {
+      "title": "Four men guilty of sex crimes against woman drugged by husband in UK case with echoes of Pelicot",
+      "url": "https://www.channelnewsasia.com/world/four-men-guilty-sex-crimes-against-woman-drugged-husband-in-uk-case-echoes-pelicot-6567281",
+      "summary": "Her ex-husband, Philip Young, admitted to more than 50 offences, including rape and sharing recordings of the abuse online.",
+      "source": "CNA",
+      "published": "Fri, 20 Nov 2026 05:26:48 +0800"
+    },
+    {
+      "title": "US plans to announce cause of outage that led to nationwide ground stop, FAA says",
+      "url": "https://www.channelnewsasia.com/world/us-flights-nationwide-ground-stop-cause-faa-6567176",
+      "summary": "Transport Secretary Sean Duffy said Juniper router installations have been paused as testing continues, while he seeks US$50 billion for air traffic control upgrades.",
+      "source": "CNA",
+      "published": "Fri, 20 Nov 2026 04:46:03 +0800"
+    },
+    {
+      "title": "Spanish PM, right-wing rival spar in key election debate",
+      "url": "https://www.channelnewsasia.com/world/spain-pedro-sanchez-election-debate-6567061",
+      "summary": "The debate takes place ahead of Spain’s Nov 29 election.",
+      "source": "CNA",
+      "published": "Fri, 20 Nov 2026 03:12:55 +0800"
+    },
+    {
+      "title": "Hegseth makes lightning-fast trips to Ecuador, Honduras",
+      "url": "https://www.channelnewsasia.com/world/hegseth-makes-lightning-fast-trips-ecuador-honduras-6566971",
+      "summary": "",
+      "source": "CNA",
+      "published": "Fri, 20 Nov 2026 02:15:59 +0800"
+    },
+    {
+      "title": "Russian strikes on Kyiv kill one, damage Dutch and Austrian embassies",
+      "url": "https://www.channelnewsasia.com/world/russia-ukraine-drone-strikes-kyiv-putin-6566896",
+      "summary": "",
+      "source": "CNA",
+      "published": "Fri, 20 Nov 2026 01:58:44 +0800"
+    },
+    {
+      "title": "Ukraine's allies meet in Berlin after Trump-Putin-Xi talks",
+      "url": "https://www.channelnewsasia.com/world/ukraine-russia-coalition-willing-berlin-bilateral-talks-6566721",
+      "summary": "\"It is important that today's Coalition of the Willing meeting and bilateral meetings with leaders deliver results,\" said Ukrainian President Volodymyr Zelenskyy .",
+      "source": "CNA",
+      "published": "Fri, 20 Nov 2026 01:09:45 +0800"
+    },
+    {
+      "title": "Stocks fall as Anthropic debut fails to ease AI concerns",
+      "url": "https://www.channelnewsasia.com/world/stocks-anthropic-ipo-debut-ai-tech-6564336",
+      "summary": "Despite Anthropic’s stock closing up 17 per cent on its debut, the Dow Jones Industrial Average, S&P 500 and the Nasdaq Composite all fell at least 2 per cent.",
+      "source": "CNA",
+      "published": "Fri, 20 Nov 2026 00:36:00 +0800"
+    },
     {
       "title": "Somalia orders UAE ambassador to leave, citing 'invasion'",
       "url": "https://www.channelnewsasia.com/world/somalia-orders-uae-ambassador-leave-citing-invasion-6566121",
@@ -141,78 +211,8 @@
       "summary": "",
       "source": "CNA",
       "published": "Thu, 19 Nov 2026 16:27:00 +0800"
-    },
-    {
-      "title": "Ukraine strikes Crimean Bridge for third time in a week ahead of US-China-Russia summit",
-      "url": "https://www.channelnewsasia.com/world/ukraine-russia-strike-crimean-bridge-6565221",
-      "summary": "Russia's transport ministry said nobody had been hurt in the Ukrainian attack on the Black Sea peninsula, which Moscow annexed from Ukraine in 2014.",
-      "source": "CNA",
-      "published": "Thu, 19 Nov 2026 15:38:31 +0800"
-    },
-    {
-      "title": "Mideast crisis ‘largest threat’ to energy security ever: IEA",
-      "url": "https://www.channelnewsasia.com/world/middle-east-crisis-energy-security-iran-war-us-6565096",
-      "summary": "Gulf countries have been struggling to export oil since Iran began blockading the Strait of Hormuz and targeting tankers in the area, following US and Israeli strikes that sparked the crisis in February.",
-      "source": "CNA",
-      "published": "Thu, 19 Nov 2026 15:10:42 +0800"
-    },
-    {
-      "title": "Ukraine was main topic at Trump-Putin meeting, Kremlin says",
-      "url": "https://www.channelnewsasia.com/world/ukraine-trump-putin-talks-china-apec-6564756",
-      "summary": "Kremlin foreign policy aide Yuri Ushakov said Russian President Vladimir Putin's mood after the meeting was \"simply excellent\".",
-      "source": "CNA",
-      "published": "Thu, 19 Nov 2026 14:58:59 +0800"
-    },
-    {
-      "title": "Denmark expected to ratify Trump deal over Greenland on Nov 19",
-      "url": "https://www.channelnewsasia.com/world/denmark-trump-deal-ratify-greenland-6564826",
-      "summary": "Once ratified, the deal will expand the US military's role in Greenland, including permission to establish a \"Golden Dome\" missile defence system, while reaffirming Danish sovereignty and Greenlanders' right to self-determination.",
-      "source": "CNA",
-      "published": "Thu, 19 Nov 2026 13:37:11 +0800"
-    },
-    {
-      "title": "Trump says historic summit with Xi, Putin already a 'win' before event",
-      "url": "https://www.channelnewsasia.com/world/trump-summit-china-xi-putin-6564716",
-      "summary": "US President Donald Trump highlighted the pomp surrounding his arrival, which contrasted with the more muted greeting of other leaders, including Russian counterpart Vladimir Putin.",
-      "source": "CNA",
-      "published": "Thu, 19 Nov 2026 12:12:00 +0800"
-    },
-    {
-      "title": "World Court to rule whether Myanmar committed genocide against Rohingya",
-      "url": "https://www.channelnewsasia.com/asia/myanmar-genocide-case-rohingya-international-court-justice-icj-un-6564571",
-      "summary": "The seven-year case centres on Myanmar’s 2017 military crackdown in Rakhine state that drove more than 700,000 Rohingya into neighbouring Bangladesh, where many recounted killings, mass rape and arson.",
-      "source": "CNA",
-      "published": "Thu, 19 Nov 2026 12:10:00 +0800"
-    },
-    {
-      "title": "Japan PM Takaichi spoke with Putin at APEC summit",
-      "url": "https://www.channelnewsasia.com/east-asia/japan-pm-takaichi-putin-talks-china-apec-summit-6564581",
-      "summary": "",
-      "source": "CNA",
-      "published": "Thu, 19 Nov 2026 11:53:34 +0800"
-    },
-    {
-      "title": "Inside GTA 6: A more lifelike Vice City, cinematic storytelling and tougher gameplay",
-      "url": "https://www.channelnewsasia.com/living/gta-6-first-impressions-gameplay-new-features-vice-city-6564236",
-      "summary": "From cars that feel tough to drive to impressive detail in the character design, Grand Theft Auto VI introduces new mechanics in its familiar open world of Vice City.",
-      "source": "CNA",
-      "published": "Thu, 19 Nov 2026 10:03:00 +0800"
-    },
-    {
-      "title": "US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance",
-      "url": "https://www.channelnewsasia.com/world/us-microsoft-bytedance-openai-access-6563751",
-      "summary": "Technology news outlet The Information earlier reported that Microsoft could allow Chinese firm ByteDance to use OpenAI models through its Azure cloud platform.",
-      "source": "CNA",
-      "published": "Thu, 19 Nov 2026 07:38:00 +0800"
-    },
-    {
-      "title": "Commentary: Cyberattacks on billboards, supermarket fridges reveal a new test of resilience",
-      "url": "https://www.channelnewsasia.com/commentary/supermarket-fridge-europe-cyberattack-resilience-test-6561996",
-      "summary": "Recent cyberattacks involving public LED screens and supermarket refrigerators have exposed security weaknesses in many electronic devices connected to the internet, says RSIS’ Benjamin Ang.",
-      "source": "CNA",
-      "published": "Thu, 19 Nov 2026 06:00:00 +0800"
     }
   ],
-  "generated_at": "2026-11-19T21:52:19+08:00",
+  "generated_at": "2026-11-20T07:30:49+08:00",
   "test_mode": false
 }
