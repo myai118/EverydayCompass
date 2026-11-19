@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T10:34:19+08:00",
+  "updated_at": "2026-11-19T09:56:02+08:00",
   "events": [
     {
       "title": "2026 Architectural Heritage Awards and Architectural Heritage Season: Exhibition",
@@ -167,7 +167,7 @@
     {
       "title": "Dance Connections",
       "category": "Event / Exhibition",
-      "overview": "Oct 01, 2026 - Dec 30, 2027 SCCC Level 10 foyer Dance Connections Looking to pick up Chinese dance after work while staying active and expanding your social… Other Free",
+      "overview": "Oct 01, 2026 - Dec 30, 2027 SCCC Dance Connections Looking to pick up Chinese dance after work while staying active and expanding your social… Other Free",
       "period": "Oct 01, 2026 - Dec 30, 2027",
       "time": "Check official information",
       "venue": "Singapore Chinese Cultural Centre",
@@ -255,6 +255,30 @@
         "ongoing"
       ],
       "date_added": null
+    },
+    {
+      "title": "E.S.C. - ESCAPE @ SCIENCE CENTRE",
+      "overview": "Also known as Escape @ Science Centre, this fun-filled attraction blends the ever-popular escape room concept with the wonders of Science, Technology, Engineering and Mathematics (STEM), and an added sprinkle of theatricality.",
+      "period": "Ongoing",
+      "category": "Event / Exhibition",
+      "link": "https://www.science.edu.sg/whats-on/escape-at-science-centre",
+      "venue": "with ample parking and easy MRT access. Check Birthday Room Availability Ditch The Boring Weekend. Conquer The Glitch With Your Squad. Forget standard combination locks and plain rooms. Step into alternate dimensions, quaking floors, and full-sensory puzzles created in collaboration with Gushcloud and How Drama. Bring your phones into selected rooms, capture the panic, and flex your escape stats on your feed. What's In It For You and The Friend Group? ⚡ Full-Sensory Thrills: Ball-filled enclosures & quaking floors. 📱 Phone Friendly: Photo-friendly zones inside selected rooms. 🧠 Smart Play: Cinematic STEM puzzles built to challenge your group. Book Squad Experience Now The Rooms You are the last surviving humans trapped in an alien exhibit. Can you outsmart your captors before time runs out? Ages 13+ | Team Size: 2–8 Pax | Skill Level: Intermediate | Difficulty level: ⭐ ⭐ ⭐ ⭐ Book Museum of Humankind Enter a glitching metaverse world. Solve digital ciphers and physical puzzles to restore system balance and escape. Ages 13+ | Team Size: 2–8 Pax | Skill Level: Challenging | Difficulty level: ⭐ ⭐ ⭐ Book Shangri-La A missing friend. A mad doctor. A fear-inducing race against time with high-sensory environmental shifts. Ages 18+ | Team Size: 2–6 Pax | Skill Level: Extreme | Difficulty level: ⭐ ⭐ ⭐ ⭐ Book Dr. X Museum of Humankind and Shangri-La are recommended for ages 13 and above. Dr. X is strictly restricted to ages 18 and above. Children aged three (3) and under are not permitted entry into E.S.C. Escape @ Science Centre Ticket Prices Ticket Category Weekday Rate (Tue – Fri) Weekend & Public Holiday Rate Suitable For Key Inclusions Singapore Resident / PR $25 / pax $30 / pax Youth Squads & Birthdays Full one (1) hour escape room session + Science Centre entry access Standard Admission $35 / pax $40 / pax Tourists & Non-PRs Full one (1) hour escape room session + Science Centre entry access Birthday Package Add-on Contact for custom quote Contact for custom quote Birthday Groups Dedicated party room space, custom signages & catering options What Else Do You Need To Know About ESCAPE @ Science Centre? General Info & Location Escape @ Science Centre is located at the Annexe Building, Science Centre Singapore (15 Science Centre Road, Singapore 609081). Entrance: Enter via the main Science Centre entrance. Tuesday – Sunday: 10am – 6.45pm Closed on Mondays (except Public Holidays and gazetted school holidays) Last Entry: 4.45pm for Tourists | 5.45pm for Singaporeans & PRs Lockers: Complimentary lockers are provided for all guests to store personal belongings safely. Accessibility: Due to the physical nature of gameplay, our escape rooms are not wheelchair accessible. Pets: Pets are strictly not allowed inside the premises. Game Rules, Age Limits & Safety Museum of Humankind & Shangri-La: Recommended for ages 13+. Children under 12 must have a valid ticket and be accompanied by a paying adult (18+). Children aged 3 and under are not permitted. Dr. X: Strictly for participants aged 18 and above. Indemnity Form: All players must complete a digital indemnity form upon arrival. Accompanying adults must fill this out on behalf of minors under 12. Minimum Players: Two (2) players for Shangri-La and Museum of Humankind ; three (3) players for Dr. X . You cannot purchase fewer tickets than the room minimum. Private Play: Rooms accommodate up to eight (8) players. If your group has fewer than eight (8) pax and you wish to play exclusively without outside players joining, pls book out all eight (8) slots for that session. Footwear: Covered flat shoes are mandatory. Skirts and high heels are not recommended due to physical obstacles. Temperature: Rooms can get cold; we suggest bringing a light jacket or sweater. Arrival: Pls arrive 15 minutes before your session. Arriving 20+ minutes late may result in slot forfeiture without a refund. Scare Factor: The experiences focus on thrill and puzzle-solving rather than horror. However, Dr. X contains mild horror themes. Mobile Phones: Phones are prohibited inside all rooms except Museum of Humankind . Game Support: If you get stuck, in-room communication devices allow you to request hints from our team. Ticketing, Cancellations & Events All individual and multi-group tickets must be booked online through our official ticketing portal. All purchased tickets are non-refundable. If you encounter scheduling issues, submit a request via our Contact Us page . For corporate team-building or private buyouts, reach out directly to sales@science.edu.sg . Birthday Packages To reserve a birthday package, email sales_experiences@science.edu.sg with your preferred date, time, and package choice. The Sweet Escape Package: Includes access to one (1) escape room. The ESC Celebration Package: Includes access to two (2) escape rooms. Your booking includes two (2) hours of access to a dedicated private event space equipped with guest seating and standard decorations after your escape session. Participants cannot re-enter the escape rooms during these two (2) hours. Dedicated party facilitation is not included, though staff will log your squad times on our leaderboard! Food & Drinks: You are welcome to bring outside food, drinks, and birthday cakes. Utensils, catering, refrigeration, and microwave facilities are not provided. Alcohol: Strictly prohibited on the premises. Decorations: Custom decorations are permitted if they do not damage the venue. Please notify us in advance.",
+      "time": "Check official information",
+      "adult": "Check official information",
+      "source_key": "science_centre",
+      "source": "Science Centre Singapore",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ongoing",
+      "statusClass": "",
+      "tags": [
+        "ongoing",
+        "wheelchair"
+      ],
+      "date_added": "2026-11-19"
     },
     {
       "title": "Energize 2026",
@@ -468,29 +492,6 @@
       "date_added": "2026-11-09"
     },
     {
-      "title": "ONE Ocean : Singapore's Premier Immersive Ocean Exhibition at Science Centre",
-      "overview": "Experience ONE Ocean: Every Action Ripples , world's first immersive ocean exhibition in Singapore that transforms marine science into a cinematic, multi-sensory experience. Featuring free-roaming VR (virtual reality), 360° cinematic projections, spatial audio, and interactive marine science and research inspired by 20 years of Tara Ocean Foundation expeditions . Discover Arctic exploration, coral ecosystems, ocean biodiversity, and Singapore's marine heritage in a journey unlike any other.",
-      "period": "Ongoing",
-      "category": "Event / Exhibition",
-      "link": "https://www.science.edu.sg/whats-on",
-      "venue": "AND PARKING Where is the exhibition located? The experience is located at Science Centre Singapore, The Annexe Halls. Easily accessible alternative to crowded lifestyle hubs like Gardens By the Bay, Marina Bay Sands, National Gallery Singapore, or Sentosa. Is there parking available? Yes, Science Centre Singapore offers parking facilities for the guests. Are there lockers and or a coat check on site? There are lockers located around the Centre for rent. Are there bathrooms available at the venue? Yes, toilets are available. TICKETING Where can I get tickets? Tickets are available via this link: ONE Ocean: Every Action Ripples - Science Centre Onsite Store Comprehensive bundle tickets include entry to the main Science Centre and Omni-Theatre, making it one of the most value-packed places to visit in Singapore. Can I buy tickets on site? Yes, onsite tickets can be purchased if available. We recommend purchasing tickets online in advance to secure your spot. I cannot find my ticket. What can I do? Please check your recently deleted emails or spam folder first. If you are unable to locate your tickets, you may contact us at ticketing@science.edu.sg for assistance with ticket retrieval. What methods of payment are accepted on site? Payment can be made with credit and debit cards. Can I reschedule my tickets? Changes to the date or time of your experience are allowed, if the request is made at least one month before the original scheduled date of your experience. Do note that all changes are subject to availability. To make a request, please email ticketing@science.edu.sg and include your ticket reference ID. Is it possible to transfer a ticket to someone else? Yes, tickets are transferable at no cost. Simply forward the PDF tickets to the intended recipients Can I re-enter once I’ve exited the exhibit? Please note that One Ocean tickets are for single entry only. While you may return to the main Science Centre after exiting, you cannot re-enter One Ocean. Are tickets refundable? NO REFUND / UPGRADE / DOWNGRADE of tickets will be made under any circumstances. If an event/movie is postponed or cancelled by SCS, SCS will endeavour to inform the customer via telephone or email where possible. Any refund made by SCS shall be in accordance with the price paid by the ticket holder for the ticket. SCS shall not be liable to make a refund beyond the paid amount under any circumstances. In the event of cancellation by SCS, all tickets purchased using credit cards shall be refunded back to the same credit cards. Refund will not be entertained if customer does not claim the refund within 1 month from the date of cancellation. HEALTH AND SECURITY Can the virtual reality experience be uncomfortable or unsuitable for certain people? The virtual reality experience is safe and enjoyable but potentially uncomfortable for certain people. It is not recommended for people with claustrophobia, heart problems, and a history of seizures, epilepsy, or sensitivity to flashing lights or 3D. People prone to motion sickness are also more likely to experience discomfort using a virtual reality headset. Vertigo may persist and increase within a few hours of use. Symptoms may also include drowsiness. These symptoms may increase the risk of injury when undertaking normal activities in the real world. Can a person with a heart condition or epilepsy take part in the virtual reality experience? It is not recommended for a person with a heart condition or epilepsy to participate in the activity. Can children do virtual reality alone? The VR experience is recommended for children aged 9 and above. Children aged 9-12 must be accompanied by a parent or guardian for the VR experience. Please note that the accompanying adult cannot supervise or assist the child during the virtual reality segment. Can you do the VR experience with a child in a baby carrier or stroller? Due to the nature of the VR experience, strollers are not permitted. Can a deaf or hard-of-hearing person follow the experience? You can still do the experience with hearing aids, Please note that the headsets have headphones attached to them and that the volume can be adjusted as needed. VR CODE OF PRACTICE FOR AN OPTIMAL EXPERIENCE Please be attentive to the experiences of others by staying silent or speaking very quietly (if necessary) when conversing with others. Please pay attention to the instructions from our team and follow their advice and tips carefully to ensure you have the best experience possible. Please be respectful of the sensitive equipment and handle it with care. Violence and violent/vulgar gestures are strictly prohibited on the free-roaming floor.",
-      "time": "Check official information",
-      "adult": "Check official information",
-      "source_key": "science_centre",
-      "source": "Science Centre Singapore",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Ongoing",
-      "statusClass": "",
-      "tags": [
-        "ongoing"
-      ],
-      "date_added": "2026-11-18"
-    },
-    {
       "title": "ONE Ocean: Every Action Ripples",
       "category": "Event / Exhibition",
       "overview": "30 MAY ’26 - 03 JAN ’27 ONE Ocean: Every Action Ripples Embark on a multi-sensory journey into the depths of the Ocean through immersive 360° spatial projection, free-roaming VR adventure and hands-on wow moments at every turn.",
@@ -512,6 +513,31 @@
         "ongoing"
       ],
       "date_added": "2026-11-07"
+    },
+    {
+      "title": "Piano Realms: Anime & Game Soundscapes",
+      "category": "Event",
+      "overview": "A world of fantasy, adventure and emotion unfolds through piano music.",
+      "period": "19 Nov 2026",
+      "time": "6:45 pm, 7:45 pm",
+      "venue": "Esplanade Concourse",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/soundtracks/2026/piano-realms-anime-and-game-soundscapes",
+      "source_key": "esplanade",
+      "source": "Esplanade",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "5mins",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "free",
+        "ongoing"
+      ],
+      "date_added": "2026-11-08"
     },
     {
       "title": "Pop Up In The Museum: The People's Tokusatsu",
@@ -657,7 +683,7 @@
     {
       "title": "Singapore History Gallery",
       "category": "Event / Exhibition",
-      "overview": "Exhibitions Singapore History Gallery Permanent L2 Enter through Singapore Odyssea Discover over 700 years of Singapore’s history through the artefacts and stories of those who lived it. View details Add to itinerary",
+      "overview": "Exhibitions Singapore History Gallery Permanent L2 Enter through Singapore Odyssea View details Add to itinerary",
       "period": "Permanent",
       "time": "Check official information",
       "venue": "National Museum of Singapore",
@@ -680,7 +706,7 @@
     {
       "title": "Singapore Odyssea: A Journey Through Time",
       "category": "Event / Exhibition",
-      "overview": "Exhibitions Singapore Odyssea: A Journey Through Time Permanent L2 A multi-sensorial time travel experience at the Shaw Foundation Glass Rotunda. View details Add to itinerary",
+      "overview": "Exhibitions Singapore Odyssea: A Journey Through Time Permanent L2 View details Add to itinerary",
       "period": "Permanent",
       "time": "Check official information",
       "venue": "National Museum of Singapore",
@@ -822,31 +848,6 @@
         "ongoing"
       ],
       "date_added": null
-    },
-    {
-      "title": "Sunday with Friends",
-      "category": "Event",
-      "overview": "The performance features a heartfelt selection of Malay and Indonesian drama and film soundtracks, including beloved songs such as Akad , Dahsyat , Jampi and Fantasia Bulan Madu .",
-      "period": "18 Nov 2026",
-      "time": "6:45 pm, 7:45 pm",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/soundtracks/2026/sunday-with-friends",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "tags": [
-        "ending",
-        "free",
-        "ongoing"
-      ],
-      "date_added": "2026-11-07"
     },
     {
       "title": "TGIF Music Station 2026",
@@ -1210,6 +1211,29 @@
       "date_added": null
     },
     {
+      "title": "ASEAN Puppetry Association 20th…",
+      "category": "Event / Exhibition",
+      "overview": "Dec 12, 2026 - Dec 12, 2026 Singapore Chinese Cultural Centre Recital Studio, Level 6 ASEAN Puppetry Association 20th… Presented by Singapore Chinese Cultural Centre and ASEAN Puppetry Association, the ASEAN Puppetry Association 20th… Lectures/Talks/Conference Free",
+      "period": "Dec 12, 2026 - Dec 12, 2026",
+      "time": "Check official information",
+      "venue": "Singapore Chinese Cultural Centre",
+      "link": "https://singaporeccc.org.sg/events/asean-puppetry-association-20th-anniversary-conference-2026/",
+      "source_key": "sccc",
+      "source": "Singapore Chinese Cultural Centre",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "upcoming"
+      ],
+      "date_added": "2026-11-19"
+    },
+    {
       "title": "Bedok to Bollywood",
       "category": "Event",
       "overview": "Three decades. Two Singaporeans. One dream. Based on true stories from prolific stand-up comedian Rishi Budhrani and award-winning host K.P. Sandhu, this heartwarming, interactive dramedy follows two Singaporeans chasing an elusive dream: becoming superstars in Bollywood.",
@@ -1232,29 +1256,6 @@
         "upcoming"
       ],
       "date_added": "2026-11-14"
-    },
-    {
-      "title": "BTS THE CITY Supertrees Light & Music Experience",
-      "period": "12 Dec - 22 Dec 2026",
-      "link": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/bts-thecity-light-and-music-experience.html",
-      "overview": "As part of BTS THE CITY ARIRANG SINGAPORE, Gardens by the Bay iconic Supertrees will light up in synchrony with BTS music, including the new release ‘ARIRANG’.",
-      "time": "9.35pm",
-      "venue": "Supertree Grove",
-      "category": "Event / Exhibition",
-      "source_key": "gardens",
-      "source": "Gardens by the Bay",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "upcoming"
-      ],
-      "date_added": "2026-11-16"
     },
     {
       "title": "Christmas Wonderland",
@@ -1607,31 +1608,6 @@
       "date_added": "2026-11-16"
     },
     {
-      "title": "Piano Realms: Anime & Game Soundscapes",
-      "category": "Event",
-      "overview": "A world of fantasy, adventure and emotion unfolds through piano music.",
-      "period": "19 Nov 2026",
-      "time": "6:45 pm, 7:45 pm",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/soundtracks/2026/piano-realms-anime-and-game-soundscapes",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "free",
-        "ongoing",
-        "upcoming"
-      ],
-      "date_added": "2026-11-08"
-    },
-    {
       "title": "Pop-up: Make Your Own Shaker Keychain",
       "category": "Event",
       "overview": "Every voice has a stage, whether it's in a living-room sing-along to a choir on stage. Get crafty and capture these moments through bright, playful mini charms that celebrate all that Voices – A Festival of Song is about.",
@@ -1892,6 +1868,29 @@
       "date_added": "2026-11-06"
     },
     {
+      "title": "The Plantsman's Fair",
+      "period": "5 Dec 2026",
+      "link": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/the-plantsmans-fair.html",
+      "overview": "Discover a selection of plants grown and cared for by our horticulturists at The Plantsman’s Fair. Find a new favourite or a living Christmas gift, and pick up plant care tips from our experts.",
+      "time": "10.00am - 5.00pm",
+      "venue": "Ficus Room @ Active Garden",
+      "category": "Event / Exhibition",
+      "source_key": "gardens",
+      "source": "Gardens by the Bay",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "upcoming"
+      ],
+      "date_added": "2026-11-19"
+    },
+    {
       "title": "Voices Lounge: Musical Theatre Night Out! with A Spoonful of Theatre",
       "category": "Event",
       "overview": "Come down to the Voices Lounge and join A Spoonful of Theatre for a musical extravaganza where you can belt out your favourite Broadway hits with live piano accompaniment!",
@@ -1991,10 +1990,47 @@
     }
   ],
   "source_report": {
-    "artscience": {
+    "sccc": {
+      "status": "fresh",
+      "count": 20
+    },
+    "gardens": {
+      "status": "fresh",
+      "count": 12
+    },
+    "esplanade": {
+      "status": "fresh",
+      "count": 25,
+      "detail_errors": 0
+    },
+    "national_museum": {
+      "status": "fresh",
+      "count": 2
+    },
+    "national_gallery": {
       "status": "fallback",
       "count": 0,
-      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; "
+      "error": "https://www.nationalgallery.sg/sg/en/whats-on.html: zero usable events; preserving previous source records"
+    },
+    "ura": {
+      "status": "fresh",
+      "count": 1
+    },
+    "nlb": {
+      "status": "fresh",
+      "count": 6
+    },
+    "visit_singapore": {
+      "status": "fresh",
+      "count": 12
+    },
+    "catch_sg": {
+      "status": "fresh",
+      "count": 0
+    },
+    "science_centre": {
+      "status": "fresh",
+      "count": 1
     }
   },
   "sources": [
@@ -2003,8 +2039,8 @@
       "name": "Singapore Chinese Cultural Centre",
       "url": "https://singaporeccc.org.sg/events/",
       "status": "ok",
-      "count": 19,
-      "last_success": "2026-11-18T10:24:44+08:00",
+      "count": 20,
+      "last_success": "2026-11-19T09:55:19+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2014,7 +2050,7 @@
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-18T10:24:44+08:00",
+      "last_success": "2026-11-19T09:55:19+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2023,8 +2059,8 @@
       "name": "Esplanade",
       "url": "https://www.esplanade.com/whats-on",
       "status": "ok",
-      "count": 26,
-      "last_success": "2026-11-18T10:24:44+08:00",
+      "count": 25,
+      "last_success": "2026-11-19T09:55:19+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2034,7 +2070,7 @@
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-11-18T10:24:44+08:00",
+      "last_success": "2026-11-19T09:55:19+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2064,7 +2100,7 @@
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-18T10:24:44+08:00",
+      "last_success": "2026-11-19T09:55:19+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2074,7 +2110,7 @@
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
       "status": "ok",
       "count": 6,
-      "last_success": "2026-11-18T10:24:44+08:00",
+      "last_success": "2026-11-19T09:55:19+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2084,7 +2120,7 @@
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-18T10:24:44+08:00",
+      "last_success": "2026-11-19T09:55:19+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2094,7 +2130,7 @@
       "url": "https://www.catch.sg/Event",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-18T10:24:44+08:00",
+      "last_success": "2026-11-19T09:55:19+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2104,7 +2140,7 @@
       "url": "https://www.science.edu.sg/whats-on",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-18T10:24:44+08:00",
+      "last_success": "2026-11-19T09:55:19+08:00",
       "error": "",
       "needs_reader_review": false
     }
