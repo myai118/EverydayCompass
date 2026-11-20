@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 49,
+  "revision": 50,
   "refreshIntervalMinutes": 15,
   "priceChecker": {
     "enabled": true,
@@ -15,7 +15,7 @@
     "refillThreshold": 5,
     "topUpJobs": 10
   },
-  "saved_at": "2026-11-17T22:57:48.650Z",
+  "saved_at": "2026-11-20T15:47:48.217Z",
   "instruments": [
     {
       "ticker": "ES3.SI",
@@ -124,6 +124,15 @@
       "region": "United States",
       "type": "Stock",
       "metadata_source": "Nasdaq directory \u00b7 6 Oct 2026"
+    },
+    {
+      "ticker": "ANT",
+      "enabled": true,
+      "show": true,
+      "name": "Anthropic, PBC",
+      "region": "NasdaqGS",
+      "type": "Stock",
+      "metadata_source": "Yahoo Finance quote webpage"
     },
     {
       "ticker": "BN4.SI",
