@@ -1,6 +1,27 @@
 {
   "singapore": [
     {
+      "title": "Life-and-death calls, lives upended: 5 things to watch for inside Singapore’s busiest trauma unit",
+      "url": "https://www.channelnewsasia.com/cna-insider/insider/inside-trauma-unit-singapore-busiest-ttsh-hospital-life-death-6569981",
+      "summary": "CNA series Inside The Trauma Unit transports you to Tan Tock Seng Hospital, where a medical team must be ready for any case, from an 88-year-old who had a bad fall to a man crushed by a truck.",
+      "source": "CNA",
+      "published": "Sat, 21 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "What makes a vintage watch worth collecting? This Singapore watch dealer shares his insights",
+      "url": "https://www.channelnewsasia.com/people/ken-liew-watch-estate-reserve-vintage-collecting-singapore-6548916",
+      "summary": "Ken Liew, founder of Watch Estate Reserve, explains what he looks for in a collectible timepiece, from craftsmanship and rarity to condition and historical significance.",
+      "source": "CNA",
+      "published": "Sat, 21 Nov 2026 05:38:28 +0800"
+    },
+    {
+      "title": "Greater share of national servicemen to shoulder leadership roles as cohorts shrink: Chan Chun Sing",
+      "url": "https://www.channelnewsasia.com/singapore/national-servicemen-leadership-cohorts-shrink-chan-chun-sing-6569211",
+      "summary": "SAF units are expected to become smaller, more technologically enabled and fight in a more decentralised manner, says the defence minister.",
+      "source": "CNA",
+      "published": "Fri, 20 Nov 2026 21:30:00 +0800"
+    },
+    {
       "title": "Indonesia's piped gas supply to Singapore fully restored on Nov 12: METI",
       "url": "https://www.channelnewsasia.com/singapore/indonesias-piped-gas-supply-singapore-fully-restored-nov-12-meti-6569076",
       "summary": "This follows an 18-day reduction in exports, as Indonesia diverted some gas supplies to meet domestic electricity needs.",
@@ -83,30 +104,65 @@
       "summary": "Once installed, each platform will help connect wind farms to Europe's electricity grid, transmitting enough renewable energy to power around 1.5 million homes.",
       "source": "CNA",
       "published": "Fri, 20 Nov 2026 12:07:00 +0800"
-    },
-    {
-      "title": "Energy ties with neighbours 'not a zero-sum game' even when each puts its own needs first: Tan See Leng",
-      "url": "https://www.channelnewsasia.com/singapore/asean-energy-resilience-trade-tan-see-leng-6564481",
-      "summary": "Energy cooperation can bring economies of scale and attract investment interest, says the Minister for Energy, Trade and Industry (Energy and Industry).",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 12:00:00 +0800"
-    },
-    {
-      "title": "More than 782,000 eligible Singaporeans to receive up to S$1,500 in CPF top-ups by Dec 8",
-      "url": "https://www.channelnewsasia.com/singapore/cpf-top-up-seniors-retirement-savings-6568136",
-      "summary": "Eligible recipients must be Singapore citizens residing in Singapore and born in 1976 or earlier, with CPF retirement savings below S$110,200 and no more than one property.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 11:54:00 +0800"
-    },
-    {
-      "title": "Man jailed and caned for raping teen stepdaughter, who delayed report to ensure family still had breadwinner",
-      "url": "https://www.channelnewsasia.com/singapore/stepfather-rape-teen-stepdaughter-delay-police-report-financial-dependence-6568166",
-      "summary": "When the teen ran away from home a year later, she told her mother about the assault, but her mother did not report it.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 11:51:51 +0800"
     }
   ],
   "world": [
+    {
+      "title": "'Do you wanna run for president?' Trump floats chief of staff for 2028",
+      "url": "https://www.channelnewsasia.com/world/donald-trump-us-presidency-stephen-miller-6571076",
+      "summary": "US President Donald Trump hailed Stephen Miller - a longtime loyalist and architect of the administration's harsh deportation crackdown - as \"the most powerful man in the world\".",
+      "source": "CNA",
+      "published": "Sat, 21 Nov 2026 10:23:27 +0800"
+    },
+    {
+      "title": "Trump calls for Nvidia's Huang to be given 'second chance'",
+      "url": "https://www.channelnewsasia.com/world/nvidia-jensen-huang-affair-espionage-donald-trump-6570976",
+      "summary": "Jensen Huang resigned last week as chief of Nvidia after revelations of an affair with an alleged Chinese spy who may have funnelled restricted chips to that country.",
+      "source": "CNA",
+      "published": "Sat, 21 Nov 2026 09:32:42 +0800"
+    },
+    {
+      "title": "Anthropic IPO fails to calm AI jitters as tech stocks plummet",
+      "url": "https://www.channelnewsasia.com/world/anthropic-ipo-ai-stocks-wall-street-6570596",
+      "summary": "",
+      "source": "CNA",
+      "published": "Sat, 21 Nov 2026 05:49:00 +0800"
+    },
+    {
+      "title": "Indian man jailed over US murder plot against Sikh separatist",
+      "url": "https://www.channelnewsasia.com/world/us-india-nikhil-gupta-sentenced-sikh-pannun-6570561",
+      "summary": "A US judge sentenced Indian national Nikhil Gupta to more than 19 years in prison for plotting to assassinate Sikh separatist Gurpatwant Singh Pannun.",
+      "source": "CNA",
+      "published": "Sat, 21 Nov 2026 05:07:04 +0800"
+    },
+    {
+      "title": "EU and UK hail 'landmark' deal to rebuild ties at Brussels summit",
+      "url": "https://www.channelnewsasia.com/world/burnham-eu-brexit-landmark-deal-brussels-summit-6570481",
+      "summary": "UK Prime Minister Andy Burnham and EU leaders have agreed on new deals to improve trade, travel and youth mobility after Brexit, but disagreements over university fees remain unresolved.",
+      "source": "CNA",
+      "published": "Sat, 21 Nov 2026 04:10:00 +0800"
+    },
+    {
+      "title": "Eisenkot vows to bring about new Israeli government swiftly",
+      "url": "https://www.channelnewsasia.com/world/eisenkot-israel-government-netanyahu-6570351",
+      "summary": "\"I have no intention of letting this drag on. When the time is right, I will bring a new government before the Knesset for its approval, a good government that I will lead,\" Gadi Eisenkot said.",
+      "source": "CNA",
+      "published": "Sat, 21 Nov 2026 03:28:42 +0800"
+    },
+    {
+      "title": "Boeing leaves open possibility of more layoffs amid stalled production plans",
+      "url": "https://www.channelnewsasia.com/world/boeing-leaves-open-possibility-more-layoffs-amid-stalled-production-plans-6570286",
+      "summary": "The company said cuts are needed as 737 MAX output increases lag, with its 47-jets-a-month target now expected in early 2027.",
+      "source": "CNA",
+      "published": "Sat, 21 Nov 2026 02:12:09 +0800"
+    },
+    {
+      "title": "UK man convicted of planning petrol bomb attack on migrant hotel",
+      "url": "https://www.channelnewsasia.com/world/uk-man-convicted-planning-petrol-bomb-attack-migrant-hotel-6570126",
+      "summary": "",
+      "source": "CNA",
+      "published": "Sat, 21 Nov 2026 01:12:43 +0800"
+    },
     {
       "title": "Iraqi forces enter stronghold of Iran-backed group under compromise deal",
       "url": "https://www.channelnewsasia.com/world/iraqi-forces-enter-stronghold-iran-backed-group-under-compromise-deal-6569101",
@@ -155,64 +211,8 @@
       "summary": "Cincinnati Zoo hippo Fiona dies after swallowing a knitted hat, despite 24-hour care and repeated efforts to move the object out of her system.",
       "source": "CNA",
       "published": "Fri, 20 Nov 2026 12:25:00 +0800"
-    },
-    {
-      "title": "Accused child sex predator Thomas Markle ruled competent to face trial",
-      "url": "https://www.channelnewsasia.com/world/accused-child-sex-predator-thomas-markle-competent-trial-6567646",
-      "summary": "",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 12:07:26 +0800"
-    },
-    {
-      "title": "Built in Singapore and Batam, bound for the North Sea: The massive platforms delivering renewable power to Europe",
-      "url": "https://www.channelnewsasia.com/singapore/wind-renewable-power-electricity-europe-seatrium-6568211",
-      "summary": "Once installed, each platform will help connect wind farms to Europe's electricity grid, transmitting enough renewable energy to power around 1.5 million homes.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 12:07:00 +0800"
-    },
-    {
-      "title": "Trump, Xi and Putin release 'peace declaration' from unprecedented summit",
-      "url": "https://www.channelnewsasia.com/world/china-russia-us-peace-declaration-nuclear-trilateral-talks-6565716",
-      "summary": "The leaders \"reaffirmed that a nuclear war cannot be won and must never be fought\" and pledged to advance United Nations reforms, increase supplies of fuel products for all countries, and uphold the immunity enjoyed by state officials in international courts.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 11:16:00 +0800"
-    },
-    {
-      "title": "Anthropic pulled off the biggest IPO ever. What that means, by the numbers",
-      "url": "https://www.channelnewsasia.com/business/anthropic-biggest-ipo-numbers-6567146",
-      "summary": "A record US$81 billion IPO vaults Anthropic into the public market with a US$1.5 trillion valuation, the biggest stock market debut on record.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 11:00:00 +0800"
-    },
-    {
-      "title": "Chinese tech firms fear AI hits from US curbs after Nvidia fallout",
-      "url": "https://www.channelnewsasia.com/east-asia/china-tech-firms-us-ai-curbs-nvidia-fallout-6566626",
-      "summary": "Tech giant Tencent President Martin Lau says the new US rule on chip access “sets everyone back in China”.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 09:56:00 +0800"
-    },
-    {
-      "title": "Trump ousts cyber director after tech outages spark criticism",
-      "url": "https://www.channelnewsasia.com/world/white-house-fires-cybersecurity-chief-widespread-outages-6567801",
-      "summary": "",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 09:13:00 +0800"
-    },
-    {
-      "title": "Trump administration weighs forcing US firms to disclose Chinese AI use",
-      "url": "https://www.channelnewsasia.com/world/us-weighs-forcing-us-firms-disclose-chinese-ai-use-6562396",
-      "summary": "",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 07:26:00 +0800"
-    },
-    {
-      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says",
-      "url": "https://www.channelnewsasia.com/world/us-signed-sales-ai-chips-china-6567216",
-      "summary": "The US approved shipments of AI chips made by Nvidia and AMD to companies on the Pentagon's list of alleged Chinese military-backed companies.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 07:04:00 +0800"
     }
   ],
-  "generated_at": "2026-11-20T21:13:34+08:00",
+  "generated_at": "2026-11-21T10:32:21+08:00",
   "test_mode": false
 }
