@@ -1,11 +1,25 @@
 {
   "singapore": [
     {
+      "title": "YMCA’s Youth For Causes portal, associated database hit by cybersecurity breach",
+      "url": "https://www.channelnewsasia.com/singapore/ymca-youth-causes-cybersecurity-data-breach-6571441",
+      "summary": "A subsequent investigation could neither establish nor rule out whether personal data had been accessed, copied or extracted.",
+      "source": "CNA",
+      "published": "Sat, 21 Nov 2026 19:34:00 +0800"
+    },
+    {
+      "title": "Gan Ching Hwee eyes top-8 finish at Beijing world championships, weighs future as full-time swimmer",
+      "url": "https://www.channelnewsasia.com/singapore/gan-ching-hwee-national-record-6571436",
+      "summary": "The long-distance specialist is also not ruling out the 2028 Los Angeles Olympics, having already gone under the qualifying time. She just has to repeat the feat during the upcoming qualifying window.",
+      "source": "CNA",
+      "published": "Sat, 21 Nov 2026 19:06:00 +0800"
+    },
+    {
       "title": "Some US-China bifurcation may be inevitable, but Singapore still has room to navigate: PM Wong",
       "url": "https://www.channelnewsasia.com/singapore/singapore-pm-lawrence-wong-us-china-bicurfaction-navigate-6571386",
       "summary": "As long as the two superpowers do not collide with one another, there will be space for Singapore to do business with both sides, says Prime Minister Lawrence Wong.",
       "source": "CNA",
-      "published": "Sat, 21 Nov 2026 18:00:07 +0800"
+      "published": "Sat, 21 Nov 2026 18:00:00 +0800"
     },
     {
       "title": "Singapore, China set to conclude over 20 deliverables at upcoming top-level meeting: PM Wong",
@@ -90,20 +104,6 @@
       "summary": "AI company Anthropic's record-breaking initial public offering saw its shares close 17 per cent higher, giving it a fully diluted valuation of just below US$1.8 trillion.",
       "source": "CNA",
       "published": "Fri, 20 Nov 2026 15:59:28 +0800"
-    },
-    {
-      "title": "US semicon equipment maker KLA expands Singapore presence, 400 new jobs expected",
-      "url": "https://www.channelnewsasia.com/singapore/kla-semiconductor-equipment-manufacturing-chips-6568311",
-      "summary": "With the expansion, KLA’s Singapore sites will together form its biggest manufacturing base worldwide.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 13:21:00 +0800"
-    },
-    {
-      "title": "Singapore and China kick off talks to upgrade free trade agreement, reaffirm close ties",
-      "url": "https://www.channelnewsasia.com/singapore/china-lawrence-wong-xi-jinping-free-trade-agreement-6568266",
-      "summary": "Singapore Prime Minister Lawrence Wong said the agreement will be upgraded to cover new areas such as the digital economy, and will facilitate cross-border data flows and open up new opportunities for Singapore companies.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 12:50:00 +0800"
     }
   ],
   "world": [
@@ -213,6 +213,6 @@
       "published": "Fri, 20 Nov 2026 16:55:00 +0800"
     }
   ],
-  "generated_at": "2026-11-21T18:09:27+08:00",
+  "generated_at": "2026-11-21T20:59:11+08:00",
   "test_mode": false
 }
