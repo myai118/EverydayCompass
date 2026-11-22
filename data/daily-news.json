@@ -1,6 +1,20 @@
 {
   "singapore": [
     {
+      "title": "PM Wong to visit Australia from Nov 23 for annual leaders' meeting",
+      "url": "https://www.channelnewsasia.com/singapore/pm-lawrence-wong-visit-australia-6568481",
+      "summary": "Mr Wong will meet with Australian Prime Minister Anthony Albanese during his three-day visit.",
+      "source": "CNA",
+      "published": "Sun, 22 Nov 2026 18:00:44 +0800"
+    },
+    {
+      "title": "Singapore, China should deepen innovation ties as global uncertainty grows: Gan Kim Yong",
+      "url": "https://www.channelnewsasia.com/singapore/gan-kim-yong-jcbc-deepen-innovations-china-6572436",
+      "summary": "Singapore and China can take their collaborations further by connecting research more closely with the needs of businesses and communities, helping promising technologies find practical applications.",
+      "source": "CNA",
+      "published": "Sun, 22 Nov 2026 11:10:00 +0800"
+    },
+    {
       "title": "How young is too young for kids to start participating in sports and competitions?",
       "url": "https://www.channelnewsasia.com/wellness/kids-sports-starting-age-hyrox-youngstars-training-injury-risks-6557641",
       "summary": "With Hyrox Youngstars bringing even more kids into competitive sports, experts weigh in on when to start, injury risks, overtraining and healthy competition.",
@@ -90,23 +104,23 @@
       "summary": "Sarimbun Recycling Park supported the recycling of construction debris and horticultural waste for nearly three decades before operations moved to Tuas South in 2024.",
       "source": "CNA",
       "published": "Fri, 20 Nov 2026 19:13:47 +0800"
-    },
-    {
-      "title": "Preschool teacher gets jail for slapping 5-year-old who had autism",
-      "url": "https://www.channelnewsasia.com/singapore/preschool-teacher-gets-jail-slapping-5-year-old-who-had-autism-6568966",
-      "summary": "The girl tended to self-soothe and was singing loudly before a nap when the incident occurred.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 18:40:23 +0800"
-    },
-    {
-      "title": "They sold their flat and invested S$500,000 to open Indian restaurant The Mango Tree despite having no F&B experience",
-      "url": "https://www.channelnewsasia.com/dining/chinese-malay-couple-open-indian-restaurant-6568561",
-      "summary": "After several relocations over 25 years, the restaurant has returned to its original East Coast home, opposite the tree that inspired its name.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 17:51:31 +0800"
     }
   ],
   "world": [
+    {
+      "title": "Washington governor, union denounce ICE arrests of travellers at Seattle airport",
+      "url": "https://www.channelnewsasia.com/world/washington-protest-ice-arrests-travellers-seattle-airport-6572721",
+      "summary": "",
+      "source": "CNA",
+      "published": "Sun, 22 Nov 2026 15:11:30 +0800"
+    },
+    {
+      "title": "Fossil fuels still missing from latest COP31 draft deal",
+      "url": "https://www.channelnewsasia.com/sustainability/cop31-draft-deal-fossil-fuels-6572531",
+      "summary": "",
+      "source": "CNA",
+      "published": "Sun, 22 Nov 2026 11:52:00 +0800"
+    },
     {
       "title": "Mexico captures drug kingpin on FBI's most wanted list",
       "url": "https://www.channelnewsasia.com/world/mexico-captures-drug-kingpin-fbi-most-wanted-6572391",
@@ -197,22 +211,8 @@
       "summary": "Jensen Huang resigned last week as chief of Nvidia after revelations of an affair with an alleged Chinese spy who may have funnelled restricted chips to that country.",
       "source": "CNA",
       "published": "Sat, 21 Nov 2026 09:32:42 +0800"
-    },
-    {
-      "title": "Anthropic IPO fails to calm AI jitters as tech stocks plummet",
-      "url": "https://www.channelnewsasia.com/world/anthropic-ipo-ai-stocks-wall-street-6570596",
-      "summary": "",
-      "source": "CNA",
-      "published": "Sat, 21 Nov 2026 05:49:00 +0800"
-    },
-    {
-      "title": "Indian man jailed over US murder plot against Sikh separatist",
-      "url": "https://www.channelnewsasia.com/world/us-india-nikhil-gupta-sentenced-sikh-pannun-6570561",
-      "summary": "A US judge sentenced Indian national Nikhil Gupta to more than 19 years in prison for plotting to assassinate Sikh separatist Gurpatwant Singh Pannun.",
-      "source": "CNA",
-      "published": "Sat, 21 Nov 2026 05:07:04 +0800"
     }
   ],
-  "generated_at": "2026-11-22T10:37:40+08:00",
+  "generated_at": "2026-11-22T18:17:06+08:00",
   "test_mode": false
 }
