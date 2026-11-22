@@ -1,7 +1,28 @@
 {
   "singapore": [
     {
-      "title": "YMCA’s Youth For Causes portal, associated database hit by cybersecurity breach",
+      "title": "How young is too young for kids to start participating in sports and competitions?",
+      "url": "https://www.channelnewsasia.com/wellness/kids-sports-starting-age-hyrox-youngstars-training-injury-risks-6557641",
+      "summary": "With Hyrox Youngstars bringing even more kids into competitive sports, experts weigh in on when to start, injury risks, overtraining and healthy competition.",
+      "source": "CNA",
+      "published": "Sun, 22 Nov 2026 07:52:59 +0800"
+    },
+    {
+      "title": "A pink bedroom, blue walls and bold art: A creative director’s colourful HDB home in Singapore",
+      "url": "https://www.channelnewsasia.com/obsessions/colourful-hdb-flat-marine-parade-interior-design-6538716",
+      "summary": "After years of living with neutral interiors, creative director Tony Law embraced bold colours, eclectic furnishings and treasured possessions to create a surprisingly calming home in Marine Parade.",
+      "source": "CNA",
+      "published": "Sun, 22 Nov 2026 06:04:41 +0800"
+    },
+    {
+      "title": "Fullerton Health data breach: Migrant workers face risks of employment scams, impersonation",
+      "url": "https://www.channelnewsasia.com/singapore/fullerton-health-data-breach-migrant-workers-6565521",
+      "summary": "Worker groups say leaked names, addresses and phone numbers could make fake work permit and job messages harder to spot.",
+      "source": "CNA",
+      "published": "Sun, 22 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "YMCA’s Youth For Causes portal, associated database hit by cybersecurity breach; more than 13,000 may be affected",
       "url": "https://www.channelnewsasia.com/singapore/ymca-youth-causes-cybersecurity-data-breach-6571441",
       "summary": "A subsequent investigation could neither establish nor rule out whether personal data had been accessed, copied or extracted.",
       "source": "CNA",
@@ -83,36 +104,64 @@
       "summary": "After several relocations over 25 years, the restaurant has returned to its original East Coast home, opposite the tree that inspired its name.",
       "source": "CNA",
       "published": "Fri, 20 Nov 2026 17:51:31 +0800"
-    },
-    {
-      "title": "Why Saturday Night Live’s viral Sister sketch is hitting a nerve with daughters everywhere",
-      "url": "https://www.channelnewsasia.com/women/snl-sister-sketch-viral-women-caregiving-singapore-6568731",
-      "summary": "In a recent viral Saturday Night Live (SNL) sketch, a daughter makes significant sacrifices to care for her father while her brother carries on as usual. With women making up 60 per cent of caregivers in Singapore, the joke hits uncomfortably close to home.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 16:55:00 +0800"
-    },
-    {
-      "title": "Over 560 deregistered vehicles impounded so far in 2026 amid rise in offences, stepped-up enforcement",
-      "url": "https://www.channelnewsasia.com/singapore/deregistered-vehicles-offences-rise-2026-lta-6568591",
-      "summary": "The annual average of such cases over the past three years is 120.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 16:23:00 +0800"
-    },
-    {
-      "title": "GIC, one of Anthropic’s largest investors, to stay invested beyond IPO",
-      "url": "https://www.channelnewsasia.com/singapore/gic-anthropic-investor-partnership-ipo-6568671",
-      "summary": "AI company Anthropic's record-breaking initial public offering saw its shares close 17 per cent higher, giving it a fully diluted valuation of just below US$1.8 trillion.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 15:59:28 +0800"
     }
   ],
   "world": [
     {
-      "title": "Countries race to secure COP31 deal after fossil fuel row",
-      "url": "https://www.channelnewsasia.com/world/cop31-fossil-fuel-climate-talks-6571376",
-      "summary": "Expectations of a major breakthrough have been low at COP31 as countries grapple with an oil price shock and geopolitical tensions stemming from the war in Iran.",
+      "title": "Mexico captures drug kingpin on FBI's most wanted list",
+      "url": "https://www.channelnewsasia.com/world/mexico-captures-drug-kingpin-fbi-most-wanted-6572391",
+      "summary": "",
       "source": "CNA",
-      "published": "Sat, 21 Nov 2026 16:41:45 +0800"
+      "published": "Sun, 22 Nov 2026 10:31:28 +0800"
+    },
+    {
+      "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
+      "url": "https://www.channelnewsasia.com/world/bahrain-intercept-iran-attack-6572311",
+      "summary": "The incidents were the latest escalation of regional hostilities since the US and Israel attacked Iran in February.",
+      "source": "CNA",
+      "published": "Sun, 22 Nov 2026 08:47:22 +0800"
+    },
+    {
+      "title": "Commentary: Do we really need 92,000 people at a climate conference?",
+      "url": "https://www.channelnewsasia.com/commentary/cop31-climate-conference-united-nations-biggest-record-6568661",
+      "summary": "The United Nations’ COP31 climate summit needs reform at the very least, which could include drastically paring it down, says Bloomberg Opinion's Mark Gongloff.",
+      "source": "CNA",
+      "published": "Sun, 22 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "US denies Iranian account that missile damaged F-16 over Gulf",
+      "url": "https://www.channelnewsasia.com/world/us-denies-iranian-account-missile-damaged-f-16-over-gulf-6572126",
+      "summary": "“Iran did not attack a US F-16 fighter aircraft yesterday - at all,” US Central Command says after Iranian state media claim air defences forced an emergency landing.",
+      "source": "CNA",
+      "published": "Sun, 22 Nov 2026 05:07:00 +0800"
+    },
+    {
+      "title": "Russian cargo ship hit by drones in Baltic, Finland tightens security",
+      "url": "https://www.channelnewsasia.com/world/russian-cargo-ship-hit-drones-in-baltic-finland-tightens-security-6571981",
+      "summary": "“The war is spilling over into our neighbouring areas,” Finnish Prime Minister Petteri Orpo says after a drone strike hits the Russian cargo ship Sparta II.",
+      "source": "CNA",
+      "published": "Sun, 22 Nov 2026 04:19:00 +0800"
+    },
+    {
+      "title": "French protesters rally for sixth weekend over living costs, public services",
+      "url": "https://www.channelnewsasia.com/world/france-protests-rising-costs-living-public-services-6571961",
+      "summary": "",
+      "source": "CNA",
+      "published": "Sun, 22 Nov 2026 01:32:00 +0800"
+    },
+    {
+      "title": "EU, Indonesia officially sign 'ambitious' trade deal",
+      "url": "https://www.channelnewsasia.com/world/eu-indonesia-trade-deal-sign-ambitious-6571696",
+      "summary": "Brussels said the deal will boost economic growth, with the EU's GDP projected to be 16 billion euros higher and Indonesia's 27 billion euros higher by 2042 than they would be without the agreement.",
+      "source": "CNA",
+      "published": "Sat, 21 Nov 2026 22:05:00 +0800"
+    },
+    {
+      "title": "Fossil fuel dispute threatens to scupper climate deal",
+      "url": "https://www.channelnewsasia.com/world/cop31-fossil-fuel-climate-talks-6571376",
+      "summary": "More than 130 countries want fossil fuel phase-out language restored to the COP31 text, but divisions over carbon capture and climate finance stall a deal.",
+      "source": "CNA",
+      "published": "Sat, 21 Nov 2026 16:41:00 +0800"
     },
     {
       "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
@@ -162,57 +211,8 @@
       "summary": "A US judge sentenced Indian national Nikhil Gupta to more than 19 years in prison for plotting to assassinate Sikh separatist Gurpatwant Singh Pannun.",
       "source": "CNA",
       "published": "Sat, 21 Nov 2026 05:07:04 +0800"
-    },
-    {
-      "title": "EU and UK hail 'landmark' deal to rebuild ties at Brussels summit",
-      "url": "https://www.channelnewsasia.com/world/burnham-eu-brexit-landmark-deal-brussels-summit-6570481",
-      "summary": "UK Prime Minister Andy Burnham and EU leaders have agreed on new deals to improve trade, travel and youth mobility after Brexit, but disagreements over university fees remain unresolved.",
-      "source": "CNA",
-      "published": "Sat, 21 Nov 2026 04:10:00 +0800"
-    },
-    {
-      "title": "Eisenkot vows to bring about new Israeli government swiftly",
-      "url": "https://www.channelnewsasia.com/world/eisenkot-israel-government-netanyahu-6570351",
-      "summary": "\"I have no intention of letting this drag on. When the time is right, I will bring a new government before the Knesset for its approval, a good government that I will lead,\" Gadi Eisenkot said.",
-      "source": "CNA",
-      "published": "Sat, 21 Nov 2026 03:28:42 +0800"
-    },
-    {
-      "title": "Boeing leaves open possibility of more layoffs amid stalled production plans",
-      "url": "https://www.channelnewsasia.com/world/boeing-leaves-open-possibility-more-layoffs-amid-stalled-production-plans-6570286",
-      "summary": "The company said cuts are needed as 737 MAX output increases lag, with its 47-jets-a-month target now expected in early 2027.",
-      "source": "CNA",
-      "published": "Sat, 21 Nov 2026 02:12:09 +0800"
-    },
-    {
-      "title": "UK man convicted of planning petrol bomb attack on migrant hotel",
-      "url": "https://www.channelnewsasia.com/world/uk-man-convicted-planning-petrol-bomb-attack-migrant-hotel-6570126",
-      "summary": "",
-      "source": "CNA",
-      "published": "Sat, 21 Nov 2026 01:12:43 +0800"
-    },
-    {
-      "title": "Iraqi forces enter stronghold of Iran-backed group under compromise deal",
-      "url": "https://www.channelnewsasia.com/world/iraqi-forces-enter-stronghold-iran-backed-group-under-compromise-deal-6569101",
-      "summary": "Iraq has been facing pressure from the United States to curb Iran's influence and contain Tehran-backed armed factions, which Washington designates as terrorist organisations.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 18:48:00 +0800"
-    },
-    {
-      "title": "Russia pummels Ukraine after Putin vowed 'painful' attack",
-      "url": "https://www.channelnewsasia.com/world/russia-strike-ukraine-invasion-putin-missile-drone-6568896",
-      "summary": "The deadly strikes came after an unprecedented trilateral summit with China and the US, where Russian President Vladimir Putin had touted the three men's \"shared responsibility\" for global security.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 17:21:00 +0800"
-    },
-    {
-      "title": "Why Saturday Night Live’s viral Sister sketch is hitting a nerve with daughters everywhere",
-      "url": "https://www.channelnewsasia.com/women/snl-sister-sketch-viral-women-caregiving-singapore-6568731",
-      "summary": "In a recent viral Saturday Night Live (SNL) sketch, a daughter makes significant sacrifices to care for her father while her brother carries on as usual. With women making up 60 per cent of caregivers in Singapore, the joke hits uncomfortably close to home.",
-      "source": "CNA",
-      "published": "Fri, 20 Nov 2026 16:55:00 +0800"
     }
   ],
-  "generated_at": "2026-11-21T20:59:11+08:00",
+  "generated_at": "2026-11-22T10:37:40+08:00",
   "test_mode": false
 }
