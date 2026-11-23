@@ -1,6 +1,27 @@
 {
   "singapore": [
     {
+      "title": "More ways for Singapore retail investors to buy gold, but volatility remains a risk",
+      "url": "https://www.channelnewsasia.com/singapore/physical-gold-investing-bank-6571501",
+      "summary": "As banks widen gold access, experts say the metal still carries risks for local investors.",
+      "source": "CNA",
+      "published": "Tue, 24 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "From private villas to festive suites: Where to stay this Christmas in Singapore",
+      "url": "https://www.channelnewsasia.com/experiences/christmas-staycations-in-singapore-2026-6562231",
+      "summary": "Whether you’re planning a romantic getaway or a festive break with the family, these luxury hotels offer Christmas staycations with thoughtful touches and special experiences to make the holidays even more memorable.",
+      "source": "CNA",
+      "published": "Tue, 24 Nov 2026 05:56:54 +0800"
+    },
+    {
+      "title": "'A historic occasion': PM Wong becomes first foreign leader to land at new Sydney airport",
+      "url": "https://www.channelnewsasia.com/singapore/historic-occasion-pm-wong-becomes-first-foreign-leader-land-new-sydney-airport-6575346",
+      "summary": "Mr Wong landed at the recently opened Western Sydney International Airport aboard Singapore Airlines' inaugural flight there.",
+      "source": "CNA",
+      "published": "Mon, 23 Nov 2026 23:14:34 +0800"
+    },
+    {
       "title": "Pasir Ris housing plans: Nature groups welcome coastal habitat conservation, but concerned over wildlife connectivity",
       "url": "https://www.channelnewsasia.com/singapore/pasir-ris-housing-plans-hdb-nature-groups-environment-conservation-6574741",
       "summary": "HDB said the development is intended to meet housing demand in Pasir Ris, with recent Build-to-Order projects drawing strong interest.",
@@ -27,6 +48,13 @@
       "summary": "The girl, then aged eight or nine, did not understand that what her stepfather had done was sexual in nature, court documents stated.",
       "source": "CNA",
       "published": "Mon, 23 Nov 2026 18:03:00 +0800"
+    },
+    {
+      "title": "Ralph Lauren brings the romance of an American lakeside retreat to Singapore with its Holiday Experience",
+      "url": "https://www.channelnewsasia.com/experiences/ralph-lauren-marina-bay-sands-holiday-experience-6555086",
+      "summary": "An ice-skating rink, a seasonal ice cream sandwich, personalised embroidery, a wreath-making bar and more – Ralph Lauren makes Christmas 2026 extra special with its Holiday Experience at Marina Bay Sands.",
+      "source": "CNA",
+      "published": "Mon, 23 Nov 2026 16:39:00 +0800"
     },
     {
       "title": "Korean fried chicken chain Bonchon returns to Singapore after two years with Ion Orchard outlet",
@@ -76,37 +104,93 @@
       "summary": "The plans for the site were developed after an environmental impact assessment and feedback from nature groups.",
       "source": "CNA",
       "published": "Mon, 23 Nov 2026 11:54:00 +0800"
-    },
-    {
-      "title": "Can blue light from screens worsen skin pigmentation?",
-      "url": "https://www.channelnewsasia.com/wellness/blue-light-screen-time-melasma-skin-condition-6573711",
-      "summary": "Scientists are studying whether blue light from digital devices can trigger melasma, a pigmentation disorder that causes dark patches on the face.",
-      "source": "CNA",
-      "published": "Mon, 23 Nov 2026 11:31:50 +0800"
-    },
-    {
-      "title": "IU to stage concert at Singapore's National Stadium in March",
-      "url": "https://www.channelnewsasia.com/entertainment/iu-singapore-concert-2027-national-stadium-6573656",
-      "summary": "South Korean singer-actress IU will perform at the National Stadium on Mar 6 and 7, 2027.",
-      "source": "CNA",
-      "published": "Mon, 23 Nov 2026 11:01:56 +0800"
-    },
-    {
-      "title": "Pop-punk band Simple Plan are still kids at heart – and their nostalgic Singapore concert proved it",
-      "url": "https://www.channelnewsasia.com/entertainment/simple-plan-singapore-concert-2026-review-6573601",
-      "summary": "At the Singapore Indoor Stadium on Nov 22, the pop-punk band took their Bigger Than You Think tour into the crowd, where fans belted out Addicted and Perfect.",
-      "source": "CNA",
-      "published": "Mon, 23 Nov 2026 10:29:00 +0800"
-    },
-    {
-      "title": "Singtel, CPF Board complete transfer of 477 million discounted shares to 406,000 holders’ CDP accounts",
-      "url": "https://www.channelnewsasia.com/singapore/singtel-special-discounted-shares-transfer-cpf-board-cdp-6573586",
-      "summary": "About one in three holders sold their Singtel special discounted shares before the transfer was completed on Nov 21.",
-      "source": "CNA",
-      "published": "Mon, 23 Nov 2026 10:07:00 +0800"
     }
   ],
   "world": [
+    {
+      "title": "Commentary: Historic Xi-Trump-Putin summit reveals an unsettling truth about great power diplomacy",
+      "url": "https://www.channelnewsasia.com/commentary/xi-trump-putin-trilateral-summit-apec-great-power-diplomacy-6574241",
+      "summary": "The three leaders gathered in the name of peace but showed little willingness to tackle the conflicts threatening global stability, says Patricia M Kim from the Brookings Institution.",
+      "source": "CNA",
+      "published": "Tue, 24 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "Commentary: What it was like to watch crucial COP climate talks fall apart at the last minute",
+      "url": "https://www.channelnewsasia.com/commentary/cop31-climate-conference-united-nations-fall-apart-6574376",
+      "summary": "In the last three days, the talks became a rollercoaster, says an environment and energy editor covering the COP31 conference.",
+      "source": "CNA",
+      "published": "Tue, 24 Nov 2026 05:59:00 +0800"
+    },
+    {
+      "title": "Commentary: This is the problem with the circular AI economy",
+      "url": "https://www.channelnewsasia.com/commentary/circular-financing-ai-economy-nvidia-fallout-6574436",
+      "summary": "What will happen if the Jenga tower of Nvidia’s vendor financing collapses? Rana Foroohar from the Financial Times gives her take.",
+      "source": "CNA",
+      "published": "Tue, 24 Nov 2026 05:58:00 +0800"
+    },
+    {
+      "title": "US blacklists Megaspeed chip firm linked to Nvidia scandal",
+      "url": "https://www.channelnewsasia.com/world/us-blacklists-megaspeed-chip-firm-linked-nvidia-scandal-6576001",
+      "summary": "Megaspeed, whose controlling shareholder Alice Huang is reportedly alleged to be a spy for Beijing, is closely tied to an espionage investigation involving Nvidia.",
+      "source": "CNA",
+      "published": "Tue, 24 Nov 2026 05:57:00 +0800"
+    },
+    {
+      "title": "Wall Street jumps back as Jensen Huang returns as Nvidia CEO",
+      "url": "https://www.channelnewsasia.com/world/nvidia-wall-street-us-stocks-huang-ceo-shares-6576061",
+      "summary": "The Nasdaq Composite and S&P 500 posted their biggest daily gains since April 2025 after Nvidia shares surged as much as 36.6 per cent.",
+      "source": "CNA",
+      "published": "Tue, 24 Nov 2026 05:46:00 +0800"
+    },
+    {
+      "title": "Iran lashes singer dozens of times over concert: reports",
+      "url": "https://www.channelnewsasia.com/world/iran-singer-lashes-ahmadi-hijab-concert-video-6576006",
+      "summary": "Iranian singer Parastoo Ahmadi was subjected to 74 lashes for a viral music video in which she performed without wearing a hijab, violating Iran's strict dress code.",
+      "source": "CNA",
+      "published": "Tue, 24 Nov 2026 05:08:40 +0800"
+    },
+    {
+      "title": "Yemen's Houthis say Saudi attack kills 17",
+      "url": "https://www.channelnewsasia.com/world/yemen-houthis-saudi-strikes-kill-seventeen-6575956",
+      "summary": "The Houthis said the strikes disrupted telecoms and internet services for tens of thousands, while Saudi Arabia did not immediately comment.",
+      "source": "CNA",
+      "published": "Tue, 24 Nov 2026 04:42:37 +0800"
+    },
+    {
+      "title": "Israeli strikes kill at least three in Gaza, including worker with UN Palestinian agency",
+      "url": "https://www.channelnewsasia.com/world/israeli-strikes-kill-least-three-in-gaza-including-worker-un-palestinian-agency-6575821",
+      "summary": "",
+      "source": "CNA",
+      "published": "Tue, 24 Nov 2026 02:27:38 +0800"
+    },
+    {
+      "title": "Saudi Arabia accused of playing spoiler after COP failure",
+      "url": "https://www.channelnewsasia.com/world/saudi-arabia-cop31-fossil-fuels-climate-6575771",
+      "summary": "War-related economic pressure and a forecast 3.3 per cent GDP drop have reinforced Riyadh’s reliance on oil, complicating Vision 2030 diversification efforts.",
+      "source": "CNA",
+      "published": "Tue, 24 Nov 2026 01:45:45 +0800"
+    },
+    {
+      "title": "Democrats turn sights to 2028 after US midterms triumph",
+      "url": "https://www.channelnewsasia.com/world/democrats-midterms-election-us-debate-trump-6575661",
+      "summary": "The first debate is scheduled for June next year.",
+      "source": "CNA",
+      "published": "Tue, 24 Nov 2026 00:50:00 +0800"
+    },
+    {
+      "title": "'A historic occasion': PM Wong becomes first foreign leader to land at new Sydney airport",
+      "url": "https://www.channelnewsasia.com/singapore/historic-occasion-pm-wong-becomes-first-foreign-leader-land-new-sydney-airport-6575346",
+      "summary": "Mr Wong landed at the recently opened Western Sydney International Airport aboard Singapore Airlines' inaugural flight there.",
+      "source": "CNA",
+      "published": "Mon, 23 Nov 2026 23:14:34 +0800"
+    },
+    {
+      "title": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal",
+      "url": "https://www.channelnewsasia.com/world/nvidia-jensen-huang-ceo-reinstated-6575201",
+      "summary": "Huang had resigned on Nov 12 following revelations of extramarital affairs, including one with a businesswoman whom US authorities suspect of spying for China.",
+      "source": "CNA",
+      "published": "Mon, 23 Nov 2026 22:02:00 +0800"
+    },
     {
       "title": "Iran seeks US$290 billion in damages against the US",
       "url": "https://www.channelnewsasia.com/world/iran-seeks-us290-billion-in-damages-against-us-6575066",
@@ -127,92 +211,8 @@
       "summary": "The £10 million (US$13 million) programme is set to involve nearly 700,000 women over the next three years and will assess if tools assisted by artificial intelligence can help improve early cancer detection in screening.",
       "source": "CNA",
       "published": "Mon, 23 Nov 2026 20:32:05 +0800"
-    },
-    {
-      "title": "Thousands evacuated after 'unknown substance' released at UK concert",
-      "url": "https://www.channelnewsasia.com/world/thousands-evacuated-unknown-substance-released-uk-concert-don-toliver-6574081",
-      "summary": "Some 12,000 people were attending the Sunday night show by US rapper Don Toliver at the Co-op Live arena in Manchester, northwest England.",
-      "source": "CNA",
-      "published": "Mon, 23 Nov 2026 16:22:28 +0800"
-    },
-    {
-      "title": "Alice Huang in touch with Chinese spy agency during affair with Nvidia CEO: Report",
-      "url": "https://www.channelnewsasia.com/world/alice-huang-chinese-spy-nvidia-affair-6573671",
-      "summary": "Alice Huang was in touch with an officer from China's Ministry of State Security from the spring of 2025 until the fall of this year, according to the New York Times.",
-      "source": "CNA",
-      "published": "Mon, 23 Nov 2026 13:20:46 +0800"
-    },
-    {
-      "title": "Asian tech back in the firing line as traders track Wall Street rout",
-      "url": "https://www.channelnewsasia.com/business/asian-tech-markets-traders-wall-street-rout-6573896",
-      "summary": "Hong Kong, Sydney, Singapore, Wellington, Mumbai and Bangkok all dropped into negative territory.",
-      "source": "CNA",
-      "published": "Mon, 23 Nov 2026 12:13:00 +0800"
-    },
-    {
-      "title": "North Korea leader highlights 'sovereignty' in ties after Trump no-show",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-sovereignty-foreign-relations-6573851",
-      "summary": "Pyongyang's diplomatic goal is to \"expand and develop foreign relations under the ideals of independence, peace and friendship on the principle of defending the national sovereignty and security\", said North Korean leader Kim Jong Un.",
-      "source": "CNA",
-      "published": "Mon, 23 Nov 2026 11:25:00 +0800"
-    },
-    {
-      "title": "UN urges probe after Russian ship attacked off Libya",
-      "url": "https://www.channelnewsasia.com/world/un-urges-probe-after-russian-ship-attacked-libya-6573101",
-      "summary": "",
-      "source": "CNA",
-      "published": "Mon, 23 Nov 2026 10:50:07 +0800"
-    },
-    {
-      "title": "Ukraine says Russian strikes kill 14 in Kyiv region",
-      "url": "https://www.channelnewsasia.com/world/russian-strikes-kill-14-in-kyiv-region-6573721",
-      "summary": "Moscow has been pummelling Ukraine with nightly aerial barrages as the war-torn country braces for another winter, as the full-scale invasion grinds through its fifth year.",
-      "source": "CNA",
-      "published": "Mon, 23 Nov 2026 10:25:00 +0800"
-    },
-    {
-      "title": "Can restored wetlands help protect San Francisco Bay from rising seas?",
-      "url": "https://www.channelnewsasia.com/world/cna-correspondent-san-francisco-bay-climate-change-rising-sea-levels-coastline-6568276",
-      "summary": "In the third and final part of CNA's series examining how coastal areas are adapting to climate change, the focus turns to San Francisco Bay, where natural defences are being revived.",
-      "source": "CNA",
-      "published": "Mon, 23 Nov 2026 09:00:00 +0800"
-    },
-    {
-      "title": "Trump sees difficulties ahead if Schumer leads Senate",
-      "url": "https://www.channelnewsasia.com/world/trump-sees-difficulties-ahead-if-schumer-leads-senate-6573116",
-      "summary": "“It is going to be very hard for me to work with Chuck Schumer should he become Senate Majority Leader,” US President Donald Trump says.",
-      "source": "CNA",
-      "published": "Mon, 23 Nov 2026 05:51:57 +0800"
-    },
-    {
-      "title": "Russia starts towing ship hit by drones in Baltic, Finland says",
-      "url": "https://www.channelnewsasia.com/world/russia-starts-towing-ship-hit-drones-in-baltic-finland-says-6573286",
-      "summary": "Finnish, Russian and Estonian vessels battle the Sparta II fire before Russia takes over the rescue as the ship heads out of Finnish waters.",
-      "source": "CNA",
-      "published": "Mon, 23 Nov 2026 03:36:00 +0800"
-    },
-    {
-      "title": "Brazil storm death toll rises to 5",
-      "url": "https://www.channelnewsasia.com/world/brazil-storm-death-toll-rises-5-6573261",
-      "summary": "“The town is gone,” Mayor Gustavo Herter says after a supercell storm devastates Tupancireta in 40 minutes, killing five and injuring more than 250 people.",
-      "source": "CNA",
-      "published": "Mon, 23 Nov 2026 03:17:00 +0800"
-    },
-    {
-      "title": "Climate talks collapse in chaotic end to COP31",
-      "url": "https://www.channelnewsasia.com/world/cop31-climate-change-talks-collapse-deal-6572946",
-      "summary": "COP31 talks in Antalya break down after nearly 200 nations fail to bridge splits over fossil fuels, leaving no cover decision and no US$120 billion climate goal.",
-      "source": "CNA",
-      "published": "Sun, 22 Nov 2026 22:38:00 +0800"
-    },
-    {
-      "title": "Netanyahu, Eisenkot parties end talks without deal on forming Israel government",
-      "url": "https://www.channelnewsasia.com/world/netanyahu-eisenkot-party-israel-government-talks-deal-6573061",
-      "summary": "Israel coalition negotiations stall as Gadi Eisenkot and Benjamin Netanyahu remain split over a unity government, Arab party support and ultra-Orthodox allies.",
-      "source": "CNA",
-      "published": "Sun, 22 Nov 2026 22:37:00 +0800"
     }
   ],
-  "generated_at": "2026-11-23T22:28:06+08:00",
+  "generated_at": "2026-11-24T06:55:27+08:00",
   "test_mode": false
 }
