@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T08:58:49+08:00",
+  "updated_at": "2026-11-24T12:46:09+08:00",
   "events": [
     {
       "title": "2026 Architectural Heritage Awards and Architectural Heritage Season: Exhibition",
@@ -23,6 +23,29 @@
         "ongoing"
       ],
       "date_added": "2026-11-10"
+    },
+    {
+      "title": "70 Years of RSP: Where Design Meets Humanity (A Singapore Architecture Collection Exhibition)",
+      "overview": "Discover how RSP has helped shaped many of Singapore’s most distinctive landmarks and beloved spaces over 70 years. Visit the exhibition at The URA Centre from 12 August to 31 December 2026.",
+      "period": "12 August to 31 December 2026",
+      "category": "Event / Exhibition",
+      "link": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/rsp70-where-design-meets-humanity-sac/",
+      "source_key": "ura",
+      "source": "Urban Redevelopment Authority",
+      "why": "See the official organiser page for the latest visitor information.",
+      "time": "Check official information",
+      "venue": "Urban Redevelopment Authority",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ongoing",
+      "statusClass": "",
+      "tags": [
+        "ongoing"
+      ],
+      "date_added": "2026-11-24"
     },
     {
       "title": "Bit Bit Forest Mid-Autumn Light Up!",
@@ -470,31 +493,6 @@
       "date_added": "2026-11-07"
     },
     {
-      "title": "Lasya Tarangini : An Ensemble of Grace",
-      "category": "Event",
-      "overview": "Experience the swaying, lyrical elegance of mohiniyattam presented by the Medasvi School of Dance. This ensemble showcase brings together three distinct choreography pieces that highlight the nuance and depth of the classical dance form of Kerala. The performance opens with Padam Kamini Mani , celebrating classical feminine grace and beauty, followed by Shiva Saptham , an intricate homage praising the cosmic attributes and majesty of Lord Shiva. The presentation concludes with Jeeva , a captivating exploration of the essence of life, vital energy and human emotion. Through fluid body movements, abhinaya (subtle facial expressions), and rhythmic footwork, the dancers invite audiences on an ev",
-      "period": "23 Nov 2026",
-      "time": "7:15 pm, 8:15 pm",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/lasya-tarangini-an-ensemble-of-grace",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "tags": [
-        "ending",
-        "free",
-        "ongoing"
-      ],
-      "date_added": "2026-11-22"
-    },
-    {
       "title": "Marina Bay Presents: A Moment to Savour",
       "category": "Event / Exhibition",
       "overview": "16 NOV ’26 - 31 MAR ’27 Marina Bay Presents: A Moment to Savour A Moment to Savour brings together acclaimed international chefs and Marina Bay restaurants for exclusive collaborations and limited-time menus across Marina Bay, including a showcase by Waku Ghin and two-Michelin-starred MOSU Seoul, with privileges for VISA and UOB cardholders.",
@@ -823,6 +821,31 @@
         "ongoing"
       ],
       "date_added": null
+    },
+    {
+      "title": "Tamil Spoken Word Poetry கவிப்படை",
+      "category": "Event",
+      "overview": "This Tamil poetic performance takes the audience on a journey through different perspectives on a range of poetic topics. The poems may evoke emotions and spark thoughts, encouraging the audience to see familiar ideas from different perspectives, sometimes in unexpected and intriguing ways.",
+      "period": "24 Nov 2026",
+      "time": "7:15 pm, 8:15 pm",
+      "venue": "Esplanade Concourse",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/tamil-spoken-word-poetry",
+      "source_key": "esplanade",
+      "source": "Esplanade",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "5mins",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "free",
+        "ongoing"
+      ],
+      "date_added": "2026-11-22"
     },
     {
       "title": "TGIF Music Station 2026",
@@ -1584,6 +1607,31 @@
       "date_added": "2026-11-13"
     },
     {
+      "title": "PARVAAZ LIVE",
+      "category": "Event",
+      "overview": "Familiar yet elusive, intimate yet boundless, the sounds of contemporary Indian rock band Parvaaz is an otherworldly constellation of folk, blues, rock and psychedelia. Known for their evocative Kashmiri and Urdu lyrics paired with the imagery of Sufi and mystic poetry, the band is admired for both their musicianship and the literary depth of their songwriting.",
+      "period": "28 Nov 2026",
+      "time": "8:15 pm, 7:00 PM",
+      "venue": "DBS Foundation Outdoor Theatre at Esplanade",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/parvaaz-live",
+      "source_key": "esplanade",
+      "source": "Esplanade",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "5mins",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "free",
+        "ongoing",
+        "upcoming"
+      ],
+      "date_added": "2026-11-24"
+    },
+    {
       "title": "PGL CS 2 Major Singapore 2026",
       "category": "Event / Exhibition",
       "overview": "25 NOV ’26 - 13 DEC ’26 PGL CS 2 Major Singapore 2026 PGL CS2 Major Singapore 2026 brings the prestigious esports tournament to Southeast Asia for the first time. Watch 32 top Counter-Strike 2 teams battle for the Major title, with the top eight competing live at the Singapore Indoor Stadium over four days.",
@@ -1824,31 +1872,6 @@
       "date_added": "2026-11-23"
     },
     {
-      "title": "Tamil Spoken Word Poetry கவிப்படை",
-      "category": "Event",
-      "overview": "This Tamil poetic performance takes the audience on a journey through different perspectives on a range of poetic topics. The poems may evoke emotions and spark thoughts, encouraging the audience to see familiar ideas from different perspectives, sometimes in unexpected and intriguing ways.",
-      "period": "24 Nov 2026",
-      "time": "7:15 pm, 8:15 pm",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/tamil-spoken-word-poetry",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "free",
-        "ongoing",
-        "upcoming"
-      ],
-      "date_added": "2026-11-22"
-    },
-    {
       "title": "The Drama Continues: 20…",
       "category": "Event / Exhibition",
       "overview": "Nov 28, 2026 - Nov 28, 2026 Singapore Chinese Cultural Centre Recital Studio, Level 6 The Drama Continues: 20… A new chapter for local Chinese drama began in 1982 with the establishment of the… Lectures/Talks/Conference Free",
@@ -1994,10 +2017,48 @@
     }
   ],
   "source_report": {
-    "artscience": {
+    "sccc": {
+      "status": "fresh",
+      "count": 20
+    },
+    "gardens": {
+      "status": "fresh",
+      "count": 12
+    },
+    "esplanade": {
+      "status": "fresh",
+      "count": 25,
+      "detail_errors": 0
+    },
+    "national_museum": {
+      "status": "fresh",
+      "count": 2
+    },
+    "national_gallery": {
       "status": "fallback",
       "count": 0,
-      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; "
+      "error": "https://www.nationalgallery.sg/sg/en/whats-on.html: zero usable events; preserving previous source records"
+    },
+    "ura": {
+      "status": "fresh",
+      "count": 2
+    },
+    "nlb": {
+      "status": "fresh",
+      "count": 6
+    },
+    "visit_singapore": {
+      "status": "fresh",
+      "count": 12
+    },
+    "catch_sg": {
+      "status": "fallback",
+      "count": 0,
+      "error": "https://www.catch.sg/Event: Official browser page returned HTTP 403; preserving previous source records"
+    },
+    "science_centre": {
+      "status": "fresh",
+      "count": 1
     }
   },
   "sources": [
@@ -2007,7 +2068,7 @@
       "url": "https://singaporeccc.org.sg/events/",
       "status": "ok",
       "count": 20,
-      "last_success": "2026-11-23T08:49:14+08:00",
+      "last_success": "2026-11-24T12:45:13+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2017,7 +2078,7 @@
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-23T08:49:14+08:00",
+      "last_success": "2026-11-24T12:45:13+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2027,7 +2088,7 @@
       "url": "https://www.esplanade.com/whats-on",
       "status": "ok",
       "count": 25,
-      "last_success": "2026-11-23T08:49:14+08:00",
+      "last_success": "2026-11-24T12:45:13+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2037,7 +2098,7 @@
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-11-23T08:49:14+08:00",
+      "last_success": "2026-11-24T12:45:13+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2066,8 +2127,8 @@
       "name": "Urban Redevelopment Authority",
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
       "status": "ok",
-      "count": 1,
-      "last_success": "2026-11-23T08:49:14+08:00",
+      "count": 2,
+      "last_success": "2026-11-24T12:45:13+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2077,7 +2138,7 @@
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
       "status": "ok",
       "count": 6,
-      "last_success": "2026-11-23T08:49:14+08:00",
+      "last_success": "2026-11-24T12:45:13+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2087,7 +2148,7 @@
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-23T08:49:14+08:00",
+      "last_success": "2026-11-24T12:45:13+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2095,10 +2156,10 @@
       "id": "catch_sg",
       "name": "Catch.sg — Free Events",
       "url": "https://www.catch.sg/Event",
-      "status": "ok",
+      "status": "fallback",
       "count": 0,
       "last_success": "2026-11-23T08:49:14+08:00",
-      "error": "",
+      "error": "https://www.catch.sg/Event: Official browser page returned HTTP 403; preserving previous source records",
       "needs_reader_review": false
     },
     {
@@ -2107,7 +2168,7 @@
       "url": "https://www.science.edu.sg/whats-on",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-23T08:49:14+08:00",
+      "last_success": "2026-11-24T12:45:13+08:00",
       "error": "",
       "needs_reader_review": false
     }
