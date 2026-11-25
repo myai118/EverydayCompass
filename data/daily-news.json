@@ -1,6 +1,13 @@
 {
   "singapore": [
     {
+      "title": "Ex-auxiliary police officer jailed after raising anti-terrorism barrier, causing bus crash at Changi Airport",
+      "url": "https://www.channelnewsasia.com/singapore/auxiliary-police-officer-jailed-barrier-changi-airport-6580521",
+      "summary": "Azfar Mustaqim Jasman activated the anti-terrorism vehicle barrier when he leaned forward with his left hand resting on the control panel as the bus was passing through.",
+      "source": "CNA",
+      "published": "Wed, 25 Nov 2026 12:49:49 +0800"
+    },
+    {
       "title": "Drone attack, shootings and hostage situation simulated in counterterrorism exercise at Esplanade",
       "url": "https://www.channelnewsasia.com/singapore/counterterrorism-exercise-heartbeat-police-esplanade-6578731",
       "summary": "More than 115 people took part in the exercise, including the police’s emergency response and ground response officers.",
@@ -36,13 +43,6 @@
       "published": "Wed, 25 Nov 2026 07:28:00 +0800"
     },
     {
-      "title": "CNA Explains: What happens to your car warranty if a dealer shuts down in Singapore?",
-      "url": "https://www.channelnewsasia.com/singapore/car-dealer-shut-down-warranty-service-6578616",
-      "summary": "The abrupt closures of two Chinese EV dealerships in Singapore have raised concerns over vehicle warranties, servicing and consumer protection. CNA looks at what car owners should know when dealers exit the market.",
-      "source": "CNA",
-      "published": "Wed, 25 Nov 2026 06:00:00 +0800"
-    },
-    {
       "title": "Singapore scrap cars going for a steal in JB but some are finding their way back onto roads illegally",
       "url": "https://www.channelnewsasia.com/asia/malaysia-jb-scrap-cars-resold-illegally-cloning-services-6577441",
       "summary": "CNA found hundreds of online listings offering deregistered Singapore cars in Malaysia at bargain prices. Some sellers admit that buyers drive these cars illegally using cloned registration plates.",
@@ -50,9 +50,9 @@
       "published": "Wed, 25 Nov 2026 06:00:00 +0800"
     },
     {
-      "title": "PlayStation 5 sold out islandwide in race for gaming consoles after Grand Theft Auto VI release",
-      "url": "https://www.channelnewsasia.com/singapore/ps5-restock-gta-6-sony-6578581",
-      "summary": "Retailers are fielding dozens of queries a day, with no official word from Sony on when PS5 consoles will be back in stock.",
+      "title": "CNA Explains: What happens to your car warranty if a dealer shuts down in Singapore?",
+      "url": "https://www.channelnewsasia.com/singapore/car-dealer-shut-down-warranty-service-6578616",
+      "summary": "The closure of a Chinese EV brand's showroom and the abrupt exit of another dealership in Singapore have raised concerns over vehicle warranties, servicing and consumer protection. CNA looks at what car owners should know when dealers exit the market.",
       "source": "CNA",
       "published": "Wed, 25 Nov 2026 06:00:00 +0800"
     },
@@ -60,6 +60,13 @@
       "title": "Commentary: Why has a 10-cent deposit on beverage containers given Singaporeans so much to complain about?",
       "url": "https://www.channelnewsasia.com/commentary/bcrs-machines-10-cent-deposit-beverage-container-recycling-6577771",
       "summary": "Since its launch, it feels like not two weeks passes without the Beverage Container Return Scheme making the news. Writer Annie Tan explores why Singaporeans appear to be so triggered by these reverse vending machines.",
+      "source": "CNA",
+      "published": "Wed, 25 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "PlayStation 5 sold out islandwide in race for gaming consoles after Grand Theft Auto VI release",
+      "url": "https://www.channelnewsasia.com/singapore/ps5-restock-gta-6-sony-6578581",
+      "summary": "Retailers are fielding dozens of queries a day, with no official word from Sony on when PS5 consoles will be back in stock.",
       "source": "CNA",
       "published": "Wed, 25 Nov 2026 06:00:00 +0800"
     },
@@ -97,13 +104,6 @@
       "summary": "The latest video showed a man inserting ineligible containers into a Return Right machine while scanning the barcode of an eligible container held in his hand.",
       "source": "CNA",
       "published": "Tue, 24 Nov 2026 14:53:00 +0800"
-    },
-    {
-      "title": "Longtime Suntec City restaurant Penang Place to close in March, owners 'open to opportunities' to continue legacy",
-      "url": "https://www.channelnewsasia.com/dining/penang-place-suntec-city-closure-6577201",
-      "summary": "The restaurant has been in business for 23 years.",
-      "source": "CNA",
-      "published": "Tue, 24 Nov 2026 14:52:00 +0800"
     }
   ],
   "world": [
@@ -213,6 +213,6 @@
       "published": "Tue, 24 Nov 2026 23:03:00 +0800"
     }
   ],
-  "generated_at": "2026-11-25T12:37:36+08:00",
+  "generated_at": "2026-11-25T13:01:53+08:00",
   "test_mode": false
 }
