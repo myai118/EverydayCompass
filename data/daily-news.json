@@ -1,6 +1,13 @@
 {
   "singapore": [
     {
+      "title": "Commentary: Will it be a three or even two-horse race in Singapore's telco sector?",
+      "url": "https://www.channelnewsasia.com/commentary/starhub-m1-merger-telco-consolidation-simba-mobile-price-plans-6581081",
+      "summary": "2026 has seen a pivotal shift in Singapore’s telco landscape, with the industry now shaping up to be a two-and-a-half horse race, says former editor and financial journalist Ven Sreenivasan.",
+      "source": "CNA",
+      "published": "Thu, 26 Nov 2026 06:00:00 +0800"
+    },
+    {
       "title": "Polyclinic slots at a glance, easier medication deliveries with unified HealthHub app",
       "url": "https://www.channelnewsasia.com/singapore/healthhub-app-unified-nhg-health-nuhs-singhealth-6581146",
       "summary": "The NUHS, NHG Health and SingHealth Health Buddy apps have been consolidated under the HealthHub app and will be discontinued in February 2027.",
@@ -97,16 +104,79 @@
       "summary": "Marking 200 years of Singapore’s rule of law, Chief Justice Sundaresh Menon said the courts must respect the government's mandate to make complex policy decisions, while ensuring executive powers stay within legal bounds.",
       "source": "CNA",
       "published": "Wed, 25 Nov 2026 11:13:00 +0800"
-    },
-    {
-      "title": "CNA Now: Singapore's civil servants to receive 1.55-month year-end bonus, plus other news as it happens",
-      "url": "https://www.channelnewsasia.com/singapore/cna-now-nov-25-live-blog-6578146",
-      "summary": "Stay on top of the day's biggest stories with CNA Now, which brings you breaking news and major developments from Singapore and around the world.",
-      "source": "CNA",
-      "published": "Wed, 25 Nov 2026 09:01:00 +0800"
     }
   ],
   "world": [
+    {
+      "title": "US CDC reports nine measles-related deaths in 2026",
+      "url": "https://www.channelnewsasia.com/world/us-measles-related-deaths-cdc-2026-6582501",
+      "summary": "",
+      "source": "CNA",
+      "published": "Thu, 26 Nov 2026 06:43:00 +0800"
+    },
+    {
+      "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+      "url": "https://www.channelnewsasia.com/world/andy-taylor-guitarist-new-wave-icons-duran-duran-dies-65-6582916",
+      "summary": "",
+      "source": "CNA",
+      "published": "Thu, 26 Nov 2026 06:35:00 +0800"
+    },
+    {
+      "title": "Commentary: From solving to ‘digesting’: How mathematicians can adapt to the dramatic changes of AI",
+      "url": "https://www.channelnewsasia.com/commentary/claude-ai-solves-mathematics-riemann-hypothesis-6581176",
+      "summary": "If AI can generate papers that would take a human mathematician years to research and write, does that mean mathematics is dead? A professor gives his take.",
+      "source": "CNA",
+      "published": "Thu, 26 Nov 2026 05:59:00 +0800"
+    },
+    {
+      "title": "Israeli judges recommend prosecutors drop one bribery case against Netanyahu",
+      "url": "https://www.channelnewsasia.com/world/israeli-judges-recommend-prosecutors-drop-one-bribery-case-against-netanyahu-6582791",
+      "summary": "Israeli judges have recommended dropping one of three corruption cases against Israeli Prime Minister Benjamin Netanyahu and reconsidering another, in a trial that began in 2020.",
+      "source": "CNA",
+      "published": "Thu, 26 Nov 2026 05:24:07 +0800"
+    },
+    {
+      "title": "'Russia wants more than Ukraine,' says Germany's Merz as he defends aid for Kyiv",
+      "url": "https://www.channelnewsasia.com/world/russia-wants-more-ukraine-says-germanys-merz-he-defends-aid-kyiv-6582701",
+      "summary": "",
+      "source": "CNA",
+      "published": "Thu, 26 Nov 2026 04:30:59 +0800"
+    },
+    {
+      "title": "Saudi PIF looking to sell minority stake in Newcastle: report",
+      "url": "https://www.channelnewsasia.com/world/saudi-pif-looking-sell-minority-stake-in-newcastle-report-6582661",
+      "summary": "",
+      "source": "CNA",
+      "published": "Thu, 26 Nov 2026 03:37:24 +0800"
+    },
+    {
+      "title": "US Army detonates toxic explosives in Iowa despite contamination fears",
+      "url": "https://www.channelnewsasia.com/world/us-army-iowa-detonate-toxic-explosives-contamination-6582536",
+      "summary": "Acting Secretary of the Army Adam Telle said the operation was \"a huge success\".",
+      "source": "CNA",
+      "published": "Thu, 26 Nov 2026 02:13:00 +0800"
+    },
+    {
+      "title": "Israeli lawmakers advance Oct 7 inquiry opposed by Netanyahu",
+      "url": "https://www.channelnewsasia.com/world/israel-gaza-netanyahu-eisenkot-6582466",
+      "summary": "The bill, opposed by Israeli Prime Minister Benjamin Netanyahu, would create a five-member commission with a US$2 million budget and require an interim report within one year.",
+      "source": "CNA",
+      "published": "Thu, 26 Nov 2026 01:42:34 +0800"
+    },
+    {
+      "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
+      "url": "https://www.channelnewsasia.com/business/wall-street-us-stocks-nasdaq-trump-tariffs-6580246",
+      "summary": "",
+      "source": "CNA",
+      "published": "Thu, 26 Nov 2026 00:52:00 +0800"
+    },
+    {
+      "title": "Switzerland 'regrets' closure of diplomatic office in North Korea",
+      "url": "https://www.channelnewsasia.com/world/switzerland-regrets-closure-diplomatic-office-in-north-korea-6582411",
+      "summary": "\"The FDFA regrets this decision and is arranging for the head of the office to return to the embassy of Switzerland in Beijing,\" the foreign ministry said in a statement.",
+      "source": "CNA",
+      "published": "Thu, 26 Nov 2026 00:47:06 +0800"
+    },
     {
       "title": "Israeli strike kills Hamas official, his wife and children",
       "url": "https://www.channelnewsasia.com/world/israeli-strike-kills-hamas-official-his-wife-and-children-6581221",
@@ -141,78 +211,8 @@
       "summary": "The bloc seeks to avoid losing further ground to the United States and China in advanced technologies.",
       "source": "CNA",
       "published": "Wed, 25 Nov 2026 18:51:00 +0800"
-    },
-    {
-      "title": "3 dead as Indonesian rescuers search for 'estimated' 23 more workers trapped in mine",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-search-dozens-trapped-mine-workers-6580561",
-      "summary": "Heavy rain cuts off a 100m-deep West Java mine, with workers feared trapped since Monday as rescuers battle narrow, dark access.",
-      "source": "CNA",
-      "published": "Wed, 25 Nov 2026 13:15:00 +0800"
-    },
-    {
-      "title": "Australia, Solomon Islands sign sweeping pact stymieing China",
-      "url": "https://www.channelnewsasia.com/world/australia-solomon-islands-pact-china-6580656",
-      "summary": "The treaty cements Australia as the island nation's \"primary security partner\" and will see Canberra commit US$490 million over a decade to fund free education and other programmes.",
-      "source": "CNA",
-      "published": "Wed, 25 Nov 2026 12:34:00 +0800"
-    },
-    {
-      "title": "Estonia warns of growing Russian hybrid threats, to close remaining road border crossings",
-      "url": "https://www.channelnewsasia.com/world/estonia-closes-border-crossings-russia-warns-hybrid-warfare-saatse-boot-6579286",
-      "summary": "Estonia will close its road border crossings with Russia from Dec 1 for at least six months, citing security concerns after accusing Moscow of orchestrating two attempted arson attacks on its defence companies this year.",
-      "source": "CNA",
-      "published": "Wed, 25 Nov 2026 10:56:00 +0800"
-    },
-    {
-      "title": "Saudi coalition says struck Yemen port city, Houthis threaten retaliation",
-      "url": "https://www.channelnewsasia.com/world/saudi-attack-yemen-houthi-hodeida-6580346",
-      "summary": "The Saudi-led coalition had instructed civilians in Hodeida to evacuate in a social media post on Nov 25.",
-      "source": "CNA",
-      "published": "Wed, 25 Nov 2026 10:46:00 +0800"
-    },
-    {
-      "title": "Nvidia board joins Jensen Huang under scrutiny after reinstating embattled CEO",
-      "url": "https://www.channelnewsasia.com/world/nvidia-board-jensen-huang-under-scrutiny-6579411",
-      "summary": "Nvidia’s board faces scrutiny after unanimously rehiring Jensen Huang days after accepting his resignation, fuelling calls for accountability and transparency.",
-      "source": "CNA",
-      "published": "Wed, 25 Nov 2026 09:57:00 +0800"
-    },
-    {
-      "title": "California grand jury indicts Meghan Markle’s father on child porn charges",
-      "url": "https://www.channelnewsasia.com/world/thomas-markle-grand-jury-court-child-porn-6580226",
-      "summary": "Thomas Markle's legal troubles began after his son had discovered child sex abuse images while going through boxes found in his father's former home in the Philippines.",
-      "source": "CNA",
-      "published": "Wed, 25 Nov 2026 09:50:32 +0800"
-    },
-    {
-      "title": "Shein to pay US$100 million to settle US shipping, customer service claims",
-      "url": "https://www.channelnewsasia.com/world/shein-100-million-settle-us-shipping-customer-service-claims-6579131",
-      "summary": "",
-      "source": "CNA",
-      "published": "Wed, 25 Nov 2026 08:01:00 +0800"
-    },
-    {
-      "title": "Commentary: Jensen Huang should never have been too big to fail at Nvidia",
-      "url": "https://www.channelnewsasia.com/commentary/jensen-huang-returns-nvidia-ceo-donald-trump-6577756",
-      "summary": "Nvidia may be too big to fail. Jensen Huang shouldn’t have been, says Dave Lee for Bloomberg Opinion.",
-      "source": "CNA",
-      "published": "Wed, 25 Nov 2026 05:59:00 +0800"
-    },
-    {
-      "title": "Nvidia, Anthropic end sharply lower as AI selloff resumes",
-      "url": "https://www.channelnewsasia.com/world/stocks-wall-street-nvidia-anthropic-ai-6579601",
-      "summary": "",
-      "source": "CNA",
-      "published": "Wed, 25 Nov 2026 05:46:55 +0800"
-    },
-    {
-      "title": "China's Huawei convicted in sprawling US criminal trial over Iran business",
-      "url": "https://www.channelnewsasia.com/world/huawei-convicted-us-criminal-trial-iran-business-trade-secrets-6579566",
-      "summary": "A Brooklyn federal jury convicted Huawei on 10 of 12 criminal counts over deceiving banks about Iran business and stealing US companies’ trade secrets.",
-      "source": "CNA",
-      "published": "Wed, 25 Nov 2026 05:33:00 +0800"
     }
   ],
-  "generated_at": "2026-11-25T22:55:05+08:00",
+  "generated_at": "2026-11-26T07:35:08+08:00",
   "test_mode": false
 }
