@@ -1,6 +1,13 @@
 {
   "singapore": [
     {
+      "title": "5 community healthcare bodies launch SG Health Alliance to tackle chronic disease risks",
+      "url": "https://www.channelnewsasia.com/singapore/sg-health-alliance-healthcare-diabetes-stroke-heart-cancer-kidney-disease-chronic-6589296",
+      "summary": "The alliance - comprising Diabetes Singapore, National Kidney Foundation, Singapore Cancer Society, Singapore Heart Foundation and Stroke Support Station - aims to strengthen public education and encourage early detection, among other things.",
+      "source": "CNA",
+      "published": "Sat, 28 Nov 2026 17:44:51 +0800"
+    },
+    {
       "title": "Why I walked over 200km across Spain in 9 days after burning out at work",
       "url": "https://www.channelnewsasia.com/travel/spain-camino-de-santiago-walk-career-burnout-6562446",
       "summary": "A panic attack and a mid-career crisis led this writer to set off on this long, arduous walk. What did he learn in the end?",
@@ -97,16 +104,37 @@
       "summary": "“Justice must make a meaningful difference to people's lives,” says Law Minister Edwin Tong, as Singapore's legal and judiciary leaders reflect on access to law and challenges ahead.",
       "source": "CNA",
       "published": "Fri, 27 Nov 2026 13:15:00 +0800"
-    },
-    {
-      "title": "Cooling-off period for prepaid packages, stronger influencer ad oversight among recommendations to better protect consumers",
-      "url": "https://www.channelnewsasia.com/singapore/consumer-protection-case-influencer-scalping-prepaid-packages-6586471",
-      "summary": "The Consumer Protection Review Panel released seven recommendations across several areas, including prepayment losses and pressure selling.",
-      "source": "CNA",
-      "published": "Fri, 27 Nov 2026 12:07:00 +0800"
     }
   ],
   "world": [
+    {
+      "title": "Saudi, Houthis trade strikes targeting capitals",
+      "url": "https://www.channelnewsasia.com/world/saudi-arabia-houthis-strikes-riyadh-6589336",
+      "summary": "",
+      "source": "CNA",
+      "published": "Sat, 28 Nov 2026 18:37:00 +0800"
+    },
+    {
+      "title": "Israeli strike kills two Doctors Without Borders staff in Gaza",
+      "url": "https://www.channelnewsasia.com/world/israel-gaza-strike-doctors-without-borders-6589316",
+      "summary": "World Health Organization chief Tedros Adhanom Ghebreyesus slammed the attack.",
+      "source": "CNA",
+      "published": "Sat, 28 Nov 2026 17:41:00 +0800"
+    },
+    {
+      "title": "US military repelled drones at UK airbase this month: Report",
+      "url": "https://www.channelnewsasia.com/world/us-military-repelled-drones-uk-airbase-6589176",
+      "summary": "",
+      "source": "CNA",
+      "published": "Sat, 28 Nov 2026 16:33:39 +0800"
+    },
+    {
+      "title": "Russia says shot down more than 1,200 Ukraine drones overnight",
+      "url": "https://www.channelnewsasia.com/world/russia-ukraine-shot-down-drones-overnight-6589261",
+      "summary": "Ukraine also reported hundreds of Russian drones fired at several regions, with one person killed and five injured.",
+      "source": "CNA",
+      "published": "Sat, 28 Nov 2026 15:41:00 +0800"
+    },
     {
       "title": "Commentary: Nvidia’s ‘great man theory’ is flawed",
       "url": "https://www.channelnewsasia.com/commentary/nvidia-reinstate-jensen-huang-ceo-great-man-theory-flawed-6587156",
@@ -183,36 +211,8 @@
       "summary": "Officials are working with Britain’s cyber security authorities to investigate and restore services.",
       "source": "CNA",
       "published": "Fri, 27 Nov 2026 17:00:00 +0800"
-    },
-    {
-      "title": "Australian mushroom murderer Erin Patterson files High Court appeal bid",
-      "url": "https://www.channelnewsasia.com/world/australia-mushroom-murder-erin-pattinson-high-court-appeal-6587091",
-      "summary": "Erin Patterson was convicted last year of killing her three elderly in-laws by feeding them beef Wellington laced with death cap mushrooms.",
-      "source": "CNA",
-      "published": "Fri, 27 Nov 2026 16:28:49 +0800"
-    },
-    {
-      "title": "Iran warns on Gulf military presence as South Korea readies expanded naval role",
-      "url": "https://www.channelnewsasia.com/world/iran-warns-gulf-military-presence-south-korea-6586851",
-      "summary": "Iran warned South Korea that an expanded foreign military presence in the Gulf could heighten tensions and widen the conflict.",
-      "source": "CNA",
-      "published": "Fri, 27 Nov 2026 14:22:00 +0800"
-    },
-    {
-      "title": "New Zealand’s ruling coalition falls just short of majority in final election count",
-      "url": "https://www.channelnewsasia.com/world/new-zealand-ruling-coalition-majority-elections-6586571",
-      "summary": "If Prime Minister Christopher Luxon cannot reach a deal to form a ruling coalition, New Zealand will have to hold fresh elections.",
-      "source": "CNA",
-      "published": "Fri, 27 Nov 2026 11:08:55 +0800"
-    },
-    {
-      "title": "Zelenskyy says Russia preparing new mass strike in coming days",
-      "url": "https://www.channelnewsasia.com/world/russia-ukraine-zelenskyy-mass-strike-warning-6585961",
-      "summary": "The warning was the second issued by the Ukraine president this week.",
-      "source": "CNA",
-      "published": "Fri, 27 Nov 2026 11:06:45 +0800"
     }
   ],
-  "generated_at": "2026-11-28T12:59:37+08:00",
+  "generated_at": "2026-11-28T21:34:46+08:00",
   "test_mode": false
 }
