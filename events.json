@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T10:59:39+08:00",
+  "updated_at": "2026-11-28T10:40:41+08:00",
   "events": [
     {
       "title": "2026 Architectural Heritage Awards and Architectural Heritage Season: Exhibition",
@@ -53,7 +53,7 @@
       "category": "Event",
       "overview": "Three decades. Two Singaporeans. One dream. Based on true stories from prolific stand-up comedian Rishi Budhrani and award-winning host K.P. Sandhu, this heartwarming, interactive dramedy follows two Singaporeans chasing an elusive dream: becoming superstars in Bollywood.",
       "period": "26 – 28 Nov 2026",
-      "time": "8:00 PM",
+      "time": "4:00 PM, 8:00 PM",
       "venue": "Esplanade Recital Studio",
       "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/bedok-to-bollywood",
       "source_key": "esplanade",
@@ -353,6 +353,31 @@
       "date_added": null
     },
     {
+      "title": "Dāstān: Kathak through the Ages",
+      "category": "Event",
+      "overview": "Dāstān: Kathak Through the Ages traces the evolving journey of kathak —from its roots in sacred storytelling and devotional traditions, through the refinement and elegance of the royal courts, to its expression on today’s stage.",
+      "period": "28 Nov 2026",
+      "time": "12:00 PM, 1:00 PM",
+      "venue": "Esplanade Concourse",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/dastan-kathak-through-the-ages",
+      "source_key": "esplanade",
+      "source": "Esplanade",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "5mins",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "free",
+        "ongoing"
+      ],
+      "date_added": "2026-11-23"
+    },
+    {
       "title": "Energize 2026",
       "category": "Event / Exhibition",
       "overview": "Mar 01, 2025 - Dec 30, 2026 Singapore Chinese Cultural Centre Concourse, Level 1 Energize 2026 “Energize” is back! Every Monday to Wednesday, 7pm to 8pm, let’s workout together at the… Fitness/Exercise Free",
@@ -491,6 +516,30 @@
       "date_added": null
     },
     {
+      "title": "III Marine Expeditionary Force Band Music Performance",
+      "period": "28 Nov 2026",
+      "link": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/marine-expeditionary-force-band-music-performance.html",
+      "overview": "Get ready for an upbeat jazz showcase packed with popular favourites and festive Christmas tunes, featuring III Marine Expeditionary Force Band at Gardens by the Bay!",
+      "time": "28 Nov 2026: 3.00pm - 4.00pm 30 Nov 2026: 1.00pm - 2.00pm",
+      "venue": "Outside Flower Dome entrance",
+      "category": "Event / Exhibition",
+      "source_key": "gardens",
+      "source": "Gardens by the Bay",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "date_added": "2026-11-27"
+    },
+    {
       "title": "In the Ether—The Rise of Sanctuary Technologies",
       "category": "Event / Exhibition",
       "overview": "03 OCT ’26 - 06 DEC ’26 In the Ether—The Rise of Sanctuary Technologies In the Ether is ArtScience Museum's festival that explores how art, science and technology shape society, inviting audiences to imagine trusted, caring and collective futures through artworks, research, prototypes and public programmes.",
@@ -536,30 +585,6 @@
         "ongoing"
       ],
       "date_added": "2026-11-26"
-    },
-    {
-      "title": "Job Kurian Live",
-      "category": "Event",
-      "overview": "One of the most distinctive voices in the independent music scene in Kerala, Job Kurian has carved out a unique space with his soulful vocals, poetic songwriting, and rooted sound. Blending the warmth of Malayalam folk traditions with rock, indie, and world music influences, his concerts are immersive musical journeys that resonate across generations.",
-      "period": "27 Nov 2026",
-      "time": "7:30 pm",
-      "venue": "Singtel Waterfront Theatre at Esplanade",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/job-kurian-live",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "From $52.80",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "tags": [
-        "ending",
-        "ongoing"
-      ],
-      "date_added": "2026-11-23"
     },
     {
       "title": "Lai Foong Moi: Crossings",
@@ -635,31 +660,6 @@
       "date_added": "2026-11-09"
     },
     {
-      "title": "Mazhai: Live & Acoustic",
-      "category": "Event",
-      "overview": "Mazhai: Live & Acoustic strips everything back to the essentials: just voice, guitar and cajon. Joined by Jasper on guitar and Jeremiah on cajon, Mazhai brings his heartfelt Tamil songs to the stage, including his debut single, Hey Penne , set for release later this year. The set features soulful reworkings of his original music alongside beloved Tamil favourites, reimagined for a warm, intimate setting where every lyric takes centre stage.",
-      "period": "27 Nov 2026",
-      "time": "7:15 pm, 8:15 pm",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/mazhai-live-and-acoustic",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Ending Soon",
-      "statusClass": "ending",
-      "tags": [
-        "ending",
-        "free",
-        "ongoing"
-      ],
-      "date_added": "2026-11-23"
-    },
-    {
       "title": "Melodies Across Generations",
       "category": "Event",
       "overview": "“Songbird of Nanyang” Yudi Yap brings you on a nostalgic musical journey to celebrate iconic composer Yao Min’s timeless songs.",
@@ -727,6 +727,31 @@
         "ongoing"
       ],
       "date_added": "2026-11-07"
+    },
+    {
+      "title": "PARVAAZ LIVE",
+      "category": "Event",
+      "overview": "Familiar yet elusive, intimate yet boundless, the sounds of contemporary Indian rock band Parvaaz is an otherworldly constellation of folk, blues, rock and psychedelia. Known for their evocative Kashmiri and Urdu lyrics paired with the imagery of Sufi and mystic poetry, the band is admired for both their musicianship and the literary depth of their songwriting.",
+      "period": "28 Nov 2026",
+      "time": "8:15 pm, 7:00 PM",
+      "venue": "DBS Foundation Outdoor Theatre at Esplanade",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/parvaaz-live",
+      "source_key": "esplanade",
+      "source": "Esplanade",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "5mins",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "free",
+        "ongoing"
+      ],
+      "date_added": "2026-11-24"
     },
     {
       "title": "PGL CS 2 Major Singapore 2026",
@@ -845,29 +870,28 @@
       "date_added": "2026-11-18"
     },
     {
-      "title": "Shaam-e-Sukhan",
+      "title": "Sachin-Jigar Live",
       "category": "Event",
-      "overview": "Ghazals have long been the language of longing, reflection, and quiet emotion—where poetry meets melody in its most intimate form.",
-      "period": "27 Nov 2026",
-      "time": "7:00 PM, 8:00 PM, 9:00 PM",
-      "venue": "DBS Foundation Outdoor Theatre at Esplanade",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/shaam-e-sukhan",
+      "overview": "Get ready for an electrifying musical celebration as Sachin-Jigar, one of Bollywood’s most celebrated composer duos, take the stage for an unforgettable live concert of their greatest hits.",
+      "period": "28 Nov 2026",
+      "time": "8:00 PM",
+      "venue": "Esplanade Theatre",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/sachin-jigar-live",
       "source_key": "esplanade",
       "source": "Esplanade",
       "why": "See the official organiser page for the latest visitor information.",
       "mrt": "Check directions",
       "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
+      "adult": "From $58.10",
+      "senior": "Check official information",
+      "child": "Check official information",
       "status": "Ending Soon",
       "statusClass": "ending",
       "tags": [
         "ending",
-        "free",
         "ongoing"
       ],
-      "date_added": "2026-11-23"
+      "date_added": "2026-11-26"
     },
     {
       "title": "Singapore Alcove",
@@ -1158,6 +1182,30 @@
       "date_added": null
     },
     {
+      "title": "The Drama Continues: 20…",
+      "category": "Event / Exhibition",
+      "overview": "Nov 28, 2026 - Nov 28, 2026 Singapore Chinese Cultural Centre Recital Studio, Level 6 The Drama Continues: 20… A new chapter for local Chinese drama began in 1982 with the establishment of the… Lectures/Talks/Conference Free",
+      "period": "Nov 28, 2026 - Nov 28, 2026",
+      "time": "Check official information",
+      "venue": "Singapore Chinese Cultural Centre",
+      "link": "https://singaporeccc.org.sg/events/the-drama-continues-20-years-of-singapore-chinese-drama-in-20-keywords-1982-2001/",
+      "source_key": "sccc",
+      "source": "Singapore Chinese Cultural Centre",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "Flexible",
+      "adult": "Check official information",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "ongoing"
+      ],
+      "date_added": "2026-11-06"
+    },
+    {
       "title": "The Misanthrope (Screening)",
       "category": "Event",
       "overview": "★★★★ ‘Sandra Oh shines in a witty update of Molière’s Misanthrope. ’ – Sunday Times",
@@ -1250,11 +1298,59 @@
       "date_added": "2026-11-26"
     },
     {
+      "title": "Varnam: The Colours of Tradition",
+      "category": "Event",
+      "overview": "The v arnam which literally translates to colours is the main item and most demanding piece of a traditional bharathanatyam performance. It blends Nritta (pure dance and footwork), Nritya (expressive gestures), and Natya (storytelling).",
+      "period": "28 Nov 2026",
+      "time": "7:15 pm, 8:15 pm",
+      "venue": "Esplanade Concourse",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/varnam-the-colours-of-tradition",
+      "source_key": "esplanade",
+      "source": "Esplanade",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "5mins",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
+      "status": "Ending Soon",
+      "statusClass": "ending",
+      "tags": [
+        "ending",
+        "free",
+        "ongoing"
+      ],
+      "date_added": "2026-11-25"
+    },
+    {
+      "title": "Yuja Wang Piano Recital",
+      "category": "Event",
+      "overview": "“...the undisputed reigning rock star of classical music”. — Chicago Classical Review",
+      "period": "16 & 17 Jan 2027",
+      "time": "7:30 pm",
+      "venue": "Esplanade Concert Hall",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/classics/2027/yuja-wang-piano-recital",
+      "source_key": "esplanade",
+      "source": "Esplanade",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "5mins",
+      "adult": "From $58",
+      "senior": "Check official information",
+      "child": "Check official information",
+      "status": "Ongoing",
+      "statusClass": "",
+      "tags": [
+        "ongoing"
+      ],
+      "date_added": "2026-11-28"
+    },
+    {
       "title": "இன்று புதிதாய் பிறந்தோம் Today We Are Born Anew",
       "category": "Event",
       "overview": "இன்று புதிதாய் பிறந்தோம் (Today We Are Born Anew) is a bharatanatyam dance production inspired by Mahakavi Subramania Bharathiyaar's Puthiya Aathichudi (புதிய ஆத்திசூடி), a timeless collection of concise moral and philosophical maxims that serve as a guide for ethical living and social progress. Drawing from these verses, the production brings Bharathiyaar's ideas into the present, exploring their relevance to life today.",
       "period": "27 & 28 Nov 2026",
-      "time": "8:00 PM",
+      "time": "3:00 PM, 8:00 PM",
       "venue": "Esplanade Theatre",
       "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/today-we-are-born-anew",
       "source_key": "esplanade",
@@ -1396,30 +1492,6 @@
       "date_added": "2026-10-30"
     },
     {
-      "title": "All My Sons (Screening)",
-      "category": "Event",
-      "overview": "★★★★★ ‘The stars of a dream cast align.’ – Guardian",
-      "period": "4 Dec 2026",
-      "time": "7:30 pm",
-      "venue": "Singtel Waterfront Theatre at Esplanade",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/national-theatre-live/2026/all-my-sons-screening",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "From $24",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "ongoing",
-        "upcoming"
-      ],
-      "date_added": "2026-11-14"
-    },
-    {
       "title": "ASEAN Puppetry Association 20th…",
       "category": "Event / Exhibition",
       "overview": "Dec 12, 2026 - Dec 12, 2026 Singapore Chinese Cultural Centre Recital Studio, Level 6 ASEAN Puppetry Association 20th… Presented by Singapore Chinese Cultural Centre and ASEAN Puppetry Association, the ASEAN Puppetry Association 20th… Lectures/Talks/Conference Free",
@@ -1488,31 +1560,6 @@
         "upcoming"
       ],
       "date_added": "2026-11-26"
-    },
-    {
-      "title": "Dāstān: Kathak through the Ages",
-      "category": "Event",
-      "overview": "Dāstān: Kathak Through the Ages traces the evolving journey of kathak —from its roots in sacred storytelling and devotional traditions, through the refinement and elegance of the royal courts, to its expression on today’s stage.",
-      "period": "28 Nov 2026",
-      "time": "12:00 PM, 1:00 PM",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/dastan-kathak-through-the-ages",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "free",
-        "ongoing",
-        "upcoming"
-      ],
-      "date_added": "2026-11-23"
     },
     {
       "title": "Five Years of Dance…",
@@ -1585,11 +1632,36 @@
       "date_added": "2026-11-05"
     },
     {
-      "title": "Get Crafty! - Snowflake Mosaic Coaster by Happy Hands Can",
-      "period": "28 Nov - 29 Nov 2026",
-      "link": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/get-crafty-snowflake-mosaic-coaster-by-happy-hands-can.html",
-      "overview": "Learn simple mosaic techniques and play with patterns to craft your own festive snowflake coaster.",
-      "time": "10.00am - 5.00pm",
+      "title": "From Billboard to Bollywood",
+      "category": "Event",
+      "overview": "From the Bollywood silver screen to the English hits we all know and love, this set brings together familiar songs from across languages, generations and genres. Bollywood favourites meet Billboard toppers as Hindi melodies and English chart-toppers come together in unexpected pairings. The music you grew up on and the music you found along the way, all in one set.",
+      "period": "29 Nov 2026",
+      "time": "7:15 pm, 8:15 pm",
+      "venue": "Esplanade Concourse",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/from-billboard-to-bollywood",
+      "source_key": "esplanade",
+      "source": "Esplanade",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "5mins",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "free",
+        "ongoing",
+        "upcoming"
+      ],
+      "date_added": "2026-11-28"
+    },
+    {
+      "title": "Garden Classroom",
+      "period": "5 Dec 2026",
+      "link": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/garden-classroom.html",
+      "overview": "Join us for December’s Garden Classroom! Explore Christmas plants through your senses in the Learning Zone, craft a festive scrapbook card for someone special in the Creation Zone and put your eco-knowledge to the test in the Discovery Zone.",
+      "time": "2.00pm – 5.00pm",
       "venue": "Australian Garden, Flower Dome",
       "category": "Event / Exhibition",
       "source_key": "gardens",
@@ -1605,7 +1677,7 @@
       "tags": [
         "upcoming"
       ],
-      "date_added": "2026-11-02"
+      "date_added": "2026-11-28"
     },
     {
       "title": "Get Crafty! – Christmas Typewriter Jamming by Graceful Quills",
@@ -1660,29 +1732,6 @@
       "overview": "Discover the art of metal embossing as you shape poinsettia and holly designs on aluminium using stencils. Bring petals, leaves and berries to life with texture, then frame your artwork to display at home or gift to someone special.",
       "time": "10.00am - 6.00pm",
       "venue": "Australian Garden, Flower Dome",
-      "category": "Event / Exhibition",
-      "source_key": "gardens",
-      "source": "Gardens by the Bay",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
-      "senior": "Check official information",
-      "child": "Check official information",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "upcoming"
-      ],
-      "date_added": "2026-11-27"
-    },
-    {
-      "title": "III Marine Expeditionary Force Band Music Performance",
-      "period": "28 Nov 2026",
-      "link": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/marine-expeditionary-force-band-music-performance.html",
-      "overview": "Get ready for an upbeat jazz showcase packed with popular favourites and festive Christmas tunes, featuring III Marine Expeditionary Force Band at Gardens by the Bay!",
-      "time": "28 Nov 2026: 3.00pm - 4.00pm 30 Nov 2026: 1.00pm - 2.00pm",
-      "venue": "Outside Flower Dome entrance",
       "category": "Event / Exhibition",
       "source_key": "gardens",
       "source": "Gardens by the Bay",
@@ -1842,31 +1891,6 @@
       "date_added": "2026-11-26"
     },
     {
-      "title": "PARVAAZ LIVE",
-      "category": "Event",
-      "overview": "Familiar yet elusive, intimate yet boundless, the sounds of contemporary Indian rock band Parvaaz is an otherworldly constellation of folk, blues, rock and psychedelia. Known for their evocative Kashmiri and Urdu lyrics paired with the imagery of Sufi and mystic poetry, the band is admired for both their musicianship and the literary depth of their songwriting.",
-      "period": "28 Nov 2026",
-      "time": "8:15 pm, 7:00 PM",
-      "venue": "DBS Foundation Outdoor Theatre at Esplanade",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/parvaaz-live",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "free",
-        "ongoing",
-        "upcoming"
-      ],
-      "date_added": "2026-11-24"
-    },
-    {
       "title": "Pop-up: Make Your Own Shaker Keychain",
       "category": "Event",
       "overview": "Every voice has a stage, whether it's in a living-room sing-along to a choir on stage. Get crafty and capture these moments through bright, playful mini charms that celebrate all that Voices – A Festival of Song is about.",
@@ -1916,28 +1940,29 @@
       "date_added": "2026-11-26"
     },
     {
-      "title": "Sachin-Jigar Live",
+      "title": "REELS to REAL(R2R): Pan Indian Vibes",
       "category": "Event",
-      "overview": "Get ready for an electrifying musical celebration as Sachin-Jigar, one of Bollywood’s most celebrated composer duos, take the stage for an unforgettable live concert of their greatest hits.",
-      "period": "28 Nov 2026",
-      "time": "8:00 PM",
-      "venue": "Esplanade Theatre",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/sachin-jigar-live",
+      "overview": "Step into the screen and experience the pulse of Indian music with REELS to REAL(R2R): Pan Indian Vibes , presented by MusicMinds as part of Kalaa Utsavam 2026.",
+      "period": "29 Nov 2026",
+      "time": "8:15 pm, 7:00 PM",
+      "venue": "DBS Foundation Outdoor Theatre at Esplanade",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/reels-to-realr2r-pan-indian-vibes",
       "source_key": "esplanade",
       "source": "Esplanade",
       "why": "See the official organiser page for the latest visitor information.",
       "mrt": "Check directions",
       "duration": "5mins",
-      "adult": "From $58.10",
-      "senior": "Check official information",
-      "child": "Check official information",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
       "status": "Upcoming",
       "statusClass": "upcoming",
       "tags": [
+        "free",
         "ongoing",
         "upcoming"
       ],
-      "date_added": "2026-11-26"
+      "date_added": "2026-11-28"
     },
     {
       "title": "She Says, She Says",
@@ -2036,27 +2061,28 @@
       "date_added": "2026-11-26"
     },
     {
-      "title": "The Drama Continues: 20…",
-      "category": "Event / Exhibition",
-      "overview": "Nov 28, 2026 - Nov 28, 2026 Singapore Chinese Cultural Centre Recital Studio, Level 6 The Drama Continues: 20… A new chapter for local Chinese drama began in 1982 with the establishment of the… Lectures/Talks/Conference Free",
-      "period": "Nov 28, 2026 - Nov 28, 2026",
-      "time": "Check official information",
-      "venue": "Singapore Chinese Cultural Centre",
-      "link": "https://singaporeccc.org.sg/events/the-drama-continues-20-years-of-singapore-chinese-drama-in-20-keywords-1982-2001/",
-      "source_key": "sccc",
-      "source": "Singapore Chinese Cultural Centre",
+      "title": "The Final Act of the Decade",
+      "category": "Event",
+      "overview": "Celebrate a decade of original music and storytelling with Brahmastra Ensemble in an intimate 90-minute retrospective where music, storytelling, and shared moments come together.",
+      "period": "29 Nov 2026",
+      "time": "7:30 pm",
+      "venue": "Esplanade Recital Studio",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/the-final-act-of-the-decade",
+      "source_key": "esplanade",
+      "source": "Esplanade",
       "why": "See the official organiser page for the latest visitor information.",
       "mrt": "Check directions",
-      "duration": "Flexible",
-      "adult": "Check official information",
+      "duration": "5mins",
+      "adult": "From $33.40",
       "senior": "Check official information",
       "child": "Check official information",
       "status": "Upcoming",
       "statusClass": "upcoming",
       "tags": [
+        "ongoing",
         "upcoming"
       ],
-      "date_added": "2026-11-06"
+      "date_added": "2026-11-28"
     },
     {
       "title": "THEY SAY",
@@ -2105,31 +2131,6 @@
         "upcoming"
       ],
       "date_added": "2026-11-26"
-    },
-    {
-      "title": "Varnam: The Colours of Tradition",
-      "category": "Event",
-      "overview": "The v arnam which literally translates to colours is the main item and most demanding piece of a traditional bharathanatyam performance. It blends Nritta (pure dance and footwork), Nritya (expressive gestures), and Natya (storytelling).",
-      "period": "28 Nov 2026",
-      "time": "7:15 pm, 8:15 pm",
-      "venue": "Esplanade Concourse",
-      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/varnam-the-colours-of-tradition",
-      "source_key": "esplanade",
-      "source": "Esplanade",
-      "why": "See the official organiser page for the latest visitor information.",
-      "mrt": "Check directions",
-      "duration": "5mins",
-      "adult": "Free",
-      "senior": "Free",
-      "child": "Free",
-      "status": "Upcoming",
-      "statusClass": "upcoming",
-      "tags": [
-        "free",
-        "ongoing",
-        "upcoming"
-      ],
-      "date_added": "2026-11-25"
     },
     {
       "title": "Voices Lounge: Musical Theatre Night Out! with A Spoonful of Theatre",
@@ -2206,6 +2207,31 @@
       "date_added": "2026-11-26"
     },
     {
+      "title": "Yatra – From Sanctum to Screen",
+      "category": "Event",
+      "overview": "From South Indian temple traditions to today’s digital screens, bharatanatyam has journeyed through centuries, carrying devotion, identity and transformation. Once performed as an offering to the Divine by Devadasis, dance expressed worship through rhythm, gesture and movement. As social and cultural landscapes changed, the temple tradition evolved from Sadir into modern bharatanatyam , moving from sacred and royal spaces to the gurukulam and stages.",
+      "period": "29 Nov 2026",
+      "time": "12:00 PM, 1:00 PM",
+      "venue": "Esplanade Concourse",
+      "link": "https://www.esplanade.com/whats-on/festivals-and-series/kalaa-utsavam-indian-festival-of-arts/2026/yatra-from-sanctum-to-screen",
+      "source_key": "esplanade",
+      "source": "Esplanade",
+      "why": "See the official organiser page for the latest visitor information.",
+      "mrt": "Check directions",
+      "duration": "5mins",
+      "adult": "Free",
+      "senior": "Free",
+      "child": "Free",
+      "status": "Upcoming",
+      "statusClass": "upcoming",
+      "tags": [
+        "free",
+        "ongoing",
+        "upcoming"
+      ],
+      "date_added": "2026-11-28"
+    },
+    {
       "title": "Yesterday’s Legends to Tomorrow’s Stars",
       "category": "Event",
       "overview": "Celebrating the legacy of musical theatre and the artists who continue to shape its future, Yesterday’s Legends to Tomorrow’s Stars pays tribute to the generations of composers, lyricists, performers and storytellers who have paved the way for today’s emerging talent. From the groundbreaking genius of Stephen Sondheim to the unmistakable songwriting and performance excellence of Dolly Parton, this showcase honors the diverse voices, timeless stories, and musical innovations and styles that have influenced generations.",
@@ -2232,10 +2258,47 @@
     }
   ],
   "source_report": {
-    "artscience": {
+    "sccc": {
+      "status": "fresh",
+      "count": 20
+    },
+    "gardens": {
+      "status": "fresh",
+      "count": 12
+    },
+    "esplanade": {
+      "status": "fresh",
+      "count": 36,
+      "detail_errors": 0
+    },
+    "national_museum": {
+      "status": "fresh",
+      "count": 2
+    },
+    "national_gallery": {
       "status": "fallback",
       "count": 0,
-      "error": "https://www.marinabaysands.com/museum.html: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.marinabaysands.com/museum.html\", waiting until \"commit\"\n; "
+      "error": "https://www.nationalgallery.sg/sg/en/whats-on.html: zero usable events; preserving previous source records"
+    },
+    "ura": {
+      "status": "fresh",
+      "count": 1
+    },
+    "nlb": {
+      "status": "fresh",
+      "count": 6
+    },
+    "visit_singapore": {
+      "status": "fresh",
+      "count": 12
+    },
+    "catch_sg": {
+      "status": "fresh",
+      "count": 0
+    },
+    "science_centre": {
+      "status": "fresh",
+      "count": 1
     }
   },
   "sources": [
@@ -2245,7 +2308,7 @@
       "url": "https://singaporeccc.org.sg/events/",
       "status": "ok",
       "count": 20,
-      "last_success": "2026-11-27T10:50:05+08:00",
+      "last_success": "2026-11-28T10:39:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2255,7 +2318,7 @@
       "url": "https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events.html",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-27T10:50:05+08:00",
+      "last_success": "2026-11-28T10:39:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2264,8 +2327,8 @@
       "name": "Esplanade",
       "url": "https://www.esplanade.com/whats-on",
       "status": "ok",
-      "count": 35,
-      "last_success": "2026-11-27T10:50:05+08:00",
+      "count": 36,
+      "last_success": "2026-11-28T10:39:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2275,7 +2338,7 @@
       "url": "https://www.nationalmuseum.nhb.gov.sg/whats-on/exhibition/exhibitions",
       "status": "ok",
       "count": 2,
-      "last_success": "2026-11-27T10:50:05+08:00",
+      "last_success": "2026-11-28T10:39:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2305,7 +2368,7 @@
       "url": "https://www.ura.gov.sg/get-involved/events-and-exhibitions/",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-27T10:50:05+08:00",
+      "last_success": "2026-11-28T10:39:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2315,7 +2378,7 @@
       "url": "https://exhibitions.nlb.gov.sg/current-exhibitions/",
       "status": "ok",
       "count": 6,
-      "last_success": "2026-11-27T10:50:05+08:00",
+      "last_success": "2026-11-28T10:39:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2325,7 +2388,7 @@
       "url": "https://www.visitsingapore.com/things-to-do/top-things-to-do/",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-27T10:50:05+08:00",
+      "last_success": "2026-11-28T10:39:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2335,7 +2398,7 @@
       "url": "https://www.catch.sg/Event",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-27T10:50:05+08:00",
+      "last_success": "2026-11-28T10:39:54+08:00",
       "error": "",
       "needs_reader_review": false
     },
@@ -2345,7 +2408,7 @@
       "url": "https://www.science.edu.sg/whats-on",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-27T10:50:05+08:00",
+      "last_success": "2026-11-28T10:39:54+08:00",
       "error": "",
       "needs_reader_review": false
     }
