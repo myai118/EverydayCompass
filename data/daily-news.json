@@ -1,6 +1,27 @@
 {
   "singapore": [
     {
+      "title": "Why I walked over 200km across Spain in 9 days after burning out at work",
+      "url": "https://www.channelnewsasia.com/travel/spain-camino-de-santiago-walk-career-burnout-6562446",
+      "summary": "A panic attack and a mid-career crisis led this writer to set off on this long, arduous walk. What did he learn in the end?",
+      "source": "CNA",
+      "published": "Sat, 28 Nov 2026 08:14:40 +0800"
+    },
+    {
+      "title": "'Lacks basic respect': For jobseekers, being ghosted by recruiters and employers can add to emotional toll",
+      "url": "https://www.channelnewsasia.com/singapore/jobseekers-search-employment-ghosting-delayed-replies-6587516",
+      "summary": "In Singapore, 64 per cent of workers cite long delays as their biggest frustration in the hiring process, according to a 2026 report by job site Indeed.",
+      "source": "CNA",
+      "published": "Sat, 28 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "He knew what it was like to go hungry. Today, Willing Hearts founder Tony Tay feeds thousands",
+      "url": "https://www.channelnewsasia.com/people/tony-tay-willing-hearts-founder-6584141",
+      "summary": "A childhood marked by hardship, little formal schooling and the kindness of strangers shaped the man behind one of Singapore’s most remarkable community kitchens.",
+      "source": "CNA",
+      "published": "Sat, 28 Nov 2026 05:55:28 +0800"
+    },
+    {
       "title": "Private tutor pleads guilty to committing various sexual offences on 16 girls, including his niece",
       "url": "https://www.channelnewsasia.com/singapore/private-tutor-guilty-sexual-offence-niece-young-female-victims-6587631",
       "summary": "A former school teacher and father of two, the man was arrested on Sep 24, 2025, after a victim's parent filed a police report.",
@@ -12,7 +33,7 @@
       "url": "https://www.channelnewsasia.com/singapore/vivian-balakrishnan-singapore-asean-success-6587056",
       "summary": "ASEAN must deepen economic integration and remain open to all major powers amid geopolitical uncertainties, says the Foreign Affairs Minister as Singapore takes over as chair of the bloc in 2027.",
       "source": "CNA",
-      "published": "Fri, 27 Nov 2026 21:10:35 +0800"
+      "published": "Fri, 27 Nov 2026 21:10:00 +0800"
     },
     {
       "title": "Tanjong Pagar Road to undergo works to remove roadside parking lots, add new cycling paths",
@@ -83,30 +104,51 @@
       "summary": "The Consumer Protection Review Panel released seven recommendations across several areas, including prepayment losses and pressure selling.",
       "source": "CNA",
       "published": "Fri, 27 Nov 2026 12:07:00 +0800"
-    },
-    {
-      "title": "Radio DJ Edward Russell leaving Class 95 after 5 years: 'The timing just felt right for now'",
-      "url": "https://www.channelnewsasia.com/entertainment/edward-russell-bidding-farewell-class-95-6586271",
-      "summary": "The Cartunes DJ has no major plans lined up, apart from a few hosting gigs and spending Christmas with his family in London.",
-      "source": "CNA",
-      "published": "Fri, 27 Nov 2026 11:43:00 +0800"
-    },
-    {
-      "title": "Slower real income growth, higher non-PMET unemployment in 2026: MOM advance figures",
-      "url": "https://www.channelnewsasia.com/singapore/real-income-growth-slow-non-pmet-unemployment-labour-report-mom-6585161",
-      "summary": "Median monthly incomes of full-time employed residents rose from S$5,775 last year to S$6,021 this year.",
-      "source": "CNA",
-      "published": "Fri, 27 Nov 2026 11:00:00 +0800"
-    },
-    {
-      "title": "StarHub was ‘only realistic merger partner’ for M1: Keppel CEO",
-      "url": "https://www.channelnewsasia.com/singapore/starhub-m1-merger-partner-realistic-keppel-6586356",
-      "summary": "The proposed merger between StarHub and M1 makes sense for both sides and would allow the combined entity to conserve cash for integration and growth, says M1 parent Keppel's chief executive Loh Chin Hua.",
-      "source": "CNA",
-      "published": "Fri, 27 Nov 2026 09:59:00 +0800"
     }
   ],
   "world": [
+    {
+      "title": "Commentary: Nvidia’s ‘great man theory’ is flawed",
+      "url": "https://www.channelnewsasia.com/commentary/nvidia-reinstate-jensen-huang-ceo-great-man-theory-flawed-6587156",
+      "summary": "Some Big Tech companies have made a striking success of switching from founder mode to manager mode, says John Thornhill from the Financial Times.",
+      "source": "CNA",
+      "published": "Sat, 28 Nov 2026 06:00:00 +0800"
+    },
+    {
+      "title": "British police link substance release at Don Toliver's recent Manchester concert to robbery attempts",
+      "url": "https://www.channelnewsasia.com/world/don-toliver-concert-substance-police-manchester-robbery-6588591",
+      "summary": "Eighty-nine people suffered eye and breathing irritation, with one hospitalised, as police seek more than 100 concertgoers to help with the investigation.",
+      "source": "CNA",
+      "published": "Sat, 28 Nov 2026 05:42:53 +0800"
+    },
+    {
+      "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
+      "url": "https://www.channelnewsasia.com/world/us-disable-ship-iran-blockade-hormuz-6588546",
+      "summary": "The US said the ship’s crew was unharmed, while Iran insisted its ports remained active and vowed to resist the blockade.",
+      "source": "CNA",
+      "published": "Sat, 28 Nov 2026 04:55:17 +0800"
+    },
+    {
+      "title": "Parts of the US clean up, power outages being restored after Thanksgiving storm soaks East Coast",
+      "url": "https://www.channelnewsasia.com/world/thanksgiving-us-east-coast-weather-power-outage-6588506",
+      "summary": "About 480,000 homes and businesses remained without power on Friday (Nov 27), down from 900,000 on Thursday.",
+      "source": "CNA",
+      "published": "Sat, 28 Nov 2026 03:39:57 +0800"
+    },
+    {
+      "title": "Kenyan starvation cult leader guilty of manslaughter for 123 deaths in latest conviction",
+      "url": "https://www.channelnewsasia.com/world/kenya-paul-mackenzie-cult-leader-guilty-manslaughter-6588436",
+      "summary": "The conviction adds to Paul Mackenzie’s existing 200-year prison sentence for the murder of nearly 200 children.",
+      "source": "CNA",
+      "published": "Sat, 28 Nov 2026 02:21:47 +0800"
+    },
+    {
+      "title": "Zelenskyy urges the US to pressure Putin, calling Trump’s 'my friend' remark strange",
+      "url": "https://www.channelnewsasia.com/world/zelenskyy-trump-russia-ukraine-putin-us-friend-6588296",
+      "summary": "The Ukrainian president’s comments come amid tensions over delayed Patriot missile deliveries, Starlink disruptions and EU leaders’ failure to agree on a US$49 billion loan to Ukraine.",
+      "source": "CNA",
+      "published": "Sat, 28 Nov 2026 01:28:50 +0800"
+    },
     {
       "title": "Airline Norse Atlantic’s Norwegian operating unit declares bankruptcy",
       "url": "https://www.channelnewsasia.com/world/norway-norse-atlantic-airline-declares-bankruptcy-6587936",
@@ -115,25 +157,11 @@
       "published": "Fri, 27 Nov 2026 22:04:36 +0800"
     },
     {
-      "title": "Trump backs Iraqi leader's efforts to assert more state authority",
-      "url": "https://www.channelnewsasia.com/world/trump-backs-iraqi-leader-ali-al-zaidi-state-authority-6587671",
-      "summary": "\"We support Iraqi Prime Minister Ali al-Zaidi’s efforts to assert state authority throughout Iraq, stop the smuggling of Iraqi oil, end corruption, and bring all weapons under the exclusive control of the state,\" Trump said in a Truth Social post on Friday (Nov 27).",
-      "source": "CNA",
-      "published": "Fri, 27 Nov 2026 20:07:39 +0800"
-    },
-    {
       "title": "Hackers breach US Air Force flagship Cloud One computing platform",
       "url": "https://www.channelnewsasia.com/world/hackers-breach-us-air-force-cloud-one-computing-platform-6587501",
       "summary": "Cloud One is among the US military's biggest cloud platforms.",
       "source": "CNA",
       "published": "Fri, 27 Nov 2026 19:03:00 +0800"
-    },
-    {
-      "title": "Italy weighs biggest hunting expansion in years, alarming wildlife groups",
-      "url": "https://www.channelnewsasia.com/world/italy-hunting-animals-reform-bill-activists-6587476",
-      "summary": "The reforms that would recast hunters as wildlife managers, alarming environmentalists who warn that it could lead to widespread culling.",
-      "source": "CNA",
-      "published": "Fri, 27 Nov 2026 18:53:53 +0800"
     },
     {
       "title": "Dutch authorities seize critically endangered turtles at Schiphol airport",
@@ -183,36 +211,8 @@
       "summary": "The warning was the second issued by the Ukraine president this week.",
       "source": "CNA",
       "published": "Fri, 27 Nov 2026 11:06:45 +0800"
-    },
-    {
-      "title": "Trump insists Nvidia CEO not a security threat",
-      "url": "https://www.channelnewsasia.com/world/donald-trump-jensen-huang-nvidia-security-threat-6586401",
-      "summary": "US President Donald Trump said his belief was based on \"information I have, which is a lot of information\".",
-      "source": "CNA",
-      "published": "Fri, 27 Nov 2026 09:57:58 +0800"
-    },
-    {
-      "title": "French actor Gerard Depardieu to face trial for rape, court rules",
-      "url": "https://www.channelnewsasia.com/world/french-actor-gerard-depardieu-face-trial-rape-court-rules-6585996",
-      "summary": "Gerard Depardieu has denied the allegations and could be jailed for up to 20 years if found guilty.",
-      "source": "CNA",
-      "published": "Fri, 27 Nov 2026 05:35:49 +0800"
-    },
-    {
-      "title": "Thanksgiving storm knocks out power, disrupts flights on US East Coast",
-      "url": "https://www.channelnewsasia.com/world/thanksgiving-weather-storms-us-power-flights-6585971",
-      "summary": "Strong winds of up to 70 mph caused over 400 flight cancellations and power outages affecting hundreds of thousands across the US East Coast.",
-      "source": "CNA",
-      "published": "Fri, 27 Nov 2026 04:59:52 +0800"
-    },
-    {
-      "title": "Crew member dies after diesel tanker capsizes off Ibiza, no pollution so far",
-      "url": "https://www.channelnewsasia.com/world/crew-member-dies-after-diesel-tanker-capsizes-ibiza-no-pollution-so-far-6585926",
-      "summary": "The tanker carried up to 7,000 tonnes of diesel, but authorities reported no major spill and activated Spain’s Level 2 maritime pollution response plan.",
-      "source": "CNA",
-      "published": "Fri, 27 Nov 2026 04:27:46 +0800"
     }
   ],
-  "generated_at": "2026-11-27T22:18:49+08:00",
+  "generated_at": "2026-11-28T09:30:19+08:00",
   "test_mode": false
 }
